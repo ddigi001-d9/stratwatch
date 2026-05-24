@@ -1,6 +1,6 @@
 // STRATWATCH Intelligence Runner
-// Runs in GitHub Actions — API key from env, never touches the frontend
-// Writes all output to ../docs/intelligence.json
+// Full-spectrum geopolitical intelligence from a US strategic perspective
+// Runs in GitHub Actions — writes docs/intelligence.json
 
 const fetch = require("node-fetch");
 const fs = require("fs");
@@ -8,63 +8,53 @@ const path = require("path");
 
 const API_KEY = process.env.ANTHROPIC_API_KEY;
 if (!API_KEY) {
-  console.error("ERROR: ANTHROPIC_API_KEY environment variable not set");
+  console.error("ERROR: ANTHROPIC_API_KEY not set");
   process.exit(1);
 }
 
-// ── GROUND TRUTH & PRIORS ────────────────────────────────────────────────────
-const SEED = {
-  groundTruth: [
-    { id: "gt1", domain: "Iran", headline: "Khamenei Confirmed Dead", significance: "CRITICAL", summary: "Killed in Feb 28 US-Israeli strikes. Internet at 1%. Protests reigniting in Ilam.", signal: "Succession vacuum + protest resurgence = regime stress test begins NOW." },
-    { id: "gt2", domain: "Iran", headline: "30,000+ Dead in Jan Crackdown", significance: "CRITICAL", summary: "Monitors: 7,000–32,000 killed. Security forces raided hospitals to execute wounded.", signal: "Regime survived through mass violence. Khamenei death changes every variable." },
-    { id: "gt3", domain: "Trade/Legal", headline: "SCOTUS Kills IEEPA Tariffs", significance: "HIGH", summary: "Feb 20 ruling strips IEEPA authority. $133.5B may need refunding. China truce to Nov 10.", signal: "Tariff legal foundation shifted. Xi Summit timing now critical." },
-    { id: "gt4", domain: "Domestic Politics", headline: "Dems +16pts in Specials", significance: "HIGH", summary: "Fort Worth TX: 31-pt swing. 30 GOP retiring. Cook moved 18 seats toward Dems.", signal: "House majority in serious jeopardy. Strategy runway at risk." },
-    { id: "gt5", domain: "China", headline: "China 15th FYP: Strategic Autarky", significance: "HIGH", summary: "Cut tariffs on 935 high-tech inputs. Record $1.2T surplus. Rare earth controls to Nov 10.", signal: "China building resilience, not capitulating." },
-    { id: "gt6", domain: "Geopolitics", headline: "NSS: US Seeks EU Fragmentation", significance: "HIGH", summary: "First NSS openly targeting EU political trajectory. Europe accelerating independent defense.", signal: "Declared adversarial intent toward ally. NATO fracture is structural." },
-  ],
-  watchSignals: [
-    "Who fills Khamenei succession — IRGC hardliner or reformist?",
-    "Does IRGC splinter or close ranks after decapitation?",
-    "China's response to Iran strikes — how strong?",
-    "Republican retirement gap — does 30-21 widen?",
-    "Oil markets reacting to Iranian chaos?",
-    "Cuba economic collapse signals as Venezuela oil cuts?",
-    "April Xi Summit prep — concession vs hardline?",
-    "Section 122 tariff legal challenges?",
-  ]
-};
+// ── UTILITY ───────────────────────────────────────────────────────────────────
+function stripCites(obj) {
+  const str = JSON.stringify(obj);
+  const cleaned = str
+    .replace(/<cite[^>]*>(.*?)<\/cite>/gs, '$1')
+    .replace(/\[[\d,\s-]+\]/g, '');
+  return JSON.parse(cleaned);
+}
 
-const AI_PRIORS = {
-  iran_regime:       { prob: 62, rationale: "Khamenei death + IRGC succession vacuum + protest resurgence. Security forces still nominally cohesive but structural crisis beginning.", confidence: "MEDIUM" },
-  house_gop:         { prob: 28, rationale: "+16pt special election overperformance, 30 GOP retirements, 42% approval. Historical patterns confirm House flip is base case.", confidence: "HIGH" },
-  china_deal:        { prob: 35, rationale: "IEEPA ruling weakened leverage. China building autarky. November truce expiry forces confrontation, not resolution.", confidence: "MEDIUM" },
-  oil_spike:         { prob: 71, rationale: "Khamenei death + Hormuz threat premium + 1.3M bbl/day Iranian supply at risk. Supply shock scenario elevated.", confidence: "MEDIUM" },
-  ukraine_ceasefire: { prob: 41, rationale: "Trump wants exit. Ukraine exhausted. Europe pushing. Russia sees no urgency while winning slowly.", confidence: "LOW" },
-  trump_approval:    { prob: 18, rationale: "Currently 42%, declining. Iran strikes alienating isolationists. No structural path to 50%+ visible.", confidence: "HIGH" },
-};
+// ── SYSTEM PROMPT ─────────────────────────────────────────────────────────────
+const SYSTEM_PROMPT = `You are STRATWATCH — a senior US strategic intelligence analyst. You monitor global geopolitical developments and assess their implications for US interests, security, and foreign policy.
 
+Your mandate:
+- Full-spectrum global coverage: every region, every domain (military, economic, political, energy, technology, alliances)
+- US-centric lens: how does this affect American power, interests, allies, and vulnerabilities?
+- Find what most analysts are missing — non-obvious patterns, second and third order effects
+- Assign explicit probability estimates with honest confidence levels
+- Flag when consensus is wrong
+- Never speculate without evidence — search first, assess second
+
+You cover all theaters simultaneously:
+- Middle East and Gulf region
+- Indo-Pacific: China, Taiwan, Korea, Japan, Southeast Asia
+- Europe: NATO, Ukraine, Russia
+- Americas: Latin America, Western Hemisphere
+- Africa and emerging theaters
+- Transversal: energy markets, technology competition, economic warfare, alliance cohesion
+
+Search aggressively. Surface what matters. Be direct. Return clean text with no citation tags.`;
+
+// ── PREDICTION MARKETS ────────────────────────────────────────────────────────
 const POLY_MARKETS = [
-  { label: "Iran Regime Change", slug: "will-irans-government-change-in-2026", aiKey: "iran_regime", domain: "Iran" },
-  { label: "GOP Keeps House",    slug: "will-republicans-keep-the-house-in-2026", aiKey: "house_gop", domain: "Domestic Politics" },
-  { label: "US-China Trade Deal",slug: "will-us-and-china-reach-a-trade-deal-in-2026", aiKey: "china_deal", domain: "China" },
-  { label: "Oil >$100/bbl",      slug: "will-oil-price-exceed-100-per-barrel-in-2026", aiKey: "oil_spike", domain: "Energy" },
-  { label: "Ukraine Ceasefire",  slug: "will-russia-ukraine-ceasefire-be-reached-in-2026", aiKey: "ukraine_ceasefire", domain: "Geopolitics" },
-  { label: "Trump Approval >50%",slug: "will-trump-job-approval-exceed-50-percent-by-june-2026", aiKey: "trump_approval", domain: "Domestic Politics" },
+  { label: "GOP Keeps House 2026",      slug: "will-republicans-keep-the-house-in-2026",       aiKey: "house_gop",       domain: "US Politics",  aiProb: 28, confidence: "HIGH",   rationale: "Special election overperformance, retirements, low approval. House flip is base case." },
+  { label: "Ukraine Ceasefire 2026",    slug: "will-there-be-a-ceasefire-in-ukraine-in-2026",  aiKey: "ukraine_cease",   domain: "Europe",       aiProb: 45, confidence: "LOW",    rationale: "Trump wants exit, Ukraine exhausted, Europe pushing. Russia sees no urgency." },
+  { label: "China Invades Taiwan 2026", slug: "will-china-invade-taiwan-in-2026",               aiKey: "taiwan_invasion", domain: "Indo-Pacific", aiProb: 8,  confidence: "MEDIUM", rationale: "Window opening but 2027 remains primary PLA readiness target. Gray zone more likely." },
+  { label: "Oil >$120/bbl 2026",        slug: "will-brent-crude-oil-exceed-120-in-2026",        aiKey: "oil_spike",       domain: "Energy",       aiProb: 68, confidence: "MEDIUM", rationale: "Hormuz disruption plus supply shock already in progress." },
+  { label: "Iran Nuclear Deal 2026",    slug: "will-us-iran-reach-nuclear-deal-in-2026",        aiKey: "iran_deal",       domain: "Middle East",  aiProb: 12, confidence: "MEDIUM", rationale: "Kinetic operations make diplomatic track nearly impossible near term." },
+  { label: "Russia Takes Kyiv",         slug: "will-russia-capture-kyiv-by-end-of-2026",        aiKey: "russia_kyiv",     domain: "Europe",       aiProb: 4,  confidence: "HIGH",   rationale: "Russia lacks manpower and logistics for capital seizure." },
 ];
 
-const SYSTEM_PROMPT = `You are STRATWATCH — an adaptive geopolitical intelligence AI. You search for current evidence, find non-obvious cross-domain patterns, and assign explicit probability estimates. You flag uncertainty. You never speculate without evidence.
-
-GROUND TRUTH (March 1, 2026 baseline):
-${SEED.groundTruth.map(g => `${g.domain}: ${g.headline} — ${g.signal}`).join("\n")}
-
-AI PROBABILITY PRIORS:
-${Object.entries(AI_PRIORS).map(([k, v]) => `${k}: ${v.prob}% (${v.confidence} confidence) — ${v.rationale}`).join("\n")}
-
-MANDATE: Search first. Identify what most analysts are missing. Update priors based on new evidence. Return structured JSON only when requested.`;
-
-// ── CLAUDE API CALL ───────────────────────────────────────────────────────────
+// ── CLAUDE API ────────────────────────────────────────────────────────────────
 async function callClaude(messages, maxTokens = 2000) {
-  console.log(`  → Calling Claude (${maxTokens} tokens)...`);
+  console.log(`  Calling Claude (max ${maxTokens} tokens)...`);
   const res = await fetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
     headers: {
@@ -81,34 +71,30 @@ async function callClaude(messages, maxTokens = 2000) {
       tools: [{ type: "web_search_20250305", name: "web_search" }],
     }),
   });
-
-  if (!res.ok) {
-    const err = await res.text();
-    throw new Error(`Claude API ${res.status}: ${err}`);
-  }
+  if (!res.ok) throw new Error(`Claude API ${res.status}: ${await res.text()}`);
   return res.json();
 }
 
 function extractText(data) {
-  return (data?.content || [])
-    .filter(b => b.type === "text")
-    .map(b => b.text)
-    .join("\n")
-    .trim();
+  return (data?.content || []).filter(b => b.type === "text").map(b => b.text).join("\n").trim();
 }
 
 function parseJSON(text) {
-  const match = text.match(/\{[\s\S]*\}/);
+  const clean = text
+    .replace(/<cite[^>]*>(.*?)<\/cite>/gs, '$1')
+    .replace(/\[[\d,\s-]+\]/g, '')
+    .replace(/```json/g, '').replace(/```/g, '');
+  const match = clean.match(/\{[\s\S]*\}/);
   if (!match) throw new Error("No JSON found in response");
   return JSON.parse(match[0]);
 }
 
-// ── POLYMARKET FETCH ──────────────────────────────────────────────────────────
+// ── POLYMARKET ────────────────────────────────────────────────────────────────
 async function fetchPolymarket(slug) {
   try {
     const res = await fetch(
       `https://gamma-api.polymarket.com/markets?slug=${encodeURIComponent(slug)}&active=true`,
-      { headers: { Accept: "application/json" }, timeout: 8000 }
+      { headers: { Accept: "application/json" } }
     );
     if (!res.ok) return null;
     const data = await res.json();
@@ -119,147 +105,133 @@ async function fetchPolymarket(slug) {
       const prices = JSON.parse(market.outcomePrices || "[]");
       yesProb = prices[0] ? Math.round(parseFloat(prices[0]) * 100) : null;
     } catch (_) {}
-    return {
-      yesProb,
-      volume24h: market.volume24hr ? parseFloat(market.volume24hr) : null,
-      liquidity: market.liquidity ? parseFloat(market.liquidity) : null,
-      question: market.question,
-      url: `https://polymarket.com/event/${slug}`,
-    };
+    return { yesProb, volume24h: market.volume24hr ? parseFloat(market.volume24hr) : null, url: `https://polymarket.com/event/${slug}` };
   } catch (e) {
-    console.warn(`  ! Polymarket fetch failed for ${slug}: ${e.message}`);
+    console.warn(`  Polymarket failed for ${slug}: ${e.message}`);
     return null;
   }
 }
 
-// ── MAIN INTELLIGENCE GATHERING ───────────────────────────────────────────────
-async function gatherIntelligence() {
-  console.log("\n╔══════════════════════════════════════════════╗");
-  console.log("║      STRATWATCH INTELLIGENCE RUN             ║");
-  console.log(`║      ${new Date().toISOString()}        ║`);
-  console.log("╚══════════════════════════════════════════════╝\n");
+// ── MAIN ──────────────────────────────────────────────────────────────────────
+async function main() {
+  console.log("\n=== STRATWATCH INTELLIGENCE RUN ===");
+  console.log(new Date().toISOString() + "\n");
 
-  const output = {
-    generatedAt: new Date().toISOString(),
-    runNumber: null, // filled below
-    situation: null,
-    signals: [],
-    markets: [],
-    watchSignals: SEED.watchSignals,
-    groundTruth: SEED.groundTruth,
-  };
+  const outPath = path.join(__dirname, "..", "docs", "intelligence.json");
+  const output = { generatedAt: new Date().toISOString(), runNumber: 1, situation: null, signals: [], markets: [], watchSignals: [], groundTruth: [] };
 
-  // ── 1. SITUATION ASSESSMENT ──────────────────────────────────────────────────
-  console.log("Step 1/3: Generating situation assessment...");
+  try { output.runNumber = (JSON.parse(fs.readFileSync(outPath, "utf8")).runNumber || 0) + 1; } catch (_) {}
+
+  const today = new Date().toDateString();
+
+  // STEP 1 — SITUATION
+  console.log("Step 1/4: Global situation assessment...");
   try {
-    const data = await callClaude([{
-      role: "user",
-      content: `Search for the latest developments on: Iran succession crisis, US midterm political environment, China response to Iran strikes, oil market reaction, US-China summit preparations, Venezuela/Cuba. Today is ${new Date().toDateString()}.
+    const data = await callClaude([{ role: "user", content: `Search for the most significant geopolitical developments across ALL global theaters as of ${today}. Cover: Middle East, Indo-Pacific, Europe/Russia/Ukraine, Americas, Africa, energy markets, technology competition, US alliance health.
 
-Return ONLY valid JSON, no markdown:
+Return ONLY valid JSON, no markdown fences, no citation tags, no square bracket references:
 {
-  "headline": "single most important thing happening right now",
+  "headline": "single most strategically important development for US interests right now",
   "velocity": "ACCELERATING|STABLE|DECELERATING",
   "domains": [
-    {"name": "Iran", "prob": 0, "label": "regime collapse 90d", "trajectory": "UP|DOWN|FLAT", "status": "1-sentence current state"},
-    {"name": "US Politics", "prob": 0, "label": "House flip Nov 26", "trajectory": "UP|DOWN|FLAT", "status": "1-sentence current state"},
-    {"name": "Energy", "prob": 0, "label": "oil shock 60d", "trajectory": "UP|DOWN|FLAT", "status": "1-sentence current state"},
-    {"name": "US-China", "prob": 0, "label": "deal at April summit", "trajectory": "UP|DOWN|FLAT", "status": "1-sentence current state"},
-    {"name": "Geopolitics", "prob": 0, "label": "NATO cohesion degradation", "trajectory": "UP|DOWN|FLAT", "status": "1-sentence current state"}
+    {"name": "Middle East", "prob": 0, "label": "regional escalation 90d", "trajectory": "UP|DOWN|FLAT", "status": "current state in one plain sentence"},
+    {"name": "Indo-Pacific", "prob": 0, "label": "China coercion escalation", "trajectory": "UP|DOWN|FLAT", "status": "current state in one plain sentence"},
+    {"name": "Europe", "prob": 0, "label": "NATO cohesion fracture", "trajectory": "UP|DOWN|FLAT", "status": "current state in one plain sentence"},
+    {"name": "Energy", "prob": 0, "label": "supply shock 60d", "trajectory": "UP|DOWN|FLAT", "status": "current state in one plain sentence"},
+    {"name": "US Politics", "prob": 0, "label": "House flip Nov 2026", "trajectory": "UP|DOWN|FLAT", "status": "current state in one plain sentence"}
   ],
-  "unseen": "the most non-obvious pattern most analysts are missing right now",
-  "criticalWindow": "the single most time-sensitive decision point in the next 30-90 days",
+  "unseen": "most non-obvious cross-domain pattern analysts are missing — plain text no citations",
+  "criticalWindow": "most time-sensitive decision point in next 30-90 days — plain text",
   "watchFor": ["specific trigger 1", "specific trigger 2", "specific trigger 3", "specific trigger 4"],
-  "confidenceNote": "honest statement of analytical uncertainty",
-  "topPattern": "one sentence — the cross-domain pattern connecting the most important dots"
-}`
-    }], 2000);
+  "confidenceNote": "honest statement of key uncertainties — plain text",
+  "topPattern": "one sentence connecting the most important dots across domains"
+}` }], 2500);
     output.situation = parseJSON(extractText(data));
-    console.log(`  ✓ Situation: "${output.situation.headline?.slice(0, 60)}..."`);
+    console.log(`  Done: "${output.situation?.headline?.slice(0, 70)}"`);
   } catch (e) {
-    console.error(`  ✗ Situation failed: ${e.message}`);
-    output.situation = { headline: "Assessment unavailable", error: e.message };
+    console.error(`  Failed: ${e.message}`);
+    output.situation = { headline: "Assessment unavailable — check Actions log", velocity: "STABLE", domains: [], watchFor: [], unseen: "", criticalWindow: "", confidenceNote: "", topPattern: "" };
   }
 
-  // ── 2. SIGNAL SCAN ───────────────────────────────────────────────────────────
-  console.log("\nStep 2/3: Scanning for new signals...");
+  // STEP 2 — SIGNALS
+  console.log("\nStep 2/4: Signal scan...");
   try {
-    const data = await callClaude([{
-      role: "user",
-      content: `Search for the most significant geopolitical developments from the last 12 hours. Focus on: Iran succession, US politics, China-US relations, energy markets, military movements, economic data. Today is ${new Date().toDateString()}.
+    const data = await callClaude([{ role: "user", content: `Search for the most significant geopolitical developments from the last 24-48 hours as of ${today}. Cast a wide global net. Surface 5-7 signals across different domains and regions. Prioritize what is new, unexpected, or contradicts consensus.
 
-Return ONLY valid JSON:
+Return ONLY valid JSON, no markdown, no citation tags, no bracket references. All text fields must be plain readable sentences:
 {
   "signals": [
     {
-      "id": "unique_id",
-      "domain": "Iran|China|Domestic Politics|Energy|Geopolitics|Trade",
-      "headline": "concise factual headline",
+      "id": "sig1",
+      "domain": "Middle East|Indo-Pacific|Europe|Americas|Africa|Energy|Technology|US Politics",
+      "headline": "concise factual headline in plain text",
       "significance": "CRITICAL|HIGH|MEDIUM|LOW",
-      "summary": "2-3 sentence factual summary",
-      "signal": "non-obvious strategic implication — what this means that most analysts aren't saying",
-      "contradicts": "conventional wisdom this challenges, or null",
-      "timestamp": "${new Date().toISOString()}"
+      "summary": "2-3 sentence factual summary in plain text",
+      "signal": "non-obvious strategic implication for US interests in plain text",
+      "contradicts": "conventional wisdom this challenges in plain text, or null"
     }
   ],
-  "scanNote": "brief note on signal quality and sources"
-}`
-    }], 2000);
+  "scanNote": "one sentence on what you searched and signal quality"
+}` }], 2500);
     const parsed = parseJSON(extractText(data));
-    output.signals = (parsed.signals || []).map(s => ({ ...s, id: s.id || Math.random().toString(36).slice(2, 8) }));
+    output.signals = (parsed.signals || []).map((s, i) => ({ ...s, id: s.id || `sig${i+1}`, timestamp: new Date().toISOString() }));
     output.scanNote = parsed.scanNote;
-    console.log(`  ✓ Found ${output.signals.length} signals`);
+    console.log(`  Done: ${output.signals.length} signals`);
   } catch (e) {
-    console.error(`  ✗ Signal scan failed: ${e.message}`);
-    output.signals = SEED.groundTruth;
+    console.error(`  Failed: ${e.message}`);
   }
 
-  // ── 3. MARKET DATA + DIVERGENCE ──────────────────────────────────────────────
-  console.log("\nStep 3/3: Fetching prediction market data...");
-  const marketResults = await Promise.all(
+  // STEP 3 — WATCH LIST + GROUND TRUTH
+  console.log("\nStep 3/4: Watch list and ground truth...");
+  try {
+    const data = await callClaude([{ role: "user", content: `Based on current global conditions as of ${today}, identify:
+1. The 6 most important specific observable things to watch over the next 2-4 weeks from a US strategic perspective
+2. The 5 most important established facts across different global domains right now
+
+Return ONLY valid JSON, no markdown, no citation tags, all plain text:
+{
+  "watchSignals": [
+    "specific observable trigger or development to watch 1",
+    "specific observable trigger or development to watch 2",
+    "specific observable trigger or development to watch 3",
+    "specific observable trigger or development to watch 4",
+    "specific observable trigger or development to watch 5",
+    "specific observable trigger or development to watch 6"
+  ],
+  "groundTruth": [
+    {
+      "id": "gt1",
+      "domain": "domain name",
+      "headline": "most important established fact",
+      "significance": "CRITICAL|HIGH",
+      "summary": "2-3 sentence factual summary in plain text",
+      "signal": "strategic implication for US in plain text"
+    }
+  ]
+}` }], 2000);
+    const parsed = parseJSON(extractText(data));
+    output.watchSignals = parsed.watchSignals || [];
+    output.groundTruth = parsed.groundTruth || [];
+    console.log(`  Done: ${output.watchSignals.length} watch signals, ${output.groundTruth.length} ground truth`);
+  } catch (e) {
+    console.error(`  Failed: ${e.message}`);
+  }
+
+  // STEP 4 — MARKETS
+  console.log("\nStep 4/4: Prediction markets...");
+  output.markets = await Promise.all(
     POLY_MARKETS.map(async (m) => {
       const pd = await fetchPolymarket(m.slug);
-      const prior = AI_PRIORS[m.aiKey];
-      const gap = pd?.yesProb != null && prior ? prior.prob - pd.yesProb : null;
-      return {
-        aiKey: m.aiKey,
-        label: m.label,
-        domain: m.domain,
-        slug: m.slug,
-        marketProb: pd?.yesProb ?? null,
-        aiProb: prior?.prob ?? null,
-        gap,
-        confidence: prior?.confidence,
-        rationale: prior?.rationale,
-        volume24h: pd?.volume24h ?? null,
-        url: pd?.url ?? `https://polymarket.com/event/${m.slug}`,
-      };
+      const gap = pd?.yesProb != null ? m.aiProb - pd.yesProb : null;
+      return { aiKey: m.aiKey, label: m.label, domain: m.domain, slug: m.slug, marketProb: pd?.yesProb ?? null, aiProb: m.aiProb, gap, confidence: m.confidence, rationale: m.rationale, volume24h: pd?.volume24h ?? null, url: pd?.url ?? `https://polymarket.com/event/${m.slug}` };
     })
   );
-  output.markets = marketResults.sort((a, b) => Math.abs(b.gap ?? 0) - Math.abs(a.gap ?? 0));
+  console.log(`  Done: ${output.markets.filter(m => m.marketProb != null).length}/${POLY_MARKETS.length} live prices`);
 
-  const withData = marketResults.filter(m => m.marketProb != null);
-  console.log(`  ✓ Got prices for ${withData.length}/${POLY_MARKETS.length} markets`);
-
-  // ── WRITE OUTPUT ─────────────────────────────────────────────────────────────
-  const outPath = path.join(__dirname, "..", "docs", "intelligence.json");
-
-  // Load previous run to increment run number
-  let runNumber = 1;
-  try {
-    const prev = JSON.parse(fs.readFileSync(outPath, "utf8"));
-    runNumber = (prev.runNumber || 0) + 1;
-  } catch (_) {}
-  output.runNumber = runNumber;
-
-  fs.writeFileSync(outPath, JSON.stringify(output, null, 2));
-  console.log(`\n✓ Written to docs/intelligence.json (run #${runNumber})`);
-  console.log(`  Signals: ${output.signals.length}`);
-  console.log(`  Markets with data: ${withData.length}`);
-  console.log(`  Generated: ${output.generatedAt}`);
+  // WRITE
+  const clean = stripCites(output);
+  fs.writeFileSync(outPath, JSON.stringify(clean, null, 2));
+  console.log(`\n=== COMPLETE: Run #${clean.runNumber} ===`);
 }
 
-gatherIntelligence().catch(e => {
-  console.error("\nFATAL:", e.message);
-  process.exit(1);
-});
+main().catch(e => { console.error("FATAL:", e.message); process.exit(1); });
