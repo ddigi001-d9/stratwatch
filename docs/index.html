@@ -248,6 +248,7 @@ function gapLabel(gap) {
   if (gap < -25) return 'MKT↑↑'; if (gap < -12) return 'MKT↑';
   return '~';
 }
+function normProb(p) { return p <= 1 ? Math.round(p * 100) : p; }
 function probColor(p) {
   if (p >= 65) return '#ef4444';
   if (p >= 40) return '#f59e0b';
@@ -279,7 +280,7 @@ function renderSituation(d) {
     <div class="domain-card">
       <div class="domain-bar" style="background:${domainColor(dom.name)}"></div>
       <div class="domain-name">${esc(dom.name)}</div>
-      <div class="domain-prob" style="color:${probColor(dom.prob)}">${dom.prob}%</div>
+      <div class="domain-prob" style="color:${probColor(normProb(dom.prob))}">${normProb(dom.prob)}%</div>
       <div class="domain-label">${esc(dom.label)}</div>
       <div class="domain-status">${esc(dom.status)}</div>
     </div>
