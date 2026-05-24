@@ -1,245 +1,138 @@
 {
-  "generatedAt": "2026-05-24T15:35:58.414Z",
-  "runNumber": 1,
+  "generatedAt": "2026-05-24T16:06:24.332Z",
+  "runNumber": 2,
   "situation": {
-    "headline": "Iran regime paralyzed by succession crisis while Mojtaba consolidates emergency power amid ongoing US-Israeli strikes",
+    "headline": "Iran war blockade impasse threatens global energy chokepoint as Trump-Xi summit fails to resolve underlying geopolitical fractures",
     "velocity": "ACCELERATING",
     "domains": [
       {
-        "name": "Iran",
-        "prob": 73,
-        "label": "regime collapse 90d",
+        "name": "Middle East",
+        "prob": 75,
+        "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "<cite index='4-3,4-18,4-19'>Mojtaba Khamenei installed as Supreme Leader through IRGC pressure on Assembly of Experts, but faces legitimacy crisis and continuing strikes</cite>"
+        "status": "US-Iran dual blockade of Hormuz strait continues despite ceasefire with only 5% normal shipping traffic"
       },
       {
-        "name": "US Politics",
-        "prob": 81,
-        "label": "House flip Nov 26",
-        "trajectory": "UP",
-        "status": "<cite index='11-10,13-3,13-18'>Democrats lead generic ballot by D+8 to D+11 as Trump approval falls to 40% amid Iran war backlash</cite>"
+        "name": "Indo-Pacific",
+        "prob": 45,
+        "label": "China coercion escalation",
+        "trajectory": "FLAT",
+        "status": "China leveraging Xi-Trump summit to consolidate position while maintaining Taiwan pressure and rare earth leverage"
+      },
+      {
+        "name": "Europe",
+        "prob": 30,
+        "label": "NATO cohesion fracture",
+        "trajectory": "DOWN",
+        "status": "NATO unanimously adopted 5% GDP defense target with 20% European spending increase but US allies concerned about burden"
       },
       {
         "name": "Energy",
         "prob": 85,
-        "label": "oil shock 60d",
+        "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "<cite index='19-10,21-1,21-2'>14 mb/d shut-in from Hormuz blockade creates unprecedented supply shock, prices hitting $144/bbl at peak</cite>"
+        "status": "Strait of Hormuz throughput at 5% of normal levels creating biggest energy security threat in history according to IEA"
       },
       {
-        "name": "US-China",
-        "prob": 23,
-        "label": "deal at April summit",
-        "trajectory": "DOWN",
-        "status": "<cite index='23-11,27-6'>Summit produced underwhelming agricultural and rare earth agreements while fundamental tensions remain unresolved</cite>"
-      },
-      {
-        "name": "Geopolitics",
-        "prob": 76,
-        "label": "NATO cohesion degradation",
+        "name": "US Politics",
+        "prob": 70,
+        "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "<cite index='26-11'>Trump threatens to quit NATO over alliance refusal to back US-Israeli Iran war as ties with traditional allies deteriorate</cite>"
+        "status": "Congressional Republicans blocking Iran war resolution votes while Democrats criticize lack of authorization for Venezuela and Iran"
       }
     ],
-    "unseen": "<cite index='18-28,20-24'>China's dual-use technology transfers to Iran create strategic leverage while appearing to mediate, giving Beijing disproportionate influence over conflict resolution</cite>",
-    "criticalWindow": "<cite index='21-25,21-27'>Trump's postponed 48-hour ultimatum to Iran on Strait reopening creates recurring crisis points where miscalculation could trigger wider war</cite>",
+    "unseen": "Venezuela operation has created template for direct kinetic capture missions that could be applied globally while Iran conflict is driving unprecedented European defense integration and NATO spending commitments that exceed US fiscal capacity to sustain alliance burden sharing expectations",
+    "criticalWindow": "Iran ceasefire negotiations deadline approaching within 2 weeks as dual blockade becomes economically unsustainable for both sides and regional states pressure for resolution",
     "watchFor": [
-      "<cite index='3-12'>Signs of Mojtaba Khamenei health complications or absence from key events</cite>",
-      "<cite index='19-8,19-9'>Oil price swings above $130/bbl indicating US-Iran deal talks breakdown</cite>",
-      "<cite index='30-6,30-19'>Cuban regime collapse indicators as oil blockade intensifies</cite>",
-      "<cite index='24-22,24-23'>Chinese military moves toward Taiwan while US forces committed in Middle East</cite>"
+      "Iran nuclear deal collapse triggers Israeli unilateral strikes",
+      "Trump cancels Xi September meeting over Taiwan tensions",
+      "Saudi Arabia cuts US basing access over Iran policy",
+      "European NATO states activate Article 4 consultations over burden sharing"
     ],
-    "confidenceNote": "<cite index='5-14,5-22'>Trump achieved step one of regime change but lacks credible day-after plan, while Khamenei succession may prove more complex than anticipated</cite>",
-    "topPattern": "<cite index='26-9,18-11'>US overextension in Iran creates simultaneous vulnerabilities in China deterrence, European alliance cohesion, and domestic political support</cite>"
+    "confidenceNote": "High confidence on energy crisis trajectory and timeline but Iran negotiations remain opaque with conflicting readouts on deal proximity and key uncertainties around Chinese rare earth restrictions effectiveness",
+    "topPattern": "Traditional alliance structures fracturing under simultaneous energy crisis and burden sharing pressures while China exploits US overextension to consolidate regional influence through economic coercion rather than military confrontation"
   },
-  "signals": [
-    {
-      "id": "gt1",
-      "domain": "Iran",
-      "headline": "Khamenei Confirmed Dead",
-      "significance": "CRITICAL",
-      "summary": "Killed in Feb 28 US-Israeli strikes. Internet at 1%. Protests reigniting in Ilam.",
-      "signal": "Succession vacuum + protest resurgence = regime stress test begins NOW."
-    },
-    {
-      "id": "gt2",
-      "domain": "Iran",
-      "headline": "30,000+ Dead in Jan Crackdown",
-      "significance": "CRITICAL",
-      "summary": "Monitors: 7,000–32,000 killed. Security forces raided hospitals to execute wounded.",
-      "signal": "Regime survived through mass violence. Khamenei death changes every variable."
-    },
-    {
-      "id": "gt3",
-      "domain": "Trade/Legal",
-      "headline": "SCOTUS Kills IEEPA Tariffs",
-      "significance": "HIGH",
-      "summary": "Feb 20 ruling strips IEEPA authority. $133.5B may need refunding. China truce to Nov 10.",
-      "signal": "Tariff legal foundation shifted. Xi Summit timing now critical."
-    },
-    {
-      "id": "gt4",
-      "domain": "Domestic Politics",
-      "headline": "Dems +16pts in Specials",
-      "significance": "HIGH",
-      "summary": "Fort Worth TX: 31-pt swing. 30 GOP retiring. Cook moved 18 seats toward Dems.",
-      "signal": "House majority in serious jeopardy. Strategy runway at risk."
-    },
-    {
-      "id": "gt5",
-      "domain": "China",
-      "headline": "China 15th FYP: Strategic Autarky",
-      "significance": "HIGH",
-      "summary": "Cut tariffs on 935 high-tech inputs. Record $1.2T surplus. Rare earth controls to Nov 10.",
-      "signal": "China building resilience, not capitulating."
-    },
-    {
-      "id": "gt6",
-      "domain": "Geopolitics",
-      "headline": "NSS: US Seeks EU Fragmentation",
-      "significance": "HIGH",
-      "summary": "First NSS openly targeting EU political trajectory. Europe accelerating independent defense.",
-      "signal": "Declared adversarial intent toward ally. NATO fracture is structural."
-    }
-  ],
+  "signals": [],
   "markets": [
     {
-      "aiKey": "iran_regime",
-      "label": "Iran Regime Change",
-      "domain": "Iran",
-      "slug": "will-irans-government-change-in-2026",
-      "marketProb": null,
-      "aiProb": 62,
-      "gap": null,
-      "confidence": "MEDIUM",
-      "rationale": "Khamenei death + IRGC succession vacuum + protest resurgence. Security forces still nominally cohesive but structural crisis beginning.",
-      "volume24h": null,
-      "url": "https://polymarket.com/event/will-irans-government-change-in-2026"
-    },
-    {
       "aiKey": "house_gop",
-      "label": "GOP Keeps House",
-      "domain": "Domestic Politics",
+      "label": "GOP Keeps House 2026",
+      "domain": "US Politics",
       "slug": "will-republicans-keep-the-house-in-2026",
       "marketProb": null,
       "aiProb": 28,
       "gap": null,
       "confidence": "HIGH",
-      "rationale": "+16pt special election overperformance, 30 GOP retirements, 42% approval. Historical patterns confirm House flip is base case.",
+      "rationale": "Special election overperformance, retirements, low approval. House flip is base case.",
       "volume24h": null,
       "url": "https://polymarket.com/event/will-republicans-keep-the-house-in-2026"
     },
     {
-      "aiKey": "china_deal",
-      "label": "US-China Trade Deal",
-      "domain": "China",
-      "slug": "will-us-and-china-reach-a-trade-deal-in-2026",
+      "aiKey": "ukraine_cease",
+      "label": "Ukraine Ceasefire 2026",
+      "domain": "Europe",
+      "slug": "will-there-be-a-ceasefire-in-ukraine-in-2026",
       "marketProb": null,
-      "aiProb": 35,
+      "aiProb": 45,
+      "gap": null,
+      "confidence": "LOW",
+      "rationale": "Trump wants exit, Ukraine exhausted, Europe pushing. Russia sees no urgency.",
+      "volume24h": null,
+      "url": "https://polymarket.com/event/will-there-be-a-ceasefire-in-ukraine-in-2026"
+    },
+    {
+      "aiKey": "taiwan_invasion",
+      "label": "China Invades Taiwan 2026",
+      "domain": "Indo-Pacific",
+      "slug": "will-china-invade-taiwan-in-2026",
+      "marketProb": null,
+      "aiProb": 8,
       "gap": null,
       "confidence": "MEDIUM",
-      "rationale": "IEEPA ruling weakened leverage. China building autarky. November truce expiry forces confrontation, not resolution.",
+      "rationale": "Window opening but 2027 remains primary PLA readiness target. Gray zone more likely.",
       "volume24h": null,
-      "url": "https://polymarket.com/event/will-us-and-china-reach-a-trade-deal-in-2026"
+      "url": "https://polymarket.com/event/will-china-invade-taiwan-in-2026"
     },
     {
       "aiKey": "oil_spike",
-      "label": "Oil >$100/bbl",
+      "label": "Oil >$120/bbl 2026",
       "domain": "Energy",
-      "slug": "will-oil-price-exceed-100-per-barrel-in-2026",
+      "slug": "will-brent-crude-oil-exceed-120-in-2026",
       "marketProb": null,
-      "aiProb": 71,
+      "aiProb": 68,
       "gap": null,
       "confidence": "MEDIUM",
-      "rationale": "Khamenei death + Hormuz threat premium + 1.3M bbl/day Iranian supply at risk. Supply shock scenario elevated.",
+      "rationale": "Hormuz disruption plus supply shock already in progress.",
       "volume24h": null,
-      "url": "https://polymarket.com/event/will-oil-price-exceed-100-per-barrel-in-2026"
+      "url": "https://polymarket.com/event/will-brent-crude-oil-exceed-120-in-2026"
     },
     {
-      "aiKey": "ukraine_ceasefire",
-      "label": "Ukraine Ceasefire",
-      "domain": "Geopolitics",
-      "slug": "will-russia-ukraine-ceasefire-be-reached-in-2026",
+      "aiKey": "iran_deal",
+      "label": "Iran Nuclear Deal 2026",
+      "domain": "Middle East",
+      "slug": "will-us-iran-reach-nuclear-deal-in-2026",
       "marketProb": null,
-      "aiProb": 41,
+      "aiProb": 12,
       "gap": null,
-      "confidence": "LOW",
-      "rationale": "Trump wants exit. Ukraine exhausted. Europe pushing. Russia sees no urgency while winning slowly.",
+      "confidence": "MEDIUM",
+      "rationale": "Kinetic operations make diplomatic track nearly impossible near term.",
       "volume24h": null,
-      "url": "https://polymarket.com/event/will-russia-ukraine-ceasefire-be-reached-in-2026"
+      "url": "https://polymarket.com/event/will-us-iran-reach-nuclear-deal-in-2026"
     },
     {
-      "aiKey": "trump_approval",
-      "label": "Trump Approval >50%",
-      "domain": "Domestic Politics",
-      "slug": "will-trump-job-approval-exceed-50-percent-by-june-2026",
+      "aiKey": "russia_kyiv",
+      "label": "Russia Takes Kyiv",
+      "domain": "Europe",
+      "slug": "will-russia-capture-kyiv-by-end-of-2026",
       "marketProb": null,
-      "aiProb": 18,
+      "aiProb": 4,
       "gap": null,
       "confidence": "HIGH",
-      "rationale": "Currently 42%, declining. Iran strikes alienating isolationists. No structural path to 50%+ visible.",
+      "rationale": "Russia lacks manpower and logistics for capital seizure.",
       "volume24h": null,
-      "url": "https://polymarket.com/event/will-trump-job-approval-exceed-50-percent-by-june-2026"
+      "url": "https://polymarket.com/event/will-russia-capture-kyiv-by-end-of-2026"
     }
   ],
-  "watchSignals": [
-    "Who fills Khamenei succession — IRGC hardliner or reformist?",
-    "Does IRGC splinter or close ranks after decapitation?",
-    "China's response to Iran strikes — how strong?",
-    "Republican retirement gap — does 30-21 widen?",
-    "Oil markets reacting to Iranian chaos?",
-    "Cuba economic collapse signals as Venezuela oil cuts?",
-    "April Xi Summit prep — concession vs hardline?",
-    "Section 122 tariff legal challenges?"
-  ],
-  "groundTruth": [
-    {
-      "id": "gt1",
-      "domain": "Iran",
-      "headline": "Khamenei Confirmed Dead",
-      "significance": "CRITICAL",
-      "summary": "Killed in Feb 28 US-Israeli strikes. Internet at 1%. Protests reigniting in Ilam.",
-      "signal": "Succession vacuum + protest resurgence = regime stress test begins NOW."
-    },
-    {
-      "id": "gt2",
-      "domain": "Iran",
-      "headline": "30,000+ Dead in Jan Crackdown",
-      "significance": "CRITICAL",
-      "summary": "Monitors: 7,000–32,000 killed. Security forces raided hospitals to execute wounded.",
-      "signal": "Regime survived through mass violence. Khamenei death changes every variable."
-    },
-    {
-      "id": "gt3",
-      "domain": "Trade/Legal",
-      "headline": "SCOTUS Kills IEEPA Tariffs",
-      "significance": "HIGH",
-      "summary": "Feb 20 ruling strips IEEPA authority. $133.5B may need refunding. China truce to Nov 10.",
-      "signal": "Tariff legal foundation shifted. Xi Summit timing now critical."
-    },
-    {
-      "id": "gt4",
-      "domain": "Domestic Politics",
-      "headline": "Dems +16pts in Specials",
-      "significance": "HIGH",
-      "summary": "Fort Worth TX: 31-pt swing. 30 GOP retiring. Cook moved 18 seats toward Dems.",
-      "signal": "House majority in serious jeopardy. Strategy runway at risk."
-    },
-    {
-      "id": "gt5",
-      "domain": "China",
-      "headline": "China 15th FYP: Strategic Autarky",
-      "significance": "HIGH",
-      "summary": "Cut tariffs on 935 high-tech inputs. Record $1.2T surplus. Rare earth controls to Nov 10.",
-      "signal": "China building resilience, not capitulating."
-    },
-    {
-      "id": "gt6",
-      "domain": "Geopolitics",
-      "headline": "NSS: US Seeks EU Fragmentation",
-      "significance": "HIGH",
-      "summary": "First NSS openly targeting EU political trajectory. Europe accelerating independent defense.",
-      "signal": "Declared adversarial intent toward ally. NATO fracture is structural."
-    }
-  ]
+  "watchSignals": [],
+  "groundTruth": []
 }
