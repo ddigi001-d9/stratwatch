@@ -92,6 +92,9 @@ function parseJSON(text) {
   if (start === -1 || end === -1) throw new Error("No JSON found in response");
   return JSON.parse(clean.slice(start, end + 1));
 }
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
 // ── POLYMARKET ────────────────────────────────────────────────────────────────
 async function fetchPolymarket(slug) {
   try {
@@ -157,7 +160,10 @@ Return ONLY valid JSON, no markdown fences, no citation tags, no square bracket 
   }
 
   // STEP 2 — SIGNALS
-  console.log("\nStep 2/4: Signal scan...");
+console.log("  Waiting 65 seconds for rate limit reset...");
+await sleep(65000);
+  
+console.log("\nStep 2/4: Signal scan...");
   try {
     const data = await callClaude([{ role: "user", content: `Search for the most significant geopolitical developments from the last 24-48 hours as of ${today}. Cast a wide global net. Surface 5-7 signals across different domains and regions. Prioritize what is new, unexpected, or contradicts consensus.
 
@@ -185,7 +191,9 @@ Return ONLY valid JSON, no markdown, no citation tags, no bracket references. Al
   }
 
   // STEP 3 — WATCH LIST + GROUND TRUTH
-  console.log("\nStep 3/4: Watch list and ground truth...");
+console.log("  Waiting 65 seconds for rate limit reset...");
+await sleep(65000);  
+console.log("\nStep 3/4: Watch list and ground truth...");
   try {
     const data = await callClaude([{ role: "user", content: `Based on current global conditions as of ${today}, identify:
 1. The 6 most important specific observable things to watch over the next 2-4 weeks from a US strategic perspective
