@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-05-24T16:21:49.065Z",
-  "runNumber": 3,
+  "generatedAt": "2026-05-24T16:33:41.064Z",
+  "runNumber": 4,
   "situation": {
-    "headline": "Strait of Hormuz closure disrupts 10.5 million barrels/day of oil production driving global energy crisis while Iran nuclear program accelerates",
+    "headline": "US-Iran war stalemate with Strait of Hormuz closure enters critical peace negotiation phase as Trump's 2026 midterm prospects crumble",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 85,
+        "prob": 75,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Iran-US-Israel ceasefire precarious, Hormuz closed through May, new Sunni alliance forming to counter Iran"
+        "status": "Iran blocks Hormuz as US-Iran peace talks show tentative progress but nuclear uranium disagreements persist."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 25,
+        "prob": 35,
         "label": "China coercion escalation",
         "trajectory": "FLAT",
-        "status": "PLA ADIZ incursions down but Taiwan contiguous zone violations increasing while US arms sales under Trump review"
+        "status": "China reduced Taiwan ADIZ incursions while strengthening KMT ties and refusing Iran war assistance to US."
       },
       {
         "name": "Europe",
-        "prob": 75,
+        "prob": 15,
         "label": "NATO cohesion fracture",
-        "trajectory": "UP",
-        "status": "Russia could attack NATO within year after Ukraine war ends while US commitment questioned under Trump"
+        "trajectory": "DOWN",
+        "status": "NATO unity strengthened with 5% GDP defense spending target by 2035 and unprecedented European rearmament surge."
       },
       {
         "name": "Energy",
-        "prob": 95,
+        "prob": 85,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Oil at $106/barrel, global inventories falling 8.5 million barrels daily, LNG prices elevated, UAE left OPEC"
+        "status": "Oil above $100 per barrel with Strait of Hormuz effectively closed and Iran threatening permanent tolling system."
       },
       {
         "name": "US Politics",
-        "prob": 65,
+        "prob": 90,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Democrats overperforming in special elections amid Trump interference concerns but GOP maintains structural advantages"
+        "status": "Trump approval at 39% as Iran war divides MAGA base while Republicans face record retirements and primary losses."
       }
     ],
-    "unseen": "Ethiopian-Sudanese tensions over Tigray mercenaries in Sudan creating Horn of Africa regional war risk that analysts miss connects directly to UAE-Saudi competition and Egyptian encirclement strategy against Ethiopia",
-    "criticalWindow": "Late May Strait of Hormuz reopening negotiations between US-Iran through Pakistani mediators while Iran Supreme Leader blocks uranium exports threatening deal collapse",
+    "unseen": "Iran war is accelerating global alliance realignments faster than expected - China perfecting sanction-busting mechanisms for future Taiwan conflict while Europe achieves unprecedented defense integration and US domestic coalition fractures along isolationist-interventionist lines create opening for authoritarian consolidation attempts",
+    "criticalWindow": "Next 30 days determine if Trump-Iran peace framework prevents wider regional war and 2026 midterm wipeout that could trigger constitutional crisis over war powers and election legitimacy",
     "watchFor": [
-      "Iran uranium export reversal",
-      "Ethiopian-Sudan border clashes",
-      "NATO Article 5 testing in Baltics",
-      "Chinese contiguous zone violations escalation"
+      "Iran uranium stockpile transfer deadline",
+      "Trump war powers resolution passage",
+      "China military buildup acceleration signals",
+      "European defense bond issuance timeline"
     ],
-    "confidenceNote": "High confidence on energy crisis impacts but uncertain on Middle East ceasefire durability and whether Europe can deter Russian post-Ukraine aggression timing",
-    "topPattern": "Global energy crisis from Hormuz closure intersects with weakening alliance structures as regional conflicts increasingly draw in multiple great powers simultaneously"
+    "confidenceNote": "High confidence on Iran war trajectory and US domestic political impacts but moderate uncertainty on China's true Taiwan timeline given Iran distraction effects and Europe's actual industrial capacity to meet defense spending commitments",
+    "topPattern": "The Iran war is inadvertently strengthening every major power except the US by fragmenting American domestic consensus while accelerating Chinese preparation for Taiwan and European strategic autonomy."
   },
   "signals": [],
   "markets": [
