@@ -12,7 +12,7 @@ if (!API_KEY) {
   process.exit(1);
 }
 
-const MODEL = "claude-opus-4-20250514";
+const MODEL = "claude-sonnet-4-20250514";
 
 // ── UTILITY ───────────────────────────────────────────────────────────────────
 function stripCites(obj) {
