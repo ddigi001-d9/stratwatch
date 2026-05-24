@@ -1,0 +1,23 @@
+{
+  "generatedAt": "1970-01-01T00:00:00.000Z",
+  "runNumber": 0,
+  "_placeholder": true,
+  "situation": {
+    "headline": "No intelligence data yet \u2014 run the GitHub Action to generate your first report",
+    "velocity": "STABLE",
+    "domains": [],
+    "unseen": "Run the GitHub Action manually: Actions \u2192 STRATWATCH Intelligence Run \u2192 Run workflow",
+    "criticalWindow": "Complete setup first \u2014 see README.md",
+    "watchFor": [
+      "1. Create GitHub repo",
+      "2. Add ANTHROPIC_API_KEY secret",
+      "3. Enable GitHub Pages (docs/ folder)",
+      "4. Run workflow manually"
+    ],
+    "confidenceNote": "This is a placeholder. Real intelligence will appear after first workflow run."
+  },
+  "signals": [],
+  "markets": [],
+  "watchSignals": [],
+  "groundTruth": []
+}

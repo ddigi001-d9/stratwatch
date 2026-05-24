@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>STRATWATCH</title>
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="STRATWATCH" />
+  <meta name="theme-color" content="#07080d" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+    :root {
+      --bg: #07080d; --surface: #0d0f18; --border: rgba(255,255,255,0.06);
+      --text: #e2e4ed; --muted: #4a4d5e; --accent: #22d3ee; --gold: #f59e0b;
+      --red: #ef4444; --green: #22c55e; --orange: #f97316; --purple: #8b5cf6;
+    }
+    html, body {
+      background: var(--bg); color: var(--text);
+      font-family: 'DM Mono', 'Fira Code', 'SF Mono', monospace;
+      height: 100%; overflow: hidden;
+      padding-top: env(safe-area-inset-top);
+    }
+    #app { height: 100dvh; display: flex; flex-direction: column; overflow: hidden; }
+    ::-webkit-scrollbar { display: none; }
+
+    /* Header */
+    .header {
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: 12px 18px; display: flex; justify-content: space-between; align-items: center;
+      flex-shrink: 0;
+    }
+    .logo { font-family: 'Syne', sans-serif; font-size: 16px; font-weight: 800; color: var(--accent); letter-spacing: -0.01em; }
+    .run-info { font-size: 9px; color: var(--muted); letter-spacing: 0.1em; text-align: right; }
+
+    /* Tabs */
+    .tabs {
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      display: flex; flex-shrink: 0; overflow-x: auto;
+    }
+    .tab {
+      flex: 1; min-width: 60px; padding: 11px 8px; border: none; background: transparent;
+      font-family: inherit; font-size: 9px; letter-spacing: 0.1em; cursor: pointer;
+      color: var(--muted); border-bottom: 2px solid transparent; transition: all 0.15s;
+      display: flex; flex-direction: column; align-items: center; gap: 3px;
+    }
+    .tab.active { color: var(--text); border-bottom-color: var(--accent); }
+    .tab-icon { font-size: 13px; }
+
+    /* Content */
+    .screen { flex: 1; overflow-y: auto; padding: 14px; display: none; }
+    .screen.active { display: block; }
+
+    /* Cards */
+    .card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 10px; padding: 14px; margin-bottom: 10px;
+    }
+    .card-accent-top { border-top: 2px solid var(--accent); }
+    .card-label { font-size: 8px; color: var(--muted); letter-spacing: 0.14em; margin-bottom: 8px; text-transform: uppercase; }
+    .card-label.gold { color: var(--gold); }
+    .card-label.red { color: var(--red); }
+    .card-label.accent { color: var(--accent); }
+
+    /* Headline card */
+    .headline-card { border-left: 4px solid var(--accent); }
+    .headline-text { font-family: 'Syne', sans-serif; font-size: 16px; font-weight: 700; line-height: 1.4; margin-bottom: 10px; }
+    .velocity-badge {
+      display: inline-block; padding: 3px 10px; font-size: 9px; letter-spacing: 0.1em;
+      border-radius: 4px; border: 1px solid;
+    }
+    .velocity-ACCELERATING { background: rgba(239,68,68,.15); color: var(--red); border-color: rgba(239,68,68,.3); }
+    .velocity-STABLE { background: rgba(34,211,238,.08); color: var(--accent); border-color: var(--border); }
+    .velocity-DECELERATING { background: rgba(100,116,139,.1); color: var(--muted); border-color: var(--border); }
+
+    /* Domain grid */
+    .domain-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 10px; }
+    .domain-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 12px; position: relative; overflow: hidden; }
+    .domain-bar { position: absolute; top: 0; left: 0; right: 0; height: 2px; opacity: 0.7; }
+    .domain-name { font-size: 8px; color: var(--muted); letter-spacing: 0.14em; margin-bottom: 4px; }
+    .domain-prob { font-family: 'Syne', sans-serif; font-size: 28px; font-weight: 800; line-height: 1; }
+    .domain-label { font-size: 8px; color: #3f3f46; margin-top: 2px; margin-bottom: 6px; }
+    .domain-status { font-size: 10px; color: #7f8099; line-height: 1.5; }
+
+    /* Watch list */
+    .watch-item { display: flex; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--border); }
+    .watch-num { color: var(--gold); font-size: 10px; min-width: 18px; flex-shrink: 0; }
+    .watch-text { font-size: 12px; line-height: 1.5; }
+
+    /* Signal rows */
+    .signal-row {
+      padding: 13px 0; border-bottom: 1px solid var(--border); cursor: pointer;
+      transition: background 0.15s;
+    }
+    .signal-row:active { opacity: 0.7; }
+    .signal-meta { display: flex; gap: 8px; align-items: center; margin-bottom: 5px; }
+    .signal-dot { width: 5px; height: 5px; border-radius: 50%; flex-shrink: 0; }
+    .signal-domain { font-size: 8px; letter-spacing: 0.1em; }
+    .signal-badge { font-size: 7px; letter-spacing: 0.1em; }
+    .signal-headline { font-size: 13px; line-height: 1.4; margin-bottom: 4px; }
+    .signal-implication { font-size: 11px; color: var(--muted); line-height: 1.5; }
+
+    /* Markets */
+    .market-row {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 13px 0; border-bottom: 1px solid var(--border);
+    }
+    .market-label { font-size: 13px; font-weight: 500; margin-bottom: 3px; }
+    .market-domain { font-size: 8px; letter-spacing: 0.08em; }
+    .market-nums { display: flex; gap: 14px; align-items: center; }
+    .market-num-col { text-align: center; }
+    .market-num-title { font-size: 9px; color: var(--muted); margin-bottom: 2px; }
+    .market-num-val { font-family: 'Syne', sans-serif; font-size: 18px; font-weight: 700; line-height: 1; }
+    .market-gap-val { font-family: 'Syne', sans-serif; font-size: 16px; font-weight: 700; min-width: 40px; text-align: center; }
+
+    /* Divergence detail */
+    .divergence-detail {
+      background: var(--surface); border: 1px solid rgba(34,211,238,0.2);
+      border-radius: 10px; padding: 14px; margin-top: 10px;
+      display: none;
+    }
+    .divergence-detail.open { display: block; }
+    .divergence-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+    .close-btn { background: none; border: none; color: var(--muted); font-size: 16px; cursor: pointer; padding: 2px 6px; }
+    .rationale-text { font-size: 12px; color: #9095b0; line-height: 1.75; }
+
+    /* Stale warning */
+    .stale-banner {
+      background: rgba(245,158,11,0.1); border: 1px solid rgba(245,158,11,0.2);
+      border-radius: 8px; padding: 10px 14px; margin-bottom: 12px;
+      font-size: 11px; color: var(--gold); display: none;
+    }
+
+    /* Loading */
+    .loading-state { text-align: center; padding: 60px 20px; color: var(--muted); }
+    .loading-title { font-size: 12px; letter-spacing: 0.1em; margin-bottom: 8px; }
+    .loading-sub { font-size: 10px; color: #2d2f40; }
+
+    /* Error state */
+    .error-state { background: rgba(239,68,68,0.08); border: 1px solid rgba(239,68,68,0.2); border-radius: 10px; padding: 16px; margin-bottom: 12px; }
+    .error-title { font-size: 11px; color: var(--red); margin-bottom: 6px; }
+    .error-body { font-size: 10px; color: var(--muted); line-height: 1.6; }
+
+    /* Animations */
+    @keyframes fadeUp { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
+    .fade-up { animation: fadeUp 0.3s ease; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.3} }
+    .live-dot { width:6px; height:6px; border-radius:50%; display:inline-block; animation:pulse 2.5s infinite; }
+  </style>
+</head>
+<body>
+<div id="app">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div>
+      <div class="logo">STRATWATCH</div>
+      <div style="font-size:9px;color:var(--muted);margin-top:1px;letter-spacing:0.1em">GEOPOLITICAL INTELLIGENCE</div>
+    </div>
+    <div class="run-info" id="run-info">LOADING...</div>
+  </div>
+
+  <!-- TABS -->
+  <div class="tabs">
+    <button class="tab active" onclick="showTab('situation')" id="tab-situation">
+      <span class="tab-icon">⚡</span>SITUATION
+    </button>
+    <button class="tab" onclick="showTab('markets')" id="tab-markets">
+      <span class="tab-icon">◈</span>MARKETS
+    </button>
+    <button class="tab" onclick="showTab('feed')" id="tab-feed">
+      <span class="tab-icon">◉</span>FEED
+    </button>
+    <button class="tab" onclick="showTab('watch')" id="tab-watch">
+      <span class="tab-icon">◎</span>WATCH
+    </button>
+  </div>
+
+  <!-- SITUATION SCREEN -->
+  <div class="screen active" id="screen-situation">
+    <div class="loading-state" id="situation-loading">
+      <div class="loading-title">LOADING INTELLIGENCE...</div>
+      <div class="loading-sub">Fetching latest assessment</div>
+    </div>
+    <div id="situation-content" style="display:none"></div>
+  </div>
+
+  <!-- MARKETS SCREEN -->
+  <div class="screen" id="screen-markets">
+    <div class="loading-state" id="markets-loading">
+      <div class="loading-title">LOADING MARKETS...</div>
+    </div>
+    <div id="markets-content" style="display:none"></div>
+  </div>
+
+  <!-- FEED SCREEN -->
+  <div class="screen" id="screen-feed">
+    <div class="loading-state" id="feed-loading">
+      <div class="loading-title">LOADING SIGNALS...</div>
+    </div>
+    <div id="feed-content" style="display:none"></div>
+  </div>
+
+  <!-- WATCH SCREEN -->
+  <div class="screen" id="screen-watch">
+    <div class="loading-state" id="watch-loading">
+      <div class="loading-title">LOADING...</div>
+    </div>
+    <div id="watch-content" style="display:none"></div>
+  </div>
+
+</div>
+
+<script>
+// ── TAB ROUTING ────────────────────────────────────────────────────────────────
+function showTab(name) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.getElementById('screen-' + name).classList.add('active');
+  document.getElementById('tab-' + name).classList.add('active');
+}
+
+// ── HELPERS ────────────────────────────────────────────────────────────────────
+const DOMAIN_COLORS = {
+  Iran: '#ef4444', China: '#f59e0b', 'Domestic Politics': '#8b5cf6',
+  Trade: '#06b6d4', Geopolitics: '#10b981', Energy: '#f97316',
+  'Trade/Legal': '#06b6d4', 'US Politics': '#8b5cf6', 'US-China': '#f59e0b',
+};
+const SIG_COLORS = { CRITICAL: '#ef4444', HIGH: '#f97316', MEDIUM: '#eab308', LOW: '#22c55e' };
+
+function domainColor(d) { return DOMAIN_COLORS[d] || '#4a4d5e'; }
+function sigColor(s) { return SIG_COLORS[s] || '#4a4d5e'; }
+
+function gapColor(gap) {
+  if (gap === null) return '#4a4d5e';
+  const a = Math.abs(gap);
+  if (a >= 25) return gap > 0 ? '#ef4444' : '#22c55e';
+  if (a >= 12) return gap > 0 ? '#f97316' : '#22d3ee';
+  return '#eab308';
+}
+function gapLabel(gap) {
+  if (gap === null) return '—';
+  if (gap > 25) return 'AI↑↑'; if (gap > 12) return 'AI↑';
+  if (gap < -25) return 'MKT↑↑'; if (gap < -12) return 'MKT↑';
+  return '~';
+}
+function probColor(p) {
+  if (p >= 65) return '#ef4444';
+  if (p >= 40) return '#f59e0b';
+  return '#22c55e';
+}
+function timeAgo(iso) {
+  const diff = Date.now() - new Date(iso).getTime();
+  const h = Math.floor(diff / 3600000);
+  if (h < 1) return 'just now';
+  if (h < 24) return `${h}h ago`;
+  return `${Math.floor(h/24)}d ago`;
+}
+function formatVol(v) {
+  if (!v) return '—';
+  if (v >= 1000000) return `$${(v/1000000).toFixed(1)}M`;
+  if (v >= 1000) return `$${(v/1000).toFixed(0)}K`;
+  return `$${v}`;
+}
+function esc(s) {
+  return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+// ── RENDER FUNCTIONS ───────────────────────────────────────────────────────────
+function renderSituation(d) {
+  const s = d.situation;
+  if (!s) return '<div class="error-state"><div class="error-title">NO SITUATION DATA</div></div>';
+
+  const domainsHTML = (s.domains || []).map(dom => `
+    <div class="domain-card">
+      <div class="domain-bar" style="background:${domainColor(dom.name)}"></div>
+      <div class="domain-name">${esc(dom.name)}</div>
+      <div class="domain-prob" style="color:${probColor(dom.prob)}">${dom.prob}%</div>
+      <div class="domain-label">${esc(dom.label)}</div>
+      <div class="domain-status">${esc(dom.status)}</div>
+    </div>
+  `).join('');
+
+  const watchHTML = (s.watchFor || []).map((w, i) => `
+    <div class="watch-item">
+      <span class="watch-num">${i+1}.</span>
+      <span class="watch-text" style="color:#9095b0">${esc(w)}</span>
+    </div>
+  `).join('');
+
+  return `
+    <div class="card headline-card fade-up">
+      <div class="card-label">SITUATION · ${new Date(d.generatedAt).toLocaleDateString('en-US',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'}).toUpperCase()}</div>
+      <div class="headline-text">${esc(s.headline)}</div>
+      <span class="velocity-badge velocity-${s.velocity}">${s.velocity}</span>
+    </div>
+
+    <div class="domain-grid fade-up">${domainsHTML}</div>
+
+    <div class="card fade-up" style="border:1px solid rgba(34,211,238,0.15)">
+      <div class="card-label accent">◈ UNSEEN PATTERN — WHAT MOST ANALYSTS ARE MISSING</div>
+      <div style="font-size:12px;line-height:1.7">${esc(s.unseen)}</div>
+    </div>
+
+    <div class="card fade-up" style="border:1px solid rgba(239,68,68,0.15)">
+      <div class="card-label red">⚡ CRITICAL WINDOW</div>
+      <div style="font-size:12px;line-height:1.7">${esc(s.criticalWindow)}</div>
+    </div>
+
+    <div class="card fade-up">
+      <div class="card-label gold">WATCH — NEXT 2 WEEKS</div>
+      ${watchHTML}
+    </div>
+
+    ${s.topPattern ? `<div class="card fade-up" style="border:1px solid rgba(245,158,11,0.15)">
+      <div class="card-label gold">◈ TOP PATTERN</div>
+      <div style="font-size:12px;line-height:1.7">${esc(s.topPattern)}</div>
+    </div>` : ''}
+
+    <div style="font-size:9px;color:#2d2f40;font-style:italic;padding:4px 0 20px">⚠ ${esc(s.confidenceNote)}</div>
+  `;
+}
+
+function renderMarkets(d) {
+  const markets = d.markets || [];
+  if (!markets.length) return '<div class="error-state"><div class="error-title">NO MARKET DATA</div></div>';
+
+  const rows = markets.map((m, i) => `
+    <div class="market-row" onclick="toggleDivergence('div-${i}', this)">
+      <div style="flex:1;margin-right:12px">
+        <div class="market-label">${esc(m.label)}</div>
+        <div class="market-domain" style="color:${domainColor(m.domain)}">${esc(m.domain?.toUpperCase())}</div>
+        ${m.volume24h ? `<div style="font-size:8px;color:#3f3f46;margin-top:2px">${formatVol(m.volume24h)} 24h vol</div>` : ''}
+      </div>
+      <div class="market-nums">
+        <div class="market-num-col">
+          <div class="market-num-title">MKT</div>
+          <div class="market-num-val" style="color:#9095b0">${m.marketProb != null ? m.marketProb+'%' : '—'}</div>
+        </div>
+        <div class="market-num-col">
+          <div class="market-num-title">AI</div>
+          <div class="market-num-val" style="color:#22d3ee">${m.aiProb != null ? m.aiProb+'%' : '—'}</div>
+        </div>
+        <div class="market-num-col" style="min-width:44px">
+          <div class="market-num-title">GAP</div>
+          <div class="market-gap-val" style="color:${gapColor(m.gap)}">${m.gap != null ? (m.gap > 0 ? '+' : '') + m.gap : '—'}</div>
+        </div>
+      </div>
+    </div>
+    <div class="divergence-detail" id="div-${i}">
+      <div class="divergence-header">
+        <div style="font-size:9px;color:#22d3ee;letter-spacing:.12em">AI RATIONALE</div>
+        <button class="close-btn" onclick="closeDivergence('div-${i}',event)">✕</button>
+      </div>
+      <div style="display:flex;gap:16px;margin-bottom:10px">
+        <span style="font-size:9px;color:#4a4d5e">CONFIDENCE: <span style="color:${m.gap != null && Math.abs(m.gap)>=20?'#f97316':'#9095b0'}">${m.confidence||'—'}</span></span>
+        ${m.url ? `<a href="${esc(m.url)}" target="_blank" style="font-size:9px;color:#22d3ee;text-decoration:none">↗ POLYMARKET</a>` : ''}
+      </div>
+      <div class="rationale-text">${esc(m.rationale)}</div>
+      ${m.gap != null && Math.abs(m.gap) >= 15 ? `
+      <div style="margin-top:10px;padding:8px 10px;background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.12);border-radius:6px">
+        <div style="font-size:8px;color:#ef4444;letter-spacing:.1em;margin-bottom:4px">SIGNIFICANT DIVERGENCE — ${gapLabel(m.gap)}</div>
+        <div style="font-size:11px;color:#9095b0">AI assessment is ${Math.abs(m.gap)} points ${m.gap > 0 ? 'above' : 'below'} market consensus. ${m.gap > 0 ? 'AI sees higher probability than crowd.' : 'Crowd is more confident than AI assessment.'}</div>
+      </div>` : ''}
+    </div>
+  `).join('');
+
+  return `
+    <div style="padding:10px 0 4px;font-size:9px;color:#4a4d5e;letter-spacing:.1em">TAP ANY ROW TO SEE AI RATIONALE</div>
+    <div class="fade-up">${rows}</div>
+    <div style="padding:14px 0 20px;font-size:9px;color:#2d2f40">
+      Market prices from Polymarket. AI priors from STRATWATCH analysis. Gap = AI − Market.
+      Last updated ${timeAgo(d.generatedAt)}.
+    </div>
+  `;
+}
+
+function renderFeed(d) {
+  const signals = [...(d.signals || [])];
+  if (!signals.length) return '<div class="error-state"><div class="error-title">NO SIGNALS</div></div>';
+
+  const rows = signals.map(s => `
+    <div class="signal-row">
+      <div class="signal-meta">
+        <div class="signal-dot" style="background:${sigColor(s.significance)}"></div>
+        <span class="signal-domain" style="color:${domainColor(s.domain)}">${esc(s.domain?.toUpperCase())}</span>
+        <span class="signal-badge" style="color:${sigColor(s.significance)}">${esc(s.significance)}</span>
+        ${s.type === 'live' ? '<span class="signal-badge" style="color:#22c55e">LIVE</span>' : ''}
+        ${s.contradicts ? '<span class="signal-badge" style="color:#f59e0b">⚡ CONTRARIAN</span>' : ''}
+      </div>
+      <div class="signal-headline">${esc(s.headline)}</div>
+      <div class="signal-implication">${esc(s.signal)}</div>
+      ${s.summary && s.summary !== s.signal ? `<div style="font-size:10px;color:#3f3f46;margin-top:4px;line-height:1.5">${esc(s.summary)}</div>` : ''}
+    </div>
+  `).join('');
+
+  return `
+    <div style="padding:6px 0 10px;font-size:9px;color:#4a4d5e;letter-spacing:.1em">${signals.length} SIGNALS · ${timeAgo(d.generatedAt)}</div>
+    <div class="fade-up">${rows}</div>
+    <div style="height:20px"></div>
+  `;
+}
+
+function renderWatch(d) {
+  const watchSignals = d.watchSignals || [];
+  const groundTruth = d.groundTruth || [];
+
+  const watchHTML = watchSignals.map((s, i) => `
+    <div class="watch-item">
+      <span class="watch-num">${i+1}.</span>
+      <span class="watch-text">${esc(s)}</span>
+    </div>
+  `).join('');
+
+  const gtHTML = groundTruth.map(g => `
+    <div class="card" style="border-left:3px solid ${sigColor(g.significance)}">
+      <div style="display:flex;justify-content:space-between;margin-bottom:6px">
+        <span style="font-size:8px;color:${domainColor(g.domain)};letter-spacing:.1em">${esc(g.domain?.toUpperCase())}</span>
+        <span style="font-size:8px;color:${sigColor(g.significance)}">${esc(g.significance)}</span>
+      </div>
+      <div style="font-size:13px;font-weight:500;margin-bottom:5px">${esc(g.headline)}</div>
+      <div style="font-size:11px;color:var(--muted);line-height:1.5;margin-bottom:7px">${esc(g.summary)}</div>
+      <div style="font-size:11px;color:var(--accent);line-height:1.5;font-style:italic">→ ${esc(g.signal)}</div>
+    </div>
+  `).join('');
+
+  return `
+    <div class="card fade-up" style="border:1px solid rgba(245,158,11,0.18)">
+      <div class="card-label gold">ACTIVE WATCH SIGNALS</div>
+      ${watchHTML}
+    </div>
+    <div style="font-size:9px;color:#4a4d5e;letter-spacing:.1em;padding:10px 0 8px">GROUND TRUTH BASELINE</div>
+    <div class="fade-up">${gtHTML}</div>
+    <div style="height:20px"></div>
+  `;
+}
+
+// ── DIVERGENCE TOGGLE ─────────────────────────────────────────────────────────
+function toggleDivergence(id, row) {
+  const el = document.getElementById(id);
+  const isOpen = el.classList.contains('open');
+  // close all
+  document.querySelectorAll('.divergence-detail.open').forEach(d => d.classList.remove('open'));
+  if (!isOpen) el.classList.add('open');
+}
+function closeDivergence(id, e) {
+  e.stopPropagation();
+  document.getElementById(id).classList.remove('open');
+}
+
+// ── STALE CHECK ───────────────────────────────────────────────────────────────
+function checkStale(generatedAt) {
+  const ageHours = (Date.now() - new Date(generatedAt).getTime()) / 3600000;
+  if (ageHours > 13) {
+    document.querySelectorAll('.screen.active').forEach(s => {
+      const banner = s.querySelector('.stale-banner');
+      if (banner) banner.style.display = 'block';
+    });
+  }
+}
+
+// ── LOAD DATA ─────────────────────────────────────────────────────────────────
+async function loadData() {
+  try {
+    const res = await fetch('intelligence.json?t=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+
+    // Update header
+    const age = timeAgo(data.generatedAt);
+    const runNum = data.runNumber ? `RUN #${data.runNumber}` : '';
+    document.getElementById('run-info').innerHTML =
+      `<span class="live-dot" style="background:#22c55e;margin-right:4px"></span>${runNum}<br>${age.toUpperCase()}`;
+
+    // Stale banner HTML to prepend in each screen
+    const staleBanner = `<div class="stale-banner">⚠ Data is ${timeAgo(data.generatedAt)} old — next automated update scheduled soon</div>`;
+
+    // Render all screens
+    document.getElementById('situation-loading').style.display = 'none';
+    document.getElementById('situation-content').style.display = 'block';
+    document.getElementById('situation-content').innerHTML = staleBanner + renderSituation(data);
+
+    document.getElementById('markets-loading').style.display = 'none';
+    document.getElementById('markets-content').style.display = 'block';
+    document.getElementById('markets-content').innerHTML = staleBanner + renderMarkets(data);
+
+    document.getElementById('feed-loading').style.display = 'none';
+    document.getElementById('feed-content').style.display = 'block';
+    document.getElementById('feed-content').innerHTML = staleBanner + renderFeed(data);
+
+    document.getElementById('watch-loading').style.display = 'none';
+    document.getElementById('watch-content').style.display = 'block';
+    document.getElementById('watch-content').innerHTML = renderWatch(data);
+
+    checkStale(data.generatedAt);
+
+  } catch (err) {
+    const errHTML = `
+      <div class="error-state">
+        <div class="error-title">FAILED TO LOAD INTELLIGENCE DATA</div>
+        <div class="error-body">
+          ${err.message}<br><br>
+          If you just set up the repo, run the GitHub Action manually:<br>
+          GitHub → Actions → STRATWATCH Intelligence Run → Run workflow
+        </div>
+      </div>`;
+    ['situation','markets','feed','watch'].forEach(s => {
+      document.getElementById(s + '-loading').style.display = 'none';
+      const c = document.getElementById(s + '-content');
+      c.style.display = 'block';
+      c.innerHTML = errHTML;
+    });
+    document.getElementById('run-info').textContent = 'NO DATA';
+  }
+}
+
+// Register service worker
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js');
+}
+
+loadData();
+</script>
+</body>
+</html>
