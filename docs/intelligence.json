@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-05-24T16:06:24.332Z",
-  "runNumber": 2,
+  "generatedAt": "2026-05-24T16:21:49.065Z",
+  "runNumber": 3,
   "situation": {
-    "headline": "Iran war blockade impasse threatens global energy chokepoint as Trump-Xi summit fails to resolve underlying geopolitical fractures",
+    "headline": "Strait of Hormuz closure disrupts 10.5 million barrels/day of oil production driving global energy crisis while Iran nuclear program accelerates",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 75,
+        "prob": 85,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "US-Iran dual blockade of Hormuz strait continues despite ceasefire with only 5% normal shipping traffic"
+        "status": "Iran-US-Israel ceasefire precarious, Hormuz closed through May, new Sunni alliance forming to counter Iran"
       },
       {
         "name": "Indo-Pacific",
-        "prob": 45,
+        "prob": 25,
         "label": "China coercion escalation",
         "trajectory": "FLAT",
-        "status": "China leveraging Xi-Trump summit to consolidate position while maintaining Taiwan pressure and rare earth leverage"
+        "status": "PLA ADIZ incursions down but Taiwan contiguous zone violations increasing while US arms sales under Trump review"
       },
       {
         "name": "Europe",
-        "prob": 30,
+        "prob": 75,
         "label": "NATO cohesion fracture",
-        "trajectory": "DOWN",
-        "status": "NATO unanimously adopted 5% GDP defense target with 20% European spending increase but US allies concerned about burden"
+        "trajectory": "UP",
+        "status": "Russia could attack NATO within year after Ukraine war ends while US commitment questioned under Trump"
       },
       {
         "name": "Energy",
-        "prob": 85,
+        "prob": 95,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Strait of Hormuz throughput at 5% of normal levels creating biggest energy security threat in history according to IEA"
+        "status": "Oil at $106/barrel, global inventories falling 8.5 million barrels daily, LNG prices elevated, UAE left OPEC"
       },
       {
         "name": "US Politics",
-        "prob": 70,
+        "prob": 65,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Congressional Republicans blocking Iran war resolution votes while Democrats criticize lack of authorization for Venezuela and Iran"
+        "status": "Democrats overperforming in special elections amid Trump interference concerns but GOP maintains structural advantages"
       }
     ],
-    "unseen": "Venezuela operation has created template for direct kinetic capture missions that could be applied globally while Iran conflict is driving unprecedented European defense integration and NATO spending commitments that exceed US fiscal capacity to sustain alliance burden sharing expectations",
-    "criticalWindow": "Iran ceasefire negotiations deadline approaching within 2 weeks as dual blockade becomes economically unsustainable for both sides and regional states pressure for resolution",
+    "unseen": "Ethiopian-Sudanese tensions over Tigray mercenaries in Sudan creating Horn of Africa regional war risk that analysts miss connects directly to UAE-Saudi competition and Egyptian encirclement strategy against Ethiopia",
+    "criticalWindow": "Late May Strait of Hormuz reopening negotiations between US-Iran through Pakistani mediators while Iran Supreme Leader blocks uranium exports threatening deal collapse",
     "watchFor": [
-      "Iran nuclear deal collapse triggers Israeli unilateral strikes",
-      "Trump cancels Xi September meeting over Taiwan tensions",
-      "Saudi Arabia cuts US basing access over Iran policy",
-      "European NATO states activate Article 4 consultations over burden sharing"
+      "Iran uranium export reversal",
+      "Ethiopian-Sudan border clashes",
+      "NATO Article 5 testing in Baltics",
+      "Chinese contiguous zone violations escalation"
     ],
-    "confidenceNote": "High confidence on energy crisis trajectory and timeline but Iran negotiations remain opaque with conflicting readouts on deal proximity and key uncertainties around Chinese rare earth restrictions effectiveness",
-    "topPattern": "Traditional alliance structures fracturing under simultaneous energy crisis and burden sharing pressures while China exploits US overextension to consolidate regional influence through economic coercion rather than military confrontation"
+    "confidenceNote": "High confidence on energy crisis impacts but uncertain on Middle East ceasefire durability and whether Europe can deter Russian post-Ukraine aggression timing",
+    "topPattern": "Global energy crisis from Hormuz closure intersects with weakening alliance structures as regional conflicts increasingly draw in multiple great powers simultaneously"
   },
   "signals": [],
   "markets": [
