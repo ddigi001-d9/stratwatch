@@ -80,15 +80,18 @@ function extractText(data) {
 }
 
 function parseJSON(text) {
-  const clean = text
+  let clean = text
     .replace(/<cite[^>]*>(.*?)<\/cite>/gs, '$1')
     .replace(/\[[\d,\s-]+\]/g, '')
-    .replace(/```json/g, '').replace(/```/g, '');
-  const match = clean.match(/\{[\s\S]*\}/);
-  if (!match) throw new Error("No JSON found in response");
-  return JSON.parse(match[0]);
+    .replace(/```json\s*/gi, '')
+    .replace(/```\s*/g, '')
+    .trim();
+  // Find the outermost { } block
+  const start = clean.indexOf('{');
+  const end = clean.lastIndexOf('}');
+  if (start === -1 || end === -1) throw new Error("No JSON found in response");
+  return JSON.parse(clean.slice(start, end + 1));
 }
-
 // ── POLYMARKET ────────────────────────────────────────────────────────────────
 async function fetchPolymarket(slug) {
   try {
