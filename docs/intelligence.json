@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-25T13:17:35.021Z",
-  "runNumber": 7,
+  "generatedAt": "2026-05-25T17:21:56.847Z",
+  "runNumber": 8,
   "situation": {
-    "headline": "Iran war blockade diplomacy becomes primary global stability threat as US-China summit fails to deliver strategic breakthroughs",
+    "headline": "Iran war blockade of Strait of Hormuz threatens global energy security while US-China strategic competition intensifies amid European defense transformation",
     "velocity": "ACCELERATING",
     "domains": [
       {
@@ -10,118 +10,98 @@
         "prob": 75,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Iran war negotiations stalled with Strait of Hormuz only 5% operational and energy shock spreading globally"
+        "status": "US-Iran blockade diplomacy in Strait of Hormuz with energy disruption affecting global markets and ongoing military tension despite fragile ceasefire"
       },
       {
         "name": "Indo-Pacific",
-        "prob": 35,
+        "prob": 65,
         "label": "China coercion escalation",
-        "trajectory": "FLAT",
-        "status": "China reducing ADIZ incursions while expanding economic coercion and undersea research around Taiwan"
+        "trajectory": "UP",
+        "status": "China conducting aggressive military posturing around Taiwan with increased research vessel activities and naval exercises timed to counter US alliance exercises"
       },
       {
         "name": "Europe",
-        "prob": 25,
+        "prob": 35,
         "label": "NATO cohesion fracture",
         "trajectory": "DOWN",
-        "status": "NATO unity strengthening with unprecedented defense spending surge to 3.5-5% GDP target despite internal tensions"
+        "status": "European defense integration accelerating through Ukrainian battlefield expertise transfer and unprecedented defense spending increases to reduce US dependence"
       },
       {
         "name": "Energy",
         "prob": 80,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Oil prices spiking with Hormuz disruption and OPEC fragmentation as UAE exits cartel in May 2026"
+        "status": "Oil prices at 103 dollars per barrel due to Strait of Hormuz disruptions with 25 percent of global seaborne oil trade blocked by Iranian restrictions"
       },
       {
         "name": "US Politics",
-        "prob": 60,
+        "prob": 45,
         "label": "House flip Nov 2026",
-        "trajectory": "UP",
-        "status": "Trump administration under pressure from Iran war costs and limited China summit gains amid midterm headwinds"
+        "trajectory": "FLAT",
+        "status": "Republicans currently control House but traditional midterm dynamics favoring opposition party amid Trump foreign policy complications"
       }
     ],
-    "unseen": "China is deliberately reducing Taiwan provocations to avoid three-front pressure while Iran war distracts US focus, creating strategic window for economic coercion operations disguised as cross-strait normalization",
-    "criticalWindow": "Next 30 days will determine if Iran negotiations collapse completely, forcing Trump to choose between major military escalation or accepting strategic defeat that emboldens China on Taiwan",
+    "unseen": "China exploiting Iran crisis to demonstrate blockade capabilities in South China Sea while European defense transformation accelerates through Ukrainian technological integration creating new transatlantic security architecture",
+    "criticalWindow": "Strait of Hormuz standoff resolution before Iranian oil storage reaches capacity in late May forcing production cuts and potential escalation",
     "watchFor": [
-      "Iran rejecting US nuclear demands triggering infrastructure strikes",
-      "China announcing Taiwan economic integration package",
-      "NATO 5% spending target implementation resistance",
-      "Venezuela oil production ramping beyond 2 million barrels daily"
+      "Trump-Xi summit May 14-15 outcomes",
+      "Iran storage capacity limits hitting",
+      "European defense procurement acceleration",
+      "Chinese Scarborough Shoal activity"
     ],
-    "confidenceNote": "High uncertainty on Iran negotiation timeline and Chinese strategic patience calculations, with Venezuela operation success creating unpredictable precedent effects",
-    "topPattern": "Strategic overstretch is forcing US to make hard choices between Iran containment and China deterrence while allies hedge by building independent capabilities"
+    "confidenceNote": "High uncertainty on Iran blockade duration and Chinese timing for Taiwan pressure given Trump administration transactional approach",
+    "topPattern": "Global energy chokepoints becoming primary instruments of strategic coercion as US alliance system faces simultaneous stress tests in Middle East and Indo-Pacific requiring European strategic autonomy acceleration"
   },
   "signals": [
     {
       "id": "sig1",
-      "domain": "Middle East",
-      "headline": "Iran war enters extended blockade phase with muted oil market reaction",
+      "domain": "Europe",
+      "headline": "Russia launches massive hypersonic Oreshnik missile strike on Kyiv",
       "significance": "HIGH",
-      "summary": "Iran continues blocking Strait of Hormuz while US maintains naval blockade of Iranian ports. Oil prices holding at $60-65 range despite 20% of global oil shipments threatened. China and India ramping up imports of Brazilian crude to offset disruptions.",
-      "signal": "Markets pricing in permanent supply route realignment rather than temporary shock, suggesting global energy architecture fundamentally shifting away from Middle East dependencies. US achieving strategic goal of weakening Iranian leverage without major economic costs.",
-      "contradicts": "Traditional wisdom that Strait of Hormuz disruptions automatically trigger oil price spikes and economic panic",
-      "timestamp": "2026-05-25T13:18:57.782Z"
+      "summary": "Russia conducted one of its largest attacks on Kyiv since 2022, using 600 drones and 90 missiles including the nuclear-capable Oreshnik hypersonic ballistic missile. The attack killed 4 people, injured 100, and hit government buildings including Ukraine's Foreign Ministry and Cabinet headquarters.",
+      "signal": "This represents a significant escalation in Russia's warfare strategy as the US is distracted by the Iran conflict. The use of the nuclear-capable Oreshnik sends a direct deterrence message to NATO, while US sanctions relief on Russian oil during the Iran crisis creates perception of weakened Western resolve on Ukraine.",
+      "contradicts": "Western consensus that sanctions pressure on Russia was increasing and that nuclear escalation risks were manageable",
+      "timestamp": "2026-05-25T17:23:14.471Z"
     },
     {
       "id": "sig2",
-      "domain": "Europe",
-      "headline": "NATO allies now outspend US in defense purchasing power for first time",
-      "significance": "CRITICAL",
-      "summary": "US treaty allies spent 111% of US defense budget in purchasing power terms in 2025. NATO committed to 5% GDP defense spending by 2035. European defense spending surged 14% from 2024 to 2025.",
-      "signal": "Historic shift in burden-sharing fundamentally altering transatlantic security balance. Europe achieving genuine strategic autonomy while Trump pressures allies. This creates space for more assertive US moves elsewhere while reducing European dependency leverage over Washington.",
-      "contradicts": "Persistent narrative that Europe remains militarily dependent on US protection and unwilling to pay for defense",
-      "timestamp": "2026-05-25T13:18:57.782Z"
+      "domain": "Indo-Pacific",
+      "headline": "China launches Shenzhou 23 with first Hong Kong astronaut and year-long space mission",
+      "significance": "MEDIUM",
+      "summary": "China launched three astronauts to its Tiangong space station with one crew member staying for a full year to study long-duration spaceflight. The mission includes Hong Kong's first astronaut Lai Ka-ying and prepares for Pakistan's first astronaut visit in October 2026.",
+      "signal": "China is demonstrating technological autonomy while expanding space cooperation with Pakistan, creating alternative partnerships as US-China competition intensifies. The timing signals Beijing's confidence in pursuing lunar ambitions despite geopolitical tensions, with space becoming a key domain for alliance building beyond traditional Western frameworks.",
+      "contradicts": "Assumptions that US-China tensions would constrain China's international space partnerships",
+      "timestamp": "2026-05-25T17:23:14.471Z"
     },
     {
       "id": "sig3",
-      "domain": "Indo-Pacific",
-      "headline": "South Korea-India defense partnership targets displacement of Russian and Chinese weapons",
-      "significance": "HIGH",
-      "summary": "President Lee's April state visit launched KIND-X initiative modeled on INDUS-X. Joint production expansion from howitzers to air defense systems. Russia still accounts for 40% of India's arms imports but expected to drop below 25% by 2028.",
-      "signal": "Democratic arms suppliers creating integrated production networks to systematically displace authoritarian weapons exports. This strengthens both economic and security linkages while reducing Global South dependency on Russia and China, directly supporting US competitive strategy.",
-      "contradicts": "Assumption that India maintains strategic autonomy by balancing between US and Russia in defense procurement",
-      "timestamp": "2026-05-25T13:18:57.782Z"
+      "domain": "Africa",
+      "headline": "Bundibugyo Ebola outbreak spreads to multiple countries with no existing vaccine",
+      "significance": "CRITICAL",
+      "summary": "A new Ebola outbreak caused by the rare Bundibugyo virus has infected nearly 1000 suspected cases with 216 deaths across DRC, Uganda, and other regions. Unlike previous outbreaks, no approved vaccines exist for this strain, and WHO declared it a public health emergency.",
+      "signal": "This creates a dual-crisis scenario where Western attention and resources are split between ongoing conflicts and a potential pandemic. It tests Western pandemic preparedness systems already strained by geopolitical crises, potentially forcing painful resource allocation choices between security and public health priorities.",
+      "contradicts": "Post-COVID confidence in rapid pandemic response capabilities during crisis periods",
+      "timestamp": "2026-05-25T17:23:14.471Z"
     },
     {
       "id": "sig4",
-      "domain": "Energy",
-      "headline": "Venezuela oil recovery at 1.1 million bpd fails to disrupt global markets",
-      "significance": "MEDIUM",
-      "summary": "Venezuela production stabilizing after January US intervention despite being OPEC founding member. OPEC+ maintaining production cuts while supply expected to exceed demand by 3.85 million bpd in 2026.",
-      "signal": "Energy markets demonstrating remarkable resilience to geopolitical shocks through supply diversification and strategic reserves. Traditional oil weapon losing effectiveness, reducing leverage of energy-exporting authoritarian states over Western economies.",
-      "contradicts": "Historical pattern where military intervention in major oil producers causes market volatility and price spikes",
-      "timestamp": "2026-05-25T13:18:57.782Z"
+      "domain": "Middle East",
+      "headline": "US-Iran peace framework nears completion despite ongoing energy crisis",
+      "significance": "HIGH",
+      "summary": "The US and Iran are finalizing a peace agreement with major points agreed in principle, though the Strait of Hormuz remains closed. Energy officials expect full oil flow restoration won't occur until Q1-Q2 2027, with gas prices at 4-year highs.",
+      "signal": "The extended timeline for energy market recovery creates sustained leverage for oil producers including Russia, potentially undermining long-term sanctions effectiveness. This structural shift may force permanent recalibration of Western energy security strategies and sanctions regimes.",
+      "contradicts": "Market expectations of rapid energy normalization following any Iran peace deal",
+      "timestamp": "2026-05-25T17:23:14.471Z"
     },
     {
       "id": "sig5",
-      "domain": "US Politics",
-      "headline": "Trump-Xi summit delivers no Iran breakthrough despite high expectations",
-      "significance": "HIGH",
-      "summary": "Trump returned from China May 16 with no concrete progress on Iran conflict resolution. Xi offered previously stated positions on Strait reopening and Iranian nuclear program. Administration officials watching for path forward on Iran strategy.",
-      "signal": "China declining to provide Iran off-ramp despite US pressure, suggesting Beijing comfortable with prolonged US entanglement in Middle East. Trump's negotiating leverage with Xi appears limited, potentially forcing more unilateral US approaches to Iran crisis.",
-      "contradicts": "Expectation that China's economic interests would compel it to help resolve Iran crisis and reopen Strait",
-      "timestamp": "2026-05-25T13:18:57.782Z"
-    },
-    {
-      "id": "sig6",
-      "domain": "Technology",
-      "headline": "China gains strategic advantage from Iran war intelligence collection",
+      "domain": "Europe",
+      "headline": "UK provides indefinite sanctions relief on Russian oil products amid energy crisis",
       "significance": "MEDIUM",
-      "summary": "US intelligence analysis details how China exploiting Iran conflict to study US military capabilities under fire. Chinese firms providing dual-use technology including satellite intelligence and radar systems to Iran despite denials.",
-      "signal": "China treating Iran conflict as live-fire testing ground for future Taiwan scenario. Beijing collecting operational intelligence on US systems, tactics, and vulnerabilities while maintaining plausible deniability through private companies.",
-      "contradicts": "Belief that China's economic interests would prevent it from supporting Iran against the US",
-      "timestamp": "2026-05-25T13:18:57.782Z"
-    },
-    {
-      "id": "sig7",
-      "domain": "Africa",
-      "headline": "Ebola outbreak spreads from Congo to Uganda threatening 10 countries",
-      "significance": "MEDIUM",
-      "summary": "Fast-spreading Ebola outbreak racing across eastern Congo into Uganda with infections threatening 10 African countries. International health responses being mobilized as Africa faces new pandemic threat.",
-      "signal": "Major health security crisis emerging at time when global attention focused on Middle East conflict. Could strain international response capacity and create new migration pressures toward Europe, while highlighting African governance vulnerabilities during broader global instability.",
-      "contradicts": null,
-      "timestamp": "2026-05-25T13:18:57.782Z"
+      "summary": "The UK issued indefinite trade licenses allowing imports of Russian diesel and jet fuel processed in third countries like India and Turkey. This follows similar US measures extending Russian oil sanctions waivers, citing energy supply concerns from the Iran conflict.",
+      "signal": "The indefinite nature of UK relief suggests structural rather than temporary energy market changes. This creates precedent for sanctions erosion during crises and may signal broader Western acceptance that energy security takes precedence over Ukraine solidarity when domestic pressure mounts.",
+      "contradicts": "UK's image as Ukraine's most steadfast supporter and Western sanctions unity",
+      "timestamp": "2026-05-25T17:23:14.471Z"
     }
   ],
   "markets": [
@@ -205,54 +185,54 @@
     }
   ],
   "watchSignals": [
-    "Iran ceasefire breakdown and resumed US-Israel military operations, particularly monitoring Strait of Hormuz shipping disruptions and Tehran's nuclear program acceleration decisions after leadership transition",
-    "Brazil October 4 first round presidential election results showing Lula vs Flavio Bolsonaro margin, with runoff implications for regional left-right shift and Trump administration hemispheric strategy",
-    "European NATO defense spending implementation toward 5% GDP target by 2035, monitoring fiscal strain indicators and burden-sharing friction between US and European allies over realistic timelines",
-    "China military exercises and rhetoric escalation around Taiwan, particularly during sensitive political periods or US distraction windows while engaged in Middle East operations",
-    "AI technology breakthrough announcements versus bubble burst indicators, monitoring data center investment flows, enterprise adoption metrics, and AGI development claims impacting strategic competition",
-    "Denmark early election outcomes and Greenland independence referendum developments, testing NATO Article 5 cohesion and US-Europe alliance fracture potential amid Trump territorial demands"
+    "Strait of Hormuz shipping traffic levels and Iranian naval mine-laying activity as indicator of conflict escalation or de-escalation with US forces",
+    "US-Iran Pakistan-mediated negotiations progress or breakdown before May 30 deadline amid blockade diplomacy standoff",
+    "Chinese military activity around Taiwan during Trump's September White House visit preparation following Xi's warnings about potential conflicts",
+    "NATO member compliance with new 3.5% GDP defense spending benchmark amid wavering support for Ukraine assistance programs",
+    "Critical minerals export restrictions renewal or expansion by China when trade deal expires late 2026",
+    "European defense production capacity delivery rates for 2026-2027 orders amid equipment stocks below 2021 levels"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East Security",
-      "headline": "Iran war enters fragile ceasefire with weakened regime and nuclear acceleration risk",
+      "domain": "Middle East Energy Security",
+      "headline": "US-Iran conflict has closed Strait of Hormuz to 95% of shipping since February 28 killing of Supreme Leader Khamenei",
       "significance": "CRITICAL",
-      "summary": "US-Israel strikes beginning February 28 killed Supreme Leader Khamenei and severely degraded Iranian military capacity. Current ceasefire remains unstable with son Mojtaba Khamenei as new leader. Iran may pursue rapid nuclear weaponization as deterrent.",
-      "signal": "Risk of conflict resumption threatens global energy markets while nuclear breakout could reshape entire Middle East strategic balance and US containment strategy"
+      "summary": "Iran has effectively blocked the Strait of Hormuz following US-Israeli strikes that killed Supreme Leader Ali Khamenei, disrupting 20% of global oil and LNG flows. Oil prices peaked at $126 per barrel creating the largest energy supply disruption since the 1970s crisis.",
+      "signal": "US energy security compromised while benefiting Russia economically during prolonged strategic competition"
     },
     {
       "id": "gt2",
-      "domain": "Western Hemisphere",
-      "headline": "US captured Venezuelan President Maduro in January military operation",
-      "significance": "HIGH",
-      "summary": "Operation Absolute Resolve on January 3 extracted Maduro to face narcoterrorism charges in New York. Venezuelan political transition remains unclear with Vice President Delcy Rodriguez as interim leader. Trump administration claims authority to run Venezuela temporarily.",
-      "signal": "Demonstrates unprecedented US willingness for direct military intervention in hemisphere, potentially reshaping regional power dynamics and signaling approach to other adversarial regimes"
+      "domain": "US-China Strategic Competition",
+      "headline": "Xi Jinping directly warned Trump that Taiwan mishandling could lead to US-China military conflict during Beijing summit",
+      "significance": "CRITICAL",
+      "summary": "Chinese President Xi told Trump that Taiwan is the most important US-China issue and mismanagement will cause clashes and conflicts. This marks the most direct warning about potential military confrontation over Taiwan from China's leadership.",
+      "signal": "Direct threat of great power military conflict over Taiwan as US strategic ambiguity policy faces unprecedented pressure"
     },
     {
       "id": "gt3",
-      "domain": "Alliance Cohesion",
-      "headline": "NATO adopts 5% GDP defense spending target by 2035 amid burden-sharing tensions",
-      "significance": "CRITICAL",
-      "summary": "Hague Summit established 3.5% minimum with additional 1.5% for security-related investments. European allies face severe fiscal constraints while meeting US demands. First-ever European ally Norway now exceeds US per capita defense spending.",
-      "signal": "Tests fundamental alliance sustainability as economic realities collide with security requirements, potentially fracturing transatlantic burden-sharing consensus"
+      "domain": "European Defense Transformation",
+      "headline": "NATO allies agreed to 5% GDP defense spending target by 2035 with 3.5% minimum for core requirements",
+      "significance": "HIGH",
+      "summary": "European NATO members increased defense spending 20% in 2025 alone, with all allies now exceeding 2% GDP. Germany leads with €97 billion investment, while Norway surpassed US per-capita defense spending for first time in NATO history.",
+      "signal": "European strategic autonomy development potentially reducing US alliance burden while creating capability gaps during transition"
     },
     {
       "id": "gt4",
-      "domain": "Technology Competition",
-      "headline": "AI development faces bubble burst risk while maintaining geopolitical competition intensity",
+      "domain": "Technology Supply Chains",
+      "headline": "China controls 99% of gallium refining and 60% of tungsten processing critical for semiconductor production",
       "significance": "HIGH",
-      "summary": "Investment approaching $3 trillion by 2028 with performance plateaus raising sustainability questions. Deepfakes becoming routine and scalable. Major security breaches including Claude Code leak exposing enterprise AI capabilities to rivals.",
-      "signal": "AI leadership transition could determine future strategic advantages while misinformation proliferation threatens democratic institutions and decision-making processes globally"
+      "summary": "Critical minerals export restrictions by China threaten semiconductor supply chains with tungsten prices rallying amid Middle East energy crisis. Alternative Western processing capacity remains 7-10 years away from meaningful production levels.",
+      "signal": "US technological dominance vulnerability through critical materials chokepoints controlled by strategic competitor"
     },
     {
       "id": "gt5",
-      "domain": "Arctic Security",
-      "headline": "Greenland crisis threatens NATO unity as Denmark calls early elections",
+      "domain": "Ukraine-Russia Conflict",
+      "headline": "Ukraine war has evolved into high-tech attrition warfare with massive drone campaigns against Russian rear areas",
       "significance": "HIGH",
-      "summary": "Trump threatened military force and 25% tariffs before reversing position at Davos. Denmark deployed additional troops while considering accelerated Greenland independence process. Crisis represents most serious NATO integrity threat since founding.",
-      "signal": "Arctic control competition intensifies as climate change opens new strategic routes, with potential for first intra-NATO territorial dispute triggering alliance fracture"
+      "summary": "From May 16-22 Ukraine launched 4,184 drones against Russian rear regions while Russia responded with Oreshnik hypersonic missile strikes on Kiev. Conflict shows no signs of resolution despite temporary ceasefire discussions.",
+      "signal": "Prolonged European security crisis straining US resources while testing NATO Article 5 resolve and alliance cohesion"
     }
   ],
-  "scanNote": "Searched breaking geopolitical developments across all domains finding surprisingly resilient global systems adapting to major shocks."
+  "scanNote": "Searched recent global developments with focus on unexpected patterns - found significant escalation dynamics, alliance shifts, and crisis interdependencies that challenge conventional analysis frameworks."
 }
