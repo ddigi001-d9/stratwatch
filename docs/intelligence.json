@@ -1,119 +1,17 @@
 {
-  "generatedAt": "2026-05-27T19:34:36.881Z",
-  "runNumber": 11,
+  "generatedAt": "2026-05-28T19:55:05.954Z",
+  "runNumber": 12,
   "situation": {
-    "headline": "Iran war aftermath and US demonstration effect on global order acceleration",
-    "velocity": "ACCELERATING",
-    "domains": [
-      {
-        "name": "Middle East",
-        "prob": 75,
-        "label": "regional escalation 90d",
-        "trajectory": "UP",
-        "status": "Iran war concluded May 5 with talks on peace deal ongoing but fragile nuclear negotiations continue stalling"
-      },
-      {
-        "name": "Indo-Pacific",
-        "prob": 35,
-        "label": "China coercion escalation",
-        "trajectory": "FLAT",
-        "status": "Trump-Xi summit May 14-15 stabilized relations temporarily but Taiwan tensions remain elevated after sharp Chinese warnings"
-      },
-      {
-        "name": "Europe",
-        "prob": 45,
-        "label": "NATO cohesion fracture",
-        "trajectory": "UP",
-        "status": "EU-China trade war accelerating as European Commission prepares broader safeguard measures after 360 billion euro deficit"
-      },
-      {
-        "name": "Energy",
-        "prob": 80,
-        "label": "supply shock 60d",
-        "trajectory": "UP",
-        "status": "Strait of Hormuz disruptions from Iran war continue affecting global oil flows despite gradual reopening"
-      },
-      {
-        "name": "US Politics",
-        "prob": 55,
-        "label": "House flip Nov 2026",
-        "trajectory": "UP",
-        "status": "Trump's Venezuela capture success offset by Iran war political costs as midterm elections approach"
-      }
-    ],
-    "unseen": "The Venezuela capture demonstrates US willingness to conduct unilateral regime change operations that China is studying for Taiwan scenarios while simultaneously straining alliance coordination as Trump bypassed Congress",
-    "criticalWindow": "EU decision point on China trade measures at May 29 Commissioner meeting will determine whether trade war escalates before Xi visits Washington in September",
-    "watchFor": [
-      "Iran nuclear negotiations collapse",
-      "EU China safeguard measures announcement",
-      "Strait of Hormuz closure resumption",
-      "Ukraine-Russia territorial reversals accelerating"
-    ],
-    "confidenceNote": "High confidence on Iran war impacts and China-EU tensions but medium confidence on alliance durability given contradictory signals from Venezuela success versus Iran costs",
-    "topPattern": "US demonstration of hard power in Venezuela while Iran war drags creates template for authoritarian powers while fracturing Western consensus on multilateral approaches"
+    "headline": "Assessment unavailable",
+    "velocity": "STABLE",
+    "domains": [],
+    "watchFor": [],
+    "unseen": "",
+    "criticalWindow": "",
+    "confidenceNote": "",
+    "topPattern": ""
   },
-  "signals": [
-    {
-      "id": "sig1",
-      "domain": "Middle East",
-      "headline": "US conducts self-defense strikes near Bandar Abbas as Iran negotiations continue",
-      "significance": "CRITICAL",
-      "summary": "US forces struck missile launch sites and Iranian boats laying mines near the Strait of Hormuz on May 25, despite ongoing ceasefire talks in Qatar. Iran reported IRGC casualties and responded by claiming to shoot down a US drone. Traffic through the Strait remains effectively at a standstill.",
-      "signal": "Shows the Iran war ceasefire is fragile with violations by both sides even during active negotiations. Continued Strait closure threatens global energy security and could force Fed policy tightening.",
-      "contradicts": "Conventional wisdom that negotiations would stabilize the situation. The strikes during talks suggest military operations may continue regardless of diplomatic progress.",
-      "timestamp": "2026-05-27T19:36:00.683Z"
-    },
-    {
-      "id": "sig2",
-      "domain": "Indo-Pacific",
-      "headline": "Pakistan Army Chief accompanies PM Sharif to Beijing amid Iran mediation role",
-      "significance": "HIGH",
-      "summary": "Field Marshal Asim Munir accompanied Pakistani PM Sharif to Beijing for meetings with Xi Jinping. China praised Pakistan's mediation efforts between US and Iran. Visit coincided with 75th anniversary of China-Pakistan relations and new agreements on AI, trade and CPEC.",
-      "signal": "China is leveraging Pakistan's Iran mediation role to position itself as an indirect power broker in Middle East conflicts while deepening strategic ties.",
-      "contradicts": "Assumption that China remains on sidelines of Middle East conflicts. Beijing is using Pakistan as proxy to influence US-Iran negotiations.",
-      "timestamp": "2026-05-27T19:36:00.683Z"
-    },
-    {
-      "id": "sig3",
-      "domain": "Europe",
-      "headline": "Macron initiates first call with Lukashenko since 2022, discussing EU-Belarus ties",
-      "significance": "MEDIUM",
-      "summary": "French President Macron called Belarusian leader Lukashenko on May 24, their first contact since February 2022. Belarus reported discussion of regional issues and EU relations. The call came amid increased nuclear exercises and concerns about Belarusian involvement in Ukraine conflict.",
-      "signal": "European frustration with being excluded from US-led peace processes is driving direct engagement with sanctioned leaders, potentially fracturing Western unity.",
-      "contradicts": "Consensus that EU maintains unified sanctions posture against Belarus. Macron's outreach signals potential sanctions erosion and bilateral deal-making.",
-      "timestamp": "2026-05-27T19:36:00.683Z"
-    },
-    {
-      "id": "sig4",
-      "domain": "Americas",
-      "headline": "US captured Venezuelan President Maduro in January 2026 military operation",
-      "significance": "CRITICAL",
-      "summary": "Operation Absolute Resolve on January 3 captured Venezuelan President Maduro and his wife in Caracas. US forces flew them to New York for narcoterrorism charges. Trump announced US will run Venezuela until transition occurs. Oil deals worth billions already signed.",
-      "signal": "Demonstrates new Trump Doctrine of muscular hemispheric intervention that prioritizes energy access and directly challenges China's regional influence.",
-      "contradicts": "Post-Cold War norms against regime change operations in Latin America. Shows return to Monroe Doctrine enforcement with military action against Chinese-backed leaders.",
-      "timestamp": "2026-05-27T19:36:00.683Z"
-    },
-    {
-      "id": "sig5",
-      "domain": "Technology",
-      "headline": "Defense alliances transitioning to regional security initiatives",
-      "significance": "HIGH",
-      "summary": "Regional defense partnerships like Philippines-Japan Reciprocal Access Agreement indicate reduced reliance on US-led security guarantees. Europe developing autonomous drone capabilities with Ukraine assistance. Asia-Pacific preparing for Shangri-La Dialogue reassessment of US role.",
-      "signal": "US alliance system fragmenting as partners hedge by developing independent defense capabilities, reducing American leverage and increasing multipolar competition.",
-      "contradicts": "Belief that US alliance networks remain cohesive. Partners are actively reducing dependency on American security architecture through bilateral deals.",
-      "timestamp": "2026-05-27T19:36:00.683Z"
-    },
-    {
-      "id": "sig6",
-      "domain": "Energy",
-      "headline": "Iran institutionalizing permanent control over Strait of Hormuz despite ceasefire",
-      "significance": "CRITICAL",
-      "summary": "Tehran establishing new maritime toll authority for Strait passage and operating don't-ask-don't-tell insurance market. Gulf states investing in bypass pipelines but Iran cementing administrative control over chokepoint.",
-      "signal": "Iran using war to achieve permanent leverage over global energy flows, making future conflicts more likely as it monetizes chokepoint control.",
-      "contradicts": "Expectation that ceasefire would restore normal shipping. Iran is using conflict to lock in strategic advantage over global energy transit.",
-      "timestamp": "2026-05-27T19:36:00.683Z"
-    }
-  ],
+  "signals": [],
   "markets": [
     {
       "aiKey": "house_gop",
@@ -194,55 +92,6 @@
       "url": "https://polymarket.com/event/will-russia-capture-kyiv-by-end-of-2026"
     }
   ],
-  "watchSignals": [
-    "EU Commission vote on 29 May 2026 on new anti-China overcapacity trade instruments requested by Spain France Italy Netherlands Lithuania - outcome will determine if Europe escalates trade war with Beijing",
-    "China's retaliation patterns following European defense trade measures - mineral export restrictions gas supply cuts critical component disruptions targeting European clean energy and defense industrial base",
-    "Putin-Xi energy pipeline negotiations stall indicators - Power of Siberia 2 project deadlock shows Beijing hedging against Moscow dependence despite strategic alignment rhetoric",
-    "Iranian regime stability indicators including protest activity leadership coherence Revolutionary Guard loyalty as regime change probability increases under combined US-Israeli pressure",
-    "NATO European deep-strike capability development timelines vs US Tomahawk withdrawal from Germany - critical gap in deterrence credibility through 2028-2035 delivery window",
-    "Venezuelan post-Maduro stabilization progress and oil production restoration rates affecting global energy security calculations ahead of potential Iran supply disruption"
-  ],
-  "groundTruth": [
-    {
-      "id": "gt1",
-      "domain": "Military Operations",
-      "headline": "US captured Venezuelan President Maduro in January 2026 using Operation Absolute Resolve",
-      "significance": "CRITICAL",
-      "summary": "US forces conducted 2.5-hour military operation capturing Maduro and wife from Caracas for narcoterrorism charges. Operation used USS Gerald Ford strike group and removed Iran-allied regime from Western Hemisphere. Venezuelan oil now under US-aligned governance.",
-      "signal": "Demonstrates Trump doctrine of direct action against indicted leaders and secures energy hedge against Iran conflict escalation"
-    },
-    {
-      "id": "gt2",
-      "domain": "Trade War",
-      "headline": "EU-China trade conflict escalating with China running $113 billion surplus in first 4 months of 2026",
-      "significance": "HIGH",
-      "summary": "Five major EU economies demand emergency trade instruments against Chinese overcapacity. China banned companies from cooperating with EU foreign subsidy investigations. EU considering forcing companies to source from minimum three suppliers.",
-      "signal": "European industrial base under existential pressure from Chinese state subsidies - US gains leverage as Europe forced to choose sides in economic bifurcation"
-    },
-    {
-      "id": "gt3",
-      "domain": "Military Spending",
-      "headline": "NATO agreed 5 percent GDP defense spending target by 2035 with 3.5 percent core defense at The Hague Summit 2025",
-      "significance": "HIGH",
-      "summary": "European defense spending surging to $800 billion by 2030 with all NATO allies exceeding 2 percent GDP in 2025. However deep-strike capabilities won't deliver until 2028-2035 creating critical deterrence gap.",
-      "signal": "Europe increasing burden-sharing but capability gaps persist - US maintains leverage over European security through technology and weapons systems"
-    },
-    {
-      "id": "gt4",
-      "domain": "Energy Security",
-      "headline": "Iran conflict has effectively closed Strait of Hormuz disrupting global energy flows",
-      "significance": "CRITICAL",
-      "summary": "Ongoing US-Iran war has severely constrained shipping through Hormuz which handles 20 percent of global oil. Energy price premiums rising with global LNG availability tightening. Policy focus shifting to electricity system resilience.",
-      "signal": "Venezuelan oil capture provides strategic buffer but global energy security remains vulnerable to Middle East disruption - favors US domestic production"
-    },
-    {
-      "id": "gt5",
-      "domain": "Strategic Partnerships",
-      "headline": "Putin-Xi summit in Beijing May 2026 failed to achieve major energy pipeline breakthrough despite strategic rhetoric",
-      "significance": "HIGH",
-      "summary": "Despite declarations of unprecedented cooperation and 40 bilateral agreements signed, Russia failed to secure Power of Siberia 2 pipeline deal. China hedging against Russian dependence while maintaining strategic alignment.",
-      "signal": "China-Russia axis shows structural limitations despite shared opposition to US hegemony - Beijing prioritizes strategic autonomy over Russian partnership"
-    }
-  ],
-  "scanNote": "Searched recent geopolitical developments finding Iran war escalation, China-Pakistan strategic deepening, European sanctions fracturing, Venezuela regime change, alliance fragmentation, and Iranian energy chokepoint control."
+  "watchSignals": [],
+  "groundTruth": []
 }
