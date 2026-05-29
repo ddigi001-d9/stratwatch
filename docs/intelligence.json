@@ -1,127 +1,127 @@
 {
-  "generatedAt": "2026-05-29T19:22:02.152Z",
-  "runNumber": 13,
+  "generatedAt": "2026-05-29T19:55:04.431Z",
+  "runNumber": 14,
   "situation": {
-    "headline": "Iran war forces unprecedented global realignments as Strait of Hormuz closure enters fourth month with over 14 million barrels per day of oil supply offline",
+    "headline": "Iran war closes Strait of Hormuz creating largest global energy disruption in history while Trump administration captures Venezuelan President Maduro",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 75,
+        "prob": 85,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "US-Iran negotiations stalled while blockade diplomacy entrenches with Iranian maritime control zones expanding despite Trump-Xi summit discussions"
+        "status": "Iran war has closed Strait of Hormuz disrupting 20% of global oil supply in largest energy crisis since 1970s with oil prices surging 10-13%."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 65,
+        "prob": 75,
         "label": "China coercion escalation",
-        "trajectory": "FLAT",
-        "status": "Trump-Xi summit produced trade stabilization but Xi warned Taiwan mishandling puts relationship in great jeopardy as US military focus remains on Iran"
+        "trajectory": "UP",
+        "status": "China pursuing aggressive multi-domain strategy with military posturing around Taiwan and expanded research vessel operations mapping undersea terrain."
       },
       {
         "name": "Europe",
-        "prob": 70,
+        "prob": 65,
         "label": "NATO cohesion fracture",
-        "trajectory": "UP",
-        "status": "Europeanization of defense accelerating with burden-sharing rebalancing as US strategy deprioritizes Europe while Congress constrains troop reductions"
+        "trajectory": "DOWN",
+        "status": "European gas storage at 30% following harsh winter with Dutch TTF prices doubling while EU officials fear Russian attack on Baltic states."
       },
       {
         "name": "Energy",
-        "prob": 85,
+        "prob": 95,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Strategic petroleum reserves depleting rapidly with global inventories drawing 8.5 million barrels per day while analysts warn prices may hit 150-200 dollars per barrel"
+        "status": "Global energy investment reaching 3.4 trillion as countries desperately diversify away from Strait of Hormuz dependencies amid IEA largest supply disruption ever."
       },
       {
         "name": "US Politics",
-        "prob": 80,
+        "prob": 70,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Democrats leading by 73 percent probability despite Republican fundraising advantage and mid-decade redistricting gains as Iran war tests Trump administration competence"
+        "status": "Democrats need net gain of 3 House seats for majority with Iran war fuel costs emerging as central electoral concern for November midterms."
       }
     ],
-    "unseen": "China leveraging US distraction in Iran to solidify industrial overcapacity positions while European strategic autonomy acceleration creates structural NATO transformation that outlasts current crisis",
-    "criticalWindow": "June energy inventory depletion point when strategic reserves exhaust and oil prices potentially spike to recession levels forcing either Iran deal or demand destruction",
+    "unseen": "Energy price shock from Iran war is creating unprecedented political pressures that are forcing US toward ceasefire ahead of November midterms while simultaneously driving China to deepen strategic partnerships with energy-exporting nations and accelerating global shift toward energy autarky",
+    "criticalWindow": "Shangri-La Dialogue May 29-31 in Singapore will test US-China strategic stability amid Trump-Xi summit aftermath and Indo-Pacific allies reassessing US reliability on Taiwan",
     "watchFor": [
-      "European Article 42.7 mutual defense clause activation discussions",
-      "Chinese rare earth export control expansion targeting US military stockpiles",
-      "Strategic petroleum reserve levels falling below 90-day import coverage threshold",
-      "Iran extending maritime control zones beyond current Strait boundaries"
+      "Iran War ceasefire negotiations before US midterms",
+      "China research vessel activities around Taiwan",
+      "European energy storage levels entering summer",
+      "Trump administration Venezuela oil deal implementation"
     ],
-    "confidenceNote": "High uncertainty around Iran negotiation timeline and China Taiwan window calculations while energy market buffers approaching critical depletion faster than expected",
-    "topPattern": "Iran conflict accelerating multipolar transition with simultaneous US strategic overextension creating windows for Chinese consolidation and European autonomy that reshape global power architecture regardless of immediate crisis resolution"
+    "confidenceNote": "High confidence on energy disruption impacts and regional tensions but lower confidence on timing of Iran conflict resolution and specific Chinese military escalation timing around Taiwan",
+    "topPattern": "Iran war has created global energy vulnerability that is reshaping alliance structures as US prioritizes domestic politics over global commitments while China exploits American distraction to advance regional hegemony"
   },
   "signals": [
     {
       "id": "sig1",
       "domain": "Middle East",
-      "headline": "US-Iran nuclear ceasefire deal nears completion as Strait of Hormuz reopening imminent",
+      "headline": "US-Iran tentative ceasefire deal stalls as Trump delays approval despite operational parameters agreed",
       "significance": "CRITICAL",
-      "summary": "Vice President Vance announced US and Iran are very close to a memorandum of understanding extending ceasefire 60 days, reopening Strait of Hormuz, and launching nuclear limitation talks. Sources confirm negotiators reached agreement pending Trump's final approval.",
-      "signal": "If oil remains above $90 even after Hormuz reopens, energy markets may have permanently shifted, fundamentally altering US global economic leverage and forcing strategic recalibration of Iran policy from maximum pressure to managed coexistence.",
-      "contradicts": "Conventional wisdom that Trump administration would maintain maximum pressure on Iran indefinitely",
-      "timestamp": "2026-05-29T19:23:45.212Z"
+      "summary": "Vice President JD Vance announced the US is very close to a memorandum of understanding with Iran for a 60-day ceasefire extension, Strait of Hormuz reopening within 30 days, and nuclear program limitation talks. However, sources report Trump has not given final approval despite Iran claiming readiness to sign.",
+      "signal": "Trump withholding approval suggests either internal US political calculations or last-minute leverage plays. Iranian readiness despite ongoing conflict indicates potential regime weakness or strategic necessity to stabilize while managing domestic unrest.",
+      "contradicts": "Conventional wisdom that ceasefire momentum automatically leads to agreements",
+      "timestamp": "2026-05-29T19:56:33.370Z"
     },
     {
       "id": "sig2",
       "domain": "Indo-Pacific",
-      "headline": "Philippines political crisis escalates as Marcos-Duterte tensions threaten institutional stability",
+      "headline": "Philippines Vice President Sara Duterte impeachment trial begins amid ICC arrest of her father",
       "significance": "HIGH",
-      "summary": "Intensifying feud between President Marcos and Vice President Duterte fueled by impeachment proceedings and ICC attempted arrest of Duterte-aligned senator. Crisis testing Philippine institutions ahead of 2028 elections.",
-      "signal": "US may lose its most reliable Indo-Pacific ally just as China pressure intensifies, potentially forcing Washington to engage directly with Duterte faction or risk losing strategic access to northern Luzon bases critical for Taiwan contingency planning.",
-      "contradicts": "Assumption that Marcos presidency stabilized Philippines as reliable US partner",
-      "timestamp": "2026-05-29T19:23:45.212Z"
+      "summary": "The Philippine Senate began impeachment proceedings against VP Sara Duterte on charges of corruption, threatening President Marcos, and misuse of funds. This comes as her father former President Rodrigo Duterte is in ICC custody in The Hague facing crimes against humanity charges for his drug war.",
+      "signal": "The Marcos-Duterte political war threatens institutional stability in America's key Southeast Asian ally ahead of 2028 elections. ICC proceedings against a former Philippine president sets precedent that could complicate future US cooperation with authoritarian-leaning leaders in the region.",
+      "contradicts": "Assumption that Philippine political dynasties maintain stable power-sharing arrangements",
+      "timestamp": "2026-05-29T19:56:33.370Z"
     },
     {
       "id": "sig3",
       "domain": "Europe",
-      "headline": "British PM Starmer faces imminent leadership challenge as over 95 Labour MPs demand resignation",
+      "headline": "Russian drone strikes Romanian apartment building injuring two as NATO debates Article 5 response",
       "significance": "HIGH",
-      "summary": "Labour lost nearly 1500 council seats to Reform UK in local elections. Health Secretary Wes Streeting reportedly preparing resignation to trigger leadership contest. Four junior ministers already quit in protest.",
-      "signal": "Britain's fourth PM change in five years signals systemic governance failure that could paralyze UK's role in NATO leadership and Ukraine support precisely when US demands greater burden-sharing from European allies.",
-      "contradicts": "Expectation that Labour's landslide 2024 victory provided political stability",
-      "timestamp": "2026-05-29T19:23:45.212Z"
+      "summary": "A Russian drone hit an apartment building in Romania early Friday, marking the 28th breach of Romanian airspace since attacks on Ukrainian Danube ports began. NATO condemned the strike but stopped short of invoking Article 5, with officials emphasizing defensive measures rather than retaliation.",
+      "signal": "NATO's measured response reveals alliance uncertainty about escalation thresholds under Trump 2.0. Romania's call for enhanced anti-drone capabilities suggests allies are preparing for sustained spillover rather than deterrence through retaliation threats.",
+      "contradicts": "Expectation that direct attacks on NATO territory would trigger automatic Article 5 responses",
+      "timestamp": "2026-05-29T19:56:33.370Z"
     },
     {
       "id": "sig4",
-      "domain": "Americas",
-      "headline": "Venezuelan interim government expands oil privatization as Maduro capture fallout continues",
-      "significance": "MEDIUM",
-      "summary": "Venezuelan authorities passed new law giving private companies control over oil production and sale. US lifted sanctions and issued trading licenses. Sales already exceeded $1 billion since January capture operation.",
-      "signal": "US may have permanently altered global energy dynamics by removing major OPEC swing producer from Iranian-Russian orbit, but success depends on preventing Venezuelan oil revenues from funding anti-American insurgency across Latin America.",
-      "contradicts": "Belief that Maduro capture was primarily about drug trafficking rather than energy strategy",
-      "timestamp": "2026-05-29T19:23:45.212Z"
+      "domain": "Energy",
+      "headline": "UN projects 75 percent chance global warming exceeds 1.5C through 2030 despite climate agreements",
+      "significance": "CRITICAL",
+      "summary": "World Meteorological Organization forecasts show a 75 percent probability that average global temperatures between 2026-2030 will exceed the Paris Agreement's 1.5 degree Celsius threshold. Arctic warming is projected at 3.5 times the global rate with dangerous Amazon drought conditions expected.",
+      "signal": "Accelerating climate breakdown will fundamentally reshape geopolitics through resource wars, mass migration, and infrastructure collapse. US military planning must account for climate as a threat multiplier affecting every strategic theater simultaneously.",
+      "contradicts": "Belief that incremental climate action can prevent crossing critical thresholds",
+      "timestamp": "2026-05-29T19:56:33.370Z"
     },
     {
       "id": "sig5",
-      "domain": "Indo-Pacific",
-      "headline": "China reduces Taiwan ADIZ incursions as PLA shifts resources to joint combat capability development",
+      "domain": "Technology",
+      "headline": "Blue Origin New Glenn rocket explodes in massive fireball during Florida test ahead of Amazon satellite deployment",
       "significance": "MEDIUM",
-      "summary": "Comparatively low ADIZ incursions in early 2026 indicate PRC adjusting coercion strategy. PLA reducing routine sorties to focus resources on joint operations training and modernization priorities including AI-enabled swarm technology.",
-      "signal": "Apparent de-escalation may actually signal Chinese preparation for higher-intensity conflict by consolidating training gains and developing overwhelming swarm capabilities to saturate Taiwan's planned T-dome air defense network.",
-      "contradicts": "Linear escalation theory suggesting constant pressure increase toward invasion",
-      "timestamp": "2026-05-29T19:23:45.212Z"
+      "summary": "Jeff Bezos's Blue Origin suffered a catastrophic rocket explosion during a hot-fire test at Cape Canaveral, destroying the New Glenn vehicle and severely damaging launch infrastructure. The rocket was scheduled to deploy 48 Amazon internet satellites within weeks as part of 24 planned missions.",
+      "signal": "The explosion threatens Amazon's timeline to meet FCC requirements for satellite constellation deployment and reinforces SpaceX's market dominance. This setback could accelerate foreign competitors in the satellite internet race while undermining US space commerce leadership.",
+      "contradicts": "Assumption that multiple US commercial space providers ensure redundancy and competition",
+      "timestamp": "2026-05-29T19:56:33.370Z"
     },
     {
       "id": "sig6",
-      "domain": "Europe",
-      "headline": "Israel-Greece-Cyprus defense axis accelerates with 2026 trilateral military action plan",
-      "significance": "MEDIUM",
-      "summary": "Three nations signed joint action plan for intensified air and naval exercises in eastern Mediterranean starting 2026. Greece approved $760 million Israeli rocket artillery purchase with $3.5 billion broader defense package under discussion.",
-      "signal": "NATO cohesion faces stress test as Greece-Turkey alliance tensions rise while Greece deepens Israeli defense ties, potentially forcing Washington to choose between Turkish strategic depth and Israeli technological partnership.",
-      "contradicts": "Assumption that NATO solidarity would override bilateral defense arrangements",
-      "timestamp": "2026-05-29T19:23:45.212Z"
+      "domain": "US Politics",
+      "headline": "Pentagon awards Dell 9.7 billion dollar contract weeks after Trump stock purchase and public endorsement",
+      "significance": "HIGH",
+      "summary": "The Department of Defense awarded Dell Technologies a 9.7 billion dollar software procurement contract across military and intelligence agencies. This came after Trump purchased Dell stock valued between 1-5 million dollars in February and publicly urged Americans to buy Dell computers at rallies.",
+      "signal": "Trump's pattern of monetizing the presidency through coordinated stock purchases and government contracts signals a fundamental breakdown of executive branch ethics norms. This creates vulnerabilities to foreign influence operations and undermines trust in procurement integrity among allies and adversaries.",
+      "contradicts": "Expectation that obvious conflicts of interest would face institutional resistance",
+      "timestamp": "2026-05-29T19:56:33.370Z"
     },
     {
       "id": "sig7",
-      "domain": "Energy",
-      "headline": "Allied gold reserves withdraw from New York Fed as geopolitical storage preferences shift domestic",
-      "significance": "LOW",
-      "summary": "Recent withdrawals from New York Fed vault suggest longstanding US allies increasingly prefer domestic gold storage over traditional safe haven arrangements despite alliance relationships.",
-      "signal": "Even core allies hedging against potential financial weaponization or sanctions spillover effects, indicating erosion of dollar system confidence that could accelerate if Iran conflict expands or trade wars intensify.",
-      "contradicts": "Belief that dollar dominance and US financial infrastructure remain unquestioned by allies",
-      "timestamp": "2026-05-29T19:23:45.212Z"
+      "domain": "Middle East",
+      "headline": "Israel announces plan to seize control of 70 percent of Gaza Strip despite ongoing ceasefire negotiations",
+      "significance": "HIGH",
+      "summary": "Prime Minister Netanyahu ordered the Israeli military to take control of 70 percent of Gaza while UN officials warn this will worsen humanitarian conditions. The announcement comes as Israel was also added to a UN blacklist for sexual violence in conflict zones.",
+      "signal": "Israel's territorial expansion in Gaza while on diplomatic blacklists suggests calculation that military facts on ground override international legitimacy costs. This could force US into choosing between ally support and international law compliance in future crises.",
+      "contradicts": "Belief that ceasefire momentum constrains territorial ambitions",
+      "timestamp": "2026-05-29T19:56:33.370Z"
     }
   ],
   "markets": [
@@ -205,54 +205,54 @@
     }
   ],
   "watchSignals": [
-    "Extension or breakdown of Iran war ceasefire agreement talks between US and Iran, especially regarding $24 billion frozen assets and Strait of Hormuz blockade status in first two weeks of June",
-    "EU Commission anti-overcapacity decision on May 29 targeting China and potential Chinese rare earth/critical mineral supply retaliation against Europe by mid-June",
-    "NATO Article 5 implications from Trump Greenland threats - watch for European military response in Arctic, Denmark readiness posture, and potential NATO emergency session after June 14",
-    "Venezuelan post-Maduro transition stability as interim president Delcy Rodriguez faces constitutional 30-day election mandate - watch for opposition mobilization or regime continuity",
-    "China economic slowdown acceleration indicators as export-driven growth model hits protectionist walls globally, particularly EU-China trade deficit trends through June",
-    "Congressional Iran war authorization debate and CENTCOM investigation results on February school strike that killed 168 children - watch for domestic US political constraints on Trump by June 15"
+    "Trump-Iran deal finalization timeline regarding Strait of Hormuz reopening - any deviation from Trump's claimed 'largely negotiated' status could trigger immediate regional economic crisis and energy price surge",
+    "Chinese military activity in Taiwan's contiguous zone during June 2026 - normalization of PLA operations within 12-nautical-mile buffer represents critical erosion of cross-strait status quo",
+    "Russia-China gas pipeline negotiations outcome following failed May summit - Beijing's continued resistance to Power of Siberia 2 indicates limits of Sino-Russian alliance despite strategic cooperation rhetoric",
+    "Venezuelan post-Maduro transition stability indicators - hardline Chavista elements led by Defense Minister Padrino Lopez and Interior Minister Cabello could trigger broader regional conflict if US administrative transition fails",
+    "European defense industrial production timelines for deep-strike capabilities - current projections of years to decade timeframes leave critical capability gaps in face of Iranian threats and potential China-Taiwan crisis",
+    "Oil price movements above $120/barrel threshold - current levels near $100 with potential spike to $150+ if Strait remains closed could force Federal Reserve into recession-inducing rate increases amid Iran conflict economic pressures"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Military Operations",
-      "headline": "Active US-Israel war with Iran since February 28, tentative ceasefire talks ongoing but fragile",
+      "domain": "Middle East Energy Security",
+      "headline": "US-Iran conflict has effectively closed Strait of Hormuz since February 28, blocking 25% of global oil trade and 20% of LNG shipments",
       "significance": "CRITICAL",
-      "summary": "Operation Epic Fury killed Supreme Leader Khamenei and triggered massive Iranian retaliation. Current ceasefire since April holds but Iran maintains Strait of Hormuz disruption threatening global oil flows. US negotiators reached tentative deal pending Trump approval involving $24 billion asset release.",
-      "signal": "Major regional war with nuclear-armed adversary directly involving US forces, threatening Persian Gulf oil chokepoint critical to global economy and US energy security"
+      "summary": "The Strait of Hormuz remains largely blocked by Iranian mines and drone threats following US-Israeli assassination of Supreme Leader Khamenei. Only ships from Iran-approved nations can transit via northern route with Revolutionary Guard vetting and tolls. US counter-blockade of Iranian ports intensifies standoff.",
+      "signal": "Greatest energy crisis since 1970s directly threatens US inflation targets and economic stability while constraining military options globally"
     },
     {
       "id": "gt2",
       "domain": "Western Hemisphere",
-      "headline": "US military captured Venezuelan President Maduro in January 2026, currently controls transition process",
+      "headline": "US captured Venezuelan President Maduro in January 2026 military operation, establishing de facto control over oil reserves worth $3 billion",
       "significance": "CRITICAL",
-      "summary": "Operation Absolute Resolve extracted Maduro to face narcoterrorism charges in New York. Trump declared US will run Venezuela until safe transition. Interim president Delcy Rodriguez constitutionally required to hold elections within 30 days but US maintains military presence offshore.",
-      "signal": "Unprecedented US regime change operation in hemisphere establishes new intervention doctrine, reshapes Latin American geopolitics, potentially emboldens further action against Colombia or other regional adversaries"
+      "summary": "Operation Absolute Resolve removed Maduro to face narcoterrorism charges in New York. US now administers Venezuelan oil production through interim government led by Vice President Delcy Rodriguez. Colombia mobilized border forces anticipating refugee flows.",
+      "signal": "Unprecedented US military intervention in Latin America tests alliance cohesion and sets precedent for resource-focused regime change operations"
     },
     {
       "id": "gt3",
-      "domain": "Alliance Relations",
-      "headline": "Trump threatened military action against NATO ally Denmark over Greenland, backed down January 21 after European pushback",
-      "significance": "CRITICAL",
-      "summary": "Trump refused to rule out force to annex Greenland, threatened 25 percent tariffs on eight European allies including UK, Germany, France. Danish forces mandated to defend territory. Trump reversed position at Davos after NATO deal with Secretary General Rutte.",
-      "signal": "First ever threat of military action between NATO members since 1949 founding, fundamentally tested Article 5 collective defense principle, revealed depth of transatlantic rupture under Trump"
+      "domain": "US-China Strategic Competition",
+      "headline": "Trump-Xi Beijing summit produced three-year strategic stability framework but exposed Taiwan as primary flashpoint and US policy uncertainty",
+      "significance": "HIGH",
+      "summary": "May 14-15 summit yielded $17 billion agricultural deals and Boeing aircraft purchases but Xi warned Taiwan mishandling would create great jeopardy. Trump called Taiwan arms sales a negotiating chip, raising Taipei concerns about US commitment reliability.",
+      "signal": "Chinese confidence in managing US relationship while Trump's transactional approach creates alliance uncertainty in Indo-Pacific"
     },
     {
       "id": "gt4",
-      "domain": "Economic Competition",
-      "headline": "EU-China trade tensions escalating over Chinese industrial overcapacity, major decision point May 29",
+      "domain": "Russia-China Axis",
+      "headline": "Putin-Xi summit failed to achieve major energy deals despite 40 signed agreements, revealing limits of authoritarian alliance",
       "significance": "HIGH",
-      "summary": "China ran $113 billion trade surplus with EU in first four months 2026. Five major EU economies demanded tougher trade regime against Chinese overcapacity. Commission orientation debate declared current relationship unsustainable, new defensive tools promised by September.",
-      "signal": "Potential EU-China trade war as Europe adopts US-style industrial protection, could fragment global supply chains and force US to choose sides in economic decoupling"
+      "summary": "May 20-21 Beijing meeting produced cooperation agreements but Beijing rejected Power of Siberia 2 pipeline, maintaining strategic autonomy. Both leaders criticized US Golden Dome defense system and New START treaty expiration while deepening military cooperation.",
+      "signal": "Sino-Russian partnership remains pragmatic alignment rather than full alliance, creating wedge opportunities for US strategy"
     },
     {
       "id": "gt5",
-      "domain": "Global Risk Assessment",
-      "headline": "Multiple cascading crises creating unprecedented global instability with environmental risks deemed most severe long-term threat",
+      "domain": "Indo-Pacific Military Balance",
+      "headline": "China conducting regular incursions into Taiwan's contiguous zone while US allies strengthen deterrence architecture through enhanced exercises",
       "significance": "HIGH",
-      "summary": "World Economic Forum Global Risks Report 2026 identified uncertainty as defining theme. Environmental risks perceived most negatively over next decade by three-quarters of experts. Geopolitical shocks, technology disruption, and economic uncertainty creating compound risks to critical infrastructure.",
-      "signal": "Systemic risk convergence threatening US interests across domains - supply chains, alliance cohesion, economic stability, and strategic competition with China and Russia in increasingly multipolar world"
+      "summary": "PLA vessels now routinely operate within Taiwan's 12-nautical-mile buffer zone during Justice Mission exercises. Balikatan 2026 featured first Japanese participation with HIMARS, Typhon missiles, and unmanned surface vessel deployments in Luzon Strait.",
+      "signal": "Erosion of Taiwan Strait status quo accelerating while US alliance integration improves but faces timeline pressures for capability development"
     }
   ],
-  "scanNote": "Searched across Middle East conflict dynamics, Indo-Pacific alliance shifts, European political stability, energy markets, and defense realignments with strong signal quality from official sources."
+  "scanNote": "Searched for current geopolitical developments with focus on unexpected patterns and contradictions to consensus - found significant signals across multiple domains showing institutional breakdown and accelerating instability."
 }
