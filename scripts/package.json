@@ -5,7 +5,7 @@
   "description": "STRATWATCH intelligence gathering script",
   "main": "run.js",
   "scripts": {
-    "test": "node --test test/",
+    "test": "node --test",
     "start": "node run.js"
   },
   "dependencies": {
