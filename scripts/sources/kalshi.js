@@ -51,4 +51,33 @@ function rankMarkets(markets, { cap = 50 } = {}) {
     .slice(0, cap);
 }
 
-module.exports = { KALSHI_BASE, RELEVANT_CATEGORIES, parseFp, marketFields, filterRelevant, flatten, rankMarkets };
+// Pure: events array -> ranked catalog (used by both fetch and tests).
+function catalogFromEvents(events, { cap = 50 } = {}) {
+  return rankMarkets(flatten(filterRelevant(events)), { cap });
+}
+
+// Network: paginate open events with nested markets, then build the catalog.
+async function fetchKalshiCatalog({ cap = 50, maxPages = 6 } = {}) {
+  let cursor = "";
+  let events = [];
+  for (let i = 0; i < maxPages; i++) {
+    const url =
+      `${KALSHI_BASE}/events?limit=200&status=open&with_nested_markets=true` +
+      (cursor ? `&cursor=${encodeURIComponent(cursor)}` : "");
+    const data = await httpGet(url, { json: true });
+    events = events.concat(data.events || []);
+    cursor = data.cursor;
+    if (!cursor) break;
+  }
+  return catalogFromEvents(events, { cap });
+}
+
+// --- Authenticated (FUTURE SEAM — weather-engine integration). Not used yet. ---
+function fetchPositions() {
+  throw new Error("Kalshi authenticated endpoints not implemented yet");
+}
+function placeOrder() {
+  throw new Error("Kalshi authenticated endpoints not implemented yet");
+}
+
+module.exports = { KALSHI_BASE, RELEVANT_CATEGORIES, parseFp, marketFields, filterRelevant, flatten, rankMarkets, catalogFromEvents, fetchKalshiCatalog, fetchPositions, placeOrder };

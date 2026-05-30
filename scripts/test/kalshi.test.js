@@ -2,6 +2,9 @@ const { test } = require("node:test");
 const assert = require("node:assert");
 const { parseFp, marketFields } = require("../sources/kalshi");
 const { filterRelevant, flatten, rankMarkets } = require("../sources/kalshi");
+const { RELEVANT_CATEGORIES, catalogFromEvents, fetchPositions } = require("../sources/kalshi");
+const fs = require("node:fs");
+const path = require("node:path");
 
 test("parseFp handles fixed-point strings, dollars, nulls", () => {
   assert.strictEqual(parseFp("33033.77"), 33033.77);
@@ -61,4 +64,18 @@ test("rankMarkets drops inactive, sorts by volume desc, caps", () => {
   const ranked = rankMarkets(flatten(filterRelevant(SAMPLE_EVENTS)), { cap: 5 });
   // E3-A has 0 volume AND 0 OI -> dropped; E1-A(1000) before E3-B(500)
   assert.deepStrictEqual(ranked.map(m => m.ticker), ["E1-A", "E3-B"]);
+});
+
+test("catalogFromEvents builds a ranked catalog from a live fixture", () => {
+  const raw = JSON.parse(fs.readFileSync(path.join(__dirname, "fixtures/kalshi-events.json"), "utf8"));
+  const catalog = catalogFromEvents(raw.events, { cap: 50 });
+  assert.ok(catalog.length > 0, "expected some relevant markets in fixture");
+  for (const m of catalog) {
+    assert.ok(RELEVANT_CATEGORIES.includes(m.category));
+    assert.ok(typeof m.ticker === "string");
+  }
+});
+
+test("authenticated endpoints are stubbed until later", () => {
+  assert.throws(() => fetchPositions(), /not implemented/i);
 });
