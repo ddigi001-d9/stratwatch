@@ -28,10 +28,10 @@ function buildContext({ drudge = [], pizzint = {}, gdelt = [], kalshi = [] }) {
     "=== PREDICTION-MARKET ACTION (Kalshi) ===\n" +
       (kalshi.length
         ? kalshi
-            .map(
-              (m) =>
-                `- [${m.ticker}] ${m.title} | price ${m.marketProb}% | 24h Δ${m.priceChange24h >= 0 ? "+" : ""}${m.priceChange24h}¢ | vol ${m.volume24h} | OI ${m.openInterest} | ${m.category}`
-            )
+            .map((m) => {
+              const delta = m.priceChange24h == null ? "—" : `${m.priceChange24h >= 0 ? "+" : ""}${m.priceChange24h}¢`;
+              return `- [${m.ticker}] ${m.title} | price ${m.marketProb}% | 24h Δ${delta} | vol ${m.volume24h} | OI ${m.openInterest} | ${m.category}`;
+            })
             .join("\n")
         : "(none)")
   );

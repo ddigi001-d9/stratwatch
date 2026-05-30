@@ -144,10 +144,13 @@ Use ONLY tickers that appear in the CONTEXT. Return ONLY valid JSON, plain text,
 }` });
       const parsed = parseJSON(text);
       const byTicker = new Map(catalog.map((m) => [m.ticker, m]));
+      const usedTickers = new Set();
       output.markets = (parsed.selections || [])
         .map((s) => {
           const live = byTicker.get(s.ticker);
           if (!live) return null; // drop hallucinated tickers
+          if (usedTickers.has(live.ticker)) return null; // drop duplicate selections
+          usedTickers.add(live.ticker);
           const gap = computeGap(s.aiProb, live.marketProb);
           return {
             ticker: live.ticker,
