@@ -33,6 +33,7 @@ jobs:
         working-directory: scripts
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          KALSHI_API_KEY: ${{ secrets.KALSHI_API_KEY }}
         run: node run.js
 
       - name: Commit and push intelligence data
