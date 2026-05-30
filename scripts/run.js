@@ -10,6 +10,7 @@ const { fetchKalshiCatalog } = require("./sources/kalshi");
 const { buildContext } = require("./lib/context");
 const { callClaude, parseJSON, stripCites, SONNET, HAIKU } = require("./lib/claude");
 const { computeGap, isFavorable } = require("./lib/edge");
+const { sanitizeOutput } = require("./lib/sanitize");
 
 const OUT_PATH = path.join(__dirname, "..", "docs", "intelligence.json");
 
@@ -177,8 +178,9 @@ Use ONLY tickers that appear in the CONTEXT. Return ONLY valid JSON, plain text,
     console.log("  Skipped: no Kalshi catalog");
   }
 
-  // WRITE
-  const clean = stripCites(output);
+  // WRITE — strip citation tags, then sanitize all model output (untrusted) so no
+  // hostile value reaches intelligence.json / the public PWA. See lib/sanitize.js.
+  const clean = sanitizeOutput(stripCites(output));
   fs.writeFileSync(OUT_PATH, JSON.stringify(clean, null, 2));
   console.log(`\n=== COMPLETE: Run #${clean.runNumber} ===`);
   console.log(`Situation: ${(clean.situation?.headline || "").slice(0, 60)}`);

@@ -268,7 +268,9 @@ function formatVol(v) {
   return `$${v}`;
 }
 function esc(s) {
-  return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  return String(s || '')
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
 }
 
 // ── RENDER FUNCTIONS ───────────────────────────────────────────────────────────
@@ -280,7 +282,7 @@ function renderSituation(d) {
     <div class="domain-card">
       <div class="domain-bar" style="background:${domainColor(dom.name)}"></div>
       <div class="domain-name">${esc(dom.name)}</div>
-      <div class="domain-prob" style="color:${probColor(normProb(dom.prob))}">${normProb(dom.prob)}%</div>
+      <div class="domain-prob" style="color:${probColor(normProb(dom.prob))}">${esc(normProb(dom.prob))}%</div>
       <div class="domain-label">${esc(dom.label)}</div>
       <div class="domain-status">${esc(dom.status)}</div>
     </div>
@@ -297,7 +299,7 @@ function renderSituation(d) {
     <div class="card headline-card fade-up">
       <div class="card-label">SITUATION · ${new Date(d.generatedAt).toLocaleDateString('en-US',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'}).toUpperCase()}</div>
       <div class="headline-text">${esc(s.headline)}</div>
-      <span class="velocity-badge velocity-${s.velocity}">${s.velocity}</span>
+      <span class="velocity-badge velocity-${esc(s.velocity)}">${esc(s.velocity)}</span>
     </div>
 
     <div class="domain-grid fade-up">${domainsHTML}</div>
@@ -340,15 +342,15 @@ function renderMarkets(d) {
       <div class="market-nums">
         <div class="market-num-col">
           <div class="market-num-title">MKT</div>
-          <div class="market-num-val" style="color:#9095b0">${m.marketProb != null ? m.marketProb+'%' : '—'}</div>
+          <div class="market-num-val" style="color:#9095b0">${m.marketProb != null ? esc(m.marketProb)+'%' : '—'}</div>
         </div>
         <div class="market-num-col">
           <div class="market-num-title">AI</div>
-          <div class="market-num-val" style="color:#22d3ee">${m.aiProb != null ? m.aiProb+'%' : '—'}</div>
+          <div class="market-num-val" style="color:#22d3ee">${m.aiProb != null ? esc(m.aiProb)+'%' : '—'}</div>
         </div>
         <div class="market-num-col" style="min-width:44px">
           <div class="market-num-title">GAP</div>
-          <div class="market-gap-val" style="color:${gapColor(m.gap)}">${m.gap != null ? (m.gap > 0 ? '+' : '') + m.gap : '—'}</div>
+          <div class="market-gap-val" style="color:${gapColor(m.gap)}">${m.gap != null ? (m.gap > 0 ? '+' : '') + esc(m.gap) : '—'}</div>
         </div>
       </div>
     </div>
@@ -358,8 +360,8 @@ function renderMarkets(d) {
         <button class="close-btn" onclick="closeDivergence('div-${i}',event)">✕</button>
       </div>
       <div style="display:flex;gap:16px;margin-bottom:10px">
-        <span style="font-size:9px;color:#4a4d5e">CONFIDENCE: <span style="color:${m.gap != null && Math.abs(m.gap)>=20?'#f97316':'#9095b0'}">${m.confidence||'—'}</span></span>
-        ${m.url ? `<a href="${esc(m.url)}" target="_blank" style="font-size:9px;color:#22d3ee;text-decoration:none">↗ POLYMARKET</a>` : ''}
+        <span style="font-size:9px;color:#4a4d5e">CONFIDENCE: <span style="color:${m.gap != null && Math.abs(m.gap)>=20?'#f97316':'#9095b0'}">${esc(m.confidence)||'—'}</span></span>
+        ${m.url ? `<a href="${esc(m.url)}" target="_blank" style="font-size:9px;color:#22d3ee;text-decoration:none">↗ KALSHI</a>` : ''}
       </div>
       <div class="rationale-text">${esc(m.rationale)}</div>
       ${m.gap != null && Math.abs(m.gap) >= 15 ? `
