@@ -13,3 +13,10 @@ test("extractHeadlines returns deduped, capped headline strings", () => {
   assert.strictEqual(new Set(heads).size, heads.length, "should be deduped");
   for (const h of heads) assert.ok(h.length >= 15);
 });
+
+test("extractHeadlines does not leak inline script/JS blobs", () => {
+  const heads = extractHeadlines(HTML, { cap: 80 });
+  for (const h of heads) {
+    assert.ok(!/WebSocket|function\s*\(|=>|const\s+\w+\s*=/.test(h), `code leaked into headline: ${h.slice(0, 60)}`);
+  }
+});

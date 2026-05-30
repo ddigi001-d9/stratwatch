@@ -4,11 +4,16 @@ const DRUDGE_URL = "https://drudgereport.com/";
 
 // Drudge headlines are anchor texts. Keep substantial, mostly-text anchor labels.
 function extractHeadlines(html, { cap = 80 } = {}) {
+  // Drop inline script/style first — Drudge wraps an obfuscated JS blob inside an
+  // <a> tag, whose source would otherwise be captured as a "headline".
+  const clean = html
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<style[\s\S]*?<\/style>/gi, " ");
   const re = /<a\b[^>]*>([\s\S]*?)<\/a>/gi;
   const out = [];
   const seen = new Set();
   let m;
-  while ((m = re.exec(html)) !== null) {
+  while ((m = re.exec(clean)) !== null) {
     const text = m[1]
       .replace(/<[^>]+>/g, " ")
       .replace(/&amp;/g, "&").replace(/&#39;/g, "'").replace(/&quot;/g, '"').replace(/&nbsp;/g, " ")
