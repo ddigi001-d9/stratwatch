@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "url": "https://www.example-news.com/ukraine-front-update",
+      "url_mobile": "",
+      "title": "Russia intensifies strikes on Ukrainian energy grid ahead of winter",
+      "seendate": "20260529T180000Z",
+      "socialimage": "https://www.example-news.com/img/1.jpg",
+      "domain": "example-news.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.wire-service.org/nato-baltic-drills",
+      "url_mobile": "",
+      "title": "NATO launches expanded Baltic air-defense drills citing Russian probing",
+      "seendate": "20260529T143000Z",
+      "socialimage": "",
+      "domain": "wire-service.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.example-news.com/putin-statement",
+      "url_mobile": "",
+      "title": "Putin signals openness to talks but rejects territorial concessions",
+      "seendate": "20260529T090000Z",
+      "socialimage": "",
+      "domain": "example-news.com",
+      "language": "English",
+      "sourcecountry": "Germany"
+    }
+  ]
+}
