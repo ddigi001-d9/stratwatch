@@ -29,4 +29,26 @@ function marketFields(m, { category = null, eventTicker = null } = {}) {
   };
 }
 
-module.exports = { KALSHI_BASE, RELEVANT_CATEGORIES, parseFp, marketFields };
+function filterRelevant(events) {
+  return (events || []).filter((e) => RELEVANT_CATEGORIES.includes(e.category));
+}
+
+function flatten(events) {
+  const out = [];
+  for (const e of events || []) {
+    for (const m of e.markets || []) {
+      out.push(marketFields(m, { category: e.category, eventTicker: e.event_ticker }));
+    }
+  }
+  return out;
+}
+
+// Drop fully-inactive markets (no volume and no open interest), sort by 24h volume, cap.
+function rankMarkets(markets, { cap = 50 } = {}) {
+  return (markets || [])
+    .filter((m) => (m.volume24h || 0) > 0 || (m.openInterest || 0) > 0)
+    .sort((a, b) => (b.volume24h || 0) - (a.volume24h || 0))
+    .slice(0, cap);
+}
+
+module.exports = { KALSHI_BASE, RELEVANT_CATEGORIES, parseFp, marketFields, filterRelevant, flatten, rankMarkets };

@@ -1,6 +1,7 @@
 const { test } = require("node:test");
 const assert = require("node:assert");
 const { parseFp, marketFields } = require("../sources/kalshi");
+const { filterRelevant, flatten, rankMarkets } = require("../sources/kalshi");
 
 test("parseFp handles fixed-point strings, dollars, nulls", () => {
   assert.strictEqual(parseFp("33033.77"), 33033.77);
@@ -29,4 +30,35 @@ test("marketFields derives price (cents), 24h change, volume, OI", () => {
   assert.strictEqual(f.openInterest, 33034); // rounded
   assert.strictEqual(f.category, "World");
   assert.match(f.url, /kalshi\.com/);
+});
+
+const SAMPLE_EVENTS = [
+  { event_ticker: "E1", category: "World", title: "Russia", markets: [
+    { ticker: "E1-A", last_price_dollars: "0.50", previous_price_dollars: "0.40", volume_24h_fp: "1000", open_interest_fp: "5000" },
+  ]},
+  { event_ticker: "E2", category: "Sports", title: "NBA", markets: [
+    { ticker: "E2-A", last_price_dollars: "0.50", previous_price_dollars: "0.50", volume_24h_fp: "999999", open_interest_fp: "1" },
+  ]},
+  { event_ticker: "E3", category: "Politics", title: "Election", markets: [
+    { ticker: "E3-A", last_price_dollars: "0.20", previous_price_dollars: "0.20", volume_24h_fp: "0", open_interest_fp: "0" },
+    { ticker: "E3-B", last_price_dollars: "0.30", previous_price_dollars: "0.10", volume_24h_fp: "500", open_interest_fp: "200" },
+  ]},
+];
+
+test("filterRelevant drops non-geopolitical categories", () => {
+  const rel = filterRelevant(SAMPLE_EVENTS);
+  assert.deepStrictEqual(rel.map(e => e.event_ticker), ["E1", "E3"]);
+});
+
+test("flatten attaches category/event and normalizes each market", () => {
+  const flat = flatten(filterRelevant(SAMPLE_EVENTS));
+  assert.strictEqual(flat.length, 3); // E1-A, E3-A, E3-B
+  assert.strictEqual(flat[0].category, "World");
+  assert.strictEqual(flat[0].eventTicker, "E1");
+});
+
+test("rankMarkets drops inactive, sorts by volume desc, caps", () => {
+  const ranked = rankMarkets(flatten(filterRelevant(SAMPLE_EVENTS)), { cap: 5 });
+  // E3-A has 0 volume AND 0 OI -> dropped; E1-A(1000) before E3-B(500)
+  assert.deepStrictEqual(ranked.map(m => m.ticker), ["E1-A", "E3-B"]);
 });
