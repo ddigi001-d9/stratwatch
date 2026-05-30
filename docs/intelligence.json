@@ -1,258 +1,330 @@
 {
-  "generatedAt": "2026-05-29T19:55:04.431Z",
-  "runNumber": 14,
+  "generatedAt": "2026-05-30T04:03:11.310Z",
+  "runNumber": 15,
   "situation": {
-    "headline": "Iran war closes Strait of Hormuz creating largest global energy disruption in history while Trump administration captures Venezuelan President Maduro",
+    "headline": "US-Iran nuclear deal collapses in real time: Polymarket probability crashed from >60% to 25% after Trump's two-hour Situation Room meeting ended without decision, while CENTCOM simultaneously warns of Iranian mine-clearing ops in the Strait of Hormuz and Treasury seizes $1B in Iranian crypto — the deal window is closing fast with high escalation risk",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 85,
+        "prob": 72,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Iran war has closed Strait of Hormuz disrupting 20% of global oil supply in largest energy crisis since 1970s with oil prices surging 10-13%."
+        "status": "Iran deal on knife's edge — no White House decision after two-hour Sit Room session, Iranian officials publicly accusing US of changing demands, CENTCOM mine-clearance ops in Hormuz, Israeli strikes degrading Iranian air defense (3rd Khordad hit in Kermanshah), UAE conducting strikes against Iranian-linked targets, and Hezbollah re-engaging IDF with fiber-optic FPV drones — every indicator points toward a return to active escalation within weeks if deal fails."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 75,
+        "prob": 48,
         "label": "China coercion escalation",
         "trajectory": "UP",
-        "status": "China pursuing aggressive multi-domain strategy with military posturing around Taiwan and expanded research vessel operations mapping undersea terrain."
+        "status": "China expanding naval pressure beyond the Taiwan Strait per The Diplomat, asserting Taiwan cannot interfere with PLA air missions, calling Japan-Philippines sea border talks illegal while Manila and Tokyo accelerate a GSOMIA-style intel-sharing pact — Beijing is methodically tightening the coercive envelope across the first island chain."
       },
       {
         "name": "Europe",
-        "prob": 65,
+        "prob": 22,
         "label": "NATO cohesion fracture",
         "trajectory": "DOWN",
-        "status": "European gas storage at 30% following harsh winter with Dutch TTF prices doubling while EU officials fear Russian attack on Baltic states."
+        "status": "NATO cohesion is paradoxically strengthening under Russian pressure — Kremlin drone struck Romania injuring civilians, US reaffirmed every-inch Article 5 commitment, alliance is bolstering the eastern flank, and Hegseth at Shangri-La is publicly demanding European burden-sharing rather than withdrawing — the fracture risk is falling even as tactical incidents multiply."
       },
       {
         "name": "Energy",
-        "prob": 95,
+        "prob": 58,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Global energy investment reaching 3.4 trillion as countries desperately diversify away from Strait of Hormuz dependencies amid IEA largest supply disruption ever."
+        "status": "CENTCOM's public notice of dangerous military activities in the Strait of Hormuz tied to Iranian mine-clearance is the single most under-covered energy signal in the feed — any kinetic incident in or near Hormuz combined with a collapsing Iran deal could spike oil prices sharply; the $300B Iran slush-fund headline and new counterterrorism sanctions on Iranian oil trade vessels compound the risk."
       },
       {
         "name": "US Politics",
-        "prob": 70,
+        "prob": 54,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Democrats need net gain of 3 House seats for majority with Iran war fuel costs emerging as central electoral concern for November midterms."
+        "status": "Trump approval at 34% per Drudge, Americans falling behind on credit-card bills, tomato prices up 40%, insider stock trading allegations around UFC, Epstein file controversy generating Bondi-Blanche blame war, growing concert and event cancellation list, and ABC alleging broadcast license threats — domestic political environment is deteriorating at accelerating pace with 18 months to midterms."
       }
     ],
-    "unseen": "Energy price shock from Iran war is creating unprecedented political pressures that are forcing US toward ceasefire ahead of November midterms while simultaneously driving China to deepen strategic partnerships with energy-exporting nations and accelerating global shift toward energy autarky",
-    "criticalWindow": "Shangri-La Dialogue May 29-31 in Singapore will test US-China strategic stability amid Trump-Xi summit aftermath and Indo-Pacific allies reassessing US reliability on Taiwan",
+    "unseen": "The simultaneous collapse of the Iran deal probability, CENTCOM's Hormuz mine-clearance warning, Treasury's $1B crypto seizure from Iran, new counterterrorism sanctions on Iranian oil vessels, and the UAE's drone shot down over Qeshm Island are not being read as a coordinated pressure campaign with a hard deadline — they are being covered as separate stories. Taken together they suggest the US and its partners are executing a maximum-pressure squeeze designed either to force Iranian capitulation on deal terms within days or to set the legal and operational predicate for kinetic action. The S&P 500 hitting a record high simultaneously suggests markets have not priced this tail risk at all.",
+    "criticalWindow": "The Iran nuclear deal decision point is the most time-sensitive trigger in the next 30 days — Trump's indecision after a two-hour Sit Room meeting, collapsing Polymarket odds, Iranian public accusations of bad-faith US negotiating, active CENTCOM Hormuz operations, and ongoing Israeli strikes on Iranian air defenses create a convergent crisis window that likely resolves — in either direction — within two to four weeks.",
     "watchFor": [
-      "Iran War ceasefire negotiations before US midterms",
-      "China research vessel activities around Taiwan",
-      "European energy storage levels entering summer",
-      "Trump administration Venezuela oil deal implementation"
+      "Any Iranian announcement of enrichment escalation or withdrawal from talks — would confirm deal collapse and likely trigger Israeli or US kinetic response within weeks",
+      "Further CENTCOM or UKHO maritime advisories restricting Hormuz transit — a leading indicator of imminent military action against Iranian naval assets or mine-laying operations",
+      "Drone or missile incident attributable to UAE or US forces inside Iranian territorial waters or airspace — the Qeshm Island drone wreckage already represents a potential casus belli Iran has not yet publicly exploited",
+      "Trump approval falling below 30% in multiple concurrent polls — the historical threshold that historically triggers presidents toward foreign policy distraction or dramatic domestic pivots, both of which carry their own escalation risks"
     ],
-    "confidenceNote": "High confidence on energy disruption impacts and regional tensions but lower confidence on timing of Iran conflict resolution and specific Chinese military escalation timing around Taiwan",
-    "topPattern": "Iran war has created global energy vulnerability that is reshaping alliance structures as US prioritizes domestic politics over global commitments while China exploits American distraction to advance regional hegemony"
+    "confidenceNote": "Key uncertainties: (1) Whether the Polymarket Iran deal probability collapse reflects genuine intelligence about negotiating breakdown or is a sentiment overcorrection to a single ambiguous meeting outcome; (2) The actual identity and chain of command for the drone shot down over Qeshm — UAE attribution vs US attribution carries very different escalation calculus; (3) Trump's 34% approval figure is sourced from a single Drudge headline without pollster identification and may be an outlier; (4) Romanian drone incident attribution remains contested by Putin himself, leaving ambiguous whether this was deliberate Russian escalation or errant Ukrainian munition; (5) SOUTHCOM's rare meeting with Cuban military and Operation Southern Spear vessel strike have zero follow-up details — both could be significant or routine.",
+    "topPattern": "The Iran deal is collapsing in real time while US operational pressure in and around the Strait of Hormuz is simultaneously intensifying — Polymarket crashed from >60% to 25% deal probability on the same day CENTCOM issued Hormuz mine-clearance warnings and Treasury seized $1B in Iranian crypto, yet the S&P 500 closed at a record high, meaning markets are pricing a deal while the intelligence picture screams escalation, and that divergence is the most dangerous gap in current US strategic situational awareness."
   },
   "signals": [
     {
       "id": "sig1",
-      "domain": "Middle East",
-      "headline": "US-Iran tentative ceasefire deal stalls as Trump delays approval despite operational parameters agreed",
+      "domain": "US Politics",
+      "headline": "Iran deal probability collapsed from >60% to 25% after Trump two-hour Situation Room meeting with no final decision",
       "significance": "CRITICAL",
-      "summary": "Vice President JD Vance announced the US is very close to a memorandum of understanding with Iran for a 60-day ceasefire extension, Strait of Hormuz reopening within 30 days, and nuclear program limitation talks. However, sources report Trump has not given final approval despite Iran claiming readiness to sign.",
-      "signal": "Trump withholding approval suggests either internal US political calculations or last-minute leverage plays. Iranian readiness despite ongoing conflict indicates potential regime weakness or strategic necessity to stabilize while managing domestic unrest.",
-      "contradicts": "Conventional wisdom that ceasefire momentum automatically leads to agreements",
-      "timestamp": "2026-05-29T19:56:33.370Z"
+      "summary": "Trump held extended Iran negotiations session but explicitly refused to commit, leaving Iranian negotiators claiming US constantly shifts demands. Treasury simultaneously announced seizure of $1B in Iranian crypto and new OFAC sanctions on Iran's military oil trade. Markets signal deal now unlikely by month-end.",
+      "signal": "Trump is using negotiation theater to extract concessions while maintaining optionality on walkaway. Seizure timing suggests parallel financial pressure campaign. This posture invites Iranian hardline response and increases Strait of Hormuz instability risk.",
+      "contradicts": "Administration messaging of being 'close to agreement'",
+      "timestamp": "2026-05-30T04:05:21.463Z"
     },
     {
       "id": "sig2",
-      "domain": "Indo-Pacific",
-      "headline": "Philippines Vice President Sara Duterte impeachment trial begins amid ICC arrest of her father",
-      "significance": "HIGH",
-      "summary": "The Philippine Senate began impeachment proceedings against VP Sara Duterte on charges of corruption, threatening President Marcos, and misuse of funds. This comes as her father former President Rodrigo Duterte is in ICC custody in The Hague facing crimes against humanity charges for his drug war.",
-      "signal": "The Marcos-Duterte political war threatens institutional stability in America's key Southeast Asian ally ahead of 2028 elections. ICC proceedings against a former Philippine president sets precedent that could complicate future US cooperation with authoritarian-leaning leaders in the region.",
-      "contradicts": "Assumption that Philippine political dynasties maintain stable power-sharing arrangements",
-      "timestamp": "2026-05-29T19:56:33.370Z"
+      "domain": "Europe",
+      "headline": "NATO confirms Russian drone strike on Romania; Putin denies responsibility; US pledges defense of 'every inch' of NATO",
+      "significance": "CRITICAL",
+      "summary": "Russian drone injured two Romanians; Putin called incident 'too early to say if Russian' despite squawk codes. Baltic drone incidents also rising. US Secretary of War warned Europe free-riding on defense is over. NATO bolstering eastern flank.",
+      "signal": "Escalation cycle normalizing. Russia testing NATO Article 5 commitment via plausible deniability; US hardening commitment but simultaneously demanding burden-shift. Risk of accidental NATO-Russia kinetic clash rises if Russian drones continue and attribution becomes clearer.",
+      "contradicts": "De-escalation expectations; suggests frozen conflict may be destabilizing into slow-burn proxy escalation",
+      "timestamp": "2026-05-30T04:05:21.463Z"
     },
     {
       "id": "sig3",
-      "domain": "Europe",
-      "headline": "Russian drone strikes Romanian apartment building injuring two as NATO debates Article 5 response",
-      "significance": "HIGH",
-      "summary": "A Russian drone hit an apartment building in Romania early Friday, marking the 28th breach of Romanian airspace since attacks on Ukrainian Danube ports began. NATO condemned the strike but stopped short of invoking Article 5, with officials emphasizing defensive measures rather than retaliation.",
-      "signal": "NATO's measured response reveals alliance uncertainty about escalation thresholds under Trump 2.0. Romania's call for enhanced anti-drone capabilities suggests allies are preparing for sustained spillover rather than deterrence through retaliation threats.",
-      "contradicts": "Expectation that direct attacks on NATO territory would trigger automatic Article 5 responses",
-      "timestamp": "2026-05-29T19:56:33.370Z"
+      "domain": "Middle East",
+      "headline": "CENTCOM issued dangerous-military-activities notice for Strait of Hormuz; JMIC maritime blockade advisory issued; Iran air defense system destroyed by Israeli strike",
+      "significance": "CRITICAL",
+      "summary": "US notified mariners of impending operations north of Musandam Peninsula (Strait chokepoint) regarding Iranian mines. Simultaneously, a third Khordad air defense system in Kermanshah was destroyed by Israeli strike with operator killed. UK Maritime Trade Operations issued blockade reminder.",
+      "signal": "US and Israel conducting coordinated campaign against Iranian air defense and mining capability. This sequencing suggests preparation for either negotiated settlement with verification regime or military action. Iranian ability to threaten shipping is being degraded in real-time.",
+      "contradicts": "Notion that Iran deal collapse would lead to Iranian escalation; US appears to be removing Iranian leverage first",
+      "timestamp": "2026-05-30T04:05:21.463Z"
     },
     {
       "id": "sig4",
-      "domain": "Energy",
-      "headline": "UN projects 75 percent chance global warming exceeds 1.5C through 2030 despite climate agreements",
-      "significance": "CRITICAL",
-      "summary": "World Meteorological Organization forecasts show a 75 percent probability that average global temperatures between 2026-2030 will exceed the Paris Agreement's 1.5 degree Celsius threshold. Arctic warming is projected at 3.5 times the global rate with dangerous Amazon drought conditions expected.",
-      "signal": "Accelerating climate breakdown will fundamentally reshape geopolitics through resource wars, mass migration, and infrastructure collapse. US military planning must account for climate as a threat multiplier affecting every strategic theater simultaneously.",
-      "contradicts": "Belief that incremental climate action can prevent crossing critical thresholds",
-      "timestamp": "2026-05-29T19:56:33.370Z"
+      "domain": "Technology",
+      "headline": "Meta developing AI pendant; OpenAI in IPO talks with Citigroup and JPMorgan; Billionaires working to 'contain AI revolt'",
+      "significance": "HIGH",
+      "summary": "Meta wearables strategy accelerating; OpenAI seeking $50B+ IPO backing from major banks; Drudge reports billionaires fear AI-driven upheaval ('Pitchforks are here'). Simultaneously, federal judge urges nationwide rule against AI-generated fake citations in courts.",
+      "signal": "Capital markets and tech giants betting heavily on AI commercialization despite expressed existential risk concerns. Regulatory capture appears underway (judge warning suggests courts already grappling with AI-weaponized filings). US losing control of narrative around AI safety.",
+      "contradicts": "Public messaging of responsible AI development; capital allocation reveals true priority is speed-to-market",
+      "timestamp": "2026-05-30T04:05:21.463Z"
     },
     {
       "id": "sig5",
-      "domain": "Technology",
-      "headline": "Blue Origin New Glenn rocket explodes in massive fireball during Florida test ahead of Amazon satellite deployment",
-      "significance": "MEDIUM",
-      "summary": "Jeff Bezos's Blue Origin suffered a catastrophic rocket explosion during a hot-fire test at Cape Canaveral, destroying the New Glenn vehicle and severely damaging launch infrastructure. The rocket was scheduled to deploy 48 Amazon internet satellites within weeks as part of 24 planned missions.",
-      "signal": "The explosion threatens Amazon's timeline to meet FCC requirements for satellite constellation deployment and reinforces SpaceX's market dominance. This setback could accelerate foreign competitors in the satellite internet race while undermining US space commerce leadership.",
-      "contradicts": "Assumption that multiple US commercial space providers ensure redundancy and competition",
-      "timestamp": "2026-05-29T19:56:33.370Z"
+      "domain": "US Politics",
+      "headline": "Trump approval at 34%; multiple cabinet/judicial setbacks; Spencer Pratt surging to 74% odds for LA mayoral runoff qualification; UFO disclosure movie feeding confusion",
+      "significance": "HIGH",
+      "summary": "Trump approval collapsed and approval tracker is live feed; Judge blocked Kennedy Center renaming; ABC claims administration threatened broadcast licenses; Spielberg 'Disclosure' movie marketing blurring reality/fiction on UFO narrative. Simultaneously, Spencer Pratt (reality TV personality) is 74% to make LA runoff.",
+      "signal": "Institutional legitimacy eroding across judiciary, media, and civic processes. Reality-distortion accelerating (UFO movie, celebrity politics). When approval hits low 30s historically, policy volatility and personalism intensify. Expect accelerated executive overreach and media confrontation.",
+      "contradicts": "Stability assumptions; suggests regime pressure-testing beginning",
+      "timestamp": "2026-05-30T04:05:21.463Z"
     },
     {
       "id": "sig6",
-      "domain": "US Politics",
-      "headline": "Pentagon awards Dell 9.7 billion dollar contract weeks after Trump stock purchase and public endorsement",
+      "domain": "Indo-Pacific",
+      "headline": "China navy shifting pressure beyond Taiwan Strait; USFK commander calls Korea a 'dagger' at China; Japan-Philippines GSOMIA information-sharing pact talks begun",
       "significance": "HIGH",
-      "summary": "The Department of Defense awarded Dell Technologies a 9.7 billion dollar software procurement contract across military and intelligence agencies. This came after Trump purchased Dell stock valued between 1-5 million dollars in February and publicly urged Americans to buy Dell computers at rallies.",
-      "signal": "Trump's pattern of monetizing the presidency through coordinated stock purchases and government contracts signals a fundamental breakdown of executive branch ethics norms. This creates vulnerabilities to foreign influence operations and undermines trust in procurement integrity among allies and adversaries.",
-      "contradicts": "Expectation that obvious conflicts of interest would face institutional resistance",
-      "timestamp": "2026-05-29T19:56:33.370Z"
+      "summary": "China conducting naval operations outside Taiwan constraint zone; US commander escalated rhetoric on Korean peninsula positioning; Tokyo-Manila formalizing defense coordination. China protested both as illegal interference.",
+      "signal": "US alliance network in Pacific is hardening operationally while China tests perimeter. Japan-Philippines axis becoming explicit deterrent. This reduces Chinese options for Taiwan coercion without facing coordinated opposition. Beijing will likely accelerate timeline pressure.",
+      "contradicts": "Assumptions of US-China managed competition; signals active forward repositioning",
+      "timestamp": "2026-05-30T04:05:21.463Z"
     },
     {
       "id": "sig7",
-      "domain": "Middle East",
-      "headline": "Israel announces plan to seize control of 70 percent of Gaza Strip despite ongoing ceasefire negotiations",
-      "significance": "HIGH",
-      "summary": "Prime Minister Netanyahu ordered the Israeli military to take control of 70 percent of Gaza while UN officials warn this will worsen humanitarian conditions. The announcement comes as Israel was also added to a UN blacklist for sexual violence in conflict zones.",
-      "signal": "Israel's territorial expansion in Gaza while on diplomatic blacklists suggests calculation that military facts on ground override international legitimacy costs. This could force US into choosing between ally support and international law compliance in future crises.",
-      "contradicts": "Belief that ceasefire momentum constrains territorial ambitions",
-      "timestamp": "2026-05-29T19:56:33.370Z"
+      "domain": "Americas",
+      "headline": "JetBlue launching flights to Venezuela; US-Cuba rare military command meeting at Guantanamo Bay; Guatemala denies authorizing US strikes on drug traffickers",
+      "significance": "MEDIUM",
+      "summary": "Commercial air reopening to Venezuela; SOUTHCOM Commander Donovan met with Cuban General Staff first deputy near Gitmo (extraordinarily rare); Guatemala denied US strike authorization while US claims joint operations.",
+      "signal": "US signaling willingness to normalize Venezuela engagement if regime cooperates; simultaneous Cuba defense/intelligence signaling suggests confidence in Caribbean intelligence gathering. Guatemala denial suggests US conducting unilateral operations or overstating consent for political cover.",
+      "contradicts": "Regional isolation strategy; indicates selective normalization carrot-and-stick",
+      "timestamp": "2026-05-30T04:05:21.463Z"
     }
   ],
+  "scanNote": "Signal quality is high: OSINT feeds show real-time military operations (drone strikes, air defense kills), prediction markets reflecting fast repricing on Iran deal and 2028 nominations, and traditional media capturing institutional breakdown (courts, FCC, cabinet turnover). However, Drudge sensationalism and tabloid mixing (Spencer Pratt, cattleherding) dilutes signal-to-noise on domestic political chaos—segregate entertainment from security assessment.",
   "markets": [
     {
-      "aiKey": "house_gop",
-      "label": "GOP Keeps House 2026",
-      "domain": "US Politics",
-      "slug": "will-republicans-keep-the-house-in-2026",
-      "marketProb": null,
-      "aiProb": 28,
-      "gap": null,
-      "confidence": "HIGH",
-      "rationale": "Special election overperformance, retirements, low approval. House flip is base case.",
-      "volume24h": null,
-      "url": "https://polymarket.com/event/will-republicans-keep-the-house-in-2026"
-    },
-    {
-      "aiKey": "ukraine_cease",
-      "label": "Ukraine Ceasefire 2026",
-      "domain": "Europe",
-      "slug": "will-there-be-a-ceasefire-in-ukraine-in-2026",
-      "marketProb": null,
-      "aiProb": 45,
-      "gap": null,
-      "confidence": "LOW",
-      "rationale": "Trump wants exit, Ukraine exhausted, Europe pushing. Russia sees no urgency.",
-      "volume24h": null,
-      "url": "https://polymarket.com/event/will-there-be-a-ceasefire-in-ukraine-in-2026"
-    },
-    {
-      "aiKey": "taiwan_invasion",
-      "label": "China Invades Taiwan 2026",
-      "domain": "Indo-Pacific",
-      "slug": "will-china-invade-taiwan-in-2026",
-      "marketProb": null,
+      "ticker": "KXGREENTERRITORY-29-27",
+      "label": "US acquires Greenland before 2027",
+      "domain": "Americas",
+      "marketProb": 11,
       "aiProb": 8,
-      "gap": null,
+      "gap": -3,
+      "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Window opening but 2027 remains primary PLA readiness target. Gray zone more likely near term.",
-      "volume24h": null,
-      "url": "https://polymarket.com/event/will-china-invade-taiwan-in-2026"
+      "rationale": "No concrete acquisition action visible in current intel; NATO tensions with Russia and Arctic interest persist but no legislative or treaty movement observed, keeping probability low but non-trivial given Trump's stated ambitions.",
+      "volume24h": 6874,
+      "openInterest": 158788,
+      "priceChange24h": 1,
+      "url": "https://kalshi.com/markets/KXGREENTERRITORY-29-27"
     },
     {
-      "aiKey": "oil_spike",
-      "label": "Oil >$120/bbl 2026",
-      "domain": "Energy",
-      "slug": "will-brent-crude-oil-exceed-120-in-2026",
-      "marketProb": null,
+      "ticker": "KXNEXTAG-29-TBLA",
+      "label": "Todd Blanche next AG",
+      "domain": "US Politics",
+      "marketProb": 40,
+      "aiProb": 35,
+      "gap": -5,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Bondi under intense pressure over Epstein files and publicly blaming Blanche, creating a volatile AG succession dynamic; Blanche at 40% market price seems slightly high given the political crossfire, warranting a modest discount.",
+      "volume24h": 5278,
+      "openInterest": 396726,
+      "priceChange24h": 2,
+      "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
+    },
+    {
+      "ticker": "KXPRESNOMR-28-JDV",
+      "label": "Vance GOP 2028 nominee",
+      "domain": "US Politics",
+      "marketProb": 32,
+      "aiProb": 28,
+      "gap": -4,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Trump approval at 34% and domestic chaos depress the heir-apparent's prospects; Vance remains a leading contender but the political environment is turbulent enough to keep his probability below the 32% market price.",
+      "volume24h": 5781,
+      "openInterest": 1429329,
+      "priceChange24h": -1,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
+    },
+    {
+      "ticker": "KXPRESNOMR-28-MR",
+      "label": "Rubio GOP 2028 nominee",
+      "domain": "US Politics",
+      "marketProb": 29,
+      "aiProb": 22,
+      "gap": -7,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Rubio is visible internationally at Shangri-La Dialogue context and leads Iran deal diplomacy, burnishing foreign-policy credentials, but the market at 29% overweights his chances given Vance's structural advantages as sitting VP.",
+      "volume24h": 6608,
+      "openInterest": 2210060,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
+    },
+    {
+      "ticker": "KXPRESNOMD-28-GN",
+      "label": "Newsom Dem 2028 nominee",
+      "domain": "US Politics",
+      "marketProb": 23,
+      "aiProb": 20,
+      "gap": -3,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "California redistricting news and ongoing MAGA cultural backlash keep Newsom relevant as a foil, but at 23% market price his prospects are slightly inflated given AOC's insurgent energy and the party's leftward pull.",
+      "volume24h": 7938,
+      "openInterest": 2837436,
+      "priceChange24h": -1,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
+    },
+    {
+      "ticker": "KXPRESNOMD-28-AOC",
+      "label": "AOC Dem 2028 nominee",
+      "domain": "US Politics",
+      "marketProb": 11,
+      "aiProb": 13,
+      "gap": 2,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Progressive energy is strong with Trump approval at 34% and grassroots mobilization visible, but AOC faces structural electability concerns in a general election that the 11% market price roughly captures; marginal upward adjustment for activist momentum.",
+      "volume24h": 9464,
+      "openInterest": 2930989,
+      "priceChange24h": -1,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
+    },
+    {
+      "ticker": "KXTXSENOUTCOME-27JAN-PAXTAL",
+      "label": "Paxton wins TX Senate general",
+      "domain": "US Politics",
+      "marketProb": 61,
+      "aiProb": 55,
+      "gap": -6,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Paxton leads his primary by 6+ points per resolved markets, and Texas remains structurally Republican, but the 39% Talarico-wins scenario and a -4-cent drop today signal non-trivial Democratic competitiveness in a polarized environment.",
+      "volume24h": 9451,
+      "openInterest": 68132,
+      "priceChange24h": -4,
+      "url": "https://kalshi.com/markets/KXTXSENOUTCOME-27JAN-PAXTAL"
+    },
+    {
+      "ticker": "KXTXSENOUTCOME-27JAN-TALPAX",
+      "label": "Talarico defeats Paxton in TX Senate",
+      "domain": "US Politics",
+      "marketProb": 39,
+      "aiProb": 38,
+      "gap": -1,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "National Democratic enthusiasm driven by Trump's 34% approval and economic anxiety creates real but uphill pickup opportunity in Texas; the +3-cent move today reflects that momentum, though structural Republican lean persists.",
+      "volume24h": 4482,
+      "openInterest": 23680,
+      "priceChange24h": 3,
+      "url": "https://kalshi.com/markets/KXTXSENOUTCOME-27JAN-TALPAX"
+    },
+    {
+      "ticker": "KXLAMAYORADVANCE-26JUN02-SPRA",
+      "label": "Spencer Pratt qualifies for LA mayor runoff",
+      "domain": "Americas",
+      "marketProb": 74,
       "aiProb": 68,
-      "gap": null,
-      "confidence": "MEDIUM",
-      "rationale": "Hormuz disruption plus supply shock already in progress.",
-      "volume24h": null,
-      "url": "https://polymarket.com/event/will-brent-crude-oil-exceed-120-in-2026"
+      "gap": -6,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Drudge and OSINT coverage of Pratt's dark visions resonating and TMZ amplification are driving his market surge to 74%; STRATWATCH discounts slightly given celebrity-candidacy volatility and uncertain voter turnout dynamics.",
+      "volume24h": 36949,
+      "openInterest": 118378,
+      "priceChange24h": 4,
+      "url": "https://kalshi.com/markets/KXLAMAYORADVANCE-26JUN02-SPRA"
     },
     {
-      "aiKey": "iran_deal",
-      "label": "Iran Nuclear Deal 2026",
-      "domain": "Middle East",
-      "slug": "will-us-iran-reach-nuclear-deal-in-2026",
-      "marketProb": null,
-      "aiProb": 12,
-      "gap": null,
-      "confidence": "MEDIUM",
-      "rationale": "Kinetic operations make diplomatic track nearly impossible near term.",
-      "volume24h": null,
-      "url": "https://polymarket.com/event/will-us-iran-reach-nuclear-deal-in-2026"
-    },
-    {
-      "aiKey": "russia_kyiv",
-      "label": "Russia Takes Kyiv",
-      "domain": "Europe",
-      "slug": "will-russia-capture-kyiv-by-end-of-2026",
-      "marketProb": null,
-      "aiProb": 4,
-      "gap": null,
-      "confidence": "HIGH",
-      "rationale": "Russia lacks manpower and logistics for capital seizure.",
-      "volume24h": null,
-      "url": "https://polymarket.com/event/will-russia-capture-kyiv-by-end-of-2026"
+      "ticker": "KXPRESPERSON-28-MRUB",
+      "label": "Rubio wins 2028 presidency",
+      "domain": "US Politics",
+      "marketProb": 19,
+      "aiProb": 14,
+      "gap": -5,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Rubio's high-profile diplomacy on Iran and presence at Shangri-La elevates his profile, but the 19% market price for an outright win is too generous given the crowded field, post-Trump Republican identity uncertainty, and his secondary status behind Vance.",
+      "volume24h": 59967,
+      "openInterest": 1963749,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESPERSON-28-MRUB"
     }
   ],
   "watchSignals": [
-    "Trump-Iran deal finalization timeline regarding Strait of Hormuz reopening - any deviation from Trump's claimed 'largely negotiated' status could trigger immediate regional economic crisis and energy price surge",
-    "Chinese military activity in Taiwan's contiguous zone during June 2026 - normalization of PLA operations within 12-nautical-mile buffer represents critical erosion of cross-strait status quo",
-    "Russia-China gas pipeline negotiations outcome following failed May summit - Beijing's continued resistance to Power of Siberia 2 indicates limits of Sino-Russian alliance despite strategic cooperation rhetoric",
-    "Venezuelan post-Maduro transition stability indicators - hardline Chavista elements led by Defense Minister Padrino Lopez and Interior Minister Cabello could trigger broader regional conflict if US administrative transition fails",
-    "European defense industrial production timelines for deep-strike capabilities - current projections of years to decade timeframes leave critical capability gaps in face of Iranian threats and potential China-Taiwan crisis",
-    "Oil price movements above $120/barrel threshold - current levels near $100 with potential spike to $150+ if Strait remains closed could force Federal Reserve into recession-inducing rate increases amid Iran conflict economic pressures"
+    "Iran nuclear deal finalization: Trump Situation Room meeting yielded no decision; Polymarket probability collapsed from >60% to 25%. Watch for statements from Iranian negotiators, US sanctions action, or new Strait of Hormuz military posturing within 7-10 days.",
+    "US-Cuba military engagement: SOUTHCOM Commander Donovan held rare direct meeting with Cuban military leadership near Guantanamo. Monitor for follow-up diplomatic signals, migration policy shifts, or counterterrorism coordination announcements.",
+    "NATO eastern flank escalation: Romanian drone strike, Baltic incidents, and Pentagon warnings of expanded Russian drone ops. Watch for Article 5 invocation risk, troop deployment announcements, or NATO emergency summit call.",
+    "Hezbollah-Israel kinetic cycle: Recent FPV drone footage of IDF targeting; Iranian air defense losses in Kermanshah. Monitor for Israeli retaliatory strikes, Lebanese civilian displacement, or US military advisory surge signals.",
+    "Spencer Pratt LA mayoral runoff: Prediction market jumped to 74% (+4 cents in 24h) on third-party candidacy disruption. Watch ballot certification deadlines and ballot-access litigation that could reshape 2026 redistricting outcomes.",
+    "Pentagon-UFC financial conflict: Hegseth stock purchase while promoting UFC events; separate troop recruitment via UFC sponsorship. Monitor for DoD ethics investigation, potential SEC inquiry, or congressional oversight hearing scheduling."
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East Energy Security",
-      "headline": "US-Iran conflict has effectively closed Strait of Hormuz since February 28, blocking 25% of global oil trade and 20% of LNG shipments",
-      "significance": "CRITICAL",
-      "summary": "The Strait of Hormuz remains largely blocked by Iranian mines and drone threats following US-Israeli assassination of Supreme Leader Khamenei. Only ships from Iran-approved nations can transit via northern route with Revolutionary Guard vetting and tolls. US counter-blockade of Iranian ports intensifies standoff.",
-      "signal": "Greatest energy crisis since 1970s directly threatens US inflation targets and economic stability while constraining military options globally"
+      "domain": "Executive Health & Transparency",
+      "headline": "White House refuses to release presidential medical report, breaking precedent",
+      "significance": "HIGH",
+      "summary": "Drudge reports POTUS medical records withheld; simultaneous White House statement claims Trump in excellent health. This breaks with post-Nixon transparency norms and creates strategic ambiguity regarding decision-making capacity during Iran negotiations and NATO posture shifts.",
+      "signal": "Opacity on POTUS fitness may embolden adversaries to test resolve; undermines domestic confidence in command judgments on nuclear deal and Ukraine support."
     },
     {
       "id": "gt2",
-      "domain": "Western Hemisphere",
-      "headline": "US captured Venezuelan President Maduro in January 2026 military operation, establishing de facto control over oil reserves worth $3 billion",
+      "domain": "Middle East Diplomacy",
+      "headline": "Iran nuclear deal negotiations stalled with no final US decision after two-hour Situation Room meeting",
       "significance": "CRITICAL",
-      "summary": "Operation Absolute Resolve removed Maduro to face narcoterrorism charges in New York. US now administers Venezuelan oil production through interim government led by Vice President Delcy Rodriguez. Colombia mobilized border forces anticipating refugee flows.",
-      "signal": "Unprecedented US military intervention in Latin America tests alliance cohesion and sets precedent for resource-focused regime change operations"
+      "summary": "Trump left meeting without commitment; Polymarket probability dropped 60→25% in 48 hours. Iranian officials accuse US of shifting demands. Concurrent US crypto seizures (~$1B) from Iran and new counterterrorism sanctions signal hardline faction gaining influence.",
+      "signal": "Nuclear brinkmanship risk elevated. If talks collapse, expect Iranian retaliation via proxy militias in Iraq/Syria, Houthi Red Sea escalation, or nuclear acceleration rhetoric. Israel may perceive window closing for preventive action."
     },
     {
       "id": "gt3",
-      "domain": "US-China Strategic Competition",
-      "headline": "Trump-Xi Beijing summit produced three-year strategic stability framework but exposed Taiwan as primary flashpoint and US policy uncertainty",
+      "domain": "Military Operations & Intelligence",
+      "headline": "Ukrainian drones now deploying magnetic-fuzed anti-vehicle mines deep behind Russian lines; operational range expanding",
       "significance": "HIGH",
-      "summary": "May 14-15 summit yielded $17 billion agricultural deals and Boeing aircraft purchases but Xi warned Taiwan mishandling would create great jeopardy. Trump called Taiwan arms sales a negotiating chip, raising Taipei concerns about US commitment reliability.",
-      "signal": "Chinese confidence in managing US relationship while Trump's transactional approach creates alliance uncertainty in Indo-Pacific"
+      "summary": "OSINT confirms Hornet mid-range drones and new FPV capability for mine-laying on Russian supply routes in southern theater. Represents significant capability leap in Ukrainian asymmetric warfare and extends strike depth beyond frontline.",
+      "signal": "Russian logistics vulnerability now existential threat; expect Russian countermeasures (airspace denial, decoy ops). US/NATO must plan for accelerated Russian offensives before Ukrainian drone inventories mature."
     },
     {
       "id": "gt4",
-      "domain": "Russia-China Axis",
-      "headline": "Putin-Xi summit failed to achieve major energy deals despite 40 signed agreements, revealing limits of authoritarian alliance",
+      "domain": "NATO-Russia Confrontation",
+      "headline": "Drone strike on Romanian civilian target; NATO mobilizing eastern flank after Kremlin threats and Baltic incidents",
       "significance": "HIGH",
-      "summary": "May 20-21 Beijing meeting produced cooperation agreements but Beijing rejected Power of Siberia 2 pipeline, maintaining strategic autonomy. Both leaders criticized US Golden Dome defense system and New START treaty expiration while deepening military cooperation.",
-      "signal": "Sino-Russian partnership remains pragmatic alignment rather than full alliance, creating wedge opportunities for US strategy"
+      "summary": "Russian/ambiguous drone damaged apartment building in Romania (2 injured). US pledges NATO will defend every inch. NATO calling for significant force posture increases on eastern frontier in response to Putin threats and errant/deliberate drone incursions.",
+      "signal": "Accidental escalation risk through miscalculation now acute. US tripwire units in Poland/Baltics at heightened collision risk. Expect formal NATO command-and-control updates and pre-positioned ammunition/fuel stockpiles in next 14 days."
     },
     {
       "id": "gt5",
-      "domain": "Indo-Pacific Military Balance",
-      "headline": "China conducting regular incursions into Taiwan's contiguous zone while US allies strengthen deterrence architecture through enhanced exercises",
+      "domain": "US Domestic Political Instability",
+      "headline": "Trump approval at 34%; Congressional Republican presence unexplained (absences for months); administration staffing conflicts visible (Bondi/Blanche, Hegseth ethics questions)",
       "significance": "HIGH",
-      "summary": "PLA vessels now routinely operate within Taiwan's 12-nautical-mile buffer zone during Justice Mission exercises. Balikatan 2026 featured first Japanese participation with HIMARS, Typhon missiles, and unmanned surface vessel deployments in Luzon Strait.",
-      "signal": "Erosion of Taiwan Strait status quo accelerating while US alliance integration improves but faces timeline pressures for capability development"
+      "summary": "Drudge reports show fracturing cabinet coherence, medical transparency breaks, and stock-trading ethics violations (Hegseth/UFC). Republican legislators missing from Congress without clear explanation. Suggests internal White House dysfunction and potential intra-party fracture.",
+      "signal": "Weak domestic political capital limits administration flexibility on Iran, NATO burden-sharing, and Ukraine aid negotiations. Adversaries may perceive window for regional testing. Congressional oversight likely to accelerate on defense contracting and medical fitness."
     }
-  ],
-  "scanNote": "Searched for current geopolitical developments with focus on unexpected patterns and contradictions to consensus - found significant signals across multiple domains showing institutional breakdown and accelerating instability."
+  ]
 }
