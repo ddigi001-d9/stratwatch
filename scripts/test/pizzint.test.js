@@ -15,6 +15,21 @@ test("parseOsintFeed extracts reports with account + source link", () => {
   assert.ok(typeof r.text === "string");
 });
 
+test("parseOsintFeed text is clean — no markup, class-soup, or timestamp prefix", () => {
+  const reports = parseOsintFeed(HTML);
+  for (const r of reports) {
+    assert.ok(!/[<>]|jsx-|text-gray|font-mono|class=/.test(r.text), `markup leaked: ${r.text.slice(0, 60)}`);
+    assert.ok(!/^\d{1,2}:\d{2}\s*Z/.test(r.text), `timestamp not stripped: ${r.text.slice(0, 30)}`);
+    assert.ok(r.text.length >= 10, `report too short: "${r.text}"`);
+  }
+});
+
+test("parseOsintFeed attributes reports to multiple distinct accounts", () => {
+  const reports = parseOsintFeed(HTML);
+  const accounts = new Set(reports.map((r) => r.account));
+  assert.ok(accounts.size >= 3, `expected varied attribution, got: ${[...accounts].join(",")}`);
+});
+
 test("parseDoughcon extracts numeric level", () => {
   const d = parseDoughcon(HTML);
   assert.ok(d.level >= 1 && d.level <= 5, `level out of range: ${d.level}`);

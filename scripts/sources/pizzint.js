@@ -12,20 +12,37 @@ function stripTags(html) {
     .trim();
 }
 
-// Each OSINT card contains report text followed by a link to the original tweet.
-// Heuristic: for each x.com status link, take the stripped text in the preceding window.
+// The feed renders one card per report: <div id="osint-markets-<id>"> ... <a x.com link> ...
+// "<handle> <HH:MM> Z <report text> locating…" </div>. We bound each report to its card,
+// strip tags, and extract the text after the timestamp (the report body follows the link,
+// not precedes it). Account comes from the tweet link's handle.
 function parseOsintFeed(html) {
-  const re = /<a[^>]+href="https:\/\/x\.com\/(\w+)\/status\/(\d+)"/g;
+  const cardRe = /id="osint-markets-(\d+)"/g;
+  const starts = [];
+  let c;
+  while ((c = cardRe.exec(html)) !== null) starts.push(c.index);
+
   const reports = [];
   const seen = new Set();
-  let m;
-  while ((m = re.exec(html)) !== null) {
-    const [, account, id] = m;
+  for (let i = 0; i < starts.length; i++) {
+    const chunk = html.slice(starts[i], starts[i + 1] ?? starts[i] + 2500);
+    const link = chunk.match(/x\.com\/(\w+)\/status\/(\d+)/);
+    if (!link) continue;
+    const [, account, id] = link;
     if (seen.has(id)) continue;
     seen.add(id);
-    const before = html.slice(Math.max(0, m.index - 900), m.index);
-    const text = stripTags(before).slice(-240).trim();
-    reports.push({ account, url: `https://x.com/${account}/status/${id}`, text });
+
+    let text = stripTags(chunk);
+    const tz = text.match(/\d{1,2}:\d{2}\s*Z\s*/); // skip the "HH:MM Z" timestamp prefix
+    if (tz) text = text.slice(tz.index + tz[0].length);
+    text = text
+      .replace(new RegExp("^" + account + "\\s+", "i"), "") // drop a repeated handle
+      .replace(/\s*locating….*$/i, "")
+      .split("<")[0] // cut any dangling partial tag from the card-boundary slice
+      .trim()
+      .slice(0, 280)
+      .trim();
+    if (text) reports.push({ account, url: `https://x.com/${account}/status/${id}`, text });
   }
   return reports;
 }
