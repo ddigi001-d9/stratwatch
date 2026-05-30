@@ -56,7 +56,7 @@ Edit `scripts/package.json` so `scripts` becomes:
 
 ```json
   "scripts": {
-    "test": "node --test test/",
+    "test": "node --test",
     "start": "node run.js"
   },
 ```
