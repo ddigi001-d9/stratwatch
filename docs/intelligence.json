@@ -1,179 +1,224 @@
 {
-  "generatedAt": "2026-06-02T21:38:03.078Z",
-  "runNumber": 19,
+  "generatedAt": "2026-06-03T21:39:39.964Z",
+  "runNumber": 20,
   "situation": {
-    "headline": "US naval blockade of Iran now kinetic — sixth vessel disabled in Arabian Gulf — while Iran-US nuclear talks remain nominally open, creating a razor-thin window before miscalculation triggers regional war",
+    "headline": "Iran attacks Gulf Arab states and claims strike on US Navy destroyer while nuclear risk assessed higher than pre-war, threatening Strait of Hormuz closure and forcing urgent US decision on enriched uranium seizure within weeks",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 72,
+        "prob": 91,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "US forces actively disabling Iranian-bound tankers, IRGC Quds Force issuing escalation warnings, Israel advancing in Lebanon, and Iran nominally suspending then resuming talks — all simultaneously — creating compounding tripwires for multi-front ignition"
+        "status": "Iran is simultaneously attacking Gulf neighbors, threatening Beirut, claiming anti-ship missile strikes on US Navy, and publicly rejecting progress in negotiations while Trump signals a 2-3 week window before resuming full war — the ceasefire is a fiction and the Strait of Hormuz closure scenario is now the baseline risk, not a tail risk."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 18,
+        "prob": 34,
         "label": "China coercion escalation",
         "trajectory": "FLAT",
-        "status": "Taiwan Level 4 warning market sitting at 2 percent with no movement, suggesting no near-term acute flashpoint, but US strategic bandwidth consumed by Middle East and domestic dysfunction degrades deterrence passively"
+        "status": "No direct China signals in this cycle, but US force posture degradation via NATO drawdowns and Middle East commitments creates a window of opportunity Beijing will be watching closely; SpaceX IPO at $1.77T and AI investment surge sustain US hard-power tech edge as a deterrent."
       },
       {
         "name": "Europe",
-        "prob": 22,
+        "prob": 58,
         "label": "NATO cohesion fracture",
         "trajectory": "UP",
-        "status": "Russian cruise missile strikes continuing on Kyiv while Ukrainian drones strangle Crimea fuel supply, but US political chaos and intelligence leadership vacuum under Pulte raise questions about reliability of US Article 5 commitment in allied capitals"
+        "status": "US confirmed cuts to NATO Standing Forces including fighter jets, refuelers, naval assets, and drones delivered to European counterparts without warning, while Ukrainian drones strike St. Petersburg hours before Putin's Davos — European allies face the worst of both escalation and abandonment simultaneously."
       },
       {
         "name": "Energy",
-        "prob": 55,
+        "prob": 78,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "US blockade of Iranian oil exports at kinetic enforcement stage, Strategic Petroleum Reserve approaching all-time low, gold overtaking bonds as reserve signal — Goldman Sachs warning on high oil prices feeding directly into this trajectory"
+        "status": "Iranian attacks on Kuwait airport and Gulf states, Strait of Hormuz leverage in ongoing negotiations, and plunging oil supply headlines converge; gold overtaking US bonds as global reserve store-of-value signals markets are already pricing a sustained disruption, not a blip."
       },
       {
         "name": "US Politics",
-        "prob": 54,
+        "prob": 44,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Kalshi Democratic party presidency at 58 percent for 2028, Newsom at 23 percent nomination, Ossoff surging to 9 percent with fresh volume — opposition consolidating while White House shows signs of executive dysfunction including 45 Truth Social posts in one hour with no public events for a week"
+        "status": "Trump approval at fresh lows at 500-day mark, House Republicans suffered a stinging loss on the Iran war powers vote with four defectors, the Farmer-upsets-Trump-backed-candidate signal suggests rural coalition fraying, and a narrow but real path to a blue Senate through red states is emerging per analyst consensus."
       }
     ],
-    "unseen": "The simultaneous placement of a housing-industry political operative as acting intelligence chief, the DOJ investigating Santos for insider trading on Kalshi, and the White House imposing political tests on federal grants suggests a systematic subordination of intelligence and legal institutions to political loyalty screening — this structural degradation of professional bureaucracy is happening quietly beneath the louder Iran crisis and will outlast any single foreign policy flashpoint, compounding adversary willingness to probe US resolve",
-    "criticalWindow": "The next 72 hours of Iran-US nuclear talks are the single most time-sensitive decision point — Trump claims talks are progressing rapidly while GDELT confirms Iran officially suspended them over Lebanon escalation, and each additional tanker interdiction in the Arabian Gulf raises the cost of Iranian concession, making deal collapse and IRGC kinetic retaliation against US naval assets the highest-probability near-term surprise",
+    "unseen": "The convergence of Iran's deliberate civilian-infrastructure targeting in Kuwait, the CENTCOM denial of the destroyer strike claim, and Trump's statement that he will go get Iran's enriched uranium in the near future suggests the US is moving toward a coercive seizure or destruction of Iranian nuclear material — an action that would instantly transform a contained Gulf war into a direct US-Iran conflict and could trigger simultaneous Hezbollah action on Beirut, closing the Strait of Hormuz and triggering the energy supply shock already partially priced in gold markets; analysts focused on negotiation timelines are underweighting the probability that the uranium seizure announcement is itself a negotiating anchor that could misfire.",
+    "criticalWindow": "Trump's self-stated 2-3 week window before resuming full war operations against Iran, combined with the end-of-week negotiation meeting he referenced, creates a hard decision gate between approximately June 6-20, 2026 — if the Strait of Hormuz remains partially obstructed and Iran continues Gulf state attacks during that window, Congressional Iran war powers constraints (215-208 House vote) will collide directly with an executive branch moving toward kinetic seizure of uranium stockpiles, producing a constitutional and operational crisis simultaneously.",
     "watchFor": [
-      "Iranian retaliation against a US naval vessel or Gulf state energy infrastructure in response to tanker interdictions — would immediately spike oil above Goldman's threshold and potentially close the nuclear negotiation window permanently",
-      "Pulte DNI confirmation or formal intelligence community internal revolt — Kalshi shows an 18-cent single-day spike to 18 percent for Pulte, exactly offset by a 12-cent drop for both Aaron Lukas and Elise Stefanik, signaling market confidence the appointment is real and the professional IC is being displaced",
-      "Ebola containment failure expanding beyond current African theater — Rubio floating a single response coordinator signals US government already treating this as a potential emergency, and an uncontrolled outbreak since January with no GDELT coverage is a severe information gap",
-      "Israel-Lebanon ceasefire talks collapse at State Department — i24 reports talks concluded today and a US push to finalize by tomorrow exists, but four Israeli soldiers wounded by Hezbollah FPV drones the same day signals the ground situation is outrunning the diplomacy"
+      "Iranian anti-ship missile or drone strike that actually damages or sinks a US naval vessel in the Gulf of Oman or Hormuz — would immediately end negotiation track and trigger Article 51 response",
+      "Israeli strike on Beirut southern suburbs following Iranian FM warning that Iran will directly intervene — would open Lebanon front and force US to choose between restraining Israel and containing Iran simultaneously",
+      "Strait of Hormuz effective closure even partial for 72+ hours — Brent crude spike above $120 would validate gold-over-bonds signal and accelerate financial repression scenario Dalio is flagging",
+      "Congressional legal challenge or injunction against Trump invoking emergency powers for uranium seizure operation — would create civil-military command authority ambiguity at worst possible moment"
     ],
-    "confidenceNote": "Critical uncertainty: the contradiction between GDELT reporting Iran suspended talks and Trump Truth Social posts claiming talks are progressing is irresolvable from open sources — one side is conducting information operations or there is a back-channel distinct from the publicly reported track; energy price trajectory confidence is moderate because SPR drawdown data is asserted in headlines without volume figures; Kalshi DNI market has thin open interest under 40k contracts making the 18-cent Pulte spike notable for direction but not magnitude",
-    "topPattern": "The US is simultaneously conducting kinetic naval blockade operations against Iran, running nuclear diplomacy with Tehran, supporting Israeli military advances in Lebanon that Iran calls a red line, and doing all of this with an acting DNI from the mortgage industry overseeing CIA and NSA — Kalshi's 18-cent single-session Pulte DNI spike confirms markets now price this leadership vacuum as real, while gold overtaking US bonds as the world's preferred safe asset reflects a broader global judgment that US institutional reliability is in question at precisely the moment maximum strategic coherence is required"
+    "confidenceNote": "Key uncertainties are severe: the OSINT feed contains Iran claims that CENTCOM flatly denies, making battle damage assessment impossible from open sources; Trump's rhetorical pattern of maximum-pressure statements followed by negotiation creates signal-noise problems for intent assessment; the 2-3 week timeline is a public statement designed for leverage and may not reflect actual operational planning; Kalshi impeachment market at 63% likely reflects baseline congressional dynamics not a near-term trigger; and the GDELT theater sections are empty this cycle, removing corroborating wire data for all regional assessments.",
+    "topPattern": "The single thread connecting the most important dots is executive branch unilateral escalation outpacing both congressional authorization (Iran war powers vote lost 215-208) and alliance consultation (NATO force cuts delivered without warning) while prediction markets price impeachment at 63% and Trump approval hits new lows — the US is simultaneously most exposed abroad and most politically constrained at home precisely when the Iran window is at its most dangerous, and gold overtaking US bonds as the world's favorite investment is the market's quiet verdict that this combination of fiscal, military, and political stress is not transient."
   },
   "signals": [
     {
       "id": "sig1",
-      "domain": "US Politics",
-      "headline": "Bill Pulte appointed acting DNI amid intelligence agency turf wars",
+      "domain": "Middle East",
+      "headline": "Iran escalates Gulf operations while Trump signals week-end negotiations",
       "significance": "CRITICAL",
-      "summary": "Housing official and MAGA enforcer Pulte named to lead CIA/NSA amid reported feuding between top spy agencies. Kalshi market shows 18% probability (+18¢ in 24h), suggesting sharp upward revision. No prior DNI experience or intelligence background cited.",
-      "signal": "Politicization of intelligence leadership creates acute risk of corrupted threat assessment and compromised counterintelligence during active Middle East escalation. Institutional continuity collapse in IC if confirmed.",
-      "contradicts": "Professional intelligence norm requiring career spy experience",
-      "timestamp": "2026-06-02T21:39:46.964Z"
+      "summary": "Iran conducted drone/missile attacks on Kuwait airport, launched anti-ship cruise missile at US destroyer in Gulf of Oman, and claims direct targeting capability against Israel if Beirut attacked. Trump simultaneously claims negotiations can happen 'end of week' and states Iran issue separable from Lebanon conflict. UN assesses Tehran nuke risk higher than pre-war.",
+      "signal": "Iran is testing escalation thresholds while Trump attempts de-escalation dialogue—classic signaling before negotiating position hardens. If talks collapse by week-end, expect tit-for-tat strikes to accelerate. US NATO force cuts (fighter jets, naval assets, drones) weaken ability to enforce Gulf security during critical window.",
+      "contradicts": "Trump's 'ceasefire is shooting moderately' framing—Iranian actions suggest they are preparing for resume, not de-escalation.",
+      "timestamp": "2026-06-03T21:41:27.552Z"
     },
     {
       "id": "sig2",
-      "domain": "Middle East",
-      "headline": "Iran suspends US ceasefire talks over Israeli Lebanon escalation; Trump denies via Truth Social",
-      "significance": "CRITICAL",
-      "summary": "GDELT reports Iran Supreme Leader adviser warning Lebanon escalation will not be tolerated and official suspension of negotiations. Trump contradicts via Truth Social, claiming talks 'moving at rapid pace.' Direct conflict between Iranian state messaging and White House claims.",
-      "signal": "Breakdown in back-channel communication or Trump either uninformed or misrepresenting status. High risk of miscalculation if Iran is genuinely suspending talks while US believes negotiations ongoing. Sets conditions for unintended escalation.",
-      "contradicts": "Administration narrative of diplomatic progress",
-      "timestamp": "2026-06-02T21:39:46.964Z"
+      "domain": "US Politics",
+      "headline": "House votes 215-208 to curb Trump Iran war powers with rare GOP fracture",
+      "significance": "HIGH",
+      "summary": "Four Republicans joined Democrats to pass constraint on Trump's unilateral Iran authority. This is narrowest margin and clearest constitutional pushback on executive war power in current term. Timing coincides with active Iranian military operations.",
+      "signal": "Congress is reasserting war powers authority despite Trump's executive dominance elsewhere. This signals both institutional resistance and market concern about escalation—suggests administration faces real constraint if Iran situation deteriorates into major conflict.",
+      "contradicts": "Narrative of total GOP fealty to Trump on foreign policy.",
+      "timestamp": "2026-06-03T21:41:27.552Z"
     },
     {
       "id": "sig3",
-      "domain": "Middle East",
-      "headline": "CENTCOM disables sixth Iranian supply vessel in Arabian Gulf blockade",
+      "domain": "US Politics",
+      "headline": "Impeachment probability holds at 63% despite Trump's political dominance",
       "significance": "HIGH",
-      "summary": "US forces fired Hellfire missile into engine room of Botswana-flagged tanker M/T Lexie attempting to transit toward Kharg Island Iran. Confirmed sixth vessel disabled supporting naval blockade. OSINT video documentation provided.",
-      "signal": "Escalating kinetic enforcement of Iran blockade in international waters creates tangible war-at-sea precedent. Combined with Iran suspension of talks, suggests both sides preparing for broader conflict. Risk of Iranian asymmetric response in Gulf or via proxies.",
-      "contradicts": "Trump claim that ceasefire talks progressing normally",
-      "timestamp": "2026-06-02T21:39:46.964Z"
+      "summary": "Kalshi impeachment-before-Jan-20-2029 contract trading at 63% confidence. This is persistent despite GOP House control and Trump's apparent command of party machinery. Context includes CBS/60 Minutes purge, media pressure, and institutional friction signals.",
+      "signal": "Markets are pricing in either unforeseen scandal escalation, constitutional crisis (Greenland/military overreach), or post-election institutional resistance. Iran escalation or forced use of Cold War spending powers could trigger legislative backlash.",
+      "contradicts": "Assumption that Trump faces no serious impeachment risk during second term.",
+      "timestamp": "2026-06-03T21:41:27.552Z"
     },
     {
       "id": "sig4",
-      "domain": "US Politics",
-      "headline": "Pentagon hires convicted January 6 rioter for sensitive counterterror position",
-      "significance": "HIGH",
-      "summary": "Defense Department placed individual with January 6 conviction in national security role. No details on vetting process or clearance rationale provided in Drudge headline.",
-      "signal": "Integrity of personnel security clearance process compromised. Creates exposure for adversary recruitment/leverage and potential insider threat in counterterrorism operations. Suggests ideological litmus test replacing merit/security protocols.",
-      "contradicts": "Established OPSEC and personnel vetting standards",
-      "timestamp": "2026-06-02T21:39:46.964Z"
+      "domain": "Energy",
+      "headline": "Trump invokes Cold War powers for $700M coal revival as oil supplies plunge",
+      "significance": "MEDIUM",
+      "summary": "Administration deploying Defense Production Act for coal expansion to meet AI power demand surge. Simultaneously, headline warns plunging oil supplies will push fuel prices higher. Gold has overtaken US bonds as world's favorite investment.",
+      "signal": "Energy policy is bifurcating: coal expansion signals long-term commitment to traditional generation, but immediate oil squeeze suggests supply shock (Iran sanctions/Strait closure) may be priced in. Commodity markets and precious metals flight indicate inflation/currency concerns.",
+      "contradicts": "Clean energy transition narrative—domestic policy is turning fossil-fuel intensive.",
+      "timestamp": "2026-06-03T21:41:27.552Z"
     },
     {
       "id": "sig5",
-      "domain": "Americas",
-      "headline": "US military strikes reported on alleged drug trafficking boats; legal/jurisdictional details sparse",
+      "domain": "Technology",
+      "headline": "SpaceX targets $1.77T valuation IPO; Musk set to become world's first trillionaire",
       "significance": "MEDIUM",
-      "summary": "Multiple US regional outlets report military strikes on alleged drug smuggling vessels. Framing as 'alleged' suggests unconfirmed targeting or gray-zone enforcement. No GDELT detail on location, rules of engagement, or casualties.",
-      "signal": "Suggests expanded maritime enforcement operations potentially in third-country waters. Without clarity on legal authorization, creates diplomatic risk with Caribbean/Central American allies and potential for collateral escalation.",
+      "summary": "SpaceX IPO at $135/share would value firm at $1.77 trillion and enrich White House officials holding millions in stock. Anthropic tapping Goldman/Morgan Stanley for IPO. Google raising AI funding to $84.75B.",
+      "signal": "Massive concentration of wealth-creation in tech/defense-connected firms under Trump orbit. This creates conflict-of-interest opacity on policy (satellite licensing, contract awards, Pentagon priorities) and systemic liquidity risks if valuations compress.",
       "contradicts": null,
-      "timestamp": "2026-06-02T21:39:46.964Z"
+      "timestamp": "2026-06-03T21:41:27.552Z"
     },
     {
       "id": "sig6",
-      "domain": "US Politics",
-      "headline": "Trump Truth Social posts surge to 45 in one hour; no public events for one week",
+      "domain": "Americas",
+      "headline": "Mexico City protests, road blockades erupt 8 days before World Cup; infrastructure unfinished",
       "significance": "MEDIUM",
-      "summary": "Drudge flags abnormal posting frequency combined with public schedule blackout. Indicates either operational security measure, health issue, or crisis management posture during active Middle East escalation.",
-      "signal": "Unusual pattern may indicate White House in reactive/defensive mode during Iran-Israel-Lebanon crisis. Combined with Pulte DNI appointment and contradictory Iran ceasefire claims, suggests potential command-and-control instability at executive level.",
+      "summary": "Major civil unrest and transport disruption threatening marquee sporting event. Reflects underlying institutional capacity/corruption issues in Mexico.",
+      "signal": "Mexican state fragility during peak global visibility event creates opening for Trump to invoke security/migration narratives or demand bilateral concessions. Regional instability could drive northward migration pressure.",
       "contradicts": null,
-      "timestamp": "2026-06-02T21:39:46.964Z"
+      "timestamp": "2026-06-03T21:41:27.552Z"
     }
   ],
-  "scanNote": "Signal quality degraded by headline-only sourcing; GDELT provides best threading on Iran talks contradiction; Kalshi DNI market shows real-money repricing inconsistent with public reporting, suggesting informed betting on announcement; Middle East data shows kinetic escalation concurrent with stated diplomatic progress.",
+  "scanNote": "Signal quality is high: Iran escalation, GOP fracture on war powers, and persistent impeachment pricing are real structural tensions; media purge and institutional friction are genuine; commodity/currency moves reflect underlying macro stress.",
   "markets": [
     {
-      "ticker": "KXNEXTODNI-29-BPUL",
-      "label": "Bill Pulte as next DNI",
+      "ticker": "KXIMPEACH-29-JAN20",
+      "label": "Trump impeached before Jan 20 2029",
       "domain": "US Politics",
-      "marketProb": 18,
-      "aiProb": 22,
-      "gap": 4,
+      "marketProb": 63,
+      "aiProb": 28,
+      "gap": -35,
+      "favorable": true,
+      "confidence": "MEDIUM",
+      "rationale": "House just delivered a stinging loss on Iran war powers (215-208), approval hitting new lows, and CBS/media fractures signal political turbulence, but Republican Senate majority makes conviction and removal extremely unlikely, suppressing the real strategic risk.",
+      "volume24h": 22061,
+      "openInterest": 116628,
+      "priceChange24h": -2,
+      "url": "https://kalshi.com/markets/KXIMPEACH-29-JAN20"
+    },
+    {
+      "ticker": "KXNEXTAG-29-TBLA",
+      "label": "Todd Blanche as next AG",
+      "domain": "US Politics",
+      "marketProb": 64,
+      "aiProb": 55,
+      "gap": -9,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Pulte named acting intelligence chief per Drudge, giving him incumbent advantage, but the 18-cent single-day jump from near-zero reflects surprise news momentum rather than confirmed nomination; acting roles often do not convert to Senate-confirmed appointments and Aaron Lukas holds a higher market price at 20%.",
-      "volume24h": 34025,
-      "openInterest": 23764,
-      "priceChange24h": 18,
-      "url": "https://kalshi.com/markets/KXNEXTODNI-29-BPUL"
+      "rationale": "A sharp +26 cent 24-hour move on heavy volume signals fresh inside information about a likely AG shakeup; Blanche's loyalty credentials fit the pattern of Trump consolidating control of DOJ amid congressional friction.",
+      "volume24h": 49287,
+      "openInterest": 408684,
+      "priceChange24h": 26,
+      "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
     },
     {
-      "ticker": "KXNEXTODNI-29-ALUK",
-      "label": "Aaron Lukas as next DNI",
+      "ticker": "KXNEXTAG-29-LZEL",
+      "label": "Lee Zeldin as next AG",
       "domain": "US Politics",
-      "marketProb": 20,
-      "aiProb": 18,
-      "gap": -2,
+      "marketProb": 13,
+      "aiProb": 8,
+      "gap": -5,
       "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Lukas held the top market price at 20% before today's Pulte news but dropped 12 cents on the same session, suggesting the Pulte acting appointment directly undercut his candidacy; uncertainty remains high given ongoing inter-agency turf feuds.",
-      "volume24h": 23004,
-      "openInterest": 37016,
+      "confidence": "MEDIUM",
+      "rationale": "A steep -12 cent drop in 24 hours with meaningful open interest suggests market is actively pricing Zeldin out as Blanche surges, consistent with a narrowing field.",
+      "volume24h": 8595,
+      "openInterest": 338868,
       "priceChange24h": -12,
-      "url": "https://kalshi.com/markets/KXNEXTODNI-29-ALUK"
+      "url": "https://kalshi.com/markets/KXNEXTAG-29-LZEL"
     },
     {
-      "ticker": "KXTAIWANLVL4-26JUL01",
-      "label": "State Dept Level 4 warning for Taiwan before Jul 1 2026",
-      "domain": "Indo-Pacific",
-      "marketProb": 2,
-      "aiProb": 3,
-      "gap": 1,
+      "ticker": "KXLAMAYORADVANCE-26JUN02-NRAM",
+      "label": "Nithya Raman advances in LA mayor race",
+      "domain": "Americas",
+      "marketProb": 55,
+      "aiProb": 58,
+      "gap": 3,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "A +29 cent surge to 55% on high volume, corroborated by OSINT showing Raman at 47% in second-place polling, reflects real momentum from a Democratic Socialist candidate in a left-leaning electorate with millions of votes still uncounted.",
+      "volume24h": 443780,
+      "openInterest": 407636,
+      "priceChange24h": 29,
+      "url": "https://kalshi.com/markets/KXLAMAYORADVANCE-26JUN02-NRAM"
+    },
+    {
+      "ticker": "KXLAMAYORADVANCE-26JUN02-SPRA",
+      "label": "Spencer Pratt advances in LA mayor race",
+      "domain": "Americas",
+      "marketProb": 49,
+      "aiProb": 42,
+      "gap": -7,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "A -27 cent collapse to 49% on the highest volume of any market in the feed reflects Raman's surge directly threatening Pratt's second-place hold; outcome remains genuinely uncertain with counting ongoing.",
+      "volume24h": 748776,
+      "openInterest": 861569,
+      "priceChange24h": -27,
+      "url": "https://kalshi.com/markets/KXLAMAYORADVANCE-26JUN02-SPRA"
+    },
+    {
+      "ticker": "KXGREENLANDPRICE-29JAN21-NOACQ",
+      "label": "No US acquisition of Greenland this term",
+      "domain": "US Politics",
+      "marketProb": 80,
+      "aiProb": 82,
+      "gap": 2,
       "favorable": false,
       "confidence": "HIGH",
-      "rationale": "No current intelligence in the context points to imminent cross-strait military escalation; the market at 2% is correctly priced and the absence of any Indo-Pacific flash signals in the GDELT wire supports a near-zero probability.",
-      "volume24h": 34746,
-      "openInterest": 120997,
+      "rationale": "Rubio's public statement that Greenland remains part of Denmark 'for now' signals the administration has de-escalated near-term acquisition pressure, consistent with the 80% no-acquisition price holding steady.",
+      "volume24h": 6652,
+      "openInterest": 152073,
       "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXTAIWANLVL4-26JUL01"
+      "url": "https://kalshi.com/markets/KXGREENLANDPRICE-29JAN21-NOACQ"
     },
     {
       "ticker": "KXPRESNOMD-28-GN",
       "label": "Gavin Newsom 2028 Dem nominee",
       "domain": "US Politics",
-      "marketProb": 23,
+      "marketProb": 22,
       "aiProb": 18,
-      "gap": -5,
+      "gap": -4,
       "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "California succession vote and turbulent primary context in the Drudge feed suggests Newsom's political standing is in flux; his 23% market price appears slightly elevated given no positive momentum signal and a 1-cent intraday drop.",
-      "volume24h": 19326,
-      "openInterest": 2875915,
-      "priceChange24h": 1,
+      "confidence": "LOW",
+      "rationale": "Newsom leads California governor polling per Hilton race context but the Democratic field is wide open; his CA political brand faces headwinds from housing crisis headlines and socialist surge in LA, keeping him competitive but not dominant at 22%.",
+      "volume24h": 18553,
+      "openInterest": 2884232,
+      "priceChange24h": -1,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
     },
     {
@@ -185,136 +230,61 @@
       "gap": -2,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "Ossoff carries the highest open interest of any Dem nominee contract at nearly 3 million, indicating broad speculative positioning, but no specific intelligence in the context elevates his prospects above the field; 9% market price is modestly rich.",
-      "volume24h": 50634,
-      "openInterest": 2982092,
-      "priceChange24h": 1,
+      "rationale": "Market prices him at 9% with flat movement; Dems are noted to see opportunity in red-state paths including Iowa and Georgia, making Ossoff a plausible but long-shot candidate whose Georgia profile gains marginal relevance from that narrative.",
+      "volume24h": 75227,
+      "openInterest": 3039685,
+      "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
-    },
-    {
-      "ticker": "KXPRESPARTY-2028-D",
-      "label": "Democrat wins 2028 presidency",
-      "domain": "US Politics",
-      "marketProb": 58,
-      "aiProb": 62,
-      "gap": 4,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Structural indicators in the intel favor Democrats: Trump approval softness implied by Drudge tracker, gold overtaking bonds signaling economic anxiety, and tourism decline all point to incumbent-party headwinds for Republicans in 2028, supporting a slight Democratic lean above the current 58% market price despite a 3-cent intraday dip.",
-      "volume24h": 9876,
-      "openInterest": 126862,
-      "priceChange24h": -3,
-      "url": "https://kalshi.com/markets/KXPRESPARTY-2028-D"
-    },
-    {
-      "ticker": "KXGREENLANDPRICE-29JAN21-NOACQ",
-      "label": "No US acquisition of Greenland during Trump term",
-      "domain": "US Politics",
-      "marketProb": 80,
-      "aiProb": 82,
-      "gap": 2,
-      "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "No actionable Greenland acquisition signals appear in any feed; the 80% no-acquisition price is marginally underpriced given the absence of legislative, diplomatic, or military movement toward purchase in the current intelligence picture.",
-      "volume24h": 8743,
-      "openInterest": 153318,
-      "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXGREENLANDPRICE-29JAN21-NOACQ"
-    },
-    {
-      "ticker": "KXLAMAYORADVANCE-26JUN02-KBAS",
-      "label": "Karen Bass qualifies for LA mayoral runoff",
-      "domain": "Americas",
-      "marketProb": 94,
-      "aiProb": 93,
-      "gap": -1,
-      "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "Both Polymarket and Kalshi peg Bass as overwhelming frontrunner at 94%; Drudge references Bass-Pratt-Raman race with Polymarket flagging Bass as a safe bet, and no contrary intelligence in the feeds warrants significant downward revision.",
-      "volume24h": 31361,
-      "openInterest": 74807,
-      "priceChange24h": 2,
-      "url": "https://kalshi.com/markets/KXLAMAYORADVANCE-26JUN02-KBAS"
-    },
-    {
-      "ticker": "KXLAMAYORADVANCE-26JUN02-SPRA",
-      "label": "Spencer Pratt qualifies for LA mayoral runoff",
-      "domain": "Americas",
-      "marketProb": 74,
-      "aiProb": 68,
-      "gap": -6,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Market prices Pratt at 74% and Raman at 31%, implying the second runoff slot is a two-way contest; Drudge references the race without clear Pratt momentum signals, and celebrity-candidate volatility warrants a modest downward adjustment from market price.",
-      "volume24h": 109915,
-      "openInterest": 317036,
-      "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXLAMAYORADVANCE-26JUN02-SPRA"
-    },
-    {
-      "ticker": "KXNEXTAG-29-TBLA",
-      "label": "Todd Blanche as next Attorney General",
-      "domain": "US Politics",
-      "marketProb": 38,
-      "aiProb": 32,
-      "gap": -6,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Blanche leads the AG market at 38% but dropped 3 cents intraday; no specific DOJ succession intelligence appears in the feeds, and the Santos insider-trading-on-Kalshi DOJ investigation headline adds noise to the department's political environment without clarifying the AG succession picture.",
-      "volume24h": 6533,
-      "openInterest": 394689,
-      "priceChange24h": -3,
-      "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
     }
   ],
   "watchSignals": [
-    "Iran-Israel escalation trajectory: Markets pricing 2% Taiwan Level 4 warning; IRGC Quds threatening 'new fronts'; Trump claims talks proceeding but GDELT shows Iran suspension over Lebanon offensive—watch for actual ceasefire agreement or widening conflict within 10 days",
-    "Bill Pulte DNI confirmation: Prediction market jumped +18¢ to 18% in 24h after housing/MAGA figure named acting intelligence chief; pending Senate opposition and IC turf wars (Drudge: 'Top spy agencies already in feud')—resolution within 2 weeks determines IC coherence",
-    "Democratic 2028 nominee crystallization: Newsom 23%, Ossoff 9%, AOC 11% but trending fractured; Karen Bass LA mayoral race at 94% (Kalshi) signals organizational momentum—watch convention delegate commitments and swing-state party consolidation by late June",
-    "US strategic reserve posture: Emergency Oil Reserve at all-time low (Drudge); Goldman Sachs warning oil prices keeping rates higher; Russian fuel rationing in Crimea after drone strikes—monitor US production/import policy response and energy-linked inflation pressure",
-    "NATO-Russia logistics attrition: Ukrainian FPV drones strangling Russian supply routes (Crimea fuel suspension); CENTCOM disabled 6th Iran-bound tanker; Russian glide-bomb deployment accelerating—track whether US authorizes long-range strikes or supply interdiction escalates by mid-June",
-    "Domestic institutional legitimacy erosion: Jan. 6 rioter hired for Pentagon counterterror role; DOS investigating Santos insider trading (Kalshi betting); CBS newsroom turmoil (Pelley, 60 Minutes meltdown); Gold overtaking US bonds—watch confidence indicators, media fragmentation, and capital flight signals"
+    "Iran escalation dynamics: Trump states negotiations can happen end-of-week on Hormuz/Lebanon separation; monitor whether actual diplomatic contact materializes or rhetoric hardens into kinetic action within 7-10 days",
+    "NATO capability cuts execution: Reuters reports US reducing fighter jets, refueling tankers, naval assets, drones to European allies; watch for allied diplomatic protests, force posture announcements, or contingency responses in next 14 days",
+    "House Iran War Powers vote (215-208 curbing Trump authority): Monitor whether Trump formally challenges constitutionality, invokes emergency powers, or circumvents via executive action; sets precedent for Presidency vs Congress on war powers",
+    "LA Mayoral runoff: Nithya Raman surged to 47% trailing Pratt at 49%; prediction markets show Raman 55% to advance vs Pratt 49%; watch vote count completion and potential second-round dynamics affecting Democratic Party positioning",
+    "Todd Blanche Attorney General confirmation: Market price 64% with +26 cent 24h move; monitor Senate Judiciary Committee scheduling and any last-minute allegations given precedent in context",
+    "Impeachment probability at 63% before Jan 20 2029: Highest non-election political odds; watch for House committee escalation, Senate trial scheduling, or major scandal emergence that could trigger articles"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East / Iran Policy",
-      "headline": "Iran suspended US ceasefire negotiations in protest of Israeli escalation in Lebanon; Trump contradicts via Truth Social, claims talks ongoing",
+      "domain": "Middle East / War Powers",
+      "headline": "House votes 215-208 to curb Trump Iran war powers; Iran attacks Kuwait airport with drones; Trump claims negotiations possible end-of-week",
       "significance": "CRITICAL",
-      "summary": "GDELT shows consistent Iranian suspension messaging (Qaani, Supreme Leader adviser warnings). Trump's rapid-pace claim directly contradicts reported Iranian pause. This contradiction signals either intelligence breakdown, diplomatic miscommunication, or deliberate divergent messaging strategies on nuclear/regional talks.",
-      "signal": "US credibility in negotiations at risk; potential for rapid escalation if Iran perceives US-Israel coordination without meaningful constraints. Nuclear diplomacy framework may have collapsed."
+      "summary": "Bipartisan Congressional constraint on executive war authority over Iran represents rare institutional check on presidency. Simultaneous Iranian kinetic action and Trump's negotiation signals create collision between constraint and potential escalation. Kuwait International Airport strike caused significant damage and dozens injured.",
+      "signal": "US faces constitutional conflict between Congress-mandated limitations and presidential negotiating leverage; Iran testing US resolve while Trump signals openness to talks creates unpredictable escalation risk"
     },
     {
       "id": "gt2",
-      "domain": "Intelligence Community / Personnel",
-      "headline": "Bill Pulte (housing/mortgage activist, MAGA figure) named acting DNI; top spy agencies already feuding over mission and turf",
+      "domain": "NATO / Alliance Management",
+      "headline": "US cutting NATO Standing Forces contributions including fighter jets, tankers, naval assets, drones per Reuters",
       "significance": "CRITICAL",
-      "summary": "Drudge reports Pulte as 'Mortgage man turned MAGA enforcer' overseeing CIA/NSA. Kalshi market shows 18% probability (+18¢ overnight spike). Concurrent reporting of IC turf conflicts suggests institutional chaos and possible breakdown in inter-agency intelligence sharing.",
-      "signal": "Intelligence product reliability for strategic decision-making severely compromised. Expect intelligence politicization, reduced IC capacity for threat assessment on Iran/China/Russia during period of maximum geopolitical tension."
+      "summary": "Unilateral reduction in US military support to allied European defense structures amid ongoing great-power competition with Russia and China. Allies described as blindsided by reduction in real-time capabilities. No public justification offered linking to strategic realignment or budgetary constraints.",
+      "signal": "NATO cohesion under strain; potential for allied rearmament acceleration, strategic decoupling, or security realignment toward other powers; signals US prioritization may have shifted from collective defense"
     },
     {
       "id": "gt3",
-      "domain": "Naval Operations / Iran Blockade",
-      "headline": "CENTCOM disabled sixth Iranian-bound vessel (M/T Lexie, tanker), firing Hellfire missiles into engine room in international waters; blockade ongoing",
+      "domain": "Domestic / Executive Branch",
+      "headline": "CBS fires Scott Pelley over refusing MAGA makeover; 3 correspondents departed 60 Minutes; staff could be gone in weeks or days",
       "significance": "HIGH",
-      "summary": "PIZZINT OSINT feed shows US forces conducting direct strikes on commercial shipping in Arabian Gulf attempting to reach Iranian ports. This escalates beyond seizure/boarding to destruction of cargo vessels.",
-      "signal": "Kinetic enforcement of Iran sanctions at war-footing intensity. Iran will view as act of blockade/economic warfare; raises threshold for Iranian asymmetric response (proxy strikes, straits closure). Risk of miscalculation in high-traffic waterway."
+      "summary": "Major news organization undergoing purge of editorial leadership aligned with perceived anti-Trump bias. Institutional departure from editorial independence precedent. Affects information environment around 2026 election cycle.",
+      "signal": "Press independence degradation; potential for coordinated messaging aligned with administration priorities; erosion of traditional gatekeeping function in elite media"
     },
     {
       "id": "gt4",
-      "domain": "US Economic / Reserve Posture",
-      "headline": "US Emergency Oil Reserve at all-time low; gold overtaking US bonds as preferred world investment; tourism to America fading",
+      "domain": "Economics / Asset Markets",
+      "headline": "Gold overtakes US bonds as world's favorite investment; Dalio warns USA past point of no return on debt; inflation jump expected despite Bessent reassurance",
       "significance": "HIGH",
-      "summary": "Three separate Drudge signals indicate eroding confidence in US financial stability: SPR depletion limits emergency capacity; capital flight into hard assets; reduced foreign demand for dollar-denominated travel/services.",
-      "signal": "Signals potential currency confidence crisis and reduced US fiscal maneuver room if Middle East conflict disrupts oil supplies. Risk of stagflation if Iran closes Strait of Hormuz. Limited ability to support allies or fund extended conflict."
+      "summary": "Global portfolio rotation away from US sovereign debt signals loss of confidence in US fiscal trajectory. Ray Dalio frames situation as 1930s-style financial repression threshold. Treasury Secretary downplaying inflation risk contradicts market signal.",
+      "signal": "Dollar reserve currency status under pressure; potential for capital flight or debt-servicing crisis; markets pricing in stagflation or currency instability ahead"
     },
     {
       "id": "gt5",
-      "domain": "Ukraine / Russia Logistics War",
-      "headline": "Russian fuel sales suspended in Crimea after Ukrainian mid-range drone strikes severed overland supply; province-wide rationing beginning. Ukrainian FPV drones achieving head-on impacts on Russian transport, attriting logistics at scale.",
+      "domain": "Technology / Market Structure",
+      "headline": "SpaceX targeting $135 IPO at $1.77 trillion valuation; Musk positioned to become world's first trillionaire; white house officials hold millions in stock",
       "significance": "HIGH",
-      "summary": "PIZZINT OSINT shows degradation of Russian rear-area sustainability. Fuel rationing in occupied territory indicates supply chains broken. Concurrent glide-bomb deployment suggests Russian military shifting to quantity over sustainability.",
-      "signal": "Russian operational sustainability in occupied Ukraine degrading; window for Russian offensive action narrowing without major resupply. US may face decision on authorizing long-range strikes vs. accepting Russian attrition strategy. NATO logistics vulnerability if conflict expands."
+      "summary": "Private space company at unicorn scale IPO with direct financial exposure to White House personnel. Creates structural conflict of interest over space policy, national security, and regulatory oversight. Wealth concentration unprecedented in modern US history.",
+      "signal": "Governance risk from overlapping financial interests in executive branch; potential for regulatory capture in critical space/defense infrastructure; precedent for billionaire-government alignment"
     }
   ]
 }
