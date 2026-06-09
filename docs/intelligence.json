@@ -1,313 +1,300 @@
 {
-  "generatedAt": "2026-06-08T19:37:21.015Z",
-  "runNumber": 25,
+  "generatedAt": "2026-06-09T18:33:19.415Z",
+  "runNumber": 26,
   "situation": {
-    "headline": "US naval blockade of Iranian ports tightens with 134 vessels redirected and active ship disabling operations in Gulf of Oman, while Iran halts Israel attacks and normalizes airspace — suggesting a fragile de-escalation that leaves Hormuz traffic severely constrained at only 10% probability of normalization by month-end",
+    "headline": "Iranian drone downs US Army Apache near Strait of Hormuz — Trump vows retaliation while nuclear talks at four-point impasse, creating simultaneous escalation and negotiation crisis",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 62,
+        "prob": 72,
         "label": "regional escalation 90d",
-        "trajectory": "DOWN",
-        "status": "Iran is standing down militarily — airspace normalized, attack pause confirmed, Hezbollah still active in south Lebanon — but US blockade operations continue aggressively, creating an asymmetric pressure dynamic that could snap back if Tehran calculates further concessions threaten regime stability."
+        "trajectory": "UP",
+        "status": "Apache shootdown — intentionality still unconfirmed — collides with Trump's 'must respond' declaration and a 15-year vs 5-year enrichment suspension gap in nuclear talks, compressing the window for de-escalation sharply."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 44,
+        "prob": 28,
         "label": "China coercion escalation",
-        "trajectory": "UP",
-        "status": "China conducted a special operation near Taiwan timed immediately after Japan-Philippines sea border talks, a deliberate signal of displeasure at allied maritime coordination; Taiwan coast guard deployment and new Pentagon designation of BYD, Alibaba, and Baidu as military-linked firms indicate the pressure campaign is broadening beyond purely military dimensions."
+        "trajectory": "FLAT",
+        "status": "No significant new signals in context; US attention consumed by Iran crisis reduces deterrence bandwidth but no immediate Indo-Pacific trigger visible."
       },
       {
         "name": "Europe",
         "prob": 18,
         "label": "NATO cohesion fracture",
         "trajectory": "DOWN",
-        "status": "Russian drone incursion into Latvian airspace — shot down by a French NATO jet — reinforces alliance solidarity rather than fracturing it, and Nordic defense integration is visibly accelerating, but Zelensky's refusal to cede territory signals Ukraine war prolongation that will continue straining allied budgets and political will."
+        "status": "Russia facing strategic humiliation in Crimea and issuing nuclear threats from a weakening position; Ukraine weapons momentum is shifting the battlefield narrative in NATO's favor, though nuclear rhetoric demands monitoring."
       },
       {
         "name": "Energy",
         "prob": 55,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Hormuz passage has collapsed to a trickle with only a handful of AIS-tracked vessels transiting under Iranian scheme, CENTCOM actively disabling tankers, supertanker orders hitting record highs suggesting markets are pricing in extended disruption, and the Polymarket 10% chance of normalization by month-end confirms severe near-term supply route risk."
+        "status": "Hormuz transit already stressed — most shipping still using Iranian traffic separation scheme rather than the southern Omani route — and a US retaliatory strike or Iranian counter-move could trigger rapid closure risk for roughly 20 percent of global oil flow."
       },
       {
         "name": "US Politics",
-        "prob": 38,
+        "prob": 44,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Half of Americans report being worse off financially year-over-year, only half plan to celebrate the 250th anniversary, a survey showing majority MAGA acceptance of political violence is generating backlash, and the DOJ conspiracy probe is rocking institutional confidence — all creating structural headwinds for Republicans in competitive districts, with Texas special election results still counting."
+        "status": "Poll showing Biden outperforming Trump on economy, crypto venture investor losses, $12K presidential coins, and Knicks optics suggest cumulative soft-approval erosion; Texas Senate market at 40 percent Democrat pickup signals competitive environment."
       }
     ],
-    "unseen": "The convergence of the US naval blockade of Iran with record supertanker orders and China's simultaneous military pressure on Taiwan creates a hidden energy-security linkage: if Hormuz remains constricted for 60-plus days, China — which imports heavily through the strait — faces its own economic pressure, potentially accelerating Beijing's Taiwan timeline calculus as leadership seeks to project strength domestically while energy costs bite, and simultaneously incentivizing China to quietly undermine the US blockade by facilitating Iranian oil flows through shadow fleet expansion, a dynamic that would pit US Hormuz operations directly against US Indo-Pacific deterrence priorities.",
-    "criticalWindow": "The next 30-45 days are decisive for the Hormuz blockade: Iran's current stand-down and airspace normalization signal a willingness to negotiate, but CENTCOM's continued aggressive vessel-disabling operations (7 disabled so far) may humiliate Tehran into retaliation before any diplomatic off-ramp is constructed — the window to convert military leverage into a durable diplomatic arrangement is narrow and closing.",
+    "unseen": "The Apache was rescued by an autonomous Saronic Corsair unmanned surface vessel — the first-ever drone-boat aircrew rescue — meaning the US military is quietly operationalizing autonomous naval assets in the exact chokepoint where Iranian drones are active; Tehran's threat calculus about escalation costs may be based on outdated assumptions about US force-protection capabilities and response timelines in the Hormuz corridor.",
+    "criticalWindow": "The next 72 hours to 2 weeks: Trump has publicly committed to retaliation while Iran's FM is framing the incident as an accident and parliament is issuing deterrence warnings — the window to shape whether the US response is symbolic, punitive, or escalatory is closing fast, and any misstep here directly contaminates the four-point nuclear deal framework that Kalshi prices at only 23 percent success by month-end.",
     "watchFor": [
-      "Iranian retaliation against a US naval asset or resumption of proxy attacks on Gulf shipping, which would collapse the fragile de-escalation and force a direct US-Iran military confrontation",
-      "China escalating the Taiwan special operation into a declared blockade exercise, particularly if Japan-Philippines maritime cooperation advances further or US carrier presence in the Pacific is drawn down toward the Gulf",
-      "A significant tanker incident in the Gulf of Oman — whether a disabled vessel sinking, crew casualties, or oil spill — that triggers allied European or Asian pushback against the US blockade strategy",
-      "Texas special election final results showing unusual vote-counting anomalies or a Trump accusation of fraud, which combined with the survey showing majority MAGA acceptance of political violence creates a domestic threat environment ahead of 2026 midterms"
+      "US military strike authorization or orders issued against Iranian IRGC naval or drone assets in or near the Strait of Hormuz",
+      "Iranian declaration of enrichment resumption or expulsion of IAEA inspectors in response to US retaliation — collapse of nuclear talks",
+      "Hormuz commercial shipping diversion spike or Lloyd's war-risk premium surge indicating market anticipation of closure",
+      "Russian nuclear signaling escalation timed to exploit US distraction in the Gulf — watch for ICBM test, strategic bomber deployments, or direct NATO border incidents"
     ],
-    "confidenceNote": "Key uncertainties include the actual operational status of Iranian military readiness (airspace normalization may be genuine de-escalation or a tactical pause), the degree to which China's Taiwan operation is coordinated with Iranian pressure or merely opportunistic timing, the true financial exposure of global energy markets given shadow fleet opacity, and whether the Kalshi prediction market Republican nominee data (Rubio at 29%, Tucker Carlson at 6%, Trump at 3%) accurately reflects elite GOP positioning or is noise — the 2028 race is too distant for high-confidence inference but the absence of a clear Republican heir is a structurally significant US governance signal.",
-    "topPattern": "The US is simultaneously running a naval blockade that restricts global energy flows through Hormuz, facing Chinese military coercion in the Indo-Pacific, and experiencing domestic political erosion measured by financial dissatisfaction polls and prediction markets showing generic Democrats (Newsom 22%, AOC 10%, Ossoff 9%) consolidating while no single challenger dominates — suggesting Washington is at peak strategic overextension precisely when adversaries are probing for seams, and the Kalshi Todd Blanche AG market jumping 2 cents to 68% indicates DOJ restructuring is accelerating just as the institution is described as rocked by internal conspiracy investigations, compounding governance fragility at the worst possible moment."
+    "confidenceNote": "Critical uncertainty is intentionality of Apache shootdown — if confirmed deliberate, escalation probability jumps 20+ points across all Middle East metrics; nuclear deal probability collapses to near zero. Iranian FM's 'accident' framing may be a face-saving off-ramp or deliberate deception. Prediction markets at 23 percent deal probability likely lag real-time diplomatic deterioration. Russia nuclear threat credibility remains low but non-zero given battlefield losses. All assessments contingent on intentionality determination expected from ongoing US military investigation.",
+    "topPattern": "Iran is simultaneously managing two incompatible postures — offering a nuclear deal while shooting down (or accidentally killing) a US Apache near Hormuz — which mirrors the 2019 drone-tanker crisis pattern where Tehran used controlled escalation to extract negotiating leverage; Kalshi's 23 percent nuclear deal probability and the 10-year vs 5-year enrichment gap suggest markets are pricing a breakout of this dual-track as more likely than a deal, and a US retaliatory strike that collapses talks would validate that read while spiking Energy supply-shock probability above 70 percent within days."
   },
   "signals": [
     {
       "id": "sig1",
       "domain": "Middle East",
-      "headline": "Iran halts retaliatory strikes; airspace returns to normal",
+      "headline": "US Apache helicopter downed by Iranian drone near Strait of Hormuz; Trump vows response",
       "significance": "CRITICAL",
-      "summary": "Iran lifted all flight restrictions and airspace returned to normal after Israeli strikes in Lebanon. Multiple sources confirm Tehran is not escalating despite provocations. This represents a strategic de-escalation signal after weeks of regional tension.",
-      "signal": "Iran's restraint suggests either tacit acceptance of Israeli operations or calculated avoidance of direct US-Iran conflict. Markets now price Hormuz transit risk lower (10% chance normal by month-end), reducing immediate oil-shock exposure. De-escalation trajectory favors US naval freedom of action in the Gulf.",
-      "contradicts": "Market expectations for imminent Iranian retaliation that drove earlier oil/security premiums",
-      "timestamp": "2026-06-08T19:39:12.947Z"
+      "summary": "Iranian Shahed-class drone struck US Army AH-64E Apache over Hormuz Strait. Investigation ongoing on intentionality. Trump declared US must respond. Crew rescued by unmanned surface vessel. Iran's Foreign Minister framed as potential accident while parliament signals willingness to escalate.",
+      "signal": "Tactical escalation risk in Hormuz corridor. Trump's explicit response commitment creates pressure to act militarily despite unresolved intent question, raising accidental war exposure. Iranian dual messaging (accident framing + parliament threats) suggests internal debate on escalation ladder.",
+      "contradicts": "Preceding headlines on Iran-US nuclear talks narrowing to four points and peace deal prospects. Direct military incident undercuts diplomatic runway.",
+      "timestamp": "2026-06-09T18:35:18.625Z"
     },
     {
       "id": "sig2",
-      "domain": "US Politics",
-      "headline": "Survey shows over half of MAGA voters justify political violence",
-      "significance": "CRITICAL",
-      "summary": "Drudge headline reports majority of Trump-aligned voters now sanction use of political violence. This reflects hardening of a significant voter cohort away from democratic norms. Combined with DOJ denaturalization surge and deportation forecasts, signals institutional erosion risk.",
-      "signal": "Social stability and rule-of-law confidence face structural decline. Intelligence and law enforcement agencies now face dual risk: radicalized external constituencies and internal politicization (DOJ conspiracy probes noted). Medium-term civil disorder risk elevated; foreign adversaries see window for US distraction.",
-      "contradicts": "Assumption that post-election period would normalize political temperature; instead shows deeper polarization entrenchment",
-      "timestamp": "2026-06-08T19:39:12.947Z"
+      "domain": "Middle East",
+      "headline": "US-Iran nuclear negotiations down to four core issues; 15-year halt vs 5-year suspension in dispute",
+      "significance": "HIGH",
+      "summary": "Diplomats report US and Iran have narrowed nuclear program talks to four main points. US officials believe potential deal could halt Iranian nuclear program for 15 years, but Iran has offered only 5-year enrichment suspension. Market pricing nuclear deal by end of month at 23%.",
+      "signal": "Structural gap on deal duration suggests both sides may be performing for domestic audiences rather than closing. Simultaneous Apache incident and nuclear talks creates compressing decision window for Trump administration on whether to escalate or negotiate.",
+      "contradicts": "Drudge framing of 'peace deal imminent -- for 38th time' overstates convergence. Market pricing at 23% reflects skepticism.",
+      "timestamp": "2026-06-09T18:35:18.625Z"
     },
     {
       "id": "sig3",
-      "domain": "Indo-Pacific",
-      "headline": "Taiwan deploys coast guard vessels; China holds special operation near Taiwan after Japan-PH maritime talks",
+      "domain": "US Politics",
+      "headline": "Todd Blanche favored for Trump Attorney General at 67%; Todd Zeldin at 8%",
       "significance": "HIGH",
-      "summary": "Taiwan responded to Chinese military operation occurring immediately after Japan-Philippines coordinated border discussions. China's timing suggests deliberate messaging against coalition-building in the region. Multiple deployments signal sustained Chinese pressure.",
-      "signal": "China is signaling costs for Japan-Philippines coordination on maritime security. Tokyo and Manila are consolidating alliance ties despite Beijing pressure—positive for US Quad strategy, but escalation risk from Chinese coercion tactics remains acute. US should expect more Chinese gray-zone operations to test allied cohesion.",
-      "contradicts": "Assumption that China would pause operations during diplomatic window; instead accelerating to preempt alliance deepening",
-      "timestamp": "2026-06-08T19:39:12.947Z"
+      "summary": "Kalshi market shows strong consensus on Blanche as next AG (67% probability, down 2 cents in 24h). Lee Zeldin significantly behind at 8%. High volume (72k) and open interest (598k) indicate active institutional positioning.",
+      "signal": "Market confidence in Blanche suggests Trump transition team signaling settled preference. Blanche's criminal law background and loyalty to Trump may indicate prioritization of legal defense over traditional executive oversight role.",
+      "contradicts": null,
+      "timestamp": "2026-06-09T18:35:18.625Z"
     },
     {
       "id": "sig4",
       "domain": "Technology",
-      "headline": "Claude 5 release now projected end-of-month at 68% probability; AI bubble-burst odds at 22%",
-      "significance": "MEDIUM",
-      "summary": "Prediction markets price AI advancement as highly probable (Claude 5 by month-end) but systemic collapse risk remains real (22% bubble-burst). Apple's Siri revamp and SpaceX valuation hype continue despite Bank of America warning to take profits. Market pricing shows simultaneous euphoria and caution.",
-      "signal": "AI sector continues to attract capital despite acknowledged overvaluation. US tech competitiveness depends on sustained AI investment, but correction risk could trigger geopolitical vulnerability if funding redirects. China's brain-chip breakthrough cited as competitive milestone. Watch for capital flight if bubble indicators sharpen.",
-      "contradicts": "Efficient market hypothesis; retail/institutional money remains committed despite explicit warnings from major banks",
-      "timestamp": "2026-06-08T19:39:12.947Z"
+      "headline": "Anthropic favored to IPO before OpenAI; 72% vs 29% in prediction markets",
+      "significance": "HIGH",
+      "summary": "Kalshi markets price Anthropic IPO-first odds at 72% (down 1 cent) versus OpenAI at 29% (up 2 cents). Claude Fable 5 released publicly with benchmark claims superior to all existing models. Open interest 43k+ suggests institutional bets.",
+      "signal": "Market is pricing Anthropic's current model lead and regulatory clarity advantage as IPO accelerants. Competitive positioning vs OpenAI tightening on AI model capability but diverging on capital access pathways.",
+      "contradicts": "Recent AI narrative focused on OpenAI scaling. Anthropic's recent model release and market pricing suggest underestimation of its go-public timeline.",
+      "timestamp": "2026-06-09T18:35:18.625Z"
     },
     {
       "id": "sig5",
       "domain": "US Politics",
-      "headline": "DOJ denaturalization surge: 17 individuals stripped of citizenship; largest denaturalization wave announced",
-      "significance": "HIGH",
-      "summary": "Administration executing mass denaturalization program targeting naturalized citizens for sex offenses, fraud, and drug sales. ICE planning surge operations in NYC with 10-block security perimeters. Deportation forecasts suggest tens of thousands of cases in pipeline.",
-      "signal": "Institutional capacity for mass enforcement is operationalizing. Unlike rhetoric, actual execution is underway. International implications: countries will resist accepting US deportations; diplomatic friction likely. Domestic signal: naturalization process now carries de facto revocation risk, dampening future immigrant acquisition and loyalty. Allies question US rule-of-law stability.",
-      "contradicts": "Prior assumption that denaturalization would remain marginal tool; now emerging as systematic enforcement priority",
-      "timestamp": "2026-06-08T19:39:12.947Z"
+      "headline": "2028 Democratic nominee field fragmented; Newsom 22%, AOC 10%, Emanuel 6%, Harris 8%",
+      "significance": "MEDIUM",
+      "summary": "No dominant Democratic 2028 frontrunner in prediction markets. Newsom leads at 22%, followed by AOC (10%), Harris (8%), Emanuel (6%), Ossoff (9%), Shapiro (5%). All others sub-5%. Combined establishment/progressive split suggests party realignment risk.",
+      "signal": "Absence of consensus Democratic heir apparent creates vulnerability to left-flank primary challenge and signals 2024 Harris ticket failed to consolidate party loyalty. Markets pricing wide-open race may underestimate centrist consolidation if progressive candidates fragment.",
+      "contradicts": "Assumes Harris retains some 2028 viability (8%) despite clear primary field openness—market may not be pricing full erosion of incumbent VP credibility.",
+      "timestamp": "2026-06-09T18:35:18.625Z"
     },
     {
       "id": "sig6",
-      "domain": "Europe",
-      "headline": "NATO jet shoots down unidentified drone over Latvian airspace; concern Ukraine conflict spreading",
-      "significance": "HIGH",
-      "summary": "French NATO jet downed a stray drone in Latvia; another drone landed in Moldova. Baltic defenses report readiness. This marks first NATO-Russian airspace incident of current cycle. Escalation trajectory from proxy to direct contact accelerating.",
-      "signal": "US is now one incident away from Article 5 invocation. Russian drone operations are expanding geographic scope, testing NATO response. Eastern flank is kinetic and tightening. Putin's recent threats to Baltics now paired with operational probing. US must assume Russia is assessing NATO resolve and alliance cohesion under stress.",
-      "contradicts": "Western assumption that Ukraine conflict remains contained; geopolitically expanding despite peace rhetoric",
-      "timestamp": "2026-06-08T19:39:12.947Z"
+      "domain": "US Politics",
+      "headline": "Trump 2028 Republican nomination odds at 3%; market pricing significant GOP uncertainty",
+      "significance": "MEDIUM",
+      "summary": "Donald Trump's Republican nominee probability at 3% (up 1 cent in 24h). Trump Jr. at 5% for Republican nom, 1% for general. Marco Rubio at 18% in general election only. No dominant Republican frontrunner visible.",
+      "signal": "Market depressing Trump 2028 GOP odds to 3% suggests either Trump-Jr. succession planning, constitutional eligibility doubt factoring, or assumption Trump is occupied with legal/executive matters. Rubio strength in general-election betting but absent from nomination markets indicates Republican base fractured.",
+      "contradicts": "Dominance of Trump-era figures in 2025-2026 governance might suggest stronger 2028 Trump pathway. Market pricing suggests successor-generation Republican contest.",
+      "timestamp": "2026-06-09T18:35:18.625Z"
+    },
+    {
+      "id": "sig7",
+      "domain": "Americas",
+      "headline": "6.1 magnitude earthquake off Cuba, strongest in 150 years; felt in Miami",
+      "significance": "MEDIUM",
+      "summary": "Significant seismic event near Cuba registered 6.1 magnitude and was felt in South Florida. First such strong event in 150 years. May indicate tectonic stress release or shift in Caribbean fault zone.",
+      "signal": "Low-probability environmental shock with potential cascading effects on Caribbean maritime traffic, insurance markets, and Cuba's already-stressed infrastructure. US Florida population exposure requires monitoring for tsunami/structural risks.",
+      "contradicts": null,
+      "timestamp": "2026-06-09T18:35:18.625Z"
     }
   ],
-  "scanNote": "Context reveals high-confidence signals in Iran de-escalation (market pricing), US domestic polarization (polling/enforcement data), Chinese regional pressure (operational tempo), and NATO-Russia direct contact risk, offset by ambiguous AI valuation signals and sparse Americas theater data.",
+  "scanNote": "Signal quality degraded by headline sensationalism (UFC/Lincoln Memorial, coins, Knicks) mixed with genuine OSINT; Iran Apache incident is concrete and time-critical; nuclear deal talks show marginal progress; 2028 Democratic nominee field shows structural weakness vs 2020; prediction markets show low confidence across multiple domains.",
   "markets": [
     {
       "ticker": "KXUSAEXPANDTERRITORY-26JUL01",
-      "label": "US acquires new territory before Jul 2026",
+      "label": "US acquires territory before Jul 2026",
       "domain": "Americas",
       "marketProb": 2,
-      "aiProb": 3,
-      "gap": 1,
+      "aiProb": 2,
+      "gap": 0,
       "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Chagos Islands acquisition is under active consideration per Drudge, and Cuba 51st-state chatter is live, but no deal is imminent and the Jul 2026 deadline is very tight; market's 2% is slightly low but close to correct.",
-      "volume24h": 6660,
-      "openInterest": 48419,
+      "confidence": "HIGH",
+      "rationale": "No credible intel in the feed suggests imminent formal territorial acquisition; market price of 2% is appropriate given purely rhetorical posturing and no operational indicators.",
+      "volume24h": 11869,
+      "openInterest": 46775,
       "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXUSAEXPANDTERRITORY-26JUL01"
     },
     {
-      "ticker": "KXSTATE51-29-CU",
-      "label": "Cuba becomes 51st US state before Jan 2029",
-      "domain": "Americas",
-      "marketProb": 4,
-      "aiProb": 2,
-      "gap": -2,
+      "ticker": "KXBANTRANS-26",
+      "label": "SCOTUS bans transgender women from female sports",
+      "domain": "US Politics",
+      "marketProb": 48,
+      "aiProb": 50,
+      "gap": 2,
       "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Cuba headlines focus on fuel crisis and antique cars idling, not annexation; the 6.1 quake off Cuba adds noise but zero political signal toward statehood.",
-      "volume24h": 4025,
-      "openInterest": 86155,
-      "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXSTATE51-29-CU"
+      "confidence": "LOW",
+      "rationale": "No new SCOTUS signals in the intel feed; at 48% the market is essentially a coin flip and the intel provides no directional update, so STRATWATCH holds near-parity with slight upward lean given current court composition.",
+      "volume24h": 5769,
+      "openInterest": 12392,
+      "priceChange24h": -4,
+      "url": "https://kalshi.com/markets/KXBANTRANS-26"
     },
     {
       "ticker": "KXNEXTAG-29-TBLA",
-      "label": "Todd Blanche becomes next AG",
+      "label": "Todd Blanche as next AG",
       "domain": "US Politics",
-      "marketProb": 68,
-      "aiProb": 65,
-      "gap": -3,
+      "marketProb": 67,
+      "aiProb": 62,
+      "gap": -5,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "DOJ internal turmoil over conspiracy-against-Trump drive is accelerating leadership pressure, and Blanche leads at 68% with a +2 cent uptick today, consistent with insider expectation of an imminent shake-up.",
-      "volume24h": 28018,
-      "openInterest": 569009,
-      "priceChange24h": 2,
+      "rationale": "No new confirming or disconfirming intel in the feed; the Drudge headline noting rampant distrust inside the Pentagon and broader administration turbulence slightly increases succession uncertainty, pulling STRATWATCH below the 67% market price.",
+      "volume24h": 72873,
+      "openInterest": 598854,
+      "priceChange24h": -2,
       "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
     },
     {
-      "ticker": "KXNEXTODNI-29-BPUL",
-      "label": "Bill Pulte becomes next DNI",
+      "ticker": "KXNEXTAG-29-LZEL",
+      "label": "Lee Zeldin as next AG",
       "domain": "US Politics",
-      "marketProb": 7,
-      "aiProb": 8,
-      "gap": 1,
+      "marketProb": 8,
+      "aiProb": 10,
+      "gap": 2,
       "favorable": false,
-      "confidence": "LOW",
-      "rationale": "The +3 cent spike on Pulte today is notable but low-volume; no direct intel in context confirms a DNI vacancy or Pulte elevation, making the move speculative noise.",
-      "volume24h": 3604,
-      "openInterest": 37555,
-      "priceChange24h": 3,
-      "url": "https://kalshi.com/markets/KXNEXTODNI-29-BPUL"
+      "confidence": "MEDIUM",
+      "rationale": "Zeldin's price is ticking up 2 cents on modest volume, worth monitoring as a dark-horse signal of internal administration reshuffling, but no substantive intel supports elevation above current 8% market price.",
+      "volume24h": 24628,
+      "openInterest": 344083,
+      "priceChange24h": 2,
+      "url": "https://kalshi.com/markets/KXNEXTAG-29-LZEL"
+    },
+    {
+      "ticker": "KXTXSENOUTCOME-27JAN-TALPAX",
+      "label": "Talarico defeats Paxton in TX Senate 2027",
+      "domain": "Americas",
+      "marketProb": 40,
+      "aiProb": 35,
+      "gap": -5,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Drudge references a 'red mirage' narrative and stolen-vote claims in the context of local races, suggesting a competitive environment; Talarico's rising Kalshi profile (multiple markets) indicates genuine Democratic enthusiasm but Texas structural lean keeps STRATWATCH below the 40% market price.",
+      "volume24h": 5279,
+      "openInterest": 33233,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXTXSENOUTCOME-27JAN-TALPAX"
+    },
+    {
+      "ticker": "KXIMPEACHCABINET-26JUL01",
+      "label": "Any Cabinet member impeached before Jul 2026",
+      "domain": "US Politics",
+      "marketProb": 1,
+      "aiProb": 1,
+      "gap": 0,
+      "favorable": false,
+      "confidence": "HIGH",
+      "rationale": "Despite Drudge coverage of distrust inside Pete Hegseth's Pentagon and broader administration scandals, Republicans control the House and impeachment of a Cabinet member by July 2026 remains an extremely low-probability procedural event.",
+      "volume24h": 5138,
+      "openInterest": 36423,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXIMPEACHCABINET-26JUL01"
     },
     {
       "ticker": "KXPRESNOMD-28-GN",
       "label": "Gavin Newsom wins 2028 Dem nomination",
       "domain": "US Politics",
       "marketProb": 22,
-      "aiProb": 18,
-      "gap": -4,
+      "aiProb": 20,
+      "gap": -2,
       "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Newsom's LA departure headlines and national brand erosion weigh against him; at 22% the market slightly overprices him given the field's volatility and his California liabilities.",
-      "volume24h": 8862,
-      "openInterest": 2923648,
+      "confidence": "MEDIUM",
+      "rationale": "Newsom leads the Dem field at 22% on Kalshi but the intel feed shows ongoing Democratic disarray and the 'Biden was better for economy' poll dynamic that will complicate any establishment candidate; STRATWATCH holds roughly at market price with slight downward bias.",
+      "volume24h": 11530,
+      "openInterest": 2924101,
       "priceChange24h": 1,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
     },
     {
-      "ticker": "KXPRESNOMD-28-AOC",
-      "label": "AOC wins 2028 Dem nomination",
+      "ticker": "KXPRESPERSON-28-MRUB",
+      "label": "Marco Rubio wins 2028 presidential election",
       "domain": "US Politics",
-      "marketProb": 10,
-      "aiProb": 8,
-      "gap": -2,
+      "marketProb": 18,
+      "aiProb": 14,
+      "gap": -4,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "Widespread financial distress and political violence sentiment in MAGA base could energize a populist left candidate, but AOC faces structural electability headwinds; 10% market price is marginally generous.",
-      "volume24h": 9341,
-      "openInterest": 2938561,
+      "rationale": "Rubio is the highest-priced named Republican at 18% for 2028 general election winner, but the Iran helicopter crisis and Trump's own continued political dominance of the GOP brand make a clean Rubio succession uncertain; STRATWATCH shades below market.",
+      "volume24h": 12237,
+      "openInterest": 2034873,
       "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
-    },
-    {
-      "ticker": "KXMAKERFIELDBY-27JAN01-LAB",
-      "label": "Labour wins Makerfield by-election",
-      "domain": "Europe",
-      "marketProb": 94,
-      "aiProb": 90,
-      "gap": -4,
-      "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "Makerfield is a deep Labour heartland seat and the 94% price with +5 cent daily move reflects a near-certain hold; Starmer social-media ban news keeps Labour visible but Reform UK at 12% is the only credible threat.",
-      "volume24h": 9697,
-      "openInterest": 60931,
-      "priceChange24h": 5,
-      "url": "https://kalshi.com/markets/KXMAKERFIELDBY-27JAN01-LAB"
-    },
-    {
-      "ticker": "KXMAKERFIELDBY-27JAN01-REF",
-      "label": "Reform UK wins Makerfield by-election",
-      "domain": "Europe",
-      "marketProb": 12,
-      "aiProb": 8,
-      "gap": -4,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Reform is polling nationally but Makerfield's demographic profile limits its upside; 12% market price modestly overstates Reform's chances in this specific constituency.",
-      "volume24h": 4484,
-      "openInterest": 19858,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXMAKERFIELDBY-27JAN01-REF"
-    },
-    {
-      "ticker": "KXMUSKTRILLION-27",
-      "label": "Musk becomes trillionaire before 2027",
-      "domain": "US Politics",
-      "marketProb": 89,
-      "aiProb": 82,
-      "gap": -7,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Intel stock soaring 13% and SpaceX multitrillion-dollar valuation hype are concurrent tailwinds; Bank of America bear-market warning is a counter-signal, but Musk's SpaceX equity alone keeps this highly probable.",
-      "volume24h": 8308,
-      "openInterest": 121577,
-      "priceChange24h": 2,
-      "url": "https://kalshi.com/markets/KXMUSKTRILLION-27"
+      "url": "https://kalshi.com/markets/KXPRESPERSON-28-MRUB"
     }
   ],
   "watchSignals": [
-    "Iran's airspace normalization and de-escalation signaling—watch for follow-on Israeli strikes or Iranian retaliation that would indicate escalation cycle resumption",
-    "Strait of Hormuz traffic flows and US Navy interdiction ops—10% market probability of normalization by month-end suggests sustained blockade tension with energy/commerce implications",
-    "Trump administration denaturalization surge (17 cases announced, largest since 1950s)—watch deportation forecasts and ICE NYC surge for mass enforcement signaling and legal/constitutional challenges",
-    "Taiwan strait military posturing—Chinese 'special operations' near Taiwan after Japan-Philippines border talks; watch for freedom-of-navigation incidents or escalated PLA activity",
-    "2028 Democratic primary consolidation—markets show Newsom 22%, Ossoff 9%, AOC 10%, others fragmented; watch for announcement timing and coalition shifts",
-    "Pentagon's BYD/Alibaba/Baidu military designation and tech decoupling—watch for follow-on sanctions, supply-chain disruptions in EV/semiconductor sectors"
+    "US response timeline and scale to Iranian drone strike on Apache helicopter—Trump has committed to retaliation; degree of escalation will signal Iran policy direction",
+    "Iran nuclear negotiations trajectory—markets price 23% chance of deal by end-month; four core issues remain unresolved; any framework announcement would reshape Middle East stability calculus",
+    "Todd Blanche Attorney General confirmation (67% prediction-market confidence)—indicates Trump's judicial/legal strategy; any withdrawal or blockade signals internal conflict",
+    "2028 Democratic nominee crystallization—Newsom (22%), AOC (10%), Ossoff (9%), Harris (8%) are marginal but volatile; watch for coalition-building signals indicating frontrunner emergence",
+    "SpaceX sector classification decision (81% Communication Services vs 20% Industrials)—regulatory categorization with trillion-dollar valuation implications; SEC determination timeline uncertain",
+    "Anthropic IPO probability vs OpenAI (72% vs 29%)—major AI governance inflection; earlier public offering constrains safety oversight and shapes regulatory precedent"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East",
-      "headline": "Iran halts attacks, airspace normalized; no retaliation signaled after Israeli strikes in Lebanon",
+      "domain": "Middle East / Military",
+      "headline": "Iranian drone struck US Army AH-64E Apache helicopter near Strait of Hormuz; crew rescued; Trump committed to retaliation",
       "significance": "CRITICAL",
-      "summary": "Iran lifted flight restrictions and Civil Aviation Organization cleared airspace. Intelligence community assesses Tehran does not intend kinetic response to Israel's Lebanon operations. This represents de-escalation after weeks of direct threats.",
-      "signal": "Reduces near-term Iran-Israel hot-war risk; allows US focus on other theaters but signals Iranian restraint may be conditional on Israeli restraint. Watch for reversal trigger."
+      "summary": "US Apache was hit by Iranian Shahed-style drone near Hormuz Strait. Investigation ongoing on whether strike was intentional. Crew rescued by unmanned surface vessel. Trump stated US must respond, creating escalation risk with Iran.",
+      "signal": "Direct military clash with Iran raises prospect of tit-for-tat cycle; Trump's response rhetoric closes off diplomatic off-ramps; heightens Strait of Hormuz transit risk and energy markets"
     },
     {
       "id": "gt2",
-      "domain": "Domestic Security",
-      "headline": "ICE surge operations launched in NYC; DOJ announces 17 denaturalizations for fraud/sex offenses; largest citizenship revocation in decades",
+      "domain": "Diplomacy / Nuclear",
+      "headline": "US-Iran nuclear talks narrowed to four core issues; officials believe 15-year enrichment halt possible but Iran offered only 5-year suspension",
       "significance": "CRITICAL",
-      "summary": "Federal government executing mass enforcement posture including denaturalization (citizenship revocation) targeting naturalized citizens. 10-block security perimeter around Madison Square Garden reflects elevated domestic security posture tied to Trump Knicks attendance.",
-      "signal": "Signals aggressive interior enforcement regime; legal exposure on constitutional grounds high but politically salience very high. Watch for civil rights litigation cascades and state-level counter-actions."
+      "summary": "Negotiators have isolated four main nuclear disagreements. US assessment suggests comprehensive deal achievable but Iran's opening position falls short. Gap on timeline suggests weeks of friction ahead.",
+      "signal": "Narrow convergence creates both deal-window and breakdown risk; 23% market odds reflect genuine uncertainty; unilateral US escalation (Apache response) undermines negotiating leverage"
     },
     {
       "id": "gt3",
-      "domain": "Indo-Pacific",
-      "headline": "China conducting 'special operations' near Taiwan; Taiwan deploys coast guard vessels in response; coincides with Japan-Philippines sea border talks",
+      "domain": "Domestic Politics",
+      "headline": "Todd Blanche positioned as Trump Attorney General at 67% prediction-market confidence; Lee Zeldin at 8%",
       "significance": "HIGH",
-      "summary": "GDELT wires show elevated naval activity in Taiwan strait. Chinese exercises timed after Japan-Philippines coordinated border discussions, suggesting PLA messaging to regional alliance formation.",
-      "signal": "Quadrilateral alignment (US-Japan-Australia-Philippines) hardening; PLA attempting to disrupt. Increased risk of incidents during peacetime operations."
+      "summary": "Markets heavily favor Blanche nomination/confirmation. Represents Trump's preference for loyalist legal strategy. Any pivot away or Senate resistance would signal cabinet instability.",
+      "signal": "AG choice determines DOJ weaponization risk, Jan 6 prosecutions direction, corporate antitrust posture; Blanche selection locks in adversarial posture toward predecessor administration"
     },
     {
       "id": "gt4",
-      "domain": "Energy & Geopolitics",
-      "headline": "US Navy disabled M/T Marivex oil tanker in Gulf of Oman; 134 vessels redirected, 42 allowed for humanitarian aid under US blockade of Iranian ports",
-      "significance": "CRITICAL",
-      "summary": "CENTCOM actively interdicting tanker traffic bound for Iran. F/A-18 precision strike on merchant vessel steering/engine represents escalation beyond boarding/turning-away tactics.",
-      "signal": "Energy price shock risk elevated; demonstrates willingness to use kinetic force against non-military assets. Signals intent to enforce maximum pressure on Iran despite de-escalation rhetoric."
+      "domain": "Domestic Politics / Elections",
+      "headline": "2028 Democratic field shows no frontrunner; Newsom (22%), AOC (10%), Ossoff (9%), Harris (8%) fragmented across ~15 credible candidates",
+      "significance": "HIGH",
+      "summary": "Prediction markets show weak concentration risk. No clear successor to Biden emerging. Next 2-4 weeks will test whether progressive, centrist, or generational wings coalesce.",
+      "signal": "Fragmentation creates opening for fringe candidates (Talarico 2%, Platner 1%) if establishment wing fractures; 2028 outcome highly uncertain; Democrats lack incumbent advantage"
     },
     {
       "id": "gt5",
-      "domain": "NATO & Eastern Europe",
-      "headline": "French NATO jet shot down unidentified drone over Latvian airspace; concern Ukraine war spreading to Baltic region",
+      "domain": "Technology / AI Governance",
+      "headline": "Anthropic projected to IPO before OpenAI (72% vs 29% market probability); Claude Fable 5 released with safety filters requiring 'neutered' implementation",
       "significance": "HIGH",
-      "summary": "First NATO air defense engagement of aerial object near Latvia; drone origin unclear but raises risk of miscalculation. Putin rhetoric on Baltic threats concurrent.",
-      "signal": "NATO readiness credible but escalation risk if drone sourced to Russia. Watch for Russian denial, NATO investigation, threshold for Article 5 determination."
-    },
-    {
-      "id": "gt6",
-      "domain": "Domestic Politics",
-      "headline": "Somali referee Omar Artan denied US entry; first Somali World Cup official barred; affects US soft power/diplomatic signaling at 2026 World Cup",
-      "significance": "HIGH",
-      "summary": "Visa denial on undisclosed grounds affects 2026 World Cup preparation and US-Somalia relations. White House established counter-drone security for all 78 matches.",
-      "signal": "Signals US security posture constraining diplomatic flexibility. World Cup venue/logistics risk assessment ongoing."
+      "summary": "Anthropic ahead in public offering timeline. New Claude release includes safety constraints. Signals race to scale AI while managing regulatory/reputational risk.",
+      "signal": "Earlier Anthropic IPO means private-equity-sized company sets AI governance norms before OpenAI; safety-first branding becomes competitive advantage; regulatory scrutiny intensifies on both"
     }
   ]
 }
