@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-11T20:00:04.046Z",
-  "runNumber": 28,
+  "generatedAt": "2026-06-12T18:22:06.587Z",
+  "runNumber": 29,
   "situation": {
-    "headline": "US-Iran nuclear deal announced by Trump but unconfirmed by Tehran — ceasefire extension holding tenuously with strikes canceled, creating a narrow diplomatic window that could collapse within 48-72 hours",
+    "headline": "US-Iran nuclear MOU on cusp of signing within days, but conflicting public narratives from Tehran and Washington signal deal terms remain contested and fragile, with Israel actively lobbying against asset unfreezing",
     "velocity": "ACCELERATING",
     "domains": [
       {
@@ -10,170 +10,281 @@
         "prob": 62,
         "label": "regional escalation 90d",
         "trajectory": "DOWN",
-        "status": "Trump's strike cancellation and Iran's draft submission via Qatar represent a genuine but fragile de-escalation moment — Israel's public skepticism and Iran's internal approval process are the two most likely failure points over the next 30 days"
+        "status": "US-Iran MOU reportedly days from signing with Pakistani mediation, but Israel-Iran friction over deal terms, ongoing Hezbollah-IDF exchanges in Lebanon, and a Hormuz drone incident keep escalation pathways open even as diplomacy advances."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 44,
+        "prob": 28,
         "label": "China coercion escalation",
-        "trajectory": "UP",
-        "status": "US monitoring of Chinese activity around disputed South China Sea shoals persists while US attention and military planning bandwidth are consumed by the Iran crisis, creating an opportunistic window Beijing may exploit"
+        "trajectory": "FLAT",
+        "status": "No significant new China coercion signals in current context; Beijing likely watching Iran deal outcome carefully as a precedent for US negotiating credibility before making Taiwan-adjacent moves."
       },
       {
         "name": "Europe",
-        "prob": 22,
+        "prob": 18,
         "label": "NATO cohesion fracture",
         "trajectory": "FLAT",
-        "status": "European interest rate hikes responding to war-driven inflation suggest economic stress but no immediate NATO structural fracture; missile supply worries signal alliance strain without yet reaching breaking point"
+        "status": "Russia deploying Pantsir air defense onto Moscow high-rises signals genuine concern about Ukrainian drone reach, but Putin messaging discipline holds domestically; no immediate NATO fracture trigger visible though UK Belfast riots suggest internal Western political instability."
       },
       {
         "name": "Energy",
-        "prob": 55,
+        "prob": 44,
         "label": "supply shock 60d",
-        "trajectory": "UP",
-        "status": "Kharg Island threat rhetoric — even if walk-back holds — has already signaled supply-chain risk to markets; oil exec warnings to the White House about worsening gas prices and elevated wholesale inflation (1.1% overshoot) confirm the energy risk trajectory is rising regardless of deal outcome"
+        "trajectory": "DOWN",
+        "status": "Hormuz blockade partially lifted per CENTCOM data with 136 vessels redirected and 42 allowed through, but a drone attack on Hormuz and unresolved Strait sovereignty language in competing MOU drafts means energy markets remain one incident away from a spike."
       },
       {
         "name": "US Politics",
         "prob": 38,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Cornyn predicting two miserable final years, Vance chief of staff departure, Gabbard humiliation, thousands renouncing citizenship, and softening celebrity/donor support collectively signal a degrading political environment for Republicans heading into 2026 midterms"
+        "status": "Prediction markets show Newsom at 22% for 2028 Dem nomination and Rahm Emanuel surging at 6%, suggesting party still lacks a dominant challenger candidate; Reform UK momentum in Makerfield by-election mirrors a populist wave pattern that could benefit anti-incumbent forces broadly."
       }
     ],
-    "unseen": "The simultaneous collapse of Gabbard's intelligence leadership and the nomination of Jay Clayton — a financial-regulatory figure with no intelligence background — to DNI, at precisely the moment a nuclear deal with Iran is being negotiated without apparent IC vetting, represents a dangerous gap in institutional intelligence oversight that foreign adversaries including Iran and China are almost certainly probing; the deal's credibility deficit inside the IC could become a self-fulfilling failure mechanism",
-    "criticalWindow": "The next 72-96 hours before a scheduled European signing ceremony — where Vance and Witkoff will appear without Trump — is the single highest-leverage window: Iran's Mojtaba Khamenei approval, Israeli back-channel reaction, and whether the signing actually materializes will set the regional trajectory for the rest of 2026",
+    "unseen": "The simultaneous disclosure by Iranian state media of their 14-point MOU draft versus the US official version reveals an intentional Iranian negotiating tactic of anchoring public expectations to terms the US has already rejected, likely to mobilize domestic hardline support and extract last-minute concessions before Sunday signing; this same dynamic may cause Trump to walk back the deal publicly even if a technical agreement is reached, creating a gap between a signed MOU and actual implementation that markets and allies are not pricing correctly.",
+    "criticalWindow": "The reported Sunday signing window for the US-Iran MOU is the most time-sensitive decision point; if it slips or Trump publicly disavows Iranian asset language again, the naval blockade of Iran becomes untenable politically without a resumption of kinetic operations, and Israel may treat the collapse as a green light for unilateral action against Iranian nuclear facilities before the 60-day negotiation window even opens.",
     "watchFor": [
-      "Mojtaba Khamenei public statement either endorsing or rejecting the draft text — absence of endorsement within 48 hours is a strong deal-collapse signal",
-      "Israeli unilateral strike activity against Iranian assets in Syria, Lebanon, or Iran proper as Jerusalem's skepticism hardens and it loses faith in US-negotiated constraints",
-      "Chinese naval or coast guard maneuver against disputed South China Sea shoal while US Indo-Pacific attention is degraded by Iran focus",
-      "Brent crude price spike above $95 or Kharg Island shipping insurance cancellations — leading indicator that markets are pricing deal failure regardless of public statements"
+      "Official confirmation or collapse of the Islamabad MOU signing by Sunday June 14, including which version of asset-release and Hormuz terms prevails",
+      "Israeli unilateral military action against Iranian nuclear sites, especially if Netanyahu signals publicly that the US deal is unacceptable on asset or Hormuz language",
+      "US military ground mission to capture Iranian uranium resuming after presidential pause, which would indicate back-channel deal collapse before any public announcement",
+      "Damage assessment and attribution of the ISA Air Base Bahrain incident between June 2-7, which if attributed to Iran would reframe the entire negotiation as coercive rather than cooperative"
     ],
-    "confidenceNote": "Confidence is materially limited by: (1) complete absence of authenticated primary-source Iranian government confirmation — all positive signals flow through US-side or Qatari intermediaries; (2) Trump's own record of premature deal declarations (Tasnim cites 38 instances) means announcement credibility must be heavily discounted; (3) GDELT theater feeds returned empty, removing corroborating wire-service ground truth; (4) Kalshi had no live contract data to validate market sentiment — prediction-market signals are drawn entirely from Polymarket social posts which are themselves unverified",
-    "topPattern": "Trump is running a high-velocity, media-dominant diplomatic style — threatening Kharg Island strikes, canceling them within hours, and declaring a done deal before Iranian state confirmation — that functions as coercive theater designed to lock Iran into a framework before domestic hardliners can mobilize; Polymarket's 59% ceasefire extension probability and 33% full-deal probability reflect the market's correct read that the process is real but the outcome is not yet determined, and the SpaceX IPO and Musk trillionaire narrative running simultaneously suggests the administration is managing a dual news cycle to project economic strength as diplomatic leverage"
+    "confidenceNote": "Key uncertainties are severe: we have two irreconcilable public versions of the MOU text and no authoritative single document; Pakistani PM confirmation is credible but Pakistan has incentives to overstate progress; CENTCOM blockade statistics are government-sourced and may lag real maritime conditions; Kalshi market data here is dominated by domestic political contracts with thin Iran-specific coverage, limiting market-signal validation of deal probability.",
+    "topPattern": "The convergence of a near-finalized US-Iran MOU, a paused US military uranium-capture mission, CENTCOM actively managing a naval blockade, and Musk trillionaire markets pricing at 99% on SpaceX Nasdaq listing all point to a single underlying bet: Trump is trading a hard Iran nuclear rollback for a Hormuz reopening that benefits US energy markets and frames a 2026 midterm win, but Israel is the wild card that could detonate the entire architecture before it sets."
   },
   "signals": [
     {
       "id": "sig1",
       "domain": "Middle East",
-      "headline": "Trump claims Iran nuclear deal reached, cancels strikes same day",
+      "headline": "US-Iran MOU framework nearing signature with major nuclear dismantlement terms agreed",
       "significance": "CRITICAL",
-      "summary": "Trump announced a completed Iran agreement and canceled planned military strikes on Iranian infrastructure and Kharg Island within hours. However, Israeli officials and Iranian sources deny any finalized deal—Iran's Tasnim News claims Trump has made 38 false deal announcements and requires Mojtaba Khamenei's approval. A draft was allegedly sent via Qatar but no consensus exists on completion.",
-      "signal": "Trump may be using deal rhetoric to justify strike cancellation for domestic political reasons rather than genuine diplomatic breakthrough. This creates whipsaw risk: if no deal materializes, credibility damage and pressure for military action resumes. Alternatively, a real back-channel agreement exists but cannot be publicly confirmed by Iran due to regime politics.",
-      "contradicts": "Standard diplomatic practice where both sides announce agreements simultaneously; unilateral US deal claims without Iranian confirmation suggest posturing or miscommunication",
-      "timestamp": "2026-06-11T20:02:36.227Z"
+      "summary": "Multiple sources confirm a draft 14-point memorandum between US and Iran is in final stages, with Pakistan's PM asserting a final agreed text exists. Core terms include immediate ceasefire on all fronts, Iranian nuclear program dismantlement, nuclear material removal, and staged asset unfreezing tied to performance verification. Signing reported possible by Sunday.",
+      "signal": "If executed, this represents fundamental reordering of Persian Gulf deterrence architecture and removes Iran nuclear threat—but explosive domestic Israeli opposition and Trump's own contradictory statements on Iranian \"pathetic\" claims suggest implementation risk is acute. Strait of Hormuz control and Hezbollah ceasefire terms remain contentious between US and Iranian narratives.",
+      "contradicts": "Year-long Trump posture of maximum pressure on Iran; Israeli security doctrine assumption of indefinite Iranian nuclear threshold threat",
+      "timestamp": "2026-06-12T18:23:52.314Z"
     },
     {
       "id": "sig2",
-      "domain": "US Politics",
-      "headline": "Jay Clayton nominated DNI; Vance chief of staff exits; Cornyn warns of 'miserable' final two years",
-      "significance": "HIGH",
-      "summary": "Trump nominates SDNY U.S. Attorney Jay Clayton as Director of National Intelligence. Simultaneously, Vance's chief of staff departs and Senate Republican Cornyn signals administrative dysfunction ahead. Multiple senior staff departures and celebrity/event cancellations suggest internal instability.",
-      "signal": "Intelligence community leadership transition mid-term under contested circumstances signals potential fracture in executive consensus-building. Clayton's SDNY background implies aggressive prosecution posture, likely targeting political opponents. Staff exodus indicates VP operation stress or policy disagreement.",
-      "contradicts": "Stable second-term administrations typically have settled leadership teams by June; simultaneous departures and DNI overhaul suggest reactive rather than strategic governance",
-      "timestamp": "2026-06-11T20:02:36.227Z"
+      "domain": "Middle East",
+      "headline": "Israel actively lobbying US against unfreezing Iranian assets as part of ceasefire deal",
+      "significance": "CRITICAL",
+      "summary": "CNN reports Netanyahu-led Israeli government urging Trump administration not to release frozen Iranian funds as incentive in potential ceasefire framework. Netanyahu publicly reaffirmed commitment to preventing Iranian nuclear weapons, signaling alignment with Trump on nuclear issue but divergence on financial terms.",
+      "signal": "US-Israel policy misalignment on Iran deal sequencing creates leverage point for Iranian negotiators and constrains Trump's ability to close agreement. If Trump prioritizes Israel over deal completion, MOU collapses; if he proceeds over Israeli objection, damages critical alliance at moment of regional instability.",
+      "contradicts": "Public US-Israel messaging of unified Iran strategy under Trump administration",
+      "timestamp": "2026-06-12T18:23:52.314Z"
     },
     {
       "id": "sig3",
-      "domain": "Technology",
-      "headline": "SpaceX orbital data center revenue projections reach $300B annually; Musk IPO potential trillionaire status",
-      "significance": "HIGH",
-      "summary": "ARK Invest estimates SpaceX could generate $300 billion annually from orbital data centers. Concurrent with record SpaceX IPO hype, positioning Musk as potential first trillionaire. Industry forecasts suggest space-based AI compute infrastructure becomes near-term commercial reality.",
-      "signal": "If executed, space-based data centers bypass terrestrial infrastructure bottlenecks and create new US technological moat but also concentrate AI compute in single-actor (Musk/X) ecosystem. National security implication: data sovereignty and dual-use tech control risk if space infrastructure becomes critical infrastructure.",
-      "contradicts": "Consensus assumption that data center competition remains ground-based and geographically distributed; orbital shift concentrates power",
-      "timestamp": "2026-06-11T20:02:36.227Z"
+      "domain": "Americas",
+      "headline": "Prediction markets price Elon Musk trillionaire status at 99% before 2027, with recent +5¢ surge",
+      "significance": "MEDIUM",
+      "summary": "Kalshi markets show extreme consensus (99% on both \"before 2027\" and \"world's first trillionaire\" contracts) with robust open interest ($155K+ and $69K respectively) and positive 24h momentum. SpaceX Nasdaq listing preparation cited in headlines.",
+      "signal": "Market-derived confidence in Musk wealth trajectory suggests either (a) genuine assessment of SpaceX valuation surge and Tesla recovery, or (b) retail speculative bubble in prediction markets on tech billionaires. Either way, signals assumption of sustained US tech sector outperformance and investor appetite for space/AI bets underpinning Trump-era deregulation expectations.",
+      "contradicts": "null",
+      "timestamp": "2026-06-12T18:23:52.314Z"
     },
     {
       "id": "sig4",
-      "domain": "Americas",
-      "headline": "Argentina inflation hits 8-month low; Milei reelection odds at 51%",
-      "significance": "MEDIUM",
-      "summary": "Argentina's inflation decelerates to lowest level in 8 months amid Milei's stabilization measures. Polymarket odds for Milei reelection hold at 51%, indicating narrow political viability. Economic stabilization beginning to translate to electoral support.",
-      "signal": "If Milei consolidates gains, Argentina stabilizes as pro-US regional anchor. If inflation resurges or political opposition coalesces, risk of return to leftist/populist governance. Current 51% odds reflect genuine uncertainty—economic data improving but political sustainability unproven.",
-      "contradicts": "Earlier consensus that Milei's orthodox reforms would be electorally impossible; modest inflation progress is changing calculus",
-      "timestamp": "2026-06-11T20:02:36.227Z"
+      "domain": "US Politics",
+      "headline": "Tulsi Gabbard as DNI declassifies evidence of global biological laboratory program including Ukraine facilities",
+      "significance": "HIGH",
+      "summary": "Director of National Intelligence released slide presentation containing declassified evidence of biological laboratory programs globally with specific focus on Ukrainian facilities. Move signals Gabbard's institutional independence and willingness to execute Trump-aligned transparency agenda on classified Cold War-era biodefense infrastructure.",
+      "signal": "Declassification of biological program details—particularly Ukraine angle—may reframe US support for Kyiv as involvement in potentially problematic biodefense research, creating domestic political cover for reduced aid or negotiated settlement. Russia-linked narratives will weaponize this aggressively in information warfare.",
+      "contradicts": "Biden-era framing of Ukraine biodefense work as routine and uncontroversial; weakens moral clarity argument for continued US military support",
+      "timestamp": "2026-06-12T18:23:52.314Z"
     },
     {
       "id": "sig5",
-      "domain": "Energy",
-      "headline": "Solar generation exceeds coal for first time in US; oil executives warn prices will worsen",
-      "significance": "MEDIUM",
-      "summary": "Solar power generation surpassed coal for the first time in US history. Simultaneously, oil industry executives warn White House that gasoline prices face upward pressure. Energy transition inflection visible but hydrocarbon markets remain volatile.",
-      "signal": "Energy independence accelerating but energy *price stability* remains vulnerable to geopolitical shocks and supply constraints. Oil industry warnings suggest either manipulation or genuine margin compression, both carry political risk for Trump administration heading into election cycle.",
-      "contradicts": "Renewable dominance should theoretically insulate US from oil price volatility; executive warnings suggest structural supply-side constraints persist",
-      "timestamp": "2026-06-11T20:02:36.227Z"
+      "domain": "Europe",
+      "headline": "Russia deploys Pantsir-SMD air defense systems across Moscow high-rises via heavy-lift helicopters",
+      "significance": "HIGH",
+      "summary": "Satellite and resident footage documents Russian air defense modernization effort with Pantsir-SMD systems installed on civilian high-rise buildings in Moscow using Mi-26 heavy-lift helicopters. Signals hardening of Russian capital against aerial threats amid Ukraine conflict.",
+      "signal": "Deployment pattern indicates Russian military assessment that Ukrainian strike capability against Moscow is now persistent and existential enough to justify embedding air defense in civilian urban areas—escalation signal. Proximity of systems to civilian population increases collateral damage risk if engaged and demonstrates Kremlin's belief in likelihood of direct strikes on Russian territory.",
+      "contradicts": "Russian public narrative of military dominance and low threat to Russian airspace",
+      "timestamp": "2026-06-12T18:23:52.314Z"
     },
     {
       "id": "sig6",
-      "domain": "US Politics",
-      "headline": "USPS proposes blocking mail ballots in states refusing voter roll data; citizenship renunciations rise",
+      "domain": "Middle East",
+      "headline": "US Central Command reports disabling 9 Iranian commercial vessels and redirecting 136 others via naval blockade",
       "significance": "HIGH",
-      "summary": "US Postal Service floats plan to block mail-in ballots in states that refuse to hand over voter roll data to federal authorities. Concurrent reporting of thousands of Americans renouncing citizenship. Election administration and civic participation show stress signals.",
-      "signal": "Voter roll demand coupled with mail ballot blocking represents direct federal pressure on state election autonomy—flashpoint for legal challenge and 2026 midterm disruption. Citizenship renunciations, if accurate, indicate wealth/mobility flight or protest; likely exaggerated but signals elite confidence erosion.",
-      "contradicts": "Federalism norms limiting national government unilateral election administration; move suggests either emergency response or deliberate institutional consolidation",
-      "timestamp": "2026-06-11T20:02:36.227Z"
-    },
-    {
-      "id": "sig7",
-      "domain": "Indo-Pacific",
-      "headline": "USA monitoring Chinese activity in South China Sea near disputed shoal",
-      "significance": "MEDIUM",
-      "summary": "US intelligence monitoring elevated Chinese naval/commercial activity in disputed South China Sea shoal area. Routine surveillance but headline prominence suggests either recent escalation or intentional signaling of US awareness.",
-      "signal": "China likely probing US response capacity or preparing facts-on-ground positioning. US public acknowledgment of monitoring intended as deterrent messaging but creates escalation ladder risk if China interprets as challenge.",
-      "contradicts": "null",
-      "timestamp": "2026-06-11T20:02:36.228Z"
+      "summary": "CENTCOM operational summary reveals active interdiction campaign against Iranian shipping with 9 vessels disabled, 136 redirected, and 42 allowed passage through US-controlled waters. Figure suggests sustained enforcement of sanctions regime and Hormuz chokepoint control.",
+      "signal": "Kinetic enforcement campaign against Iranian commerce continues in parallel with diplomatic MOU negotiations—suggests Trump administration maintaining coercive leverage even as negotiations advance. If deal collapses, this blockade becomes primary tool for containing Iranian economy and nuclear program.",
+      "contradicts": "Diplomatic signaling of goodwill and de-escalation; implies US maintaining hedged military option and sanctions pressure even during negotiation window",
+      "timestamp": "2026-06-12T18:23:52.314Z"
     }
   ],
-  "scanNote": "Signal quality is MEDIUM-LOW: Drudge headlines are sensationalized, PIZZINT sources conflate rumor with confirmation, and internal contradictions (Trump deal claims vs. Iran denial) require heavy discounting. Prediction markets show real money positioning but small sample. GDELT wire sections were empty (no data). Treat all Iran deal claims as unverified posturing pending official statements.",
-  "markets": [],
+  "scanNote": "Signal quality compromised by source reliability mixing (Drudge sensationalism, unverified OSINT feeds, market prices); Iran MOU story shows contradictory narratives between Iranian and US versions, requiring independent verification; Kalshi markets reflect speculative sentiment rather than informed institutional pricing on most contracts.",
+  "markets": [
+    {
+      "ticker": "KXMUSKTRILLION-27",
+      "label": "Musk Trillionaire Before 2027",
+      "domain": "Americas",
+      "marketProb": 99,
+      "aiProb": 97,
+      "gap": -2,
+      "favorable": false,
+      "confidence": "HIGH",
+      "rationale": "SpaceX Nasdaq listing imminent per multiple headlines and Drudge's 'WHO WANTS TO BE A TRILLIONAIRE' splash, with market already at 99% and SpaceX valuation trajectory making sub-2027 milestone near-certain.",
+      "volume24h": 47739,
+      "openInterest": 155761,
+      "priceChange24h": 5,
+      "url": "https://kalshi.com/markets/KXMUSKTRILLION-27"
+    },
+    {
+      "ticker": "KXTRILLIONAIRE-30-EM",
+      "label": "Musk First Trillionaire (by 2030)",
+      "domain": "Americas",
+      "marketProb": 99,
+      "aiProb": 98,
+      "gap": -1,
+      "favorable": false,
+      "confidence": "HIGH",
+      "rationale": "SpaceX trading debut on Nasdaq plus existing Tesla/xAI holdings makes the 2030 threshold even easier to clear than the 2027 market, confirming a very high YES probability.",
+      "volume24h": 14553,
+      "openInterest": 69531,
+      "priceChange24h": 2,
+      "url": "https://kalshi.com/markets/KXTRILLIONAIRE-30-EM"
+    },
+    {
+      "ticker": "KXNEXTODNI-29-JC",
+      "label": "Jay Clayton Next DNI",
+      "domain": "US Politics",
+      "marketProb": 92,
+      "aiProb": 85,
+      "gap": -7,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Market at 92% with strong volume and the Jay Clayton AG market at only 1% suggests administration has settled on Clayton for DNI; large single-day drop of 7 cents warrants slight discount pending confirmation.",
+      "volume24h": 11913,
+      "openInterest": 10458,
+      "priceChange24h": -7,
+      "url": "https://kalshi.com/markets/KXNEXTODNI-29-JC"
+    },
+    {
+      "ticker": "KXNEXTAG-29-TBLA",
+      "label": "Todd Blanche Next AG",
+      "domain": "US Politics",
+      "marketProb": 62,
+      "aiProb": 60,
+      "gap": -2,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Market at 62% reflecting credible insider positioning, but the simultaneous Jay Clayton DNI speculation creates some reshuffle uncertainty that keeps this below market consensus.",
+      "volume24h": 10919,
+      "openInterest": 599600,
+      "priceChange24h": 1,
+      "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
+    },
+    {
+      "ticker": "KXPRESNOMD-28-GN",
+      "label": "Newsom 2028 Dem Nominee",
+      "domain": "Americas",
+      "marketProb": 22,
+      "aiProb": 18,
+      "gap": -4,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "At 22% market price Newsom is the clear frontrunner in a fragmented field, but the Democratic party's structural disarray and rise of alternative candidates justifies a slight discount to market.",
+      "volume24h": 12512,
+      "openInterest": 2957532,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
+    },
+    {
+      "ticker": "KXMAKERFIELDBY-27JAN01-REF",
+      "label": "Reform UK Wins Makerfield By-Election",
+      "domain": "Europe",
+      "marketProb": 22,
+      "aiProb": 20,
+      "gap": -2,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Reform's 6-cent surge to 22% reflects the Belfast riots context and UK anti-immigration sentiment wave, but Labour's 81% hold in a traditionally safe seat still makes Reform a long shot.",
+      "volume24h": 27692,
+      "openInterest": 51723,
+      "priceChange24h": 6,
+      "url": "https://kalshi.com/markets/KXMAKERFIELDBY-27JAN01-REF"
+    },
+    {
+      "ticker": "KXMAKERFIELDBY-27JAN01-LAB",
+      "label": "Labour Wins Makerfield By-Election",
+      "domain": "Europe",
+      "marketProb": 81,
+      "aiProb": 74,
+      "gap": -7,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Labour holds structural incumbency advantage in Makerfield but Reform's momentum surge and broader UK populist trend justify discounting the 81% market price meaningfully.",
+      "volume24h": 37344,
+      "openInterest": 116345,
+      "priceChange24h": -2,
+      "url": "https://kalshi.com/markets/KXMAKERFIELDBY-27JAN01-LAB"
+    },
+    {
+      "ticker": "KXPRESNOMD-28-REMA",
+      "label": "Rahm Emanuel 2028 Dem Nominee",
+      "domain": "Americas",
+      "marketProb": 6,
+      "aiProb": 4,
+      "gap": -2,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Highest open interest of any Dem candidate at 3.3M suggests speculative liquidity rather than genuine probability; Rahm's pro-establishment profile has limited appeal in post-2024 Democratic realignment.",
+      "volume24h": 9591,
+      "openInterest": 3314506,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-REMA"
+    }
+  ],
   "watchSignals": [
-    "Iran nuclear deal signing ceremony timing and location announcement — Trump claims signing imminent in Europe within days; Israeli and Iranian denials suggest substantial gaps remain unresolved",
-    "Pentagon and US military readiness posture — Trump canceled evening strikes against Iran infrastructure after threatening Kharg Island seizure; signal reversal suggests negotiation leverage play or deal confidence but creates operational ambiguity",
-    "Jay Clayton DNI confirmation process and intelligence community stability — SDNY US Attorney nominated for top intelligence role during active Iran negotiations; career intelligence establishment response and Senate Republican backing critical",
-    "Iranian regime internal approval process — Tasnim News indicates Mojtaba Khamenei must approve any deal text; no evidence of final leadership sign-off despite Qatar mediation and draft finalization claims",
-    "US-Israel strategic alignment under pressure — Jerusalem expressing surprise and denying awareness of Trump deal claims; divergence on Iran approach may create operational friction during implementation phase",
-    "Ceasefire extension agreement threshold by end of June — Polymarket showing 59% probability by month-end; actual text approval and compliance monitoring mechanisms remain undefined"
+    "US-Iran MOU signing window closing by Sunday per Western source to Reuters; monitor for actual memorandum execution vs continued diplomatic theater",
+    "Israel-Netanyahu response to potential Iran deal unfreezing of assets; watch for unilateral Israeli military action if deal proceeds despite Netanyahu's objections",
+    "Ukraine drone targeting autonomy advancement and Russian logistics degradation pace; assess whether Ukrainian attrition can sustain without major US capability injection",
+    "Strait of Hormuz control language in final Iran deal text; discrepancy between Iran's 14-point draft and US official denials signals potential deal collapse trigger",
+    "Trump-Netanyahu call outcome on Gaza ceasefire mandate; Netanyahu's weak response suggests potential US pressure to end conflict regardless of Israeli military objectives",
+    "Pakistani PM Shehbaz Sharif role as deal intermediary; watch for Pakistan leverage extraction and potential backdoor concessions to Iran bypassing formal agreement"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East Nuclear",
-      "headline": "Trump claims US-Iran nuclear deal reached with signing scheduled within days in Europe",
+      "domain": "Middle East - Nuclear Diplomacy",
+      "headline": "US-Iran MOU negotiations in final stages with competing narratives on terms",
       "significance": "CRITICAL",
-      "summary": "Trump announced deal completion and cancellation of planned evening strikes on Iranian infrastructure. Vice President Vance and envoy Witkoff designated for signing ceremony. Iran sent final draft through Qatar mediators on June 5 2026. However, Israeli officials deny awareness of agreement and Iranian state media (Tasnim) states no deal exists until Supreme Leader Mojtaba Khamenei approves.",
-      "signal": "Massive credibility gap between Trump announcements and actual regime approval creates execution risk. If deal collapses, US military posture becomes unclear after strike cancellation. If deal holds, represents major strategic realignment reducing near-term Iran conflict probability."
+      "summary": "Trump administration claims Iran must dismantle nuclear program with no cash release until verification complete. Iran's 14-point draft released by state media includes immediate ceasefire, US non-interference commitment, and Strait of Hormuz regional resolution language. Trump publicly denounced Iranian characterization as pathetic lies. Memorandum signing targeted for by June 15.",
+      "signal": "Fundamental disagreement on deal substance creates high risk of strategic surprise or sudden collapse; if deal fails, escalation toward Iran nuclear confrontation or Israeli military action becomes probable"
     },
     {
       "id": "gt2",
-      "domain": "US Intelligence Leadership",
-      "headline": "Trump nominates Jay Clayton, SDNY US Attorney, as Director of National Intelligence",
-      "significance": "HIGH",
-      "summary": "Former SEC Chairman and Sullivan & Cromwell partner selected for top intelligence post during active Iran negotiations. Non-career intelligence professional appointment signals desire for loyalty-driven intelligence apparatus. Confirmation challenges likely from intelligence community and Senate Democrats.",
-      "signal": "Placement of political operative in DNI role during sensitive negotiations may create credibility problems with allies and institutional intelligence assessments. Risk of intelligence-policy fusion undermining analytical independence."
+      "domain": "Middle East - Israel-Palestine Conflict",
+      "headline": "Trump pressuring Netanyahu to accept ceasefire deal; Netanyahu offering minimal resistance",
+      "significance": "CRITICAL",
+      "summary": "Trump told Netanyahu this is excellent deal and time to end war. Netanyahu had little response per US official. Israel simultaneously urging US not to unfreeze Iranian assets, signaling attempt to decouple Iran deal from Gaza resolution. Channel 12 reporting indicates Netanyahu politically weakened or tactical silence.",
+      "signal": "Potential structural shift in Israel-US alliance with Trump administration prioritizing Iran containment and regional stability over unconditional Israeli military support; Netanyahu may lack veto power over ceasefire terms"
     },
     {
       "id": "gt3",
-      "domain": "US Military Operations",
-      "headline": "Trump canceled evening strikes against Iranian infrastructure after announcing Kharg Island seizure threat",
+      "domain": "Intelligence - Classification and Disclosure",
+      "headline": "DNI Tulsi Gabbard declassified evidence of global biological laboratory program including Ukraine facilities",
       "significance": "HIGH",
-      "summary": "Following statements threatening military action against Iran including Kharg Island capture, Trump announced strike cancellation citing ongoing deal negotiations. Pentagon experienced false-alarm lockdown from air-quality incident same day. Signal reversal within hours creates command-and-control ambiguity.",
-      "signal": "Operational uncertainty undermines deterrence credibility with Iran while potentially signaling negotiation momentum. Military readiness posture against Iran degraded until clear strategic direction established. Ally confidence in US follow-through weakened."
+      "summary": "Director of National Intelligence released slide presentation with embedded document excerpts regarding biological laboratory program spanning multiple countries with Ukraine component. No independent verification of accuracy or threat assessment provided in available context. Timing coincides with Iran negotiations.",
+      "signal": "Declassification at sensitivity level suggests either genuine counterintelligence priority or information warfare component of geopolitical negotiations; watch for congressional or allied nation response challenging authenticity"
     },
     {
       "id": "gt4",
-      "domain": "Administration Stability",
-      "headline": "Vance Chief of Staff departing; Cornyn predicts miserable final two years; celebrities declining Trump event invitations",
+      "domain": "Ukraine - Military Capability Assessment",
+      "headline": "Ukrainian drone operations show autonomous targeting features; Yak-52 trainer intercepted Russian Shahed drone over Mykolaiv",
       "significance": "HIGH",
-      "summary": "Multiple signals of administration internal strain and declining political capital. VP staff exodus, Republican Senate criticism, and social event boycotts accumulating. Vance designated for critical Iran signing mission despite staff departures.",
-      "signal": "Administration weakness during peak negotiation period may embolden adversaries and reduce diplomatic leverage. Internal instability could derail implementation of any Iran agreement requiring sustained policy coherence."
+      "summary": "OSINT footage shows Ukrainian mid-range strike drone autonomous targeting visible; separate report of Ukrainian piston trainer engaging Russian kamikaze drone with small arms fire. Russian Pantsir-SMD air defense deployed on Moscow high-rises via heavy-lift helicopter, indicating escalating air defense posture.",
+      "signal": "Ukraine demonstrating incremental technological parity in drone warfare and asymmetric interception capability; Russia's Moscow air defense escalation signals concern about Ukrainian strike range expansion toward Russian territory"
     },
     {
       "id": "gt5",
-      "domain": "Prediction Markets",
-      "headline": "Polymarket shows 33% probability US-Iran nuclear deal reached by end of June; 59% chance ceasefire extension by month-end",
+      "domain": "Economics - Wealth Concentration and Market Signals",
+      "headline": "Prediction markets price Elon Musk trillionaire status before 2027 at 99% probability; SpaceX Nasdaq trading imminent",
       "significance": "HIGH",
-      "summary": "Market pricing reflects genuine uncertainty despite Trump's confident announcements. 33% deal probability suggests betting community assigns substantial failure risk. Ceasefire extension at 59% indicates more incremental progress expected than full nuclear accord.",
-      "signal": "Market-based intelligence contradicts Trump narrative confidence. Suggests sophisticated participants expect negotiation delay, Iranian regime resistance, or implementation gaps. Oil price futures and risk-asset positioning should track these probability shifts."
+      "summary": "Kalshi markets show KXMUSKTRILLION-27 at 99% with 5-cent 24h rise; KXTRILLIONAIRE-30-EM at 99% with 2-cent rise. Drudge headlines reference SpaceX to infinity and trillionaire race. Market pricing reflects either legitimate SpaceX valuation surge or speculative bubble on Mars colonization narrative amid broader uncertainty.",
+      "signal": "Extreme market confidence in US private space/tech wealth concentration; political implications for Trump administration technology policy and potential conflict between SpaceX government contracts and autonomous space enterprise governance"
     }
   ]
 }
