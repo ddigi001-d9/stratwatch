@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-15T21:36:54.010Z",
-  "runNumber": 32,
+  "generatedAt": "2026-06-16T21:36:38.017Z",
+  "runNumber": 33,
   "situation": {
-    "headline": "US-Iran nuclear memorandum finalized but operationally contested: Strait of Hormuz explosions and absent US tanker coverage signal the deal is either unraveling or being stress-tested in real time, with cascading risk to Gulf energy flows and US credibility across all alliance relationships simultaneously",
+    "headline": "US-Iran MoU grants Iran de facto Hormuz control and immediate oil sanctions relief, fundamentally reshaping Gulf security architecture and sidelining Israel while creating a structural shift in regional power",
     "velocity": "ACCELERATING",
     "domains": [
       {
@@ -10,281 +10,281 @@
         "prob": 72,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "The combination of Hormuz explosions framed as Iranian traffic management, Hezbollah rocket fire in southern Lebanon breaking the ceasefire, Netanyahu publicly disavowing knowledge of the deal terms, and Israeli public sentiment registering betrayal suggests the US-Iran memorandum is paper-thin and multiple actors are already probing its seams."
+        "status": "Ceasefire fragility is high: IDF has allegedly violated terms 84 times, Hezbollah is actively striking northern Israel, Hamas welcomes the deal, and Iran retains Hormuz closure capability as a standing coercive instrument, making a return to kinetic conflict likely within 90 days absent hard enforcement mechanisms."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 38,
+        "prob": 45,
         "label": "China coercion escalation",
-        "trajectory": "FLAT",
-        "status": "No direct signals in current context, but US credibility damage from the Iran deal optics and the G-7 decoupling narrative reduces deterrent posture in the Pacific and gives Beijing a window to test resolve without triggering unified allied response."
+        "trajectory": "UP",
+        "status": "Context is sparse on Indo-Pacific developments but China's documented chokepoint strategy on rare earths and corporate penetration, combined with US strategic distraction from the Iran deal and a weakened credibility signal to allies, gives Beijing an expanded window to press Taiwan and South China Sea claims."
       },
       {
         "name": "Europe",
-        "prob": 45,
+        "prob": 28,
         "label": "NATO cohesion fracture",
-        "trajectory": "UP",
-        "status": "G-7 allies explicitly planning for a world less reliant on the US, Russian arson targeting UK Prime Minister Starmer, historic Kyiv cathedral struck by Russian bombs, and a drone strike in Lebanon breaking the peace deal all reinforce European perception that US security guarantees are degrading and unreliable under current administration."
+        "trajectory": "DOWN",
+        "status": "G7 optics are cooperative with Merz presenting Trump a jersey and expressing optimism on Russia sanctions, and a Russian Navy warning-shot incident in the English Channel is unifying rather than fracturing; near-term NATO fracture risk is reduced but Ukraine war resolution remains a fault line."
       },
       {
         "name": "Energy",
         "prob": 55,
         "label": "supply shock 60d",
-        "trajectory": "UP",
-        "status": "Unexplained Hormuz explosions, zero visible US Air Force tankers near the strait for the first time in weeks, and an Iranian memorandum Vance himself describes as vague at roughly a page and a half create a credible pathway to partial strait disruption that markets have not yet priced given record stock highs."
+        "trajectory": "DOWN",
+        "status": "Iranian oil re-entering markets with immediate sanctions waivers covering banking, transport, and insurance should pressure crude prices downward, but Iran's confirmed Hormuz closure capability is a permanent upside risk spike trigger that keeps energy markets structurally volatile."
       },
       {
         "name": "US Politics",
-        "prob": 42,
+        "prob": 38,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Vance fraud task force sweeping legitimate small businesses, AI deepfakes already active in midterm information space, Newsom DOJ investigation galvanizing Democratic base, AOC running probability jumping 7 cents in 24 hours to 55 percent on Kalshi, and Ossoff presidential odds ticking up all signal Democratic enthusiasm building while Republican governing liabilities accumulate."
+        "status": "Kalshi shows Vance surging 4 cents to 35% on the 2028 GOP nomination while Todd Blanche leaps 14 cents to 76% as next AG, signaling internal Trump coalition stress; Iran deal blowback, inflation narrative, Vance scapegoating, and the Kash Patel slush fund story collectively elevate Democratic pickup prospects."
       }
     ],
-    "unseen": "The simultaneous disappearance of US Air Force tankers from Hormuz airspace and the Iranian explosion narrative labeled as traffic management may indicate a pre-arranged US tactical pullback as a concession baked into the vague memorandum, which would mean the US has already quietly ceded air dominance posture over the strait as a good-faith gesture to Tehran that is not disclosed in public deal terms and that Israel and Gulf partners have not been briefed on, explaining Netanyahu's public statement that he does not yet know what the agreement will be.",
-    "criticalWindow": "The next 30 to 45 days are decisive for whether the US-Iran memorandum firms into a verifiable framework or collapses under simultaneous pressure from Israeli military action in Lebanon, Iranian maritime provocations in Hormuz, and domestic Republican opposition using the deal as a midterm liability; a single kinetic incident in the strait attributable to Iran during this window would likely kill the deal, spike oil prices, and restructure the entire 2026 midterm battlefield.",
+    "unseen": "The combination of the $300 billion private investment fund for Iran, immediate oil sanctions relief, and de facto Hormuz control granted under the MoU means the US has effectively handed Iran a permanent economic and strategic leverage instrument that is decoupled from nuclear compliance verification; Iran now has less incentive to conclude a final deal because the MoU's interim benefits already deliver most of the economic upside, creating a structural stall dynamic that analysts focused on the nuclear dimension are not pricing adequately.",
+    "criticalWindow": "The Bürgenstock MoU signing ceremony is the hinge point: the 30-90 day window immediately after signing will determine whether Iran uses oil revenue and Hormuz leverage to fund Hezbollah and entrench regional dominance before formal nuclear negotiations even begin, and whether Israel acts unilaterally against Iranian assets after being denied the MoU text, which would collapse the entire framework.",
     "watchFor": [
-      "Second or third Hormuz explosion event accompanied by commercial vessel damage or insurance market suspension of Gulf coverage",
-      "IDF escalation in southern Lebanon beyond retaliatory strikes into ground operations, which would directly contradict US ceasefire posture and humiliate American diplomacy publicly",
-      "Newsom indictment or formal DOJ charging document released within 60 days of his declared presidential positioning, which markets would read as political persecution and dramatically shift 2028 Democratic nomination dynamics currently showing him at 24 percent",
-      "G-7 formal announcement of a dollar-alternative settlement mechanism or coordinated tariff retaliation framework, which would represent the most significant structural challenge to US financial dominance since Bretton Woods"
+      "Israel conducting unilateral strikes on Iranian nuclear or IRGC assets in response to ceasefire violations and exclusion from MoU text, triggering deal collapse",
+      "Iran failing to restrain Hezbollah and Houthi operations within 30 days of signing, giving hawks in Congress grounds to block sanctions relief implementation",
+      "Todd Blanche confirmed as AG at 76% Kalshi probability: watch for DOJ posture shift on Trump-aligned prosecutions and whether Patel FBI actions generate bipartisan oversight response",
+      "IRGC Shahed drone strikes on Kurdish groups in Iraq escalating into broader Iraq-Iran proxy conflict that draws US forces back into the theater despite the deal narrative"
     ],
-    "confidenceNote": "Key uncertainties are severe: the actual text and verification mechanisms of the US-Iran memorandum are unknown; the operational intent behind the Hormuz explosions is ambiguous and could range from Iranian signaling to accidental munitions; the absence of US tanker aircraft could reflect repositioning rather than concession; and prediction market data on 2028 elections this far out carries low signal-to-noise ratio, though directional momentum on AOC and Ossoff is worth tracking as leading indicators of Democratic base sentiment rather than outcome probability.",
-    "topPattern": "The US-Iran deal is simultaneously the most important diplomatic event and the most structurally unstable one in the current environment: Kalshi markets show Rubio at 18 percent to win the presidency and 29 percent for the Republican nomination, suggesting he is viewed as the deal's architect and its political beneficiary, but the deal's own vice president describes it as vague and a page and a half long, Hormuz is already seeing unexplained explosions, US tanker coverage has vanished, Israel is publicly disavowing knowledge of terms, and G-7 allies are treating the summit as a planning session for post-American order, meaning the gap between the strategic ambition of the deal and its operational foundation may be the single largest unpriced risk across all domains simultaneously."
+    "confidenceNote": "Critical uncertainties include the actual text of the MoU which has not been publicly released and was denied to Israel, making verification of nuclear compliance triggers impossible to assess; the $300 billion investment fund commitment figures are sourced from a single Reuters report of unknown provenance; Kalshi volume on the Vance nomination is relatively low at 89k, limiting confidence in the 4-cent move as a durable signal rather than noise; and the 108-day Iran war timeline implies significant battlefield facts on the ground that are underreported in the available context.",
+    "topPattern": "The US has traded permanent Iranian Hormuz leverage and immediate oil revenue for a paper nuclear commitment in an unsigned final agreement, while Kalshi markets simultaneously price Vance up 4 cents to 35% on the 2028 GOP nomination and Blanche surging 14 cents to 76% as next AG, suggesting the political coalition managing this deal is already fracturing internally with Vance being positioned as the fall guy, which means the domestic political architecture supporting deal enforcement is weaker than the diplomatic optics imply."
   },
   "signals": [
     {
       "id": "sig1",
       "domain": "Middle East",
-      "headline": "Multiple explosions reported in Strait of Hormuz; Iran claims 'maritime traffic management'",
+      "headline": "US-Iran MOU signed; Israel denied access to text; Iran gains immediate oil sanctions relief",
       "significance": "CRITICAL",
-      "summary": "Iranian state media Mehr reported at least 3 explosions south of Qeshm Island in the Strait of Hormuz overnight, attributed to traffic management operations. VP Vance characterized the U.S.-Iran memorandum as vague (1.5 pages). Simultaneously, no visible USAF tanker presence near the Strait for first time in weeks.",
-      "signal": "Ambiguous Iranian explosions combined with thin agreement language and reduced US air presence suggests either Iranian brinkmanship to test Trump commitment, or escalation masquerading as routine ops. Risk of miscalculation spike if agreement lacks enforcement mechanisms or clear redlines.",
-      "contradicts": "The 'Trump Makes Iran Great Again' headline implies deal stability; market signals and OSINT indicate fragility and operational ambiguity.",
-      "timestamp": "2026-06-15T21:38:50.933Z"
+      "summary": "Trump administration completed tentative Iran deal with MOU signing scheduled Friday in Switzerland. Agreement grants Iran immediate sanctions waiver on oil sales and de facto control over Strait of Hormuz. Israel requested but was denied access to agreement text despite prior US assurances on nuclear preconditions.",
+      "signal": "Major realignment in US-Israel strategic alignment on Iran. US has ceded chokepoint leverage (Hormuz closure capability) to Iran without Israeli consent or visibility. Market intelligence assesses this 'more powerful than nuclear weapon.' Vance/Trump messaging on preventing unfrozen assets to Iran contradicts actual deal structure allowing immediate oil revenue. Sets conditions for regional escalation if Israel perceives existential threat to shipping/energy security.",
+      "contradicts": "Trump administration's stated hard line on Iran financing of Hezbollah; prior signaling of close Israel coordination",
+      "timestamp": "2026-06-16T21:38:30.581Z"
     },
     {
       "id": "sig2",
       "domain": "US Politics",
-      "headline": "DOJ investigating Gov. Newsom and wife; Newsom alleges political vendetta tied to 2028 presidential ambitions",
+      "headline": "JD Vance nomination probability surges to 35%; attributed to Iran deal positioning",
       "significance": "HIGH",
-      "summary": "Newsom publicly claims Trump DOJ is investigating him and his wife without evidence, framing it as retaliation for potential 2028 run. Prediction markets show Newsom at 24% for Democratic nominee and 13% for winning presidency—material positions amid investigation.",
-      "signal": "If investigation is genuine, weaponization of DOJ for political rivals becomes explicit scandal. If investigation is thin pretext, Newsom gains martyrdom narrative before 2028. Either way, erodes public confidence in DOJ independence and signals normalized political prosecution.",
-      "contradicts": "Drudge headline 'CA Gov says Trump ordered it' implies direct politicization; Newsom's claim of 'no evidence' contradicts typical investigation opacity.",
-      "timestamp": "2026-06-15T21:38:50.933Z"
+      "summary": "Prediction market for Vance as 2028 Republican nominee jumped +4 cents to 35% in 24 hours. Drudge reports Vance positioned as 'Iran Deal Fall Guy' while headlines surface his prior Trump criticism and Epstein conspiracy theory comments. Market timing suggests traders pricing in either dealmaking capital or liability containment.",
+      "signal": "If Iran deal deteriorates or Israel escalates, Vance faces scapegoat exposure despite current rhetorical toughness. Market move contradicts narrative that controversial statements harm candidacy—may indicate base sees him as ideological heir. VP role in failed Iran deal diplomacy becomes 2028 liability ladder.",
+      "contradicts": "Assumption that negative headlines (prior Trump criticism, conspiracy theory association) reduce electoral viability",
+      "timestamp": "2026-06-16T21:38:30.581Z"
     },
     {
       "id": "sig3",
-      "domain": "Americas",
-      "headline": "San Andreas Fault stress hits 1,000-year high; seismic risk elevated",
+      "domain": "Middle East",
+      "headline": "Hezbollah, Hamas, Houthis signal continuation of operations post-Iran ceasefire; Israel reports 84 ceasefire violations in 48 hours",
       "significance": "HIGH",
-      "summary": "Geological assessment indicates San Andreas Fault stress levels at millennial peak, raising earthquake risk materially. No headline on policy response or evacuation prep visible.",
-      "signal": "Major seismic event in California would compound Newsom political crisis, disrupt financial markets (tech sector), strain disaster-response capacity, and create test of federal coordination under Trump. Insurance, reinsurance, and infrastructure exposure is acute.",
-      "contradicts": "No apparent market reaction or geopolitical hedging visible in Kalshi data; signals may be lagging geological reality.",
-      "timestamp": "2026-06-15T21:38:50.933Z"
+      "summary": "Despite Trump announcement ending 'Iran War,' proxy forces show no de-escalation intent. Hezbollah released FPV drone footage targeting Israeli settlement. Israel's Khatam al-Anbiya warned against 84 IDF ceasefire violations. Hamas welcomed US-Iran deal but no weapons laydown reported.",
+      "signal": "Iran ceasefire is de jure not de facto. US has removed deterrent (sanctions relief, Hormuz control transfer) without securing proxy disarmament or Israeli withdrawal from Lebanon/Gaza. Creates collision course within weeks when facts contradict Trump's 'wars ended' narrative. Domestic political exposure if escalation resumes.",
+      "contradicts": "Trump claim of conflict resolution; assumption that state-level ceasefire cascades to proxy force compliance",
+      "timestamp": "2026-06-16T21:38:30.581Z"
     },
     {
       "id": "sig4",
-      "domain": "US Politics",
-      "headline": "Vance 'fraud task force' sweeping up legitimate small businesses; Frustrated Trump weighed suspending constitutional rights on courts",
+      "domain": "Energy",
+      "headline": "US using Iranian 'sanctions dodging' tactics to escort vessels through Strait of Hormuz",
       "significance": "HIGH",
-      "summary": "Headlines indicate VP Vance's fraud enforcement is indiscriminately targeting lawful small enterprise, and separately Trump considered extrajudicial moves against courts perceived as obstructing his agenda.",
-      "signal": "Signals normalization of prosecutorial overreach and extra-constitutional thinking at top levels. Erodes rule of law, creates business chilling effect, and risks institutional crisis if courts resist executive pressure.",
-      "contradicts": "Record-high stock market and 'unapologetic luxury' spending suggest investor confidence; contradiction suggests market pricing ignores institutional/political tail risk.",
-      "timestamp": "2026-06-15T21:38:50.933Z"
+      "summary": "Reuters reports US Navy employing operational methods 'generally associated with Iran' to safely move commercial traffic through Hormuz post-deal. Indicates immediate practical control of strait may already be contested or delegated.",
+      "signal": "US has surrendered strategic initiative on chokepoint management to operational improvisation. Hostile nation-states and non-state actors now have template for corridor control. Insurance/shipping costs will rise immediately; energy price volatility increases. Global economy exposed to Iranian disruption at zero cost to Tehran.",
+      "contradicts": "Assertion that US retains effective Hormuz security guarantees post-MOU",
+      "timestamp": "2026-06-16T21:38:30.581Z"
     },
     {
       "id": "sig5",
-      "domain": "Europe",
-      "headline": "At G-7, allies plan for world less reliant on USA; Netanyahu unsure of Hezbollah-Israel agreement details",
-      "significance": "HIGH",
-      "summary": "G-7 allies actively organizing economic/geopolitical alternatives to US-led order. Simultaneously, Israeli PM says agreement substance with Hezbollah remains unclear despite ceasefire on books. Drone strike killed one in south Lebanon—first deadly incident since deal.",
-      "signal": "US alliance cohesion fracturing as allies hedge geopolitical exposure; Middle East peace architecture remains fragile and ambiguous. Combined signal: Trump foreign policy is simultaneously weakening US ties and failing to produce durable regional settlements.",
-      "contradicts": "Headlines on record stocks and Musk trillion-dollar SpaceX forecasts imply confidence; geopolitical fragmentation and military ambiguity contradict domestic buoyancy narrative.",
-      "timestamp": "2026-06-15T21:38:50.933Z"
+      "domain": "US Politics",
+      "headline": "Todd Blanche Attorney General odds at 76% (+14¢ in 24h); Kash Patel confirmed as FBI Director with counterterror authority",
+      "significance": "MEDIUM",
+      "summary": "Prediction markets show Blanche as overwhelming favorite for next AG. Patel already installed as FBI Director and claimed credit for stopping UFC Freedom 250 explosive drone plot in DC. Blanche is Trump's personal lawyer with deep ties to classified documents litigation.",
+      "signal": "Justice Department and FBI leadership now consolidated under Trump loyalists with direct litigation exposure. Blanche's AG confirmation will face scrutiny on conflicts of interest (defending Trump in classified docs case, then leading DOJ). Creates appearance/reality of politicized law enforcement targeting predecessors. International allies tracking institutional independence degradation.",
+      "contradicts": "Institutional norm of AG independent from personal presidential legal defense",
+      "timestamp": "2026-06-16T21:38:30.581Z"
     },
     {
       "id": "sig6",
       "domain": "Technology",
-      "headline": "AI deepfakes getting weirder and harder to spot ahead of midterms; Secret Service deploying facial-recognition scanning",
+      "headline": "SpaceX surpasses Microsoft/Amazon to become world's 5th most valuable company on single day; Musk crypto family firm expected to receive federal banking privileges",
       "significance": "MEDIUM",
-      "summary": "Rising sophistication and opacity of synthetic media coinciding with expanded government surveillance capabilities. No visible public guardrails or transparency on facial-recognition deployment.",
-      "signal": "Asymmetric vulnerability: bad actors leverage undetectable deepfakes while state deploys opaque biometric surveillance. Risk of election interference, wrongful surveillance, and erosion of public epistemology before 2026 midterms.",
-      "contradicts": "Prediction markets show high confidence in 2026 election outcomes; reality may be more uncertain if deepfakes undermine trust in verified evidence.",
-      "timestamp": "2026-06-15T21:38:50.933Z"
+      "summary": "SpaceX market cap surge of $336B in single day reported. Concurrent headline signals Trump administration preparing federal banking charter for Trump/Musk family crypto operations.",
+      "signal": "Regulatory capture evident in parallel policy (banking privileges for family crypto venture) alongside massive asset appreciation for Musk holdings. Market pricing in expected government contracts and favorable regulatory environment. Creates conflict-of-interest structure where national space/defense strategy may be subordinated to private shareholder interests.",
+      "contradicts": "Separation of personal financial interests from government policy; assumption of arm's-length contracting in national security space sector",
+      "timestamp": "2026-06-16T21:38:30.581Z"
     }
   ],
-  "scanNote": "Signal quality mixed: some sourced from credible OSINT (Iranian explosions, Newsom DOJ), others from tabloid aggregation (Drudge sensationalism); geopolitical fragmentation and institutional instability outweighing market bullishness, suggesting tail-risk mispricing.",
+  "scanNote": "Signal quality degraded by Drudge sensationalism and attribution gaps in OSINT feeds; Iran deal text remains unpublished baseline fact establishing assessment uncertainty. Prediction market moves (Vance +4¢, Blanche +14¢) are contrarian to negative news cycles, suggesting sophisticated market participants pricing structural political outcomes rather than headline sentiment.",
   "markets": [
     {
-      "ticker": "KXGREENTERRITORY-29",
-      "label": "US acquires part of Greenland before 2029",
-      "domain": "Americas",
-      "marketProb": 20,
-      "aiProb": 12,
-      "gap": -8,
+      "ticker": "KXPRESNOMR-28-JDV",
+      "label": "Vance 2028 GOP nominee",
+      "domain": "US Politics",
+      "marketProb": 35,
+      "aiProb": 28,
+      "gap": -7,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Market dropped 10 cents in 24 hours to 20%, signaling rapid sentiment shift; G-7 allies actively planning for a US-independent world order, suggesting allied resistance to any coercive Greenland acquisition has hardened, reducing probability of a negotiated or forced outcome before January 2029.",
-      "volume24h": 21355,
-      "openInterest": 444921,
-      "priceChange24h": -10,
-      "url": "https://kalshi.com/markets/KXGREENTERRITORY-29"
+      "rationale": "Vance is absorbing political blame as Iran deal fall guy per Drudge and OSINT feeds, which damages his 2028 positioning despite a 4-cent Kalshi surge today suggesting some contrarian buying; the scapegoating dynamic and View debate controversy create meaningful headwinds against his 35% market price.",
+      "volume24h": 89583,
+      "openInterest": 1480313,
+      "priceChange24h": 4,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
     },
     {
-      "ticker": "KXPRESNOMD-28-GN",
-      "label": "Newsom wins 2028 Democratic nomination",
+      "ticker": "KXPRESNOMR-28-MR",
+      "label": "Rubio 2028 GOP nominee",
       "domain": "US Politics",
-      "marketProb": 24,
-      "aiProb": 18,
+      "marketProb": 28,
+      "aiProb": 22,
       "gap": -6,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Active DOJ investigation into Newsom and his wife, which he frames as political persecution, simultaneously raises his martyrdom profile among Democrats but creates serious legal and electability liabilities that materially reduce his nomination probability from the market's current 24%.",
-      "volume24h": 22484,
-      "openInterest": 3032707,
+      "rationale": "Rubio's G7 presence and proximity to the Iran MoU process keeps him relevant as a 2028 contender, but the Iran deal blowback and Israel estrangement could taint him as a co-architect, and his 1-cent Kalshi dip today reflects mild negative sentiment.",
+      "volume24h": 12686,
+      "openInterest": 2233371,
       "priceChange24h": -1,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
+    },
+    {
+      "ticker": "KXPRESNOMD-28-GN",
+      "label": "Newsom 2028 Dem nominee",
+      "domain": "US Politics",
+      "marketProb": 24,
+      "aiProb": 20,
+      "gap": -4,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Newsom remains a leading Democratic placeholder at 24% market price but the broader Democratic field fragmentation visible in OSINT and Kalshi volume patterns suggests his probability is slightly above fair value given persistent California political baggage.",
+      "volume24h": 41988,
+      "openInterest": 3056087,
+      "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
     },
     {
       "ticker": "KXPRESNOMD-28-JOSS",
-      "label": "Jon Ossoff wins 2028 Democratic nomination",
+      "label": "Ossoff 2028 Dem nominee",
       "domain": "US Politics",
       "marketProb": 11,
       "aiProb": 9,
       "gap": -2,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "Ossoff's nomination contract ticked up 2 cents on elevated volume, suggesting speculative positioning, but no specific intelligence in the context explains the move; the broader Democratic field remains highly fragmented, making any individual nominee probability above single digits difficult to sustain.",
-      "volume24h": 23581,
-      "openInterest": 3132036,
-      "priceChange24h": 2,
+      "rationale": "Ossoff at 11% market price is modestly elevated; his Georgia Senate race context from Drudge headlines referencing the Kemp-Trump showdown signals Georgia remains a contested battleground that could elevate or sink him, making current market price roughly fair.",
+      "volume24h": 16483,
+      "openInterest": 3143285,
+      "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
     },
     {
-      "ticker": "KXPRESNOMR-28-JDV",
-      "label": "Vance wins 2028 Republican nomination",
-      "domain": "US Politics",
-      "marketProb": 31,
-      "aiProb": 28,
-      "gap": -3,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Vance's 'fraud task force' reportedly sweeping up legitimate small businesses, generating political backlash that marginally erodes his standing; market sits at 31% and STRATWATCH assesses a slight downward revision is warranted given reputational risk from domestic overreach headlines.",
-      "volume24h": 20850,
-      "openInterest": 1436234,
-      "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
-    },
-    {
-      "ticker": "KXPRESNOMR-28-MR",
-      "label": "Rubio wins 2028 Republican nomination",
-      "domain": "US Politics",
-      "marketProb": 29,
-      "aiProb": 32,
-      "gap": 3,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Rubio's general election odds at 18% and nomination odds at 29% are internally consistent; his position as a senior administration figure during the Iran deal and G-7 summitry gives him a foreign-policy credibility narrative that modestly supports his nomination prospects above the market price.",
-      "volume24h": 15085,
-      "openInterest": 2228663,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
-    },
-    {
       "ticker": "KXPRESNOMD-28-AOC",
-      "label": "AOC wins 2028 Democratic nomination",
+      "label": "AOC 2028 Dem nominee",
       "domain": "US Politics",
       "marketProb": 11,
-      "aiProb": 8,
-      "gap": -3,
+      "aiProb": 7,
+      "gap": -4,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "The AOC 'will she run' contract surged 7 cents to 55% on meaningful volume, suggesting real intelligence or organizing activity behind the scenes, but nomination probability at 11% still overstates her general-election viability in a cycle dominated by electability concerns; STRATWATCH marks her nomination lower.",
-      "volume24h": 7681,
-      "openInterest": 2967472,
-      "priceChange24h": -1,
+      "rationale": "AOC at 11% market price appears slightly overvalued given the Democratic Party's likely push toward electable centrists in 2028 following continued losses, though progressive energy could sustain her relevance.",
+      "volume24h": 6236,
+      "openInterest": 2972093,
+      "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
     },
     {
-      "ticker": "KXSTATE51-29-GL",
-      "label": "Greenland becomes 51st US state before 2029",
-      "domain": "Americas",
-      "marketProb": 3,
-      "aiProb": 2,
-      "gap": -1,
-      "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "The territory acquisition contract already dropped sharply and statehood requires congressional supermajority processes entirely absent from any current legislative or diplomatic signal in the context; 3% market price is still too high and STRATWATCH assigns near-zero probability.",
-      "volume24h": 15314,
-      "openInterest": 145651,
-      "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXSTATE51-29-GL"
+      "ticker": "KXNEXTAG-29-TBLA",
+      "label": "Todd Blanche next AG",
+      "domain": "US Politics",
+      "marketProb": 76,
+      "aiProb": 60,
+      "gap": -16,
+      "favorable": true,
+      "confidence": "MEDIUM",
+      "rationale": "The massive 14-cent single-day surge to 76% on high volume of 52,589 is a strong Kalshi signal of informed buying, likely reflecting leaked or confirmed internal deliberations; Kash Patel's slush fund accusations in the Drudge feed suggest Patel's position is under pressure, making a successor announcement credible, though 76% may slightly overstate certainty of timing.",
+      "volume24h": 52589,
+      "openInterest": 614410,
+      "priceChange24h": 14,
+      "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
     },
     {
-      "ticker": "KXNEXTAG-29-TBLA",
-      "label": "Todd Blanche becomes next Attorney General",
+      "ticker": "KXPRESNOMD-28-KH",
+      "label": "Kamala Harris 2028 Dem nominee",
       "domain": "US Politics",
-      "marketProb": 62,
-      "aiProb": 55,
-      "gap": -7,
+      "marketProb": 8,
+      "aiProb": 5,
+      "gap": -3,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Blanche leads the AG contract at 62% with the deepest open interest among the AG candidates; the DOJ's aggressive posture against Newsom and the Vance fraud task force activity suggest the administration values a loyalist AG, which is consistent with Blanche's profile, though the 62% price appears slightly rich given appointment uncertainty.",
-      "volume24h": 9417,
-      "openInterest": 597304,
-      "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
+      "rationale": "Harris at 8% market price is modestly above STRATWATCH's estimate; the Democratic party's documented move away from 2024 losing candidates and Clinton's public savaging of Biden-era figures signals the party is in a reset mode that disadvantages her.",
+      "volume24h": 33693,
+      "openInterest": 3048543,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-KH"
+    },
+    {
+      "ticker": "KXPRESNOMD-28-JS",
+      "label": "Josh Shapiro 2028 Dem nominee",
+      "domain": "US Politics",
+      "marketProb": 5,
+      "aiProb": 8,
+      "gap": 3,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Shapiro at 5% market price may be slightly undervalued as a pragmatic Pennsylvania Democrat with broad appeal in a key swing state; no negative OSINT signals in current feed, and the Democratic field remains wide open.",
+      "volume24h": 26022,
+      "openInterest": 2483684,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-JS"
     }
   ],
   "watchSignals": [
-    "Strait of Hormuz explosions attributed to Iranian 'traffic management' — ambiguous cover for military activity; watch for escalation or US force posture response given absence of air tankers near waterway",
-    "Newsom DOJ investigation allegations and his 24% prediction-market nomination odds — test whether prosecutorial action is selective/political and impacts 2028 Democratic field consolidation",
-    "Vance characterizes Iran memorandum as vague (~1.5 pages); Netanyahu uncertainty on agreement terms — signals fragile/incomplete deal framework vulnerable to unilateral reinterpretation or collapse",
-    "San Andreas Fault stress at 1,000-year high plus mysterious rumbling beneath Utah — potential natural disaster trigger with cascading economic/infrastructure consequences for West Coast",
-    "Hezbollah-IDF skirmishes in southern Lebanon post-ceasefire; drone strike kills reported — test whether nominal 'peace deal' holds or returns to sustained kinetic cycle",
-    "B-52 crash near Edwards AFB and reduced US air posture visibility (no tankers Hormuz) — emerging pattern of US force attrition/degradation amid multiple regional tensions"
+    "US-Iran MoU signing ceremony Friday at Bürgenstock—text release timing and final terms on oil sanctions waiver, Hormuz control, nuclear provisions",
+    "Israeli reaction to denied access to Iran deal text and Trump-Netanyahu alignment fracture—Netanyahu domestic political survival and West Bank/Lebanon withdrawal demands",
+    "Strait of Hormuz control transition—observable Iranian chokepoint leverage over global energy markets and US Navy posture in coming weeks",
+    "Vance 2028 presidential trajectory—prediction market surge to 35% nomination odds correlates with Iran deal fallout; watch for VP distancing or ownership signals",
+    "Russian maritime escalation pattern—frigate warning shots in English Channel suggest Moscow testing Western resolve during US-Iran realignment window",
+    "Domestic Trump administration cohesion under Iran deal blowback—watch Kash Patel, Rubio, State Department messaging divergence as deal implementation proceeds"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East / Iran",
-      "headline": "Iran conducted multiple explosions in Strait of Hormuz described as 'maritime traffic management'; US air tanker presence absent from region for first time in weeks",
+      "domain": "Middle East Strategic",
+      "headline": "US-Iran memorandum of understanding signed or imminent; Trump announces end of 108-day Iran war",
       "significance": "CRITICAL",
-      "summary": "Iran is conducting unannounced military or paramilitary operations in Hormuz while US maintains reduced air reconnaissance footprint. Vance's assessment that US-Iran memorandum is vague (~1.5 pages) and Netanyahu's uncertainty on agreement terms indicate the de-escalation framework is fragile and subject to interpretation gaps.",
-      "signal": "Low visibility into Iranian intent; US tactical thinness in theater creates miscalculation risk. Potential trigger for unintended escalation or Iranian fait accompli operations."
+      "summary": "Trump administration has reached tentative deal with Iran to end active conflict. Immediate sanctions waiver on Iranian oil/fuel sales, $300B private investment fund already half-committed. MoU signing scheduled for Friday in Switzerland. Iran gains de facto Strait of Hormuz control per US intelligence assessment.",
+      "signal": "Fundamental reordering of Middle East balance of power away from Israel-centric containment toward Iran economic integration and energy market leverage. Directly contradicts 16-year Trump-Netanyahu alignment."
     },
     {
       "id": "gt2",
-      "domain": "Domestic Politics / DOJ",
-      "headline": "Newsom claims Trump DOJ is investigating him and his wife for alleged political vendetta; Newsom holds 24% prediction-market odds for 2028 Democratic nomination",
-      "significance": "HIGH",
-      "summary": "Newsom is publicly framing federal prosecution as selective political targeting tied to his 2028 presidential positioning. Markets price his nomination odds at meaningful level despite investigation, suggesting investor skepticism of charges or belief prosecution will fail.",
-      "signal": "Test of whether DOJ selectivity narrative gains traction in Democratic base and whether investigation accelerates or stalls. Outcome reshapes 2028 primary field; if prosecution collapses, strengthens Newsom; if advances, validates Trump-weaponization narrative."
+      "domain": "Israel-US Relations",
+      "headline": "Israel denied access to US-Iran MoU text; Israeli approval ratings for Trump collapse",
+      "significance": "CRITICAL",
+      "summary": "Netanyahu government requested to review Iran deal memorandum and was refused by US counterparts. Trump approval among Israeli voters has collapsed following war-end announcement. Economist reports agreement represents personal blow to Netanyahu with no strategic gains for Tel Aviv.",
+      "signal": "Bilateral rupture on Iran policy indicates US no longer conditions Middle East decisions on Israeli veto. Creates opening for Netanyahu to position Israel as abandoned ally; risk of unilateral Israeli military action against Iran or continued Lebanon/Gaza operations to preserve deterrent credibility."
     },
     {
       "id": "gt3",
-      "domain": "Middle East / Israel-Hezbollah",
-      "headline": "IDF reports Hezbollah rocket and anti-tank missile fire on Israeli troops in southern Lebanon; Israel responds with strikes; first deadly drone strike in south Lebanon reported since ceasefire agreement",
+      "domain": "Energy Markets & Chokepoints",
+      "headline": "Iran gains immediate oil export sanctions waiver; US intelligence assesses Iran can close Strait of Hormuz at will",
       "significance": "CRITICAL",
-      "summary": "Nominal ceasefire is experiencing active kinetic exchanges within days. Hezbollah has not disarmed or withdrawn; Israeli return fire establishes precedent for immediate escalation response.",
-      "signal": "Ceasefire is permissive cover for continued low-intensity conflict, not genuine de-escalation. Risk of spiral if either side interprets fire as strategic breach rather than tactical incident."
+      "summary": "MoU grants Iran immediate ability to sell oil/fuel with US sanctions waiver covering banking, transport, insurance. US intelligence confirms Iran now possesses de facto control over Strait of Hormuz described as strategic weapon exceeding nuclear capability. US reportedly using Iran-style vessel escort tactics through strait.",
+      "signal": "Global energy pricing and supply chain security now contingent on Iranian forbearance. Oil markets pricing in risk of chokepoint closure. Dollar-denominated petrodollar recycling vulnerable to Iranian sanctions evasion tactics. Implies tacit acceptance of Iranian regional hegemony over Gulf shipping lanes."
     },
     {
       "id": "gt4",
-      "domain": "Natural Hazard / Seismic",
-      "headline": "San Andreas Fault stress reached 1,000-year high; unexplained seismic rumbling detected beneath Utah",
+      "domain": "Domestic US Politics",
+      "headline": "JD Vance prediction-market odds surge to 35% 2028 Republican presidential nomination; positioned as potential Iran deal fall guy",
       "significance": "HIGH",
-      "summary": "Two independent seismic anomalies in western US simultaneously elevated — California fault at historic pressure, Utah experiencing unknown activity. Neither has produced major event yet but both represent elevated baseline risk.",
-      "signal": "Major earthquake could trigger cascading infrastructure failure (power grids, water systems, ports), impacting military readiness, supply chains, and domestic stability. Compounds ongoing force posture strain."
+      "summary": "Kalshi market shows Vance nomination probability at 35% (up 4 cents in 24h). Drudge reports VP being set up as Iran deal fall guy; headlines reference Vance's prior Trump-criticism scrubbing from internet and Epstein conspiracy theory statements. Vance publicly stating Iran funding restriction preconditions.",
+      "signal": "Party wing fracture visible in market pricing. Vance telegraphing separation from deal optics while remaining in administration. If deal destabilizes or Iran violates nuclear provisions, Vance positioned as dissenter to shield Trump. Watch for Vance media distance campaign intensification."
     },
     {
       "id": "gt5",
-      "domain": "Military Readiness / Air Force",
-      "headline": "B-52 Stratofortress crashed near Edwards AFB; concurrent loss of visible US air tanker presence from Strait of Hormuz for first time in weeks",
+      "domain": "Geopolitical Competition",
+      "headline": "Russian Navy fires warning shots at UK-registered yacht in English Channel; concurrent G7 summit where Trump-Zelensky meet",
       "significance": "HIGH",
-      "summary": "US is experiencing simultaneous air asset attrition (crash) and reduced forward positioning (tanker absence). Pattern suggests either intentional force posture shift, operational tempo strain, or logistics constraint.",
-      "signal": "US tactical capacity to respond rapidly to Middle East escalation is degraded. Adversaries may perceive window for action before reconstitution; affects deterrence signaling and response speed calculus."
+      "summary": "Russian frigate conducted warning shots at civilian vessel in English Channel with no injuries. Incident occurred during G7 summit in France where Trump, Zelensky, Macron, Starmer present. Zelensky reports 35,000 monthly Russian casualties; Ukraine projecting 10M drone production capacity, potentially doubling.",
+      "signal": "Russia testing NATO resolve in traditional security sphere (English Channel) while US pivots to Iran accommodation. Signal of Russian confidence in US distraction or perception of reduced NATO coordination. Ukraine-Russia conflict entering long attritional phase with asymmetric drone/manpower dynamics. Watch for escalation signaling or NATO response tempo."
     }
   ]
 }
