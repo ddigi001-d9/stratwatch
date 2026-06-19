@@ -1,290 +1,275 @@
 {
-  "generatedAt": "2026-06-18T19:37:01.064Z",
-  "runNumber": 35,
+  "generatedAt": "2026-06-19T17:32:31.677Z",
+  "runNumber": 36,
   "situation": {
-    "headline": "US-Iran MoU lifts naval blockade and reopens Strait of Hormuz, but Khamenei's public ambivalence and Israeli-Hezbollah active combat signal the deal's fragility before ink dries",
+    "headline": "Iran closes Strait of Hormuz linking Israeli Lebanon strikes to US-Iran nuclear MOU, threatening global energy supply and the fragile US diplomatic framework simultaneously",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 72,
+        "prob": 92,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Iran MoU is structurally weak — Khamenei publicly admitted reluctance, Hezbollah is actively striking IDF assets in Lebanon with precision FPV drones, Israel is testing 400km ballistic missiles, and Vance is openly scolding Netanyahu, creating a multi-actor pressure cooker with no enforceable ceasefire mechanism."
+        "status": "Israel is violating an announced ceasefire with 150+ Lebanon strikes while Iran closes Hormuz and suspends US-Qatar-Pakistan talks, creating a three-way crisis between the US-Iran MOU, Israeli unilateralism, and Hezbollah retaliation that is actively unraveling US diplomatic architecture in the theater."
       },
       {
         "name": "Indo-Pacific",
         "prob": 28,
         "label": "China coercion escalation",
         "trajectory": "FLAT",
-        "status": "No direct China signals in current CONTEXT; US strategic bandwidth consumed by Middle East diplomacy and NATO posture review likely reduces deterrent credibility in Pacific theater, but no immediate trigger visible."
+        "status": "No significant Indo-Pacific signals in current intelligence feed; US strategic attention and heavy bomber assets are fully committed to the Persian Gulf theater, creating a window of reduced deterrence posture toward China and North Korea that Beijing may be quietly monitoring."
       },
       {
         "name": "Europe",
-        "prob": 45,
+        "prob": 18,
         "label": "NATO cohesion fracture",
-        "trajectory": "UP",
-        "status": "Hegseth's NATO 3.0 Review announces US troop reduction review and shifts burden to Europeans; Ukraine launched its largest-ever drone strike on Moscow including the Moscow Oil Refinery, potentially drawing Russian retaliation and testing Article 5 ambiguity at a moment of deliberate US disengagement signaling."
+        "trajectory": "DOWN",
+        "status": "Finland lifting its nuclear weapons ban, Baltic states hardening posture, and Ukraine striking Moscow with drones signal a more assertive European defense posture, but Merz limiting Ukraine EU membership and reported Pentagon European force cuts introduce moderate cohesion stress."
       },
       {
         "name": "Energy",
-        "prob": 22,
+        "prob": 78,
         "label": "supply shock 60d",
-        "trajectory": "DOWN",
-        "status": "Strait of Hormuz blockade formally lifted, vessel traffic through Hormuz nearly doubled in 24 hours, gas prices just broke below $4 nationally — near-term supply shock risk has dropped sharply, but the deal's fragility means any Iranian reversal or Israeli strike on Iranian infrastructure could instantly reverse this."
+        "trajectory": "UP",
+        "status": "Iran's IRGC has physically closed Hormuz with warning shots, halted non-Iranian vessel transit, and conditioned reopening on Israeli Lebanon withdrawal and US Persian Gulf departure, making a genuine 60-day supply disruption to roughly 20 percent of global oil flow a live and immediate risk."
       },
       {
         "name": "US Politics",
-        "prob": 55,
+        "prob": 58,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Trump economic approval at new low, American Dream belief fading per polls, Don Jr. feuding with Cruz signaling MAGA coalition stress, Vance absorbing foreign policy blowback while Rubio distances himself — internal Republican fractures combined with Democratic recruitment signals modest but real midterm vulnerability."
+        "status": "Cook shifting 7 House races toward Democrats, all-time low government trust, internal Republican friction over Trump conduct, Adelson media turning on Trump, and Mamdani socialist sweep of DC primary all point to a deteriorating midterm environment for Republicans with roughly three to five months of compounding pressure remaining."
       }
     ],
-    "unseen": "The convergence of Khamenei's public distancing from his own MoU with active Hezbollah kinetic operations in Lebanon and Israeli LORA ballistic missile testing suggests Israel may be using the diplomatic pause not to de-escalate but to prepare a strike option — possibly against Iranian nuclear or missile infrastructure — timed to before the MoU gains domestic political entrenchment in Tehran, which would place the US in the position of having brokered a deal that Israel collapses, destroying both the energy price relief and Vance's credibility simultaneously.",
-    "criticalWindow": "The next 30-45 days are decisive for the Iran MoU: Khamenei's public ambivalence will embolden hardliners to demand the HEU stockpile destruction commitment be walked back or qualified, while Israel's ballistic missile test and continued Hezbollah combat operations create daily pretexts for either party to declare the ceasefire void — the US must either produce verifiable HEU destruction evidence or watch the deal dissolve before it produces a permanent nuclear framework.",
+    "unseen": "The combination of Israel deliberately sabotaging the US-Iran MOU while US intelligence reportedly warned Trump that Netanyahu would do exactly this creates a structural trap: the 18 B-1 and B-52 bombers at RAF Fairford cannot credibly deter Iran from Hormuz closure without also incentivizing Iran to accelerate nuclear hedging, meaning the military posture built to enforce the deal is simultaneously the asset that makes the deal unenforceable as long as Israel acts as a rogue variable inside the US diplomatic framework. Markets are pricing the Hormuz closure as a discrete energy event rather than as evidence that the entire US-Iran negotiating track is collapsing, which is the more important signal.",
+    "criticalWindow": "The next 48 to 96 hours are decisive: Iran's permit system requires 48-hour advance notice for Hormuz transit, meaning commercial shipping will begin diverting or halting by Saturday, and if the US cannot deliver visible Israeli restraint in Lebanon within that window, Iran has political cover to harden the closure into a structural blockade rather than a signaling move, triggering oil price shock and collapsing the Switzerland talks permanently.",
     "watchFor": [
-      "IAEA or US verification team access to Iranian HEU stockpile sites — failure to announce within 30 days signals the nuclear commitment is hollow",
-      "Israeli strike on Lebanese or Iranian territory escalating beyond current Hezbollah skirmish level, which would force Trump to choose between Israel and the Iran deal publicly",
-      "Russia retaliatory escalation against Ukraine following Moscow Oil Refinery strike, potentially targeting energy infrastructure in a way that reverses European energy stability and tests NATO 3.0 commitments",
-      "Senate Armed Services Committee moving to block or condition the Iran MoU — Wicker's statement plus Don Jr. vs Cruz fracture suggests the Republican coalition cannot hold on Iran, and a Senate confrontation would legally constrain Trump's deal flexibility"
+      "First US Navy vessel challenging Iran's Hormuz closure or escorting commercial shipping through contested strait without Iranian permit coordination",
+      "Netanyahu publicly rejecting US pressure to halt Lebanon strikes, confirming intelligence assessment that Israel intends to wreck the Iran MOU",
+      "Oil futures breaching $95 or tanker insurance markets suspending Persian Gulf coverage, signaling market conversion of diplomatic crisis into supply shock",
+      "Zelensky acting on Belarus equipment ultimatum or Ukraine striking a target inside Russian territory that triggers Kremlin escalation response simultaneous with Hormuz crisis, stretching US crisis management capacity across two theaters"
     ],
-    "confidenceNote": "Critical uncertainties: actual text of the MoU is not in CONTEXT so nuclear commitment specificity is unknown; Hezbollah operational tempo signals are from dated footage (June 3 and June 13) so current ceasefire compliance is unverifiable; Kalshi markets contain no Iran deal durability or Israel-Lebanon contracts making quantitative cross-validation impossible; Trump's Truth Social posts are political framing not operational ground truth; the Jay Clayton DNI contract dropping 10 cents in 24 hours on low OI is a weak but notable signal of intelligence community leadership instability at exactly the wrong moment.",
-    "topPattern": "The US has successfully traded a short-term energy price win — Hormuz open, gas below $4, markets up — for a structurally unstable diplomatic architecture in which the Supreme Leader has publicly distanced himself from his own deal, the only US regional ally is actively conducting kinetic operations that violate the ceasefire spirit, and the VP who owns the deal is simultaneously being distanced by Rubio and scolded by Israeli cabinet ministers, while Kalshi markets price Vance's 2028 nomination at 36% suggesting the political market still sees him as viable — meaning the domestic incentive to paper over deal failures rather than acknowledge them is very high."
+    "confidenceNote": "Key uncertainties include whether the Hormuz closure is performative coercion or a genuine sustained blockade, whether Trump will constrain Netanyahu or publicly endorse continued Lebanon strikes, whether the IRGC warning shots have actually stopped non-Iranian commercial transit or merely warned it, and the true operational status of the US-Iran MOU given contradictory signals from both sides. The Drudge and OSINT feeds are real-time and fragmentary; the situation may have already changed materially in the hours since collection.",
+    "topPattern": "The master thread is Israeli unilateral action in Lebanon systematically dismantling the US diplomatic infrastructure Trump built with Iran: US intel warned it, Iran is executing its threatened response via Hormuz closure and talk suspension, Trump is trapped between defending his deal and defending his Israel posture, and Kalshi markets show Vance surging plus7 cents on the Republican nomination contract suggesting domestic political actors are already pricing in Trump administration instability or succession dynamics as this foreign policy crisis compounds midterm headwinds."
   },
   "signals": [
     {
       "id": "sig1",
       "domain": "Middle East",
-      "headline": "US lifts Iran naval blockade; oil flows through Hormuz; Iran honors MoU terms",
+      "headline": "Iran closes Strait of Hormuz again; demands Israeli withdrawal from Lebanon and US force exit from Persian Gulf",
       "significance": "CRITICAL",
-      "summary": "CENTCOM formally lifted the maritime blockade on Iranian ports. Vessel traffic through Hormuz jumped from 10 to ~20 ships in 24 hours. Trump claims oil is flowing and Iran has not attacked vessels in 2 days, signaling de-escalation holding. Iran's Supreme Leader Mojtaba Khamenei confirmed signing the MoU after initial opposition, framing it as protecting the resistance front.",
-      "signal": "Deal with Iran is operationally live and holding despite internal Iranian resistance and GOP Senate skepticism. Rapid normalization of energy markets reduces US leverage and signals acceptance of Iranian sphere influence in Gulf. Watch for duration—any Iranian test or Hezbollah escalation could collapse this within weeks.",
-      "contradicts": "Republican messaging that Iran deal was lopsided surrender; Vance now claiming concrete nuclear commitments and compliance despite Khamenei's public reluctance.",
-      "timestamp": "2026-06-18T19:38:54.557Z"
+      "summary": "IRGC-N has declared Strait of Hormuz closed, warning vessels will be targeted. Iran demands Israel withdraw from Lebanon and US forces leave Persian Gulf as preconditions for reopening. Persian Gulf Strait Authority now requiring 48-hour advance transit permits, tolls waived for 60 days.",
+      "signal": "Energy chokepoint weaponization escalates amid failed US-Iran peace deal framework. Trump's claim Iran is 'finished' militarily contradicted by renewed ability to threaten 21% global oil transit. Suggests either negotiating theater or genuine Iranian escalation readiness; either way, regional instability pricing will spike sharply if sustained beyond 72 hours.",
+      "contradicts": "Trump administration narrative that Iran lacks operational naval capacity and diplomatic leverage post-conflict.",
+      "timestamp": "2026-06-19T17:34:42.597Z"
     },
     {
       "id": "sig2",
       "domain": "Middle East",
-      "headline": "Trump pressures Netanyahu; Vance scolds Israel over alliance management",
-      "significance": "HIGH",
-      "summary": "Vance warned Israel against being combative toward the US, its only powerful ally. Trump told Kan News Netanyahu needs to be more rational and he may support his re-election bid only after seeing who runs. Cabinet criticism of Netanyahu is mounting.",
-      "signal": "Trump administration is pivoting away from unconditional Israel support, signaling willingness to reduce backing if Netanyahu does not align with US Iran deal and regional stability goals. Israeli cabinet fracturing and Trump-Vance pressure suggest Netanyahu's political durability is now a US concern, not a given asset.",
-      "contradicts": "Trump's 2024 messaging of unwavering Israel support; indicates transactional rather than alliance-based approach.",
-      "timestamp": "2026-06-18T19:38:54.557Z"
+      "headline": "Israel continues Lebanon strikes despite ceasefire announcement; Netanyahu vows Hezbollah will 'pay heavy price'",
+      "significance": "CRITICAL",
+      "summary": "Multiple ceasefire announcements (4pm Friday local time per US official) contradicted by real-time reports of 150+ Israeli strikes in Lebanon within hours. Israeli officials state 'ceasefire does not mean ceasing fire' and operations continue despite announced pause.",
+      "signal": "Ceasefire framework is theater masking continuous operations. Netanyahu's defiance of Trump-brokered de-escalation signals Israeli PM is not constrained by US pressure and willing to risk Iran retaliation unilaterally. US-Israel strategic alignment fracturing under Trump administration.",
+      "contradicts": "Trump claims to have achieved durable peace architecture and controlled Israeli behavior; contradicted by continued military action and Israeli public rhetoric dismissing ceasefire constraints.",
+      "timestamp": "2026-06-19T17:34:42.597Z"
     },
     {
       "id": "sig3",
-      "domain": "Europe",
-      "headline": "Ukraine strikes Moscow oil refinery with drone; Russia mobilizes firefighting response",
+      "domain": "Middle East",
+      "headline": "US intelligence warns Netanyahu likely to undermine Trump's Iran peace deal; Israel-US talks postponed",
       "significance": "HIGH",
-      "summary": "Ukrainian defense manufacturer Fire Point exhibited footage of drone strikes on Moscow Oil Refinery. Russian Ministry of Emergency Situations deployed helicopters to fight massive blaze. Moscow blanketed in noxious smoke from largest Ukrainian attack yet. Hezbollah also releasing combat footage of drone strikes in Lebanon.",
-      "signal": "Ukraine's drone strike capability against Russian critical infrastructure is maturing and being weaponized for propaganda effect. Moscow now faces direct asymmetric energy vulnerability. Russian air defense demonstrably failing to protect strategic assets. Signals shift toward targeting civilian economic nodes rather than purely military targets.",
-      "contradicts": "NATO perception that Ukraine is slowly weakening; demonstrates sustained offensive innovation despite resource constraints.",
-      "timestamp": "2026-06-18T19:38:54.557Z"
+      "summary": "Washington Post reports US intelligence agencies warned Trump that Netanyahu will act to sabotage Iran MOU. Qatar-Pakistan-Iran talks in Switzerland postponed amid Hormuz closure. Macron weighed in on ceasefire viability.",
+      "signal": "Core Trump objective (Iran containment deal) already assessed as compromised by closest ally. Intelligence community flagging Netanyahu as independent actor, not subordinate to US strategic direction. Suggests administration faces fundamental constraint on Middle East policy execution.",
+      "contradicts": "Trump narrative of decisive deal-making and allied discipline; US officials internally acknowledging inability to lock Israeli behavior into agreed framework.",
+      "timestamp": "2026-06-19T17:34:42.597Z"
     },
     {
       "id": "sig4",
-      "domain": "US Politics",
-      "headline": "Trump approval on economy hits new low; world press turns against USA; Fox-Trump divorce widens",
+      "domain": "Europe",
+      "headline": "Finland lifts nuclear weapons ban; NATO countries bolster Eastern defenses amid Iran conflict spillover",
       "significance": "HIGH",
-      "summary": "Drudge reports Trump economic approval at new low. Multiple headlines signal international press hostility to US policy (World Turns Against USA). Fox relationship fraying. Prediction markets show Jon Ossoff 12% for Dem nominee, Newsom 23%, but Vance holding at 36% for GOP nominee. Attorney General race shows Todd Blanche 72% (down 2¢), signaling some uncertainty in Trump's inner circle.",
-      "signal": "Trump faces eroding domestic economic credibility six months in, even as oil prices fall and markets rally. Prediction market shift toward Vance as 2028 nominee (rather than Trump running again) may signal market expectation of Trump political damage or term limits. Todd Blanche AG odds weakening suggests friction in legal team or policy direction.",
-      "contradicts": "Trump campaign narrative of economic triumph; markets pricing early reputational cost.",
-      "timestamp": "2026-06-18T19:38:54.557Z"
+      "summary": "Finland formally removes long-standing nuclear weapons prohibition. Latvia PM warns Moscow 'there are no jokes with us.' NATO Secretary General convenes with Baltic leadership. Pentagon reportedly cutting European force commitments despite Trump NATO commitment rhetoric.",
+      "signal": "NATO periphery hardening defensive posture independently of US policy signal. Finland nuke decision driven by Iran-Israel escalation fears and Russia opportunism calculus, not US leadership. Trump's stated commitment to NATO being tested by simultaneous reported force drawdown—credibility gap widening among allies.",
+      "contradicts": "Trump's claim to have strengthened NATO and deterred Russia; actual allied behavior shows independent military hedging and reduced confidence in US commitment.",
+      "timestamp": "2026-06-19T17:34:42.597Z"
     },
     {
       "id": "sig5",
-      "domain": "Technology",
-      "headline": "Palantir seeks West defense role but faces skepticism; Waymo recalls 3,800 robotaxis",
-      "significance": "MEDIUM",
-      "summary": "Palantir wants to position as defender of the West but NATO allies and liberal democracies remain wary of its surveillance capabilities and Thiel-linked networks. Waymo recalling 3,800 robotaxis over risk of entering construction zones, signaling autonomous vehicle safety standards still immature.",
-      "signal": "Thiel-aligned defense tech faces legitimacy gap in allied nations despite Trump administration backing. US autonomous vehicle sector exposed to regulatory liability and market confidence erosion. Both suggest innovation pace exceeding institutional trust.",
-      "contradicts": "Tech sector narrative of seamless integration into Western defense and transport infrastructure.",
-      "timestamp": "2026-06-18T19:38:54.557Z"
+      "domain": "US Politics",
+      "headline": "Kalshi markets show J.D. Vance rising to 43% Republican nominee probability (+7¢ in 24h); Marco Rubio steady at 28%; Trump 2028 general-election odds at 2%",
+      "significance": "HIGH",
+      "summary": "Vance has made sharp directional move toward GOP nominee slot. Rubio, traditional successor-in-waiting, showing stability without growth. Trump's own 2028 re-run pricing collapsed to 2%. Democratic field scattered (Newsom 24%, Ossoff 12%, Kamala Harris 8%).",
+      "signal": "Market participants pricing Vance as Trump-approved successor and Rubio as fallback. Trump's own 2028 viability near-zero suggests either legal/constitutional constraint priced in, or party elite consensus favoring next-generation ticket. Vance momentum contradicts Drudge/media narrative of Trump consolidation.",
+      "contradicts": "Appearance of unified MAGA succession; markets show internecine GOP jockeying and Trump's own rerun scenario as fringe play.",
+      "timestamp": "2026-06-19T17:34:42.597Z"
     },
     {
       "id": "sig6",
-      "domain": "Americas",
-      "headline": "Trump ally vowing death to cartels closes in on Colombia presidency",
+      "domain": "US Politics",
+      "headline": "Trust in government at all-time low; reports of internal Trump administration friction with Republican allies; DOJ opens MLB inquiry over Giants protest",
       "significance": "MEDIUM",
-      "summary": "An unnamed Trump ally pursuing Colombian presidency and promising cartel elimination, signaling potential return to hard narcotics enforcement policy and possible expansion of US influence operations in Andean region.",
-      "signal": "Trump administration may be preparing to shift Colombia policy away from Petro (leftist incumbent) toward strongman ally, risking regional destabilization and potential US military involvement in drug war escalation. Watch for diplomatic pressure on Bogotá.",
-      "contradicts": "Biden-era cooperative approach to Colombian governance.",
-      "timestamp": "2026-06-18T19:38:54.557Z"
+      "summary": "Drudge flags government trust collapse concurrent with reports of growing Republican friction with Trump White House. DOJ investigating sports protest raises politicization-of-justice questions.",
+      "signal": "Institutional legitimacy erosion accelerating. Simultaneous high-profile executive actions (MLB review, trash monitoring, bedroom-exposure coverage) create perception of arbitrary/personal justice targeting. Undermines ability to execute core foreign policy objectives requiring sustained bureaucratic consent.",
+      "contradicts": "Trump claims of orderly, focused governance; actual signal mix shows internal dissent, media-driven chaos dominating news cycle, diluting strategic messaging capacity.",
+      "timestamp": "2026-06-19T17:34:42.597Z"
     }
   ],
-  "scanNote": "Signal quality degraded by Drudge sensationalism and satirical elements (sauerkraut diet, UFO disclosure) mixed with genuine intelligence; OSINT feed and market action provide higher-confidence corroboration on Iran deal, Ukraine strikes, and succession politics.",
+  "scanNote": "Signal quality mixed; Drudge/OSINT feeds heavy on sensationalism and domestic trivia, but PIZZINT and prediction-market data show genuine geopolitical fractures (Iran Hormuz, Israel ceasefire theater, NATO hedging, Vance ascendancy). Middle East escalation trajectory most urgent; US-allied defection and treaty-framework failure not yet priced into long-term policy risk.",
   "markets": [
     {
-      "ticker": "KXTRUMPBULLCASECOMBO-27DEC-26",
-      "label": "Trump Bull Case 2026",
-      "domain": "US Politics",
-      "marketProb": 6,
-      "aiProb": 10,
-      "gap": 4,
+      "ticker": "KXGREENTERRITORY-29",
+      "label": "US acquires Greenland before 2029",
+      "domain": "Americas",
+      "marketProb": 21,
+      "aiProb": 14,
+      "gap": -7,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Despite the Iran deal and oil price relief, Trump's economic approval is at new lows, the Fox relationship is fraying, Republican senators like Wicker are criticizing the Iran MoU as worse than Obama's deal, and the deal's internal contradictions with Khamenei's reluctant sign-off suggest fragility that undermines any durable political bull case.",
-      "volume24h": 22301,
-      "openInterest": 191624,
-      "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXTRUMPBULLCASECOMBO-27DEC-26"
+      "rationale": "With Trump administration distracted by active Iran-Lebanon-Ukraine crises and domestic political friction, bandwidth for a Greenland acquisition push is constrained; market at 21% appears slightly overpriced given current geopolitical load.",
+      "volume24h": 5058,
+      "openInterest": 439203,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXGREENTERRITORY-29"
     },
     {
       "ticker": "KXPRESNOMR-28-JDV",
-      "label": "Vance 2028 GOP Nominee",
+      "label": "JD Vance Republican nominee 2028",
       "domain": "US Politics",
-      "marketProb": 36,
-      "aiProb": 30,
-      "gap": -6,
+      "marketProb": 43,
+      "aiProb": 38,
+      "gap": -5,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Vance is visibly being exposed as a political fall-guy on the Iran deal by Rubio, is publicly scolding Israel and alienating hawkish Republicans, and his 36% market price likely overstates his position given the intra-party friction now surfacing.",
-      "volume24h": 21736,
-      "openInterest": 1489345,
-      "priceChange24h": 0,
+      "rationale": "A +7 cent 24h surge to 43% on high volume signals fresh buying pressure, likely tied to Trump domestic friction signals (Adelson paper, Republican fractures, Cook shifting House races), which elevates Vance as heir-apparent but also exposes him to Trump's volatility.",
+      "volume24h": 109498,
+      "openInterest": 1581346,
+      "priceChange24h": 7,
       "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
     },
     {
       "ticker": "KXPRESNOMR-28-MR",
-      "label": "Rubio 2028 GOP Nominee",
+      "label": "Marco Rubio Republican nominee 2028",
       "domain": "US Politics",
       "marketProb": 28,
       "aiProb": 22,
       "gap": -6,
       "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Rubio is strategically distancing himself from the Iran MoU fallout by letting Vance absorb criticism, which preserves his hawkish credibility but also highlights his willingness to sideline himself on a major deal, leaving his 2028 positioning ambiguous.",
-      "volume24h": 5367,
-      "openInterest": 2232900,
+      "confidence": "MEDIUM",
+      "rationale": "Rubio at 28% as nominee candidate benefits from his Secretary of State visibility during the Iran deal and Lebanon crisis management, but Trump's public aggression toward allies and his own cabinet creates headwinds for any loyalist successor.",
+      "volume24h": 13090,
+      "openInterest": 2239435,
       "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
     },
     {
       "ticker": "KXPRESNOMD-28-GN",
-      "label": "Newsom 2028 Dem Nominee",
-      "domain": "Americas",
-      "marketProb": 23,
+      "label": "Gavin Newsom Democratic nominee 2028",
+      "domain": "US Politics",
+      "marketProb": 24,
       "aiProb": 20,
-      "gap": -3,
+      "gap": -4,
       "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "The Obama Presidential Center opening with star-studded turnout signals the Democratic establishment is coalescing around legacy figures, and with Trump's approval falling, Newsom remains a top-tier contender, though his California baggage and the crowded field keep his probability below the current 23% market price.",
-      "volume24h": 14238,
-      "openInterest": 3068124,
-      "priceChange24h": -1,
+      "confidence": "LOW",
+      "rationale": "The California billionaire tax ballot measure and ongoing Trump friction boost progressive energy but also complicate Newsom's national positioning; 24% market price appears roughly fair with high uncertainty this far out.",
+      "volume24h": 11628,
+      "openInterest": 3066037,
+      "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
     },
     {
       "ticker": "KXPRESNOMD-28-JOSS",
-      "label": "Ossoff 2028 Dem Nominee",
-      "domain": "Americas",
+      "label": "Jon Ossoff Democratic nominee 2028",
+      "domain": "US Politics",
       "marketProb": 12,
-      "aiProb": 10,
-      "gap": -2,
+      "aiProb": 8,
+      "gap": -4,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "Ossoff at 12% on the nomination market and 7% to win the presidency reflects speculative positioning; there is no current intelligence signal elevating him above other candidates, making this an overpriced market relative to fundamentals.",
-      "volume24h": 50479,
-      "openInterest": 3191762,
+      "rationale": "Ossoff leads Democratic nominee open interest at 3.19M with 12% price but lacks the national profile or crisis-response visibility seen in current geopolitical context; STRATWATCH sees this as overpriced relative to fundamentals.",
+      "volume24h": 45573,
+      "openInterest": 3193938,
       "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
     },
     {
-      "ticker": "KXNEXTODNI-29-JC",
-      "label": "Jay Clayton as next DNI",
-      "domain": "US Politics",
-      "marketProb": 76,
-      "aiProb": 55,
-      "gap": -21,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "The 10-cent drop in 24 hours on a 76% opening price is a significant intraday move suggesting fresh negative intelligence about Clayton's prospects, possibly tied to the Iran deal controversy and resulting intelligence community reshuffling; confidence is low given thin context.",
-      "volume24h": 6474,
-      "openInterest": 35805,
-      "priceChange24h": -10,
-      "url": "https://kalshi.com/markets/KXNEXTODNI-29-JC"
-    },
-    {
       "ticker": "KXNEXTAG-29-TBLA",
-      "label": "Todd Blanche as next AG",
+      "label": "Todd Blanche next Attorney General",
       "domain": "US Politics",
-      "marketProb": 72,
-      "aiProb": 65,
-      "gap": -7,
+      "marketProb": 74,
+      "aiProb": 68,
+      "gap": -6,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Blanche sits at 72% with a modest 2-cent decline; no disqualifying intelligence in the current feed, and the Don Jr. versus Cruz feud signals intra-MAGA infighting that could delay or complicate any AG confirmation but does not point to a specific alternative.",
-      "volume24h": 9098,
-      "openInterest": 601283,
-      "priceChange24h": -2,
+      "rationale": "At 74% with a +2 cent move, Blanche's positioning as Trump's personal attorney-turned-loyalist fits the pattern of DOJ actions visible in the intel (MLB inquiry, Pride circle fencing, Dupont security), suggesting continued institutional consolidation but with non-trivial removal risk given Trump's demonstrated volatility toward subordinates.",
+      "volume24h": 12156,
+      "openInterest": 594822,
+      "priceChange24h": 2,
       "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
     },
     {
-      "ticker": "KXMAKERFIELDBY-27JAN01-LAB",
-      "label": "Labour wins Makerfield by-election",
+      "ticker": "KXNEXTUKPM-30-ABUR",
+      "label": "Andy Burnham next UK Prime Minister",
       "domain": "Europe",
-      "marketProb": 95,
-      "aiProb": 93,
-      "gap": -2,
+      "marketProb": 92,
+      "aiProb": 55,
+      "gap": -37,
       "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "Labour at 95% with a 4-cent positive 24-hour move in a traditional Labour heartland seat; Reform UK dropping 3 cents simultaneously confirms the market correctly reads this as a safe Labour hold with no intelligence suggesting an upset.",
-      "volume24h": 26767,
-      "openInterest": 229632,
-      "priceChange24h": 4,
-      "url": "https://kalshi.com/markets/KXMAKERFIELDBY-27JAN01-LAB"
+      "confidence": "LOW",
+      "rationale": "At 92% with a sharp +5 cent 24h move on thin volume (5,969), this market appears driven by niche UK political positioning; STRATWATCH assigns substantially lower probability given the deep uncertainty of UK leadership succession timelines and Burnham's unproven national coalition.",
+      "volume24h": 5969,
+      "openInterest": 57890,
+      "priceChange24h": 5,
+      "url": "https://kalshi.com/markets/KXNEXTUKPM-30-ABUR"
     }
   ],
   "watchSignals": [
-    "Iran MoU implementation stability - monitor whether Supreme Leader Khamenei's reluctant endorsement holds as reformists face hardliner backlash over nuclear concessions",
-    "Strait of Hormuz traffic normalization - vessel transits jumped from 10 to ~20 daily; watch for disruption signals or Iranian compliance breakdowns",
-    "Israel-Lebanon escalation trajectory - Hezbollah drone footage (June 3, 13) shows active targeting; monitor IDF response scale and whether ceasefire Trump demanded holds",
-    "US troop posture Europe - Hegseth's NATO 3.0 Review signals rebalancing; watch for formal announcements on withdrawal timelines and allied response",
-    "Trump 2028 succession clarity - JD Vance at 36% nomination odds, 16% general election odds; Gavin Newsom rising on Dem side at 23%; monitor cabinet friction signals",
-    "Energy market shock absorption - Moscow refinery Ukrainian strikes, oil prices dropped below $4/gallon; watch geopolitical oil supply disruptions and market volatility"
+    "Strait of Hormuz closure enforcement and vessel transit patterns—IRGC has issued formal closure order with 48-hour permit requirement; watch for first international shipping incidents or US Navy response escalation",
+    "Israel-Hezbollah ceasefire durability—multiple reports of Israeli strikes continuing post-ceasefire announcement; monitor for Iranian retaliation trigger point and US ability to enforce de-escalation",
+    "US-Iran 60-day negotiation window stability—Trump administration claims Iran 'finished' militarily; watch for Iranian hardliner statements, proxy attacks, or formal withdrawal from talks",
+    "Netanyahu's Lebanon strategy vs Trump peace objective—US intelligence assessed Netanyahu will undermine Iran deal; observe whether Israeli operations force US into public constraint or tacit approval",
+    "Meloni-Trump diplomatic friction and G7 alliance cohesion—Drudge headline signals public strain; monitor for NATO commitment tests and European force posture decisions",
+    "2028 Democratic nominee field consolidation—prediction markets show fragmented landscape (Newsom 24%, Ossoff 12%, Harris 8%, Shapiro 5%); watch for major endorsements, candidate withdrawals, or primary calendar announcements"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East Diplomacy",
-      "headline": "US lifts Iran naval blockade following MoU; oil tanker flow resumes through Hormuz",
+      "domain": "Middle East—Maritime Chokepoint",
+      "headline": "Iran's IRGC has formally closed Strait of Hormuz with permit requirement and 48-hour advance notice; claims closure will persist until Israel withdraws from Lebanon and US forces leave Persian Gulf",
       "significance": "CRITICAL",
-      "summary": "CENTCOM formally ended maritime blockade. Vessel transits jumped from 10 to ~20 daily through Hormuz. Trump celebrated oil flowing and Iran unable to acquire nuclear weapons. Vance confirmed Iran has not shot at vessels in 48+ hours.",
-      "signal": "Significant de-escalation of US-Iran direct conflict; sanctions relief enables Iranian oil sales without concrete nuclear commitments per Senate Armed Services concern; market expects stability but Khamenei's reluctant endorsement creates fracture risk."
+      "summary": "Iran has shifted from rhetorical threats to operational closure mechanism via Persian Gulf Strait Authority. This is the most direct energy-security and commerce chokepoint action since early 2024. The 60-day toll waiver and formal permit system suggest Iran intends enforcement, not bluff.",
+      "signal": "Immediate risk to global oil markets and US naval presence; tests whether Trump administration will treat Hormuz closure as casus belli or negotiate. High probability of US-Iran military posturing within 2 weeks."
     },
     {
       "id": "gt2",
-      "domain": "Israel-Hezbollah Conflict",
-      "headline": "Hezbollah releasing active drone strike footage targeting Israeli forces in southern Lebanon; IDF tests 400km LORA missile",
+      "domain": "Middle East—Israel-Hezbollah Ceasefire Integrity",
+      "headline": "Israel and Hezbollah agreed to ceasefire effective Friday 4pm local time; within hours, IDF conducted 150+ additional strikes in Lebanon, contradicting public commitments by Israeli officials that ceasefire means 'not escalating'",
       "significance": "CRITICAL",
-      "summary": "Dated footage shows Ababil FPV drone targeting IDF M113 APC (June 3) and excavator (June 13) near Beaufort Castle and Majdal Zoun. Hezbollah retrofitting older MILAN-1 warheads onto drones. Israel testing LORA ballistic missile with 400km range.",
-      "signal": "Active low-intensity conflict continues despite Trump ceasefire demand on all fronts including Lebanon. Indicates either ceasefire not holding or reporting lag. Escalation risk if either side interprets other's weapons testing as preparation for major operation."
+      "summary": "Multiple sources confirm semantic maneuvering by Israeli officials (ceasefire ≠ cessation of operations). US officials conveyed message to Iran that Israel will not escalate, yet escalation has already occurred. This reveals credibility gap in Trump administration's de-escalation claims.",
+      "signal": "Iran likely to interpret as US failure to constrain Israel, justifying Iranian retaliation and hardening position on US-Iran MOU. Netanyahu demonstrating willingness to undermine Trump's stated Iran peace priority."
     },
     {
       "id": "gt3",
-      "domain": "Ukraine-Russia Strategic Targeting",
-      "headline": "Ukraine conducted largest attack on Moscow; Moscow Oil Refinery struck by drone raid; Russian capital blanketed in smoke",
+      "domain": "Middle East—US-Iran Negotiation Framework",
+      "headline": "Trump administration claims 60-day Iran negotiation window; Iran 'has no air force, navy, radar'; US-Qatar-Pakistan-Iran talks in Switzerland have been postponed due to Hormuz closure and Lebanese ceasefire breakdown",
       "significance": "CRITICAL",
-      "summary": "Ukrainian Fire Point defense firm displayed footage at Eurosatory showing drone strike on Moscow Oil Refinery hours prior. Russia mobilized emergency firefighting helicopters. Represents escalation in Ukrainian deep-strike capability against Russian strategic infrastructure.",
-      "signal": "Signals Ukrainian ability to conduct major strikes deep inside Russia despite US troop withdrawal signals in Europe. Complicates NATO 3.0 messaging of burden-shift. May prompt Russian escalatory response or NATO contingency planning."
+      "summary": "US negotiating posture relies on claim that military pressure has exhausted Iranian options. However, Iranian closure of Hormuz, call for Israeli withdrawal, and postponement of talks suggests Iran is escalating demands, not capitulating. 60-day window appears already stressed.",
+      "signal": "High probability of formal negotiations stalling or collapsing within 2-3 weeks if Israel continues Lebanon strikes. Risk of Iranian proxy action or direct military response before end of 60-day period."
     },
     {
       "id": "gt4",
-      "domain": "US Alliance Management",
-      "headline": "JD Vance scolds Israel; Trump tells Netanyahu he needs to be more rational; Rubio lets Vance take fall on Iran deal questions",
+      "domain": "Alliance Management—NATO and Europe",
+      "headline": "Finland has lifted nuclear weapons ban; NATO countries messaging strength on Russia; Pentagon reportedly cutting European force levels despite Trump commitment rhetoric",
       "significance": "HIGH",
-      "summary": "Vance warned Israel against being combative toward US as only powerful ally. Trump conditionally backs Netanyahu only if he's rational and willing to see other candidates. Rubio avoiding Iran deal scrutiny while Vance fronts for administration.",
-      "signal": "Trump administration applying pressure on Netanyahu over governance/conduct while defending Iran deal to skeptical Senate GOP. Internal policy friction between State (Rubio) and VP (Vance) on messaging. Israel likely frustrated by US leverage attempts."
+      "summary": "NATO frontline states (Latvia, Finland) are pursuing nuclear deterrence and messaging resolve independently of US reassurance. Simultaneous Pentagon force reductions signal Trump administration prioritizing fiscal constraints over alliance burden-sharing expectations.",
+      "signal": "US credibility gap between rhetorical support and force posture will accelerate independent EU/NATO strategic hedging (France, Germany pursuing own deterrence). Risk of accelerated NATO nuclear proliferation or European military buildout outside US framework."
     },
     {
       "id": "gt5",
-      "domain": "US Domestic Politics",
-      "headline": "Trump approval on economy hits new low; prediction markets show Vance 36% for 2028 Republican nomination, Newsom 23% for Dem",
+      "domain": "Domestic US—Trust and Institutional Stability",
+      "headline": "Drudge reports 'trust in government at all-time low'; multiple headlines indicate conflict between Trump administration officials (Adelson paper, Rove criticism, Republican friction); prediction markets show J.D. Vance at 43% for 2028 GOP nomination and 18% to win general",
       "significance": "HIGH",
-      "summary": "Multiple polls show Trump economic approval declining. Kalshi markets price Vance at 36% GOP nomination odds and 16% general election odds. Gavin Newsom emerging at 23% Democratic nomination probability, with Josh Shapiro and Pete Buttigieg at 5% each.",
-      "signal": "Economic headwinds and potential AI/tech price inflation (Apple CEO warning on chip demand) may constrain Trump second-term popularity. Vance positioned as heir apparent but not dominant; Newsom consolidating moderate Dem lane. Suggests fluid 2028 race."
+      "summary": "Domestic indicators show institutional strain, elite fracturing, and low public confidence. Prediction markets pricing Vance as successor suggests market actors do not expect Trump to run again in 2028 or perceive succession instability.",
+      "signal": "Heightened risk of policy incoherence, rapid personnel turnover, and reduced executive branch capacity to manage simultaneous crises (Iran, Israel, Ukraine, economic). Weakened US negotiating position internationally due to perceived internal instability."
     }
   ]
 }
