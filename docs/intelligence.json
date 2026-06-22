@@ -1,290 +1,300 @@
 {
-  "generatedAt": "2026-06-21T16:56:58.702Z",
-  "runNumber": 38,
+  "generatedAt": "2026-06-22T21:24:14.984Z",
+  "runNumber": 39,
   "situation": {
-    "headline": "Strait of Hormuz closure and collapsing US-Iran talks in Switzerland create simultaneous kinetic and economic escalation risk that threatens global energy markets and tests whether Trump's coercive diplomacy can convert military pressure into durable agreements",
+    "headline": "US-Iran nuclear framework emerging: 60-day sanctions waiver on Iranian oil, IAEA inspections resumed, Hormuz open — a de facto interim deal with transformative energy and regional security implications",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 78,
+        "prob": 42,
         "label": "regional escalation 90d",
-        "trajectory": "UP",
-        "status": "Strait of Hormuz effectively closed, Iranian delegation walked out of Lucerne talks after Trump threats, Hezbollah still active in Lebanon, and US tanker traffic halted — all simultaneously, creating the most volatile US-Iran posture since the 2020 Soleimani strike"
+        "trajectory": "DOWN",
+        "status": "US-Iran diplomatic momentum is real — Vance Switzerland talks, IAEA access restored, Hormuz open, $12B asset release, Rubio Gulf tour — but Mossad regime-change planning, Israeli refusal to withdraw from Lebanon, and ongoing IDF ceasefire violations are structural escalation risks that could torpedo the deal."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 42,
+        "prob": 58,
         "label": "China coercion escalation",
         "trajectory": "UP",
-        "status": "China is tightening naval presence around Taiwan per wire reporting, and US military attention and tanker assets consumed by Persian Gulf crisis create a window Beijing may exploit for gray-zone pressure"
+        "status": "China expanding maritime survey operations east of Taiwan, PLA footage shows active interference with Japanese and Taiwanese vessels, and a US shipyard study confirms inability to repair battle-damaged vessels in a China war scenario — coercion is intensifying while US naval readiness is publicly questioned."
       },
       {
         "name": "Europe",
         "prob": 22,
         "label": "NATO cohesion fracture",
-        "trajectory": "UP",
-        "status": "Starmer resignation confirmed by Trump himself, UK political transition adds uncertainty to the most critical US bilateral European relationship at a moment when Ukraine drone campaign is escalating against Crimea and Russia is sustaining retaliatory strikes"
+        "trajectory": "FLAT",
+        "status": "Starmer's imminent exit and Burnham's near-certain succession at 95% on Kalshi introduces a new UK variable, but Burnham's stated Israel-first foreign policy signals continuity on core NATO posture; the deeper fracture risk remains US political instability rather than European defection."
       },
       {
         "name": "Energy",
-        "prob": 85,
+        "prob": 28,
         "label": "supply shock 60d",
-        "trajectory": "UP",
-        "status": "Strait of Hormuz closure with no tanker transits after 1700 UTC is a black-swan level supply shock in progress — Crimea fuel collapse and Russian shortages compound pressure on global refined product markets simultaneously"
+        "trajectory": "DOWN",
+        "status": "Iranian oil sanctions waiver through August 21 plus open Hormuz Strait has already driven oil prices down 4%; Qatar Ras Laffan explosion was accidental with exports unaffected, and the 60-day window creates a supply glut risk rather than a shock, barring deal collapse."
       },
       {
         "name": "US Politics",
-        "prob": 51,
+        "prob": 55,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Household debt explosion, homeownership cost surge, and potential energy price shock from Hormuz closure are materializing precisely as midterm season opens, while Kalshi markets show Vance at 42 percent for Republican nomination and Rubio at 30 percent, signaling elite-level uncertainty about GOP succession that could depress base enthusiasm"
+        "status": "Trump approval at 30% in shock polling, Tucker Carlson and MTG departing Republican Party, MAGA stars reportedly alarmed by their own movement, Trump resignation market at 21% after a 4-cent drop, and Vance 2028 nomination at 41% all signal a fracturing right coalition heading into midterms."
       }
     ],
-    "unseen": "The simultaneous Hormuz closure and Starmer resignation are being treated as separate stories but they are connected through a single structural dynamic: Trump is using maximum coercive pressure across multiple theaters at once, and the compounding effect is that US allies are absorbing collateral destabilization — UK political crisis is partly downstream of Trump-era populist realignment, and the energy shock from Hormuz will hit European economies harder than the US, fracturing the transatlantic consensus on Iran policy precisely when Washington needs allied backing for its negotiating position; Kalshi markets have not moved on any of these events, suggesting retail political bettors have not yet priced the energy-to-politics transmission chain",
-    "criticalWindow": "The next 72 to 96 hours in Lucerne are the decisive window — bilateral Qatar-Iran talks are the last diplomatic offramp before the Hormuz closure becomes a sustained blockade rather than a pressure signal; if Iran does not reopen the Strait and resume talks by roughly June 24, oil markets will gap violently upward, US consumers will feel it at the pump before July 4, and Trump faces a binary choice between a face-saving climb-down or a third military strike that risks widening the war to include Hezbollah, Iraqi militias, and potentially Houthi re-escalation",
+    "unseen": "The simultaneous Iran diplomatic opening and Russian strategic bomber shelter hardening at Engels-2 are not unrelated: Moscow is watching the US-Iran deal reduce Gulf tension and free up US strategic bandwidth, and is accelerating nuclear-capable bomber protection as a hedge — the Iran deal may inadvertently signal to Russia that US attention is shifting, compressing the window for Ukraine leverage before Washington deprioritizes the theater.",
+    "criticalWindow": "The 60-day Iranian oil sanctions waiver expires August 21, 2026 — the entire US-Iran nuclear framework depends on whether a durable agreement can be codified before that deadline, and Israel's Mossad regime-change planning plus ongoing Lebanon ceasefire violations could generate a provocation that collapses negotiations before August, forcing a binary choice between the deal and the US-Israel relationship.",
     "watchFor": [
-      "Tanker transits resuming or remaining halted through Strait of Hormuz past June 23 — the 48-hour marker that converts a tactical closure into a strategic blockade",
-      "UKMTO issuing additional warnings or a naval escort activation in the Gulf of Oman, which would signal Iran is not merely posturing but actively interdicting",
-      "Starmer formal resignation announcement triggering a UK snap election timeline that pulls British naval and diplomatic assets into domestic political uncertainty during the Gulf crisis",
-      "China announcing military exercises near Taiwan or the South China Sea within the next two weeks, exploiting the US carrier group commitment to Persian Gulf contingencies"
+      "Israeli kinetic action against Iran or Iranian proxies that forces Tehran to suspend IAEA cooperation and exit the framework before August 21",
+      "Tucker Carlson formally announcing a 2028 presidential run — Kalshi shows the running market collapsed 29 cents in 24 hours, suggesting recent statements are being read as disqualifying rather than launching",
+      "PLA escalation in Taiwan Strait surveys converting to interdiction of Taiwanese or Japanese vessels, triggering a US response obligation test",
+      "Second-order effect of Iranian oil re-entering global markets suppressing Gulf state revenues and destabilizing US partners in UAE, Bahrain, Kuwait — exactly the countries Rubio is visiting"
     ],
-    "confidenceNote": "Key uncertainties are severe: the actual status of the Hormuz closure is based on vessel tracking reported by open-source accounts and has not been officially confirmed by US Fifth Fleet; Starmer resignation is described as imminent but not confirmed as of context timestamp; the Lucerne talks status is fluid with multiple contradictory reports within hours, making it genuinely unclear whether the walkout was tactical Iranian negotiating pressure or a genuine breakdown; Trump's threat posture is being reported through Iranian state media with obvious incentive to distort, and through Trump's own social media which has its own reliability issues; Kalshi market stasis across all categories suggests either sophisticated participants see the current escalation as ultimately resolving or, more likely, thin volume on geopolitical contracts means price signals are lagging reality",
-    "topPattern": "The master pattern is that Trump's simultaneous military strike on Iran, Hormuz crisis, and Lucerne diplomatic track represent a single coercive strategy that is now testing whether Iran will sign an MOU under duress or harden — and the Kalshi market showing Vance at 42 percent for 2028 Republican nomination while Rubio gains a penny to 30 percent suggests prediction-market participants are beginning to price that Vance's visible role leading the Switzerland delegation is either a major win-builder or a career-ending gamble, with the outcome determined entirely by whether Iran reopens the Strait in the next 72 hours"
+    "confidenceNote": "Key uncertainties: Trump approval figure of 30% is from a single unnamed poll and may be an outlier; the Iran deal details remain opaque — IAEA inspection scope and enrichment caps are unconfirmed; Burnham succession is near-certain per markets but UK Labour internal dynamics could still produce a surprise; the AGM-188 Rusty Dagger strike on the Voronezh semiconductor plant is unverified and if confirmed represents a significant escalation in US-authorized Ukrainian deep strikes that could trigger Russian escalation ladder climbing.",
+    "topPattern": "The dominant signal is a US grand bargain attempt — trade Iranian oil market access and sanctions relief for nuclear transparency and Hormuz stability — while simultaneously the domestic political coalition enabling that bargain (Trump at 30% approval, MAGA fracturing, Tucker and MTG exiting the GOP) is visibly eroding, creating a closing window in which the deal can be concluded before domestic political collapse removes the executive authority to enforce it; Kalshi's Vance 2028 at 41% and Rubio at 29% reflect market uncertainty about who inherits the foreign policy posture."
   },
   "signals": [
     {
       "id": "sig1",
       "domain": "Middle East",
-      "headline": "US-Iran nuclear talks collapse after 80 minutes; Strait of Hormuz effectively closed",
+      "headline": "US lifts Iran oil sanctions for 60 days; IAEA inspections resume",
       "significance": "CRITICAL",
-      "summary": "VP Vance led quadrilateral talks (US-Qatar-Pakistan-Iran) in Switzerland broke down after Trump threatened Iran directly. Iranian delegation walked out. Simultaneously, vessel tracking shows Strait of Hormuz transits halted as of ~1650 UTC June 20. Trump warned Iran closure means 'you won't have a country.'",
-      "signal": "Escalation trap now active: Trump's coercive threats intended to pressure Iran away from straits closure may have triggered the opposite outcome. Energy shock imminent if closure persists. Pakistan and Qatar diplomatic channels compromised by US tactical aggression during mediation.",
-      "contradicts": "Admin messaging of 'fundamentally transform relationship' and diplomatic opening; markets and adversary behavior suggest Trump administration pursuing confrontation theater rather than negotiated settlement.",
-      "timestamp": "2026-06-21T16:58:46.478Z"
+      "summary": "Treasury issued 60-day waiver on Iranian crude oil exports through August 21, 2026. Iran's Parliament Speaker confirmed $12B in frozen assets unfrozen in Switzerland. VP Vance announced IAEA inspector access restored for first time since July 2025, citing progress on Strait of Hormuz access and nuclear deal framework.",
+      "signal": "Trump administration has fundamentally reversed maximum-pressure posture toward Iran without securing comprehensive agreement—mirrors Obama JCPOA structure but with weaker leverage baseline. Oil prices fell 4% on reopened supply. Iran-Oman talks on joint Strait management suggest Tehran negotiating alternative power arrangement independent of US. Risk: sanctions relief locks in without durable inspection/weaponization constraints.",
+      "contradicts": "Trump's 2018 rationale for exiting JCPOA; current approach replicates Obama framework Trump publicly scorned",
+      "timestamp": "2026-06-22T21:26:18.562Z"
     },
     {
       "id": "sig2",
-      "domain": "Middle East",
-      "headline": "US conducts major airstrikes on Shiraz Air Base; six aerial refueling tankers repositioned to UAE",
-      "significance": "CRITICAL",
-      "summary": "Satellite imagery confirms destruction of five Il-76 transports, two C-130s, multiple Su-22 fighter-bombers at Shiraz. USAF simultaneously deployed six KC-135 or KC-46 tankers to Al Dhafra AB (UAE) on June 19. Al Udeid (Qatar) remains empty, suggesting strike campaign not imminent but logistics staged for rapid execution.",
-      "signal": "US is executing kinetic pressure operations against Iranian military assets while simultaneously attempting diplomatic talks—classic signaling of willingness to escalate unilaterally. Repositioning of tankers signals deep-strike capability against Iranian mainland targets (ballistic missile production, nuclear sites) credible within 48-72 hours.",
-      "contradicts": "Narrative of nuclear diplomacy and restraint; actual posture is maximalist coercion.",
-      "timestamp": "2026-06-21T16:58:46.478Z"
+      "domain": "US Politics",
+      "headline": "Andy Burnham prediction market at 95% for next UK PM; Tucker Carlson and MTG abandon Republican Party",
+      "significance": "HIGH",
+      "summary": "Kalshi markets price Burnham at 95% probability to replace Keir Starmer. Simultaneously, Tucker Carlson publicly states refusal to support GOP ('political party not loyal to US'), and MTG follows Carlson in departure. Burnham sworn in as MP; Starmer described as '6th PM in 7 years.'",
+      "signal": "Conservative-aligned personalities defecting from GOP in same cycle UK Labour faces existential succession crisis signals weakness in traditional center-right coalitions transatlantically. Turnbull-era institutional dissolution spreading. US intelligence must reassess UK government stability and Burnham's foreign policy orientation (pledged Israel as first overseas visit).",
+      "contradicts": "Assumption of stable Republican Party institutional coherence; assumption of UK Labour hegemony post-2024",
+      "timestamp": "2026-06-22T21:26:18.562Z"
     },
     {
       "id": "sig3",
-      "domain": "Europe",
-      "headline": "UK PM Keir Starmer preparing to resign; Andy Burnham markets at 95% to succeed",
+      "domain": "Middle East",
+      "headline": "IDF violates Lebanon ceasefire with shelling; Hezbollah sustains drone operations against Israeli armor",
       "significance": "HIGH",
-      "summary": "Early reports confirm Starmer resignation imminent (within days per multiple OSINT sources). Trump publicly confirmed this, citing Starmer's failure on immigration and energy. Kalshi market on Burnham becoming next UK PM: 95% probability, +1¢ in 24h, heavy volume (4,337 OI).",
-      "signal": "Sudden UK political collapse removes a NATO anchor during active Middle East escalation. Burnham ascension (Manchester Labour machine) signals harder left turn on energy policy, potential tension with Trump's transatlantic alignment on Iran/China. Timing suspicious—removes UK constraint on US Iran ops.",
-      "contradicts": "Assumption of UK-US special relationship stability; suggests Trump willing to see UK destabilized if it removes constraints.",
-      "timestamp": "2026-06-21T16:58:46.478Z"
+      "summary": "IDF shelled southern Lebanon towns (first ceasefire violation in 37 hours). Hezbollah released June 2026 footage of Ababil fiber-optic FPV drone strike on IDF Achzarit APC at Al-Hamames Hill. Israeli official told i24 no planned withdrawal from Southern Lebanon.",
+      "signal": "Lebanon ceasefire framework disintegrating under operational pressure. Hezbollah retaining advanced drone strike capability and willingness to publish targeting. Israeli occupation posture hardens despite nominal truce. Suggests US diplomatic win (via Vance Iran talks) may be offset by renewed Israeli-Hezbollah escalation, weakening regional de-escalation narrative.",
+      "contradicts": "Vance statement that Lebanon coordination advanced in Switzerland talks",
+      "timestamp": "2026-06-22T21:26:18.562Z"
     },
     {
       "id": "sig4",
-      "domain": "Energy",
-      "headline": "Crimea fuel supply collapsed; Russian rolling blackouts, Ukrainian drones disable Kerch terminal",
+      "domain": "Indo-Pacific",
+      "headline": "China expanding maritime surveys east of Taiwan; US battlefield repair study shows critical vulnerabilities",
       "significance": "HIGH",
-      "summary": "Russian occupation authority suspended all civilian fuel sales, rationing only to government agencies. Ukrainian drone strikes destroyed ferry routes and Kerch fuel terminal (massive fire). Russian power grid rolling blackouts now scheduled across Crimea as fuel stocks deplete.",
-      "signal": "Ukraine has achieved effective energy siege on Crimea via precision drone campaign. This creates pressure on Russia to either divert resources from Ukraine frontline or accept humanitarian collapse in occupied territories—potential strategic turning point if sustained.",
-      "contradicts": "Russian narrative of war attrition favoring Moscow; Ukrainian logistics precision now undermining Russian rear-area sustainability.",
-      "timestamp": "2026-06-21T16:58:46.478Z"
+      "summary": "China conducting expanded maritime surveys east of Taiwan amid research vessel incidents with Japanese aircraft and Taiwan authority vessels. Military Times reports US could not repair battle-damaged ships in hypothetical China war scenario.",
+      "signal": "China operationalizing incremental boundary pressure in Taiwan strait while US logistical asymmetry in extended Pacific conflict worsens. Damage control infrastructure gap creates decisive operational disadvantage in contested waters. Taiwan contingency planning assumptions require urgent revision.",
+      "contradicts": "US military readiness assessments assuming adequate wartime repair capacity in Indo-Pacific theater",
+      "timestamp": "2026-06-22T21:26:18.562Z"
     },
     {
       "id": "sig5",
-      "domain": "Americas",
-      "headline": "Trump endorses 'El Tigre' in Colombia runoff; US counter-terrorism designations expanded in Latin America",
-      "significance": "HIGH",
-      "summary": "Trump publicly backed right-wing candidate in Colombian presidential runoff. Simultaneously, US designated Brazilian criminal organizations as Foreign Terrorist Organizations (FTO). GDELT reports indicate strategic pivot toward Latin American counter-narco and counter-insurgency operations.",
-      "signal": "Trump administration signaling shift from counterinsurgency focus to direct cartel/criminal-org targeting and political realignment in Western Hemisphere. Suggests potential for covert or proxy military operations against non-state actors outside traditional AUMF framework.",
-      "contradicts": "Previous US restraint on direct Latin American military engagement; indicates willingness to support anti-left regimes and expand FTO designations for operational flexibility.",
-      "timestamp": "2026-06-21T16:58:46.478Z"
+      "domain": "Energy",
+      "headline": "Qatar Ras Laffan gas facility explosion kills 13, injures 66; export capability unaffected",
+      "significance": "MEDIUM",
+      "summary": "Accidental explosion at Qatar's Ras Laffan LNG site caused 13 deaths, 66 injuries. Doha confirmed export operations unimpeded. Incident occurred as US-Iran oil sanctions waiver opens new global supply sources.",
+      "signal": "Global LNG supply chain reasserts operational fragility; Qatar reputational cost manageable given UAE/Bahrain proximity in Rubio's scheduled diplomatic tour. Iran's return to oil markets reduces Qatar's leverage in energy-constrained Europe/Asia pricing.",
+      "contradicts": null,
+      "timestamp": "2026-06-22T21:26:18.562Z"
     },
     {
       "id": "sig6",
       "domain": "US Politics",
-      "headline": "2028 Republican nominee race: Vance 42%, Rubio 30% (market probability); Trump-Ossoff general election race shows low 2026 odds for both",
+      "headline": "Trump approval at 30%; prediction markets show J.D. Vance 18% general election probability vs Marco Rubio 16%",
       "significance": "MEDIUM",
-      "summary": "Kalshi shows VP Vance at 42% Republican nominee (stable 24h), Rubio at 30% (+1¢). Trump only at 2% in general-election-winner market, Ossoff at 7%. Markets pricing in assumption Trump does not run or loses in 2028 general.",
-      "signal": "Markets assigning high probability Vance inherits Trump mantle and wins 2028. Trump's narrow 2% general-election odds suggests markets view him as net liability in general or his candidacy as low-probability. Could indicate intelligence/prediction that Trump faces legal jeopardy or health crisis before 2028.",
-      "contradicts": "Trump's current political dominance and media presence; suggests markets pricing in non-obvious constraint on Trump's 2028 viability.",
-      "timestamp": "2026-06-21T16:58:46.478Z"
+      "summary": "Drudge reports 30% Trump approval. Kalshi shows Vance at 18% win probability and 41% nomination probability (down 1 cent 24h). Rubio nomination at 29%, general election win at 16%. Trump resign market at 21% (down 4 cents).",
+      "signal": "Vance emerging as preferred Republican successor over Rubio despite Iran deal optics controversy. Low absolute approval but stable resignation odds suggest Party discipline holding. 2028 field remains unsettled; Newsom (23% Dem nomination) plurality lead fragile.",
+      "contradicts": "Narrative of Trump commanding unified party loyalty",
+      "timestamp": "2026-06-22T21:26:18.562Z"
+    },
+    {
+      "id": "sig7",
+      "domain": "Europe",
+      "headline": "Russia hardening strategic bomber shelters at Engels-2; Ukraine strikes Russian fuel/logistics hubs with US AGM-188 LACM",
+      "significance": "MEDIUM",
+      "summary": "Satellite imagery shows large-scale Hardened Aircraft Shelter construction for Tu-95MS and Tu-160 strategic bombers at Engels-2 in Saratov Oblast. Ukrainian forces struck Voronezh semiconductor plant with F-16-launched AGM-188 Rusty Dagger cruise missiles; Donetsk fuel tanker destroyed by drone.",
+      "signal": "Russia prioritizing survivability of long-range strike capability while rear-area logistics degradation accelerates. Ukraine operating US AGM-188 LACM operationally suggests tech transfer mature. Russian air force decentralization ongoing. NATO supply sustainability to Ukraine remains asymmetrically stressed vs. Russian repair capacity.",
+      "contradicts": null,
+      "timestamp": "2026-06-22T21:26:18.562Z"
     }
   ],
-  "scanNote": "Signal quality degraded by heavy OSINT social-media dependency and date ambiguity (some feeds appear misdated to 2026); Iran escalation and Crimea fuel collapse are highest-confidence, corroborated across multiple sources; market probabilities consistent with but do not independently confirm political shifts.",
+  "scanNote": "Signal quality degraded by sensationalist Drudge mix (Clive Davis obituary, SUV deaths, herpes allegation crowd out geopolitical substance); core OSINT/market data validates Iran reversal, UK succession crisis, and Israel-Hezbollah ceasefire fracture as primary intelligence vectors.",
   "markets": [
     {
       "ticker": "KXNEXTUKPM-30-ABUR",
       "label": "Andy Burnham next UK PM",
       "domain": "Europe",
       "marketProb": 95,
-      "aiProb": 88,
-      "gap": -7,
+      "aiProb": 93,
+      "gap": -2,
       "favorable": false,
       "confidence": "HIGH",
-      "rationale": "Trump confirmed Starmer will resign, prediction markets already price Burnham at 95% and multiple allied sources report imminent resignation, making Burnham's succession highly probable though not certain pending Labour party process.",
-      "volume24h": 4337,
-      "openInterest": 64918,
-      "priceChange24h": 1,
+      "rationale": "Burnham has been sworn in as MP and markets price him at 95%; Starmer's political collapse ('6th PM in 7 years' framing) and Burnham's declared Israel visit signal a near-certain transition, with Angela Rayner spiking 9 cents as the only credible alternative risk.",
+      "volume24h": 46013,
+      "openInterest": 90654,
+      "priceChange24h": 2,
       "url": "https://kalshi.com/markets/KXNEXTUKPM-30-ABUR"
+    },
+    {
+      "ticker": "KXNEXTUKPM-30-AR",
+      "label": "Angela Rayner next UK PM",
+      "domain": "Europe",
+      "marketProb": 9,
+      "aiProb": 7,
+      "gap": -2,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Rayner's 9-cent 24h spike is the largest percentage move among UK PM candidates and represents residual risk if Burnham faces internal Labour resistance, but her path remains narrow given Burnham's momentum.",
+      "volume24h": 6252,
+      "openInterest": 31380,
+      "priceChange24h": 9,
+      "url": "https://kalshi.com/markets/KXNEXTUKPM-30-AR"
     },
     {
       "ticker": "KXPRESNOMR-28-JDV",
       "label": "Vance 2028 GOP nominee",
       "domain": "US Politics",
-      "marketProb": 42,
-      "aiProb": 38,
-      "gap": -4,
+      "marketProb": 41,
+      "aiProb": 35,
+      "gap": -6,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Vance is leading the Iran diplomacy in Switzerland and polling highest among Republican nominees at 42%, but two-plus years remain and his performance in this high-stakes negotiation could significantly move his trajectory up or down.",
-      "volume24h": 13412,
-      "openInterest": 1582918,
-      "priceChange24h": 0,
+      "rationale": "Vance returned from successful Iran talks in Switzerland and is the incumbent VP, strengthening his 2028 positioning, but Tucker Carlson's public break from the GOP and MTG's defection signal a fracturing MAGA coalition that could complicate Vance's path.",
+      "volume24h": 14959,
+      "openInterest": 1585824,
+      "priceChange24h": -1,
       "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
     },
     {
       "ticker": "KXPRESNOMR-28-MR",
       "label": "Rubio 2028 GOP nominee",
       "domain": "US Politics",
-      "marketProb": 30,
-      "aiProb": 25,
-      "gap": -5,
+      "marketProb": 29,
+      "aiProb": 32,
+      "gap": 3,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Rubio prices at 30% on Kalshi but intel shows Vance is the visible diplomatic face on Iran, potentially consolidating foreign-policy credentials that could advantage Vance over Rubio in a 2028 primary.",
-      "volume24h": 23771,
-      "openInterest": 2258983,
-      "priceChange24h": 1,
+      "rationale": "Rubio is conducting a high-profile Middle East diplomatic tour following the Iran breakthrough and a 30% Trump approval creates a succession opening; his foreign policy profile positions him as the establishment alternative to Vance.",
+      "volume24h": 13055,
+      "openInterest": 2258740,
+      "priceChange24h": -1,
       "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
-    },
-    {
-      "ticker": "KXPRESNOMD-28-GN",
-      "label": "Newsom 2028 Dem nominee",
-      "domain": "US Politics",
-      "marketProb": 24,
-      "aiProb": 22,
-      "gap": -2,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Newsom leads Dem field at 24% market price but with Starmer's collapse and broader center-left erosion globally, the intel environment slightly undercuts the electability narrative that drives his support.",
-      "volume24h": 30288,
-      "openInterest": 3074545,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
     },
     {
       "ticker": "KXTRUMPRESIGN",
       "label": "Trump resigns before term ends",
       "domain": "US Politics",
-      "marketProb": 25,
-      "aiProb": 8,
-      "gap": -17,
-      "favorable": true,
-      "confidence": "MEDIUM",
-      "rationale": "Despite the 25% market price, the intel shows Trump actively directing foreign policy on Iran and Lebanon with characteristic escalatory rhetoric, giving no operational signal of diminished authority or imminent departure.",
-      "volume24h": 4769,
-      "openInterest": 75708,
-      "priceChange24h": -1,
+      "marketProb": 21,
+      "aiProb": 10,
+      "gap": -11,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "A shock 30% approval poll, MTG and Carlson leaving the Republican Party, and Supreme Court tensions are meaningful political stress signals, but historically low approval and factional defections are insufficient predictors of resignation given Trump's documented pattern of political resilience.",
+      "volume24h": 5891,
+      "openInterest": 76182,
+      "priceChange24h": -4,
       "url": "https://kalshi.com/markets/KXTRUMPRESIGN"
     },
     {
-      "ticker": "KXZELENSKYPUTIN-29-26JUL",
-      "label": "Zelenskyy-Putin meet before Jul 2026",
-      "domain": "Europe",
-      "marketProb": 1,
-      "aiProb": 2,
-      "gap": 1,
-      "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "Ukraine is conducting escalatory drone strikes on Crimea fuel terminals and ferries while Russia is launching missile strikes on Ukrainian regions, making a summit before July 1 effectively impossible and confirming the market's 1% price.",
-      "volume24h": 6191,
-      "openInterest": 78243,
-      "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXZELENSKYPUTIN-29-26JUL"
-    },
-    {
-      "ticker": "KXNEXTAG-29-TBLA",
-      "label": "Todd Blanche next AG",
+      "ticker": "KXPRESNOMD-28-GN",
+      "label": "Newsom 2028 Dem nominee",
       "domain": "US Politics",
-      "marketProb": 70,
-      "aiProb": 65,
-      "gap": -5,
+      "marketProb": 23,
+      "aiProb": 20,
+      "gap": -3,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "Blanche prices at 70% but the intel environment is thin on AG succession signals; the 3-cent drop in 24 hours alongside Lee Zeldin gaining slightly warrants modest downward revision from market price given uncertainty.",
-      "volume24h": 6050,
-      "openInterest": 591979,
-      "priceChange24h": -3,
-      "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
+      "rationale": "Newsom remains the highest-profile Democrat but the intel cycle shows Jon Ossoff gaining traction in both nomination and general markets while Newsom's California-specific vulnerabilities persist in a low-Trump-approval environment that scrambles Dem field dynamics.",
+      "volume24h": 14725,
+      "openInterest": 3082683,
+      "priceChange24h": -1,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
     },
     {
-      "ticker": "KXPRESNOMD-28-AOC",
-      "label": "AOC 2028 Dem nominee",
+      "ticker": "KXPRESNOMD-28-JOSS",
+      "label": "Ossoff 2028 Dem nominee",
       "domain": "US Politics",
-      "marketProb": 10,
-      "aiProb": 9,
-      "gap": -1,
+      "marketProb": 12,
+      "aiProb": 14,
+      "gap": 2,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Ossoff shows the most consistent positive movement across both nomination and general election markets and represents the emerging centrist-lane candidate, but the 2028 field is structurally too uncertain at this horizon for high confidence.",
+      "volume24h": 7253,
+      "openInterest": 3218796,
+      "priceChange24h": 1,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
+    },
+    {
+      "ticker": "KX2028RRUN-28-TUC",
+      "label": "Tucker Carlson runs for GOP nomination",
+      "domain": "US Politics",
+      "marketProb": 16,
+      "aiProb": 10,
+      "gap": -6,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "The intel shows Americans turning sharply against AI and global economic stress building, which could energize progressive populism, but at 10% AOC remains a long shot against establishment candidates in a Dem primary.",
-      "volume24h": 103133,
-      "openInterest": 2955939,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
+      "rationale": "Carlson's explicit public statement that he will never support the Republican Party combined with a 29-cent collapse in the running market makes a formal GOP candidacy highly unlikely; a third-party or independent run is more plausible but resolves this market NO.",
+      "volume24h": 9577,
+      "openInterest": 16525,
+      "priceChange24h": -29,
+      "url": "https://kalshi.com/markets/KX2028RRUN-28-TUC"
     }
   ],
   "watchSignals": [
-    "Strait of Hormuz closure status and tanker transit resumption - Trump explicitly threatened Iran with military action if closure continues; vessel tracking shows effective blockade as of 1700 UTC yesterday",
-    "US-Iran nuclear talks breakdown trajectory - talks collapsed after 80 minutes with Iranian delegation walkout following Trump threats; Qatar-Pakistan bilateral salvage efforts ongoing; Vance departure timeline critical",
-    "UK PM Starmer resignation timing and successor - prediction markets show Andy Burnham at 95% for next PM; Starmer preparation to resign reported for coming days; impacts Five Eyes intelligence coordination",
-    "Hezbollah proxy control and Lebanon ceasefire viability - Trump explicitly threatened Iran with resumed strikes if Hezbollah not reined in; IDF requesting remains retrieval suggests active ground engagement; ceasefire fragility high",
-    "Crimea fuel infrastructure collapse and Russian logistics - Ukraine drone campaign systematically destroying ferries, fuel terminals, supply lines; rolling power outages imminent; Russian occupation sustainability under stress",
-    "Colombia presidential runoff alignment with Trump administration - Trump endorses El Tigre; paramilitaries shadow threat; cartel designation as FTO signals strategic hemispheric posture shift"
+    "UK Prime Minister succession: Andy Burnham at 95% prediction-market probability signals imminent transition from Keir Starmer; watch parliamentary votes and Labour party formalization within 7-10 days",
+    "Iran nuclear-sanctions thaw: 60-day US Treasury waiver on Iranian oil through August 21 combined with IAEA inspector re-entry represents major shift in Trump administration posture; monitor oil price impacts, OPEC response, and Israeli reaction to potential strategic realignment",
+    "Ukraine-Russia intensity escalation: Concurrent Ukrainian F-16 strikes on Russian semiconductor plants, Russian hardened aircraft shelter construction, and ongoing Crimea/southern Russia raids suggest preparing for sustained high-intensity conflict; watch Russian counter-escalation and NATO weapons supply decisions",
+    "Israel-Lebanon ceasefire fragility: IDF shelling violations within 37 hours of reported ceasefire indicate potential breakdown; monitor Hezbollah response tempo and US diplomatic intervention efforts over next 2 weeks",
+    "Republican Party internal fracture: Tucker Carlson public departure and Marjorie Taylor Greene following signals Trump-aligned MAGA faction distancing from institutional GOP; watch 2028 primary market consolidation and third-party formation risk",
+    "China Taiwan maritime pressure campaign: Expanded surveys east of Taiwan and research vessel interference with Japanese/Taiwanese assets indicate incremental salami-slicing; monitor US carrier deployment responses and allied coordination announcements"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East - Iran Nuclear Diplomacy",
-      "headline": "US-Iran quadrilateral talks (US-Qatar-Pakistan-Iran) collapsed after 80 minutes following Trump direct threats",
+      "domain": "Middle East/Nuclear Diplomacy",
+      "headline": "US and Iran finalized 60-day sanctions waiver on crude oil and resumption of IAEA inspections following Switzerland talks led by VP Vance",
       "significance": "CRITICAL",
-      "summary": "VP Vance led US delegation to Switzerland for nuclear MOU discussions; talks ended abruptly with Iranian delegation walkout after Trump threatened military action and threatened Strait closure consequences ('you won't have a country'). Qatar and Pakistan now attempting bilateral salvage; technical working groups were formed but appear stalled.",
-      "signal": "Nuclear diplomacy framework has collapsed; military escalation risk elevated; deterrence messaging from Trump indicates willingness to bypass negotiation channel; Iranian retaliation via proxy (Hezbollah) likely within 48-72 hours given historical response patterns"
+      "summary": "Treasury issued binding waiver through August 21 allowing Iran to sell oil globally; Iranian Parliament Speaker confirmed $12B frozen asset release; IAEA inspectors returning for first time since July 2025. This represents tactical reversal of Trump's 2018 maximum-pressure stance and signals potential nuclear deal framework progression.",
+      "signal": "Reduces near-term Iran conflict risk but creates strategic ambiguity on whether inspection compliance will hold; impacts global oil prices and tests Israel's tolerance for US-Iran accommodation; 60-day window is critical negotiation period for broader agreement"
     },
     {
       "id": "gt2",
-      "domain": "Middle East - Maritime/Energy Security",
-      "headline": "Strait of Hormuz effectively closed as of 1700 UTC June 20; tanker Starbound Explorer turned around; no transits observed post-closure",
-      "significance": "CRITICAL",
-      "summary": "Vessel tracking data confirms blockade of world's most critical energy chokepoint; 20-30% of global oil transits normally flow through strait. Trump explicitly threatened Iran with military response if closure continues. This represents ~$1-2 trillion daily trade exposure.",
-      "signal": "Global energy prices will spike 15-25% if closure persists beyond 48 hours; US military strike authorization appears implicit in Trump rhetoric; Iranian calculation of cost-benefit of closure continuation is operational flashpoint"
+      "domain": "UK Politics",
+      "headline": "Keir Starmer positioned for imminent removal as Andy Burnham consolidates 95% prediction-market probability as next Prime Minister",
+      "significance": "HIGH",
+      "summary": "OSINT feed reports Andy Burnham sworn in as MP and likely successor; sixth prime minister in seven years signals UK political instability. This follows historic Labour government collapse comparable to Conservative chaos 2022-2024.",
+      "signal": "UK alliance stability questioned; NATO burden-sharing commitments at risk if domestic focus turns inward; potential UK-Israel policy realignment if Burnham (who pledged Israel as first visit) implements stated priorities"
     },
     {
       "id": "gt3",
-      "domain": "Europe - UK Political Stability",
-      "headline": "UK PM Keir Starmer preparing resignation in coming days per multiple sources; prediction markets price Andy Burnham at 95% to succeed as next PM",
-      "significance": "HIGH",
-      "summary": "Trump confirmed Starmer resignation reports; cited immigration and energy policy failures. Burnham succession appears highly probable based on market pricing. Starmer's departure removes US ally with specific institutional knowledge of Trump administration dynamics.",
-      "signal": "UK-US intelligence sharing and Five Eyes coordination will face continuity gap; new UK PM will require relationship reset with Trump; NATO coordination on Russia-Ukraine policy may shift; energy policy alignment (US-UK LNG) uncertain under new PM"
+      "domain": "Ukraine-Russia Strategic Competition",
+      "headline": "Ukraine conducting sustained air strikes on Russian rear-area military and industrial targets including semiconductor plants and oil terminals; Russia simultaneously hardening strategic bomber bases",
+      "significance": "CRITICAL",
+      "summary": "Ukrainian F-16 AGM-188 cruise missile strikes hit Voronezh semiconductor plant; concurrent attacks on Grushova Balka oil terminal in Novorossiysk; Russian satellite imagery shows large-scale HAS construction for Tu-95MS and Tu-160 bombers at Engels-2. Both sides preparing for prolonged high-intensity conflict.",
+      "signal": "Long-term logistics attrition strategy by Ukraine vs Russian strategic force hardening indicates multi-month conflict trajectory; US must sustain advanced munitions pipeline; risk of Russian asymmetric escalation (NATO territory targeting) if attrition reaches critical thresholds"
     },
     {
       "id": "gt4",
-      "domain": "Russia-Ukraine - Logistics Warfare",
-      "headline": "Ukrainian drone campaign systematically destroyed Crimean ferry network, fuel terminal (Kerch port ablaze), and fuel distribution system; Russian occupation authorities implementing rolling power outages",
+      "domain": "Israeli-Palestinian/Regional Security",
+      "headline": "Israel-Lebanon ceasefire showing early violation signals with IDF shelling of southern towns within 37 hours; Hezbollah publishing FPV drone targeting footage dated June 2026",
       "significance": "HIGH",
-      "summary": "Three critical ferries destroyed in overnight strike; Kerch fuel terminal heavily burning; Russian occupation governor suspended all civilian fuel sales except government vouchers. Poltava region left without electricity after missile strikes. Fuel shortages spreading across occupied territories.",
-      "signal": "Russian logistics sustainability in Ukraine theater degraded; occupation governance legitimacy undermined by fuel/power shortages; Ukrainian drone precision and targeting discipline remains high; Russian supply lines to Crimea compressed to unsustainable levels within 2-3 weeks if tempo continues"
+      "summary": "IDF shelled Masha'a al-Mansouri and Byout al-Siyad; concurrent Hezbollah drone footage of Achzarit APC engagement at Al-Hamames Hill suggests both sides maintaining operational readiness. Israeli official stated no planned force withdrawal from Southern Lebanon.",
+      "signal": "Ceasefire framework unstable; US diplomatic efforts under Secretary Rubio's Middle East tour may face rapid deterioration; risk of renewed major conflict within 2-4 weeks if trigger incidents escalate"
     },
     {
       "id": "gt5",
-      "domain": "Middle East - Israeli-Hezbollah Escalation",
-      "headline": "Hezbollah released targeting footage of IDF UGV (June 14); IDF requesting remains retrieval from Ali al-Taher Hill; Trump explicitly threatened Iran if Hezbollah proxy actions continue",
+      "domain": "US Domestic Political Realignment",
+      "headline": "Tucker Carlson and Marjorie Taylor Greene publicly exited Republican Party; Carlson stated 35-year GOP affiliation ended over party disloyalty to US interests",
       "significance": "HIGH",
-      "summary": "Active kinetic engagement between Hezbollah and IDF ongoing in southern Lebanon; Israeli casualties confirmed (requiring remains retrieval); Hezbollah demonstrates precision FPV drone capability. Trump tied Hezbollah restraint to Iran's survival ('we'll hit Iran very hard again, only harder').",
-      "signal": "Lebanon ceasefire framework unstable; IDF ground operations in southern Lebanon active; Iranian proxy restraint is now explicitly a Trump administration red line with implied military consequence; Hezbollah response doctrine likely evolved to account for direct US-Iran military escalation risk"
+      "summary": "Carlson declared active rejection of Republican party structure despite lifetime affiliation; Greene followed with 'America Last' rhetoric signaling MAGA faction fracture from institutional GOP. Prediction markets show Tucker Carlson 2028 presidential run at only 5% despite media platform.",
+      "signal": "Indicates Trump movement may splinter into parallel political structure; threatens traditional conservative coalition ahead of 2028; potential for third-party candidacy drawing right-populist vote and fragmenting anti-Democratic opposition"
     }
   ]
 }
