@@ -1,290 +1,305 @@
 {
-  "generatedAt": "2026-07-04T12:02:34.446Z",
-  "runNumber": 51,
+  "generatedAt": "2026-07-05T12:11:10.153Z",
+  "runNumber": 52,
   "situation": {
-    "headline": "Putin reportedly preparing Polish incursion to challenge NATO while Khamenei funeral signals Iranian regime continuity amid dual power vacuums — Europe's eastern flank and Middle East simultaneously destabilizing",
+    "headline": "Hormuz LNG disruption resolved but Iran post-Khamenei succession crisis deepens under harder-line younger leadership, resetting regional deterrence calculus for US and partners",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 72,
+        "prob": 62,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Khamenei funeral framed as defiance against US signals regime consolidation rather than fracture, sustaining Iranian proxy network pressure across the region with no successor moderating force visible."
+        "status": "Post-Khamenei Tehran consolidating under younger, more hardline leadership with Mojtaba notably absent from funeral — succession instability plus Trump claim of wiping out Iranian military creates volatile deterrence vacuum that raises miscalculation risk significantly."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 55,
+        "prob": 44,
         "label": "China coercion escalation",
         "trajectory": "UP",
-        "status": "China launching companionship robots signals industrial-scale soft-power and dependency play; combined with ongoing Taiwan Strait posture, coercion risk is elevated despite no acute crisis headline in this cycle."
+        "status": "Xi's Stalinist internal consolidation tactics signal hardening posture abroad; Elaine Chao's Beijing meeting three days after McConnell hospitalization is an anomalous diplomatic signal warranting close scrutiny for back-channel messaging."
       },
       {
         "name": "Europe",
-        "prob": 61,
+        "prob": 28,
         "label": "NATO cohesion fracture",
-        "trajectory": "UP",
-        "status": "Report of Putin preparing a Polish incursion to test NATO is the single highest-urgency signal in the dataset; Vlad superyacht fleeing Ukraine drones suggests kinetic pressure on Russia is real but a desperate cornered actor is more dangerous, not less."
+        "trajectory": "FLAT",
+        "status": "Ukraine striking St. Petersburg infrastructure escalates operational tempo but Trump-Erdogan alignment at NATO is absorbing friction that would otherwise crack alliance consensus — net cohesion holding precariously."
       },
       {
         "name": "Energy",
-        "prob": 38,
+        "prob": 18,
         "label": "supply shock 60d",
-        "trajectory": "UP",
-        "status": "US domestic grid already hitting emergency protocols under record heat demand with data centers compounding load; Colorado River cuts and Arizona water battle add a parallel resource-stress vector that raises infrastructure fragility."
+        "trajectory": "DOWN",
+        "status": "India lifting emergency gas curbs as Hormuz LNG flows normalize signals immediate crisis passed, but new Tehran leadership's unpredictability means the strait remains a latent chokepoint one provocation away from re-closure."
       },
       {
         "name": "US Politics",
-        "prob": 44,
+        "prob": 38,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Markets price AOC at 15 percent for 2028 Dem nomination and Ossoff at 14 percent, reflecting a fractured party with no consolidating figure; Sanders crowing about political revolution, Christie warning of Republican monumental defeat, and record-low labor force participation all point to volatile midterm environment with plausible but not yet probable House flip."
+        "status": "DOGE collapse narrative hardening, zombie Congress blocking Republican agenda, Trump bear-case contract up 3 cents in 24 hours on meaningful volume — structural headwinds for House Republicans accelerating into midterm cycle."
       }
     ],
-    "unseen": "The convergence of US DNI dismissals by Bill Pulte, the Rubio-Hegseth internal war, and the Greenland acquisition contract climbing to 24 percent suggests a quiet but accelerating reorganization of the US intelligence and defense community happening simultaneously with the two most dangerous external crises in a generation — the institutional bandwidth gap this creates is the least-discussed compounding risk.",
-    "criticalWindow": "The 30-60 day window following Khamenei's funeral is the most dangerous: Iranian factions will be jockeying for succession influence, IRGC may seek a regional demonstration of strength to cement domestic credibility, and any US or Israeli action in that window risks triggering a unified nationalist response that forecloses moderate outcomes for years.",
+    "unseen": "The convergence of Iran succession instability, a near-3000-casualty Venezuela earthquake straining Maduro's already brittle regime, and Trump's simultaneous claims of military victories over both Iran and Venezuela creates a compounding legitimacy vacuum across two US-adversary states at the same moment — opening a narrow but real window for coercive diplomatic realignment that the current administration may exploit opportunistically but without a coherent strategy to consolidate gains.",
+    "criticalWindow": "The 30-60 day post-Hormuz reopening period is when Tehran's new hardline leadership will make its first independent strategic moves to reassert deterrence credibility — likely via proxy action in Iraq, Yemen, or against Gulf infrastructure — and Washington's response posture in that window will set the regional equilibrium for the remainder of the decade.",
     "watchFor": [
-      "NATO Article 4 or 5 consultations triggered by any Russian military movement toward Polish or Baltic borders, even below the threshold of open incursion",
-      "IRGC-linked proxy attacks in Iraq, Syria, or the Gulf within 30 days of Khamenei funeral as an internal power-consolidation signal",
-      "US grid emergency declarations escalating from regional to multi-state as heat dome persists, creating a domestic security and economic disruption story that consumes political bandwidth during the NATO crisis",
-      "Kalshi Vance 2028 Republican nomination at 42 percent with a plus-1 tick combined with Rubio at 30 percent suggests a real primary fight is being priced — watch for any Trump health signal or pardon-related legal development that accelerates the succession race and distracts executive branch from foreign crises"
+      "Mojtaba Khamenei's formal emergence or continued absence from public succession signaling — his non-appearance at the funeral is the most important single intelligence data point in this cycle",
+      "Venezuelan government stability indicators as earthquake death toll approaches 3000 and Maduro's disaster-response capacity is tested publicly",
+      "Marco Rubio VP contract spiking 16 cents in 24 hours on thin volume — monitor for follow-on volume surge confirming insider positioning ahead of a formal announcement that reshapes 2028 succession markets",
+      "Ukraine escalation ladder after St. Petersburg oil terminal strike — Russian threshold response options including infrastructure retaliation in Europe or acceleration of anthrax-mining biological hazard incidents near front lines"
     ],
-    "confidenceNote": "GDELT theater fields returned empty and PizzINT feed is dark at DOUGHCON 5 fade-out, meaning this assessment relies heavily on Drudge headline inference and prediction-market signals rather than confirmed reporting or signals intelligence. The Putin-Poland incursion claim is a single-source headline with no corroborating wire traffic visible in this dataset — it could be disinformation, leak, or genuine planning signal; confidence on Europe escalation probability would drop to 40 percent if that single headline is discounted. Kalshi market prices reflect crowd sentiment, not ground truth.",
-    "topPattern": "A simultaneous US intelligence community purge, NATO eastern-flank provocation signal, and post-Khamenei power vacuum — all occurring while the executive branch is distracted by domestic record heat, a grid emergency, and an accelerating 2028 Republican succession race priced at 42 percent Vance versus 30 percent Rubio — creates a classic adversary exploitation window; the Greenland contract ticking up 3 cents to 24 percent suggests markets are beginning to price Trump using a territorial gambit as a diversionary rally-the-flag move, which itself could further strain NATO cohesion."
+    "confidenceNote": "Critical uncertainties cluster around three unknowns: the actual internal power distribution within Tehran's new leadership collective, whether Trump's claim of militarily neutralizing Iran reflects real degradation or is domestic political signaling, and the degree to which the Venezuela earthquake creates genuine regime fragility versus rallying effect. Prediction market data on 2028 elections reflects noise-level retail sentiment this far out — the Rubio VP spike is the sole market signal worth treating as a potential information leak rather than random movement.",
+    "topPattern": "A single thread connects the dominant signals: US adversary regimes — Iran, Venezuela — are simultaneously in stress-induced leadership transitions while Hormuz briefly normalized, and Kalshi's Rubio VP contract jumping 16 cents suggests markets are pricing a ticket-announcement that would lock in a hawkish foreign policy continuity signal, creating a reinforcing loop where perceived US strength accelerates adversary succession instability but also raises the probability of a desperate provocation from Tehran's new guard seeking to establish credibility."
   },
   "signals": [
     {
       "id": "sig1",
-      "domain": "US Politics",
-      "headline": "J.D. Vance prediction-market price surges to 42% for 2028 Republican presidential nominee",
-      "significance": "CRITICAL",
-      "summary": "Kalshi markets show JDV at 42% probability for 2028 GOP nominee, with recent +1¢ movement. This dwarfs Trump (3%), Rubio (30%), and all other Republican contenders. Market signals Vance as Trump's designated successor or clear frontrunner for post-Trump GOP leadership.",
-      "signal": "If accurate, indicates either Trump's explicit succession planning or market expectation of Trump ineligibility/withdrawal by 2028. Contradicts public messaging that 2028 field remains wide open. High confidence given prediction-market efficiency.",
-      "contradicts": "Conventional media narrative of open Republican primary; suggests VP Vance enjoys institutional GOP backing.",
-      "timestamp": "2026-07-04T12:04:59.447Z"
+      "domain": "Americas",
+      "headline": "Venezuela earthquake death toll reaches ~3000; Trump claims US 'wiped out' Iran and Venezuela militaries",
+      "significance": "HIGH",
+      "summary": "Major seismic event in Venezuela with catastrophic casualties occurring amid Trump administration rhetoric of military dominance over regional adversaries. Rescue operations ongoing but infrastructure severely damaged. Statement timing suggests domestic political messaging rather than operational claim.",
+      "signal": "Humanitarian crisis creates potential humanitarian intervention window; Trump's maximalist rhetoric may constrain pragmatic engagement if Venezuela requests aid. Regional stability risk if government collapse accelerates.",
+      "contradicts": "Trump administration's recent focus on limiting foreign entanglements; suggests rhetorical escalation for domestic audience.",
+      "timestamp": "2026-07-05T12:13:14.267Z"
     },
     {
       "id": "sig2",
-      "domain": "US Politics",
-      "headline": "Greenland acquisition market odds jump to 24% by July 4, 2026",
-      "significance": "HIGH",
-      "summary": "KXGREENTERRITORY-29 contract pricing 24% probability (+3¢ in 24h) for US acquisition of any Greenland territory before Jan 21, 2029. Markets treating this as material geopolitical possibility, not noise.",
-      "signal": "Implies prediction markets or informed traders assess active Trump-administration pursuit of Greenland as credible within 2.5 years. Arctic resource/strategic positioning may be driving administration policy beyond public rhetoric.",
-      "contradicts": "Consensus dismissal of Greenland acquisition as political theater; market pricing suggests actionable negotiations or threat credibility.",
-      "timestamp": "2026-07-04T12:04:59.447Z"
+      "domain": "Energy",
+      "headline": "India withdraws emergency gas curbs as Hormuz LNG shipments resume after disruption",
+      "significance": "MEDIUM",
+      "summary": "Strait of Hormuz passage restored to normal commercial flow after temporary emergency. India's rapid lift of supply restrictions indicates confidence in sustained throughput. No explicit cause stated for original disruption or resolution.",
+      "signal": "Suggests either Iranian de-escalation or successful passage of contested waters; implies regional maritime stability has improved enough for energy markets to normalize. Watch for renewed disruption as low-probability but high-consequence tail risk.",
+      "contradicts": null,
+      "timestamp": "2026-07-05T12:13:14.267Z"
     },
     {
       "id": "sig3",
-      "domain": "Energy",
-      "headline": "US grid emergency orders amid record demand and data-center power drain",
+      "domain": "US Politics",
+      "headline": "Prediction market: J.D. Vance 41% Republican nominee, 17% general election winner; Marco Rubio 30% nominee, 45% VP nominee (+16¢ in 24h)",
       "significance": "HIGH",
-      "summary": "Drudge reports grid operator emergency steps to prevent large-scale outages, record demand, data centers draining power, and DC temperatures at 99th percentile globally. Multiple infrastructure stress signals stacking simultaneously.",
-      "signal": "AI/cloud buildout competing with summer demand spikes and climate stress. Suggests potential infrastructure bottleneck constraining tech/AI expansion or increasing outage risk during administration pushing deregulation. Vulnerability to cascade failures during peak periods.",
-      "contradicts": "Market confidence in seamless tech expansion; energy constraints may be binding sooner than consensus expects.",
-      "timestamp": "2026-07-04T12:04:59.447Z"
+      "summary": "Market repricing Rubio VP odds sharply upward (+16 cents) while Vance holds steady as front-runner for nomination. Signal suggests either Rubio appointment confirmation or expectation of Vance selecting Rubio as running mate. Todd Blanche (Attorney General) holding at 77% confidence.",
+      "signal": "Succession planning in Republican hierarchy clarifying: Vance positioned as 2028 nominee with Rubio as VP would anchor Florida/foreign-policy wing. Market may be pricing Rubio State Department exit or elevated Trump inner circle role.",
+      "contradicts": "Earlier consensus that VP selection was unsettled; now shows clear market confidence in Rubio tier-two positioning.",
+      "timestamp": "2026-07-05T12:13:14.267Z"
     },
     {
       "id": "sig4",
       "domain": "US Politics",
-      "headline": "Todd Blanche priced at 77% for Trump's next Attorney General; Pulte at 3% for DNI with +2¢ move",
+      "headline": "Drudge: 'DOGE self-deletes. Grand experiment fell apart long before'; Zombie Congress threatens Republican agenda",
       "significance": "MEDIUM",
-      "summary": "Blanche solidly locked as AG nominee (77% Kalshi). Bill Pulte unexpectedly emerging in DNI race (3%, +2¢ 24h move) despite lack of traditional intelligence background; Drudge reports 'Pulte begins firing dozens of intel officials.'",
-      "signal": "Pulte's elevation signals Trump administration purge of career intelligence apparatus and willingness to install non-traditional loyalists in sensitive positions. May indicate intent to reshape IC for policy alignment or reduce institutional independence.",
-      "contradicts": "Previous DNI picks required substantial defense/intel credentials; Pulte suggests ideology/loyalty prioritized over expertise.",
-      "timestamp": "2026-07-04T12:04:59.447Z"
+      "summary": "Narrative emerging of Department of Government Efficiency (DOGE) initiative's failure or dissolution. Parallel headline suggests legislative gridlock impeding Trump policy execution. Both signal internal dysfunction.",
+      "signal": "If DOGE collapse is real, indicates Musk/Trump friction or Musk's bandwidth exhaustion. Congress gridlock suggests Republican narrow majority insufficient to pass agenda items; may force deals with Democrats on critical bills.",
+      "contradicts": "Trump administration messaging of executive-branch efficiency gains; suggests honeymoon period ending earlier than expected.",
+      "timestamp": "2026-07-05T12:13:14.267Z"
     },
     {
       "id": "sig5",
-      "domain": "Americas",
-      "headline": "Putin preparing Polish incursion to challenge NATO; Russian superyacht flees Ukraine drone threat",
-      "significance": "HIGH",
-      "summary": "Drudge reports Putin preparing military probing of Polish territory to test NATO response; simultaneous reports of Russian assets evacuating from Ukraine pressure. Two-theater posture suggests Moscow testing resolve while consolidating positions.",
-      "signal": "Indicates Russian escalation contingency planning or readiness to probe NATO cohesion. US must assess whether European allies prepared for hybrid incursion below Article 5 threshold. Poland as test case for alliance credibility.",
-      "contradicts": "Assumption of frozen conflict lines; Russia signaling intent to contest NATO territory boundaries.",
-      "timestamp": "2026-07-04T12:04:59.447Z"
+      "domain": "US Politics",
+      "headline": "Drudge: 'Masked men with Confederate flags seen chanting, marching, riding Metro in DC'; Brooklyn Bridge fire during fireworks",
+      "significance": "MEDIUM",
+      "summary": "Two domestic disorder signals: organized extremist activity in nation's capital during sensitive period (250th anniversary context); infrastructure incident (accidental or otherwise) at iconic bridge. Both indicate heightened volatility.",
+      "signal": "Right-wing militia or white-supremacist organizing in DC suggests either recruitment drive or protest activity timed to July 4th anniversary. Brooklyn Bridge fire (if not purely accidental) raises critical infrastructure vulnerability concern. Both may reflect escalating domestic political temperature.",
+      "contradicts": null,
+      "timestamp": "2026-07-05T12:13:14.267Z"
     },
     {
       "id": "sig6",
       "domain": "US Politics",
-      "headline": "Market prices Gavin Newsom (21%) and AOC (15%) as leading Democratic 2028 nominees; Kamala Harris at only 8%",
+      "headline": "Gavin Newsom 21% Democratic nominee; Kamala Harris 8% Democratic nominee; Ossoff and AOC tied at 14%",
       "significance": "MEDIUM",
-      "summary": "Prediction markets show Newsom and AOC collectively outpacing Harris for Democratic nomination. Biden administration successor choices appear fragmented; Harris sidelined despite sitting VP. Reflects perceived weakness or donor/activist pivot to younger/more ideologically distinct candidates.",
-      "signal": "Democratic base appears to lack confidence in Harris as 2028 frontrunner. Markets pricing preference for California executive or progressive insurgent. Suggests party internal realignment underway independent of official endorsements.",
-      "contradicts": "Assumption that sitting VP would hold institutional advantage; markets indicate Harris damaged or disadvantaged post-2024.",
-      "timestamp": "2026-07-04T12:04:59.447Z"
+      "summary": "Democratic field showing Newsom clear front-runner with next tier (Ossoff, AOC) far back at 14%. Harris odds have collapsed to single digits. Suggests party movement away from incumbent administration figures.",
+      "signal": "Market confidence in Democratic renewal candidate (Newsom) over continuity/identity-politics picks. AOC and Ossoff equal pricing suggests young progressive lane is split; neither consolidating youth/progressive vote. Harris's weakness signals vulnerability of 2024 ticket legacy.",
+      "contradicts": "Assumption that Harris would lead or anchor Democratic nominee odds; instead markets price her as residual choice.",
+      "timestamp": "2026-07-05T12:13:14.267Z"
     }
   ],
-  "scanNote": "Signal quality moderate-to-high; prediction markets reflect real-money positioning and show internal consistency, but headlines mix confirmed reports with tabloid speculation (Diddy pardon, weight records, royal wedding costs).",
+  "scanNote": "Signal quality degraded by Drudge narrative density and lack of hard dates/attribution in GDELT feed; prediction-market repricing (Rubio VP +16¢) is most concrete; Venezuela earthquake and DOGE collapse are leading news but detail-sparse.",
   "markets": [
     {
-      "ticker": "KXGREENTERRITORY-29",
-      "label": "US acquires part of Greenland before 2029",
-      "domain": "Europe",
-      "marketProb": 24,
-      "aiProb": 12,
-      "gap": -12,
+      "ticker": "KXPRESNOMD-28-GN",
+      "label": "Newsom 2028 Dem Nominee",
+      "domain": "US Politics",
+      "marketProb": 21,
+      "aiProb": 18,
+      "gap": -3,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Market at 24% with a +3¢ spike suggests speculative momentum, but no concrete annexation mechanism exists and NATO alliance politics make forced acquisition near-impossible before Jan 2029; STRATWATCH assesses Kalshi is overpricing this.",
-      "volume24h": 7022,
-      "openInterest": 424747,
+      "rationale": "Newsom leads Dem nominee markets at 21% but DOGE collapse, Trump 250th celebration dominance, and a fractured Democratic bench with Ossoff and AOC crowding the field suppress his probability slightly below market pricing.",
+      "volume24h": 21268,
+      "openInterest": 3162610,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
+    },
+    {
+      "ticker": "KXPRESNOMR-28-JDV",
+      "label": "Vance 2028 GOP Nominee",
+      "domain": "US Politics",
+      "marketProb": 41,
+      "aiProb": 38,
+      "gap": -3,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Vance holds the strongest single GOP nominee position at 41% market price; with Trump constitutionally barred and no dominant heir apparent, Vance's incumbency as VP makes him the default frontrunner, though Rubio's foreign-policy profile amid active Middle East and Ukraine escalations could erode his lead.",
+      "volume24h": 5462,
+      "openInterest": 1618122,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
+    },
+    {
+      "ticker": "KXPRESNOMR-28-MR",
+      "label": "Rubio 2028 GOP Nominee",
+      "domain": "US Politics",
+      "marketProb": 30,
+      "aiProb": 28,
+      "gap": -2,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Rubio at 30% nominee market benefits from the active Iran/Hormuz crisis resolution and Ukraine-Russia escalation headlines that elevate a credentialed foreign-policy figure, though the massive spike in his VP market (45%, +16 cents) may signal the market is pricing a VP path over a presidential path.",
+      "volume24h": 8118,
+      "openInterest": 2295088,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
+    },
+    {
+      "ticker": "KXVPRESNOMR-28-MR",
+      "label": "Rubio 2028 GOP VP Nominee",
+      "domain": "US Politics",
+      "marketProb": 45,
+      "aiProb": 35,
+      "gap": -10,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "The extraordinary +16-cent single-day move to 45% on Rubio VP is the largest directional signal in the entire dataset and likely reflects new information about a Vance-Rubio ticket scenario; corroborated by Rubio's foreign-policy salience given Hormuz normalization and Iran post-Khamenei hardliner succession.",
+      "volume24h": 1414,
+      "openInterest": 172284,
+      "priceChange24h": 16,
+      "url": "https://kalshi.com/markets/KXVPRESNOMR-28-MR"
+    },
+    {
+      "ticker": "KXPRESNOMD-28-JOSS",
+      "label": "Ossoff 2028 Dem Nominee",
+      "domain": "US Politics",
+      "marketProb": 14,
+      "aiProb": 10,
+      "gap": -4,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Ossoff at 14% market price carries the highest open interest among Dem nominees, suggesting institutional positioning, but his thin national profile and the crowded field make a nomination unlikely; STRATWATCH assigns modest downward revision to 10%.",
+      "volume24h": 38277,
+      "openInterest": 3326259,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
+    },
+    {
+      "ticker": "KXPRESNOMD-28-AOC",
+      "label": "AOC 2028 Dem Nominee",
+      "domain": "US Politics",
+      "marketProb": 14,
+      "aiProb": 11,
+      "gap": -3,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "AOC at 14% nominee and 9% general-election winner reflects left-flank energy, but the -1-cent drift and rising antisemitism headlines alongside a polarized 250th-anniversary news cycle suggest the center-left establishment will resist her nomination; STRATWATCH holds near market.",
+      "volume24h": 33612,
+      "openInterest": 3615445,
+      "priceChange24h": -1,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
+    },
+    {
+      "ticker": "KXTRUMPBEARCASECOMBO-27DEC-26",
+      "label": "Trump Bear Case 2026",
+      "domain": "US Politics",
+      "marketProb": 14,
+      "aiProb": 20,
+      "gap": 6,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "The +3-cent move to 14% on the Trump bear-case composite is the second-largest directional signal in the dataset; DOGE self-destruction, 'Zombie Congress' Republican agenda stall, and divided-America framing on the 250th anniversary all represent meaningful downside political risk, pushing STRATWATCH above market to 20%.",
+      "volume24h": 2073,
+      "openInterest": 81171,
       "priceChange24h": 3,
-      "url": "https://kalshi.com/markets/KXGREENTERRITORY-29"
+      "url": "https://kalshi.com/markets/KXTRUMPBEARCASECOMBO-27DEC-26"
+    },
+    {
+      "ticker": "KXGREENLAND-29-27",
+      "label": "Trump Buys Greenland Before 2027",
+      "domain": "US Politics",
+      "marketProb": 5,
+      "aiProb": 3,
+      "gap": -2,
+      "favorable": false,
+      "confidence": "HIGH",
+      "rationale": "With no positive Greenland legislative or diplomatic movement in the current intel, US political capital consumed by domestic fracture on the 250th and ongoing Venezuela/Iran crises, and only 18 months remaining before the 2027 deadline, STRATWATCH holds this below the 5% market price.",
+      "volume24h": 2263,
+      "openInterest": 397679,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXGREENLAND-29-27"
     },
     {
       "ticker": "KXNEXTAG-29-TBLA",
-      "label": "Todd Blanche becomes next AG",
+      "label": "Todd Blanche Next AG",
       "domain": "US Politics",
       "marketProb": 77,
       "aiProb": 72,
       "gap": -5,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Market at 77% reflects strong insider positioning; Blanche's prior Trump representation and the Rubio-Hegseth power struggle headline suggest Trump is consolidating loyalists in key posts, supporting but not guaranteeing confirmation.",
-      "volume24h": 9206,
-      "openInterest": 581573,
-      "priceChange24h": 1,
+      "rationale": "Blanche at 77% market price is the dominant AG candidate with no competing intelligence signals suggesting a near-term change; STRATWATCH slightly discounts to 72% given the general political volatility implied by 'Zombie Congress' and potential Senate confirmation complications.",
+      "volume24h": 6227,
+      "openInterest": 581464,
+      "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
-    },
-    {
-      "ticker": "KXPRESNOMR-28-JDV",
-      "label": "Vance wins 2028 GOP nomination",
-      "domain": "US Politics",
-      "marketProb": 42,
-      "aiProb": 38,
-      "gap": -4,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "At 42% with a +1¢ tick, Vance leads the Republican field, but the Rubio intrigue headline and Rubio's own 30% nomination price signal a genuine two-horse race; STRATWATCH sees the market as slightly generous to Vance given institutional resistance.",
-      "volume24h": 10095,
-      "openInterest": 1617969,
-      "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
-    },
-    {
-      "ticker": "KXPRESNOMR-28-MR",
-      "label": "Rubio wins 2028 GOP nomination",
-      "domain": "US Politics",
-      "marketProb": 30,
-      "aiProb": 28,
-      "gap": -2,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "The 'Rubio secret plot against Hegseth' headline indicates Rubio is playing internal power politics aggressively, which could build a coalition but also exposes him to Trump backlash; 30% market price is roughly fair, STRATWATCH trims slightly for downside risk.",
-      "volume24h": 8465,
-      "openInterest": 2288227,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
-    },
-    {
-      "ticker": "KXPRESNOMD-28-AOC",
-      "label": "AOC wins 2028 Dem nomination",
-      "domain": "US Politics",
-      "marketProb": 15,
-      "aiProb": 18,
-      "gap": 3,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Bernie Sanders crowing about a socialist political revolution and AOC at 15% with a +1¢ move suggests the left-insurgency narrative is gaining traction, but swing-state electability concerns visible in the 'Big Gamble for the Left' headline cap her realistic ceiling.",
-      "volume24h": 30318,
-      "openInterest": 3612939,
-      "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
-    },
-    {
-      "ticker": "KXPRESNOMD-28-GN",
-      "label": "Newsom wins 2028 Dem nomination",
-      "domain": "US Politics",
-      "marketProb": 21,
-      "aiProb": 19,
-      "gap": -2,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Newsom at 21% is the establishment frontrunner but the flat 24h movement and California-specific vulnerabilities (water crisis, cost of living headlines) weigh against him; STRATWATCH sees the market price as roughly fair with modest downward pressure.",
-      "volume24h": 27062,
-      "openInterest": 3147416,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
-    },
-    {
-      "ticker": "KXTRUMPREMOVE",
-      "label": "Trump impeached and removed from office",
-      "domain": "US Politics",
-      "marketProb": 19,
-      "aiProb": 4,
-      "gap": -15,
-      "favorable": true,
-      "confidence": "HIGH",
-      "rationale": "Democrats plotting a 'subpoena storm' and Christie warning of GOP defeat signal political turbulence, but Republicans control the Senate and removal requires a two-thirds supermajority — the 19% market price is a significant overestimate of actual removal probability.",
-      "volume24h": 3426,
-      "openInterest": 210920,
-      "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXTRUMPREMOVE"
-    },
-    {
-      "ticker": "KXNEXTODNI-29-ALUK",
-      "label": "Aaron Lukas becomes next DNI",
-      "domain": "US Politics",
-      "marketProb": 12,
-      "aiProb": 8,
-      "gap": -4,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Bill Pulte firing dozens of intel officials is the live intelligence signal here, and Pulte himself is in the market at 3% as a rival candidate; Lukas at 12% appears speculative with thin open interest, and STRATWATCH assesses the field remains highly uncertain.",
-      "volume24h": 5722,
-      "openInterest": 67458,
-      "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXNEXTODNI-29-ALUK"
     }
   ],
   "watchSignals": [
-    "Grid stability and energy demand crisis — emergency measures underway with record heat, data center power drain, and lowest labor force participation since 1976 suggest structural economic stress",
-    "2028 Democratic nomination trajectory — Newsom (21%), AOC (15%), Ossoff (14%), Rahm Emanuel (6%) show fragmented field; watch for consolidation signals and Sanders' socialist movement claims",
-    "Trump administration internal fractures — Rubio-Hegseth tensions, Pulte intelligence purge (3% market odds for DNI), and Vance ascent (42% Republican nominee odds) indicate instability in war/foreign policy apparatus",
-    "Greenland acquisition probability jump — market moved from baseline to 24% in 24h; monitor diplomatic statements from Belgium, Denmark, and Trump team for territorial ambitions signal",
-    "Republican 2028 succession — Vance (42%), Rubio (30%), Tucker Carlson (2%), Trump himself (3% nominee odds despite prior presidency) suggest internal GOP realignment and Trump's declining gravitas",
-    "NATO-Russia threshold — Putin Polish incursion preparation reports + Ukraine drone/warship escalation + armed security around England team in Mexico indicate kinetic conflict probability assessment shift needed"
+    "Venezuela earthquake death toll trajectory and humanitarian crisis scope — currently near 3000; watch for cascading displacement, disease outbreak, regional migration surge toward US southern border",
+    "Strait of Hormuz LNG disruption recovery — India lifting emergency gas curbs signals normalization, but watch for any re-escalation in West Asia that could re-trigger energy shock and inflation",
+    "2028 Democratic primary consolidation — Newsom (21%) and Ossoff/AOC (14% each) showing measurable support; watch for endorsement cascades and donor movement that could signal front-runner emergence",
+    "2028 Republican succession dynamics — Vance at 41% for nomination vs Rubio at 30%; watch for any Trump re-entry signal or explicit successor endorsement that would reset market pricing",
+    "Todd Blanche Attorney General confirmation trajectory — at 77% Kalshi probability; watch for Senate Judiciary hearings and any DOJ independence concerns that could affect market confidence",
+    "Domestic civil polarization indicators — Brooklyn Bridge fire during 250th anniversary, masked Confederate-flag marchers in DC, antisemitism survey showing identity concealment; watch for any flashpoint triggering larger unrest or security operations"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Energy Infrastructure",
-      "headline": "Record heat demand collides with grid fragility; emergency curtailment orders issued",
+      "domain": "Humanitarian/Americas",
+      "headline": "Venezuela earthquake death toll risen to ~3000 with ongoing rescue operations",
       "significance": "CRITICAL",
-      "summary": "DC hotter than 99th percentile globally. Grid operators ordering emergency steps to prevent large-scale outages. Data centers draining power concurrently with residential demand spike. Labor force participation at 1976 lows suggests economic contraction overlapping energy crisis.",
-      "signal": "US domestic resilience weakening; climate+tech+labor convergence risk. Industrial capacity constrained. Energy policy pressure on Trump admin will intensify."
+      "summary": "Major seismic event in Venezuela has killed nearly 3000 and triggered humanitarian crisis with McDonald's and bus stations converted to clinics. Rescue missions ongoing. Trump administration claims military victory over Venezuela but crisis is active and severe.",
+      "signal": "US border security and migration policy will face imminent pressure; humanitarian aid requests likely; potential for destabilization rhetoric from Caracas; Southern Command readiness test"
     },
     {
       "id": "gt2",
-      "domain": "Executive Branch Stability",
-      "headline": "Trump cabinet exhibiting visible fractures; Pulte replacing intelligence officials en masse",
-      "significance": "CRITICAL",
-      "summary": "Rubio-Hegseth conflict over military strategy. Pulte (3% market odds DNI replacement) initiating mass intelligence-community purge. Vance financial disclosures reveal crypto holdings. Former generals warning of military politicization.",
-      "signal": "Institutional checks eroding. Foreign intelligence capability degradation risk. Adversaries will probe US response coherence in coming weeks."
+      "domain": "Energy/Geopolitics",
+      "headline": "India withdraws emergency LNG supply curbs as Strait of Hormuz shipments resume normalization",
+      "significance": "HIGH",
+      "summary": "Multiple Indian sources confirm government lifting emergency natural gas rationing imposed during Hormuz disruption as LNG flows via critical chokepoint normalize. Signals either de-escalation or temporary truce in West Asia maritime tension.",
+      "signal": "Oil/gas markets stabilizing; inflation pressure easing; US Energy Independence agenda gains credibility; watch for any Iranian or Houthi provocation that could re-spike energy costs"
     },
     {
       "id": "gt3",
-      "domain": "Elections & Succession",
-      "headline": "2028 Democratic field fragmented; Republican succession centers on Vance with Trump nominee odds collapsing",
+      "domain": "Electoral/Succession",
+      "headline": "2028 Democratic nomination markets show Newsom (21%), Ossoff/AOC (14%), Harris (8%) with no clear consolidation",
       "significance": "HIGH",
-      "summary": "Dem markets: Newsom 21%, AOC 15%, Ossoff 14%. GOP markets: Vance 42% (up 1¢), Rubio 30%, Trump 3% (his own party). Prediction-market consensus shows incumbent party fracture and vice-president consolidation.",
-      "signal": "Democratic chaos creates 2028 vulnerability. Vance asset-building for succession underway. Trump's political mortality evident in own-party nominee pricing."
+      "summary": "Kalshi prediction markets display fragmented Democratic field with Newsom leading but low absolute probability, suggesting no dominant challenger has emerged post-2024. Open field creates vulnerability to organized donor/media momentum.",
+      "signal": "Democratic establishment faces donor uncertainty; left-wing (AOC/Ossoff) vs moderate (Newsom) split persists; incumbency advantage for Harris weak; Republican succession clarity (Vance 41%) exceeds Democratic clarity"
     },
     {
       "id": "gt4",
-      "domain": "Territorial Ambitions",
-      "headline": "Greenland acquisition odds jumped 3 cents to 24% in 24 hours; Belgium gifted Trump tariff-relief ring",
+      "domain": "Governance/Domestic",
+      "headline": "DOGE self-deletes after short tenure; Republican agenda encounters congressional friction labeled zombie Congress",
       "significance": "HIGH",
-      "summary": "Market-implied probability of US acquiring any Greenland territory before Jan 2029 now at 24%. Trump received 321-diamond, 56-sapphire ring from Belgian delegation for tariff concessions. NATO ally coordination signals weakness.",
-      "signal": "Trump testing territorial expansion thesis. NATO alliance cohesion degrading. Denmark/Greenland contingency planning required."
+      "summary": "Musk-led Department of Government Efficiency appears to have collapsed or withdrawn from institutional role. Drudge reports Republican legislative agenda facing unexpected obstacles from within party.",
+      "signal": "Trump administration facing internal governance challenges; policy implementation slower than markets priced; DOGE experiment failure suggests techno-optimism limits; Congress alignment with executive weaker than assumed"
     },
     {
       "id": "gt5",
-      "domain": "Russia-NATO Threshold",
-      "headline": "Putin preparing Polish incursion; Ukraine drone/warship escalation; England team security incidents in Mexico",
-      "significance": "HIGH",
-      "summary": "Reports of Russian military preparation for Poland probe. Putin's warships fleeing to hide from Ukrainian drones (escalation spiral). Armed security around NATO-ally England team in Mexico suggests sabotage fears. All indicators point to testing NATO resolve window.",
-      "signal": "Russia assessing NATO cohesion during US domestic/executive chaos. Poland frontline vulnerability highest since Ukraine invasion. US strategic bandwidth consumed by domestic crises. 4-week window critical for deterrence signaling."
+      "domain": "Domestic Security/Polarization",
+      "headline": "Confederate-flag marchers observed in DC; Brooklyn Bridge fire during 250th anniversary; rising antisemitism survey reports identity concealment among American Jews",
+      "significance": "CRITICAL",
+      "summary": "Multiple indicators of rising internal polarization and extremist visibility — white supremacist symbols in federal capital, domestic infrastructure disruption during national anniversary, and Jewish community resorting to identity hiding. Pattern suggests fracturing social cohesion.",
+      "signal": "FBI domestic threat assessment likely elevated; state-level law enforcement stretched; potential flashpoint for escalation if coordinated; counter-extremism resources being allocated; international allies observing US internal stability decline"
     }
   ]
 }
