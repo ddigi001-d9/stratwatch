@@ -1,290 +1,315 @@
 {
-  "generatedAt": "2026-07-12T11:53:56.814Z",
-  "runNumber": 59,
+  "generatedAt": "2026-07-13T13:15:31.660Z",
+  "runNumber": 60,
   "situation": {
-    "headline": "US-Iran war enters sustained exchange phase: CENTCOM confirms 140-target third strike package while Iran ballistic missiles repeatedly hit Al Udeid, Bahrain 5th Fleet base, and Gulf partner territory, with Hormuz transit status contested between Iranian closure declaration and US-established Omani corridor",
+    "headline": "Active US military strikes on Iranian territory combined with Strait of Hormuz seizure operations signal the most significant direct US-Iran kinetic engagement in decades, with cascading risks across energy, regional stability, and nuclear diplomacy simultaneously in motion",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 92,
+        "prob": 94,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Active kinetic exchange between US and Iran is ongoing with multiple rounds of strikes on both sides, Gulf partner bases under repeated ballistic missile attack, Hormuz navigation contested, and no durable ceasefire mechanism visible despite mediator activity around a fragile interim peace memorandum."
+        "status": "US strikes on Omidiyeh Airport and coastal defense infrastructure, Iranian refusal of IAEA inspections, Houthi resumption of Red Sea harassment, Saudi-Houthi ceasefire collapse, and explosions at Bandar Abbas and Qeshm Island constitute a multi-front kinetic escalation ladder with no visible off-ramp in the next 90 days."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 28,
+        "prob": 61,
         "label": "China coercion escalation",
         "trajectory": "UP",
-        "status": "Context is thin on Indo-Pacific signals, but US military assets and attention are heavily committed to CENTCOM, creating a window of reduced deterrence posture in the Pacific that Beijing will be assessing in real time."
+        "status": "A 14-nation joint reaffirmation of the 2016 South China Sea tribunal ruling, including Japan, has provoked sharp Chinese diplomatic protests and summoning of ambassadors, hardening an already tense legal-military standoff as Beijing watches US attention consumed by Iran."
       },
       {
         "name": "Europe",
         "prob": 22,
         "label": "NATO cohesion fracture",
         "trajectory": "FLAT",
-        "status": "Ukraine continues to prosecute aggressive maritime operations against Russian Kerch Strait infrastructure and Sea of Azov tankers, demonstrating operational capacity, but the death of Lindsey Graham removes a key Senate champion for Ukraine aid at a sensitive political moment."
+        "status": "Russian FSB attribution for multi-year cyberattacks on EU government networks across ten member states reinforces alliance solidarity against Moscow, while Ukraine's sustained Sea of Azov drone campaign against 105 Russian vessels over eight days demonstrates continued offensive capacity, keeping European resolve relatively firm."
       },
       {
         "name": "Energy",
         "prob": 78,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Hormuz closure declaration by Iran puts roughly 20 percent of global oil supply at acute risk; the US-established Omani alternative corridor and LNG resumption reports are partial mitigants, but UAE output at all-time highs cannot alone offset a sustained Hormuz interdiction."
+        "status": "US military operations degrading Iranian coastal missile and radar sites along the Strait of Hormuz, combined with Houthi resumption of Red Sea small-boat harassment and tanker incidents near Aden, place approximately 20 percent of global oil transit under active military management, with gas power costs already at a 17-year high and Strategic Reserve draws straining aging infrastructure."
       },
       {
         "name": "US Politics",
-        "prob": 52,
+        "prob": 38,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Wartime rally effect may temporarily boost executive approval, but domestic turbulence including DOJ media subpoenas, ICE shooting controversy, Patel instability, and midterm confusion over citizenship data all sustain structural Democratic pickup conditions; prediction markets show AOC at 16 percent for 2028 nomination and Newsom at 20 percent, suggesting the Democratic field is consolidating around the left flank while the party lacks a dominant centrist."
+        "status": "Death of Senator Graham triggers a South Carolina vacancy race, DOJ subpoenas against NYT journalists and FBI leaker hunts signal a sharpening executive-press confrontation, Trump sons' defense tech investments raise ethics exposure, and consumer debt stress from food costs creates economic headwinds; Kalshi Democratic Sweep contract sits at 49 percent with minimal 24h movement, suggesting markets see the race as genuinely open."
       }
     ],
-    "unseen": "The simultaneous hospitalization of McConnell and death of Graham eliminates both of the Senate's most influential institutionalist Republican foreign policy hawks at the precise moment the US is conducting offensive operations against Iran; this removes the most credible Congressional brake on either escalation or premature de-escalation, concentrating war-termination authority in the executive and creating a vacuum that hawkish executive advisors and foreign actors alike will exploit before a successor caucus forms its own coherent posture.",
-    "criticalWindow": "The next 15 to 45 days determine whether the US-Iran interim peace memorandum collapses entirely or produces a durable ceasefire framework: if CENTCOM strike rounds continue without a negotiated pause, Iran's ballistic missile inventory will be attrited but Gulf partner tolerance for hosting US forces will fracture, potentially forcing a US basing retreat that Iran would declare as strategic victory regardless of tactical losses.",
+    "unseen": "The simultaneous collapse of the US-Iran MOU, Iran's refusal of IAEA access, US seizure of Hormuz coordination, and Ukraine's destruction of 105 Russian vessels in the Sea of Azov are converging in a single week in ways that will force China to recalibrate its own Taiwan timeline calculus: Beijing is watching the US demonstrate both willingness and capacity for sustained kinetic operations against a nuclear-adjacent adversary's maritime infrastructure while simultaneously managing a European theater, which is a direct data point Beijing's PLA planners are feeding into their cross-strait risk models, making the South China Sea diplomatic flare-up a potential feint or pressure test rather than an end in itself.",
+    "criticalWindow": "The next 30 days of Iranian decision-making on IAEA access and MOU compliance are the most time-sensitive hinge point: if Tehran formally abandons the deal while US forces hold Hormuz coordination posture, the diplomatic ladder collapses entirely and allied re-insurance of Strait transit becomes a de facto naval blockade requiring sustained force projection that will stress US carrier availability and invite Chinese opportunism in the Indo-Pacific simultaneously.",
     "watchFor": [
-      "Iran targeting US personnel directly rather than infrastructure, which would trigger domestic US pressure for regime-change escalation rather than containment",
-      "Qatar or Bahrain publicly requesting US forces to reduce footprint or pause operations, signaling Gulf partner fracture under Iranian missile pressure",
-      "China conducting Taiwan Strait or South China Sea provocative maneuvers while CENTCOM is surge-committed, testing the two-theater deterrence gap",
-      "A Senate Republican vote on war powers authorization or supplemental military spending that reveals the post-Graham, post-McConnell balance of the caucus on Iran war scope"
+      "Iranian declaration of full MOU withdrawal or announcement of uranium enrichment acceleration above current levels, which would trigger Israeli and Gulf state unilateral action planning independent of Washington",
+      "Houthi or Iranian proxy strike successfully disabling a major oil tanker transiting Hormuz under US coordination, testing the credibility of the US protection umbrella and potentially spiking Brent by 15-25 percent in hours",
+      "Chinese naval or coast guard action against a Philippine or Japanese vessel in the South China Sea timed to exploit US Hormuz distraction, converting the current diplomatic flare-up into a kinetic incident",
+      "South Carolina Senate vacancy appointment of Scott Bessent removing him from Treasury at a moment of peak energy-market and tariff stress, creating a leadership vacuum in the one cabinet position most critical to managing a simultaneous oil shock and potential recession the market already prices at 43 percent probability by 2027"
     ],
-    "confidenceNote": "This assessment rests on OSINT social feeds and scraped headlines that have not been independently verified; the Hormuz closure status is specifically contradicted by two sources within the same feed, Iranian strike damage claims against Duqm are unconfirmed, and the GDELT wires reference an existing Iran-US peace memorandum on Day 133 of a named war, implying a longer conflict timeline than a single news cycle can fully characterize. Probability estimates for Middle East escalation are high-confidence given volume of corroborating sources; Indo-Pacific and NATO figures carry wide uncertainty bands.",
-    "topPattern": "The US is now in a sustained bilateral military exchange with Iran that has lasted at least 133 days by GDELT dating, yet prediction markets show zero movement on war-related scenarios and 2028 Democratic nomination prices remain completely static, suggesting markets have either fully priced the conflict as contained or are dangerously underweighting the scenario where Gulf basing access collapses and energy supply shock transmits into a recession that reshapes the 2026 midterm and 2028 presidential landscape; Rahm Emanuel's modest 6 percent nomination price with a plus-1 cent move is the only faint signal of markets beginning to price a centrist wartime Democrat alternative."
+    "confidenceNote": "Key uncertainties include whether the US strikes on Iranian territory represent a defined campaign with explicit termination criteria or open-ended attrition, the actual operational status of Iranian nuclear facilities post-strike, whether the Graham death report is confirmed and the political succession timeline in South Carolina, the degree to which the US-Iran MOU had meaningful compliance history before this crisis phase, and the reliability of Sea of Azov vessel-destruction counts from Ukrainian OSINT sources who have strong incentive to inflate figures.",
+    "topPattern": "The thread connecting all major theaters is that US hard-power credibility is being simultaneously tested and demonstrated in the Strait of Hormuz, creating a brief window of deterrence leverage over China in the South China Sea that the 14-nation tribunal reaffirmation is designed to exploit, but this window closes rapidly if Iran successfully imposes costs on Hormuz transit or if domestic political turbulence from Graham's death, DOJ press conflicts, and consumer economic stress constrains the administration's freedom of action; Kalshi markets pricing Marco Rubio VP at 24 percent down 3 cents and JD Vance presidential nomination at 42 percent up 1 cent suggest subtle repositioning around succession risk that sophisticated money is beginning to price."
   },
   "signals": [
     {
       "id": "sig1",
-      "domain": "Middle East",
-      "headline": "Iran launches sustained multi-theater ballistic missile and drone campaign against US bases across Gulf",
+      "domain": "US Politics",
+      "headline": "Lindsey Graham reported dead from brief illness after Ukraine return",
       "significance": "CRITICAL",
-      "summary": "IRGC conducted coordinated attacks on Al Udeid (Qatar), Duqm (Oman), and Bahrain using Ghadr, Emad, Kheibar Shekan, and Fateh-110 missiles. US responded with 140 strikes on Iranian coastal targets, missile sites, and naval infrastructure. Strait of Hormuz declared closed by Tehran but US maintains southern transit corridor through Omani waters remains operational.",
-      "signal": "Escalation has reached direct kinetic exchange phase between US and Iran after period of interim peace deal negotiations. Sustainability of talks now severely compromised; risk of further tit-for-tat cycles high. Oil markets pricing in Hormuz risk but not yet full closure—commercial LNG shipments resuming despite tensions suggests market expects de-escalation or containment.",
-      "contradicts": "Earlier GDELT reporting on 'Iran War Day 133' and 'interim peace deal' stability; current kinetic activity suggests those were fragile.",
-      "timestamp": "2026-07-12T11:56:21.987Z"
+      "summary": "Drudge headlines report Senator Lindsey Graham dead from sudden illness following recent Ukraine visit. McConnell clarifies he was hospitalized last month after a fall, suggesting possible confusion or misreporting. Senate faces renewed focus on aging membership vulnerabilities.",
+      "signal": "If Graham death confirmed, immediate Senate seat vacancy triggers succession crisis during active Iran-US military escalation and Ukraine aid debates. Treasury Secretary Bessent replacement option signals administration focus on economic continuity over Senate consensus-building.",
+      "contradicts": "McConnell clarification suggests Graham may not be deceased; headline may be speculative or false alarm. Requires verification before strategic assessment.",
+      "timestamp": "2026-07-13T13:18:08.979Z"
     },
     {
       "id": "sig2",
-      "domain": "US Politics",
-      "headline": "Senator Lindsey Graham dies suddenly of cardiac arrest after returning from Ukraine visit",
-      "significance": "HIGH",
-      "summary": "Republican Senator Lindsey Graham, age 71, suffered cardiac arrest at his DC residence on Saturday night following return from his 10th trip to Ukraine. Paramedics called, reportedly on stretcher. Iranian state media publicly celebrated his death; Reza Pahlavi (exiled Iranian opposition) eulogized him as steadfast friend of Iranian people. Follows recent hospitalization of Mitch McConnell.",
-      "signal": "Loss of a senior hawkish Republican voice during active Iran crisis removes key constraint on escalation in Senate. Graham was consistent advocate for Ukraine aid and Iran pressure—his sudden absence may shift GOP caucus dynamics on Middle East authorization votes. Timing during hot conflict raises questions about policy continuity and succession dynamics in Senate GOP leadership.",
-      "contradicts": null,
-      "timestamp": "2026-07-12T11:56:21.987Z"
+      "domain": "Middle East",
+      "headline": "US strikes Iranian targets; Iran retaliates; Saudi-Houthi ceasefire collapses",
+      "significance": "CRITICAL",
+      "summary": "US conducted strikes on Iranian air-defense systems, coastal radars, and drone capabilities on July 12 to degrade Strait of Hormuz threat. Iran's Foreign Ministry rejected IAEA inspections and vowed to abandon MOU if US non-compliance continues. Saudi strikes on Sana'a airport broke Yemen ceasefire; Iranian Mahan Air delegation landed at Hodeidah under protection.",
+      "signal": "Escalation spiral underway: US-Iran direct military action, collapse of Saudi-Houthi de-escalation track, Iranian defiance on nuclear transparency. Strait transits resuming under US coordination (20 vessels) but at elevated risk. Regional proxy wars re-igniting simultaneously.",
+      "contradicts": "Trump's messaging on Iran containment contradicts rapid military escalation and Iranian resolve to sustain regional operations despite strikes.",
+      "timestamp": "2026-07-13T13:18:08.979Z"
     },
     {
       "id": "sig3",
-      "domain": "US Politics",
-      "headline": "DOJ subpoenas NYT journalists; Trump administration escalates media pressure amid internal leaker hunts",
+      "domain": "Indo-Pacific",
+      "headline": "14 nations affirm 2016 South China Sea tribunal ruling; China rejects and summons Japan envoy",
       "significance": "HIGH",
-      "summary": "Department of Justice has subpoenaed New York Times journalists as part of escalated Trump administration pressure on media. Simultaneous FBI hunt for internal leakers. Multiple reports of internal administration tensions, including description of Patel as facing 'looming threat from inside administration.'",
-      "signal": "Administration is deploying legal pressure against mainstream media outlets during period of active military escalation in Middle East. This pattern historically correlates with efforts to control information flow during crisis. Internal fractures (McConnell hospitalization, Graham death, Patel vulnerabilities) may be driving defensive posture toward press rather than unified crisis messaging.",
-      "contradicts": null,
-      "timestamp": "2026-07-12T11:56:21.987Z"
+      "summary": "US, UK, Japan, and 11 other nations jointly reaffirmed the 2016 arbitral tribunal invalidating Chinese maritime claims in South China Sea. China lodged formal protests and summoned Japanese envoy in response. Joint statement emphasizes free and open Indo-Pacific commitment.",
+      "signal": "Coordinated alliance messaging on rules-based order directly challenges Beijing's nine-dash-line claims and signals unified response to coercive maritime actions. Japan's explicit participation escalates stakes for regional stability and Taiwan contingency planning.",
+      "contradicts": "China's defiant posturing and refusal to recognize tribunal authority suggests continued willingness to escalate maritime provocations despite multilateral pressure.",
+      "timestamp": "2026-07-13T13:18:08.979Z"
     },
     {
       "id": "sig4",
-      "domain": "Energy",
-      "headline": "Oil markets price in Hormuz closure risk but remain relatively subdued; UAE output hits all-time high",
+      "domain": "US Politics",
+      "headline": "DOJ subpoenas NYT journalists; Trump administration escalates media pressure; FBI hunts leakers",
       "significance": "HIGH",
-      "summary": "Despite Iran's closure declaration and US-Iran kinetic exchange, oil prices have settled lower on hopes for 'smoother shipping' through Strait. UAE oil output has doubled pre-crisis levels to all-time high. LNG shipments resuming through Hormuz despite tensions. US southern transit corridor through Omani waters confirmed open and available to all commercial traffic.",
-      "signal": "Markets are pricing in either near-term de-escalation or successful workarounds (Omani corridor, UAE spare capacity) that prevent major supply shock. If kinetic exchanges continue or Iran actually enforces Hormuz closure with naval assets, current oil pricing appears substantially underpriced. Market complacency on energy security risk during active military conflict suggests confidence in US Navy's ability to keep corridor open or that hostilities remain limited-duration.",
-      "contradicts": "Historical pattern where Strait tensions spike oil; current muted response suggests market skepticism of escalation permanence.",
-      "timestamp": "2026-07-12T11:56:21.987Z"
+      "summary": "Drudge reports DOJ subpoenaing New York Times journalists and Trump administration applying pressure on media outlets while FBI investigates leakers. Context suggests coordinated effort to suppress adverse reporting.",
+      "signal": "Press freedom degradation underway at federal level during active military escalations (Iran, Ukraine). Media control attempt during crisis period raises constitutional and intelligence-sharing risks with allied governments.",
+      "contradicts": "None; aligns with Trump's public rhetoric on media as enemy and previous attempts to restrict classified information access.",
+      "timestamp": "2026-07-13T13:18:08.979Z"
     },
     {
       "id": "sig5",
-      "domain": "US Politics",
-      "headline": "Prediction markets show 2028 Democratic field fragmented; Gavin Newsom (20%) and AOC (16%) lead; Kamala Harris at 8%",
-      "significance": "MEDIUM",
-      "summary": "Kalshi markets show Newsom as frontrunner at 20% for 2028 Democratic nomination, followed by AOC at 16% and Jon Ossoff at 14%. Kamala Harris only at 8%. Very low probabilities for mainstream figures (Harris, Sanders 1%, Booker 1%, Fetterman 0%). Rahm Emanuel ticked up +1 cent to 6%.",
-      "signal": "Market is pricing 2028 Democratic field as wide-open and trending toward either West Coast governor or progressive insurgent (AOC). Collapse of Harris odds and retention of very low probabilities for traditional establishment suggests uncertainty about whether incumbent administration (Trump) will seek re-election or face removal, and lack of clear successor consolidation. Current Middle East crisis and Graham death may accelerate demand for different leadership profile.",
-      "contradicts": "Conventional assumption that sitting VP would inherit party's nomination machinery.",
-      "timestamp": "2026-07-12T11:56:21.987Z"
+      "domain": "Energy",
+      "headline": "Strategic Petroleum Reserve drawdowns push 17-year-old system to breaking point",
+      "significance": "HIGH",
+      "summary": "Frequent oil draws from Strategic Petroleum Reserve are stressing aging infrastructure. Gas power costs hit 17-year highs and continue climbing amid energy demands.",
+      "signal": "US energy reserves depletion during Middle East escalation and Ukraine aid reduces buffer against further Iran Strait disruptions. Domestic energy cost spikes erode economic stability and may constrain administration's ability to sustain dual military/aid operations.",
+      "contradicts": "None; consistent with energy supply fragility warnings from prior quarters.",
+      "timestamp": "2026-07-13T13:18:08.979Z"
     },
     {
       "id": "sig6",
-      "domain": "US Politics",
-      "headline": "Todd Blanche Attorney General odds fall 7 cents to 70% amid Trump administration internal tensions",
+      "domain": "Europe",
+      "headline": "Russia FSB confirmed behind years of EU cyberattacks on critical infrastructure",
+      "significance": "HIGH",
+      "summary": "EU officially announced Russia's FSB responsible for sustained cyberattacks on governmental networks and critical infrastructure across 10 EU member states including France, Germany, Poland, Ukraine. Espionage and sabotage operations span multiple years.",
+      "signal": "Active Russian cyber warfare on NATO/EU infrastructure during peak US commitment to Ukraine suggests Moscow escalation strategy independent of US-Iran military action. EU vulnerability to supply-chain and energy sabotage during current crisis increases transatlantic coordination burden.",
+      "contradicts": "None; reinforces known threat pattern but formal EU attribution signals political decision to highlight attribution publicly.",
+      "timestamp": "2026-07-13T13:18:08.979Z"
+    },
+    {
+      "id": "sig7",
+      "domain": "Americas",
+      "headline": "China and Russia intelligence sites in Cuba flagged as national security threat",
       "significance": "MEDIUM",
-      "summary": "Kalshi AG successor market shows Todd Blanche at 70% (-7 cents in 24h), well ahead of Robert Giuffra at 0%. Reports of criminal referral consideration against Corey Lewandowski and Patel facing 'looming threat from inside administration' suggest internal turmoil.",
-      "signal": "Movement away from Blanche despite still being consensus frontrunner may reflect uncertainty about whether AG role itself will remain stable under Trump during sustained military conflict. Lewandowski criminal referral and Patel vulnerabilities signal internal factions within administration are weaponizing DOJ. If Blanche is perceived as Trump loyalist, his declining odds may indicate market uncertainty about administration longevity.",
-      "contradicts": null,
-      "timestamp": "2026-07-12T11:56:21.987Z"
+      "summary": "Fox News reports Chinese and Russian intelligence operations in Cuba designated as national security threat to US. Timing coincides with multi-theater escalation.",
+      "signal": "Western Hemisphere intelligence infrastructure allows China-Russia coordination on US adversary operations. Cuba positioning suggests preparation for contingency operations during prolonged US Middle East engagement or Taiwan crisis.",
+      "contradicts": "None; aligns with strategic competition warnings.",
+      "timestamp": "2026-07-13T13:18:08.979Z"
     }
   ],
-  "scanNote": "Signal quality degraded by mixing of Drudge sensationalism (celebrity deaths, bison attack, furniture strains) with genuine conflict intelligence; however, Iran kinetic activity, Graham death, and market pricing moves are substantive and cross-corroborated across OSINT and prediction market sources. Confidence in core Middle East and US politics signals HIGH; confidence in causality links MEDIUM.",
+  "scanNote": "Signal quality degraded by Lindsey Graham death headline requiring urgent verification; remaining Middle East, Indo-Pacific, and cyber signals align with authentic geopolitical escalation patterns observed across multiple independent sources.",
   "markets": [
     {
-      "ticker": "KXELECTUKRAINE-30JAN01-27JAN01",
-      "label": "Ukraine presidential election before 2027",
-      "domain": "Europe",
-      "marketProb": 5,
-      "aiProb": 4,
-      "gap": -1,
-      "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "Active conflict continues with Ukraine conducting major maritime raids on Kerch Strait ferries and Azov tankers, while Graham — a key Ukraine advocate — is dead; martial law conditions make elections before January 2027 essentially impossible, and markets have already moved down 2 cents confirming this view.",
-      "volume24h": 4277,
-      "openInterest": 3158,
-      "priceChange24h": -2,
-      "url": "https://kalshi.com/markets/KXELECTUKRAINE-30JAN01-27JAN01"
-    },
-    {
-      "ticker": "KXNEXTODNI-29-JC",
-      "label": "Jay Clayton as next DNI",
+      "ticker": "KXTRUMPBEARCASECOMBO-27DEC-26",
+      "label": "Trump Bear Case 2026",
       "domain": "US Politics",
-      "marketProb": 95,
-      "aiProb": 93,
-      "gap": -2,
-      "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "Market is priced at 95% with near-zero movement, suggesting strong consensus; with Patel facing internal threats and intelligence community turmoil around Iran escalation creating pressure for confirmed leadership, Clayton's appointment appears highly probable.",
-      "volume24h": 7405,
-      "openInterest": 46106,
-      "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXNEXTODNI-29-JC"
-    },
-    {
-      "ticker": "KXNEXTAG-29-TBLA",
-      "label": "Todd Blanche as next AG",
-      "domain": "US Politics",
-      "marketProb": 70,
-      "aiProb": 60,
-      "gap": -10,
+      "marketProb": 9,
+      "aiProb": 22,
+      "gap": 13,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "A 7-cent single-day drop to 70% is a significant move signaling new uncertainty, likely tied to DOJ subpoenaing NYT journalists and Lewandowski criminal referral deliberations creating political complications around the AG role.",
-      "volume24h": 20896,
-      "openInterest": 574243,
-      "priceChange24h": -7,
-      "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
+      "rationale": "Active military engagement with Iran, DOJ subpoenas of journalists, economic stress signals (debt, food costs), and Supreme Court public fractures all elevate tail-risk scenarios, but markets priced this down 2 cents suggesting traders see the administration weathering current crises.",
+      "volume24h": 3394,
+      "openInterest": 81771,
+      "priceChange24h": -2,
+      "url": "https://kalshi.com/markets/KXTRUMPBEARCASECOMBO-27DEC-26"
     },
     {
-      "ticker": "KXTRUMPBULLCASECOMBO-27DEC-26",
-      "label": "Trump bull case scenario 2026",
+      "ticker": "KXRECSSNBER-27",
+      "label": "Recession in 2027",
       "domain": "US Politics",
+      "marketProb": 43,
+      "aiProb": 52,
+      "gap": 9,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Millions draining savings to afford food, 17-year high gas power costs, frequent SPR draws pushing the reserve system toward failure, and an AI bubble concern over a $4 trillion concentration all point to elevated recession probability above the current 43% market price.",
+      "volume24h": 1646,
+      "openInterest": 30807,
+      "priceChange24h": 1,
+      "url": "https://kalshi.com/markets/KXRECSSNBER-27"
+    },
+    {
+      "ticker": "KXPRESNOMR-28-JDV",
+      "label": "Vance 2028 GOP Nominee",
+      "domain": "US Politics",
+      "marketProb": 42,
+      "aiProb": 38,
+      "gap": -4,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Graham's death reshuffles Senate dynamics and creates a succession vacuum, but the Iran conflict and domestic economic strain could either entrench or damage Vance's positioning depending on outcome; Rubio's simultaneous 3-cent VP drop suggests some ticket reshuffling speculation is live.",
+      "volume24h": 3714,
+      "openInterest": 1588958,
+      "priceChange24h": 1,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
+    },
+    {
+      "ticker": "KXPRESNOMR-28-MR",
+      "label": "Rubio 2028 GOP Nominee",
+      "domain": "US Politics",
+      "marketProb": 29,
+      "aiProb": 24,
+      "gap": -5,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Rubio is deeply associated with the Iran policy and Strait of Hormuz operation as Secretary of State; a successful outcome boosts him, but his VP market dropped 3 cents today suggesting markets are modestly de-risking his overall 2028 positioning simultaneously.",
+      "volume24h": 5475,
+      "openInterest": 2304472,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
+    },
+    {
+      "ticker": "KX2028DRUN-28-AOC",
+      "label": "AOC Runs for 2028 Dem Nomination",
+      "domain": "US Politics",
+      "marketProb": 59,
+      "aiProb": 65,
+      "gap": 6,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "The 6-cent spike to 59% is the sharpest single-day move in the entire prediction-market dataset and likely reflects a concrete signal — possibly a public statement or filing activity — making this the highest-confidence directional signal in the feed; STRATWATCH marks it slightly above market given the momentum.",
+      "volume24h": 5773,
+      "openInterest": 40826,
+      "priceChange24h": 6,
+      "url": "https://kalshi.com/markets/KX2028DRUN-28-AOC"
+    },
+    {
+      "ticker": "KXPRESNOMD-28-AOC",
+      "label": "AOC 2028 Dem Nominee",
+      "domain": "US Politics",
+      "marketProb": 16,
+      "aiProb": 18,
+      "gap": 2,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "The run-market spike (59%) translates into only a moderate nominee probability given a crowded field; Ossoff's 1-cent rise and Newsom at 20% nominee odds indicate the field remains genuinely competitive even if AOC enters.",
+      "volume24h": 5396,
+      "openInterest": 3707333,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
+    },
+    {
+      "ticker": "KXGREENLAND-29-27",
+      "label": "Trump Buys Greenland Before 2027",
+      "domain": "Americas",
       "marketProb": 6,
       "aiProb": 4,
       "gap": -2,
       "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "With the Strait of Hormuz closed or contested, Iranian ballistic missiles striking Al Udeid and Bahrain, oil market stress, DOJ-media conflict, and two senior Republican senators hospitalized or dead in one month, the conditions for a Trump policy triumph scenario in 2026 are extremely poor.",
-      "volume24h": 4364,
-      "openInterest": 179772,
+      "confidence": "HIGH",
+      "rationale": "With US military and diplomatic bandwidth fully consumed by active Iran operations, Yemen maritime incidents, Ukraine drone campaign support, and domestic political crises, executive attention required to advance Greenland acquisition is effectively unavailable through end of 2026.",
+      "volume24h": 2161,
+      "openInterest": 392644,
       "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXTRUMPBULLCASECOMBO-27DEC-26"
+      "url": "https://kalshi.com/markets/KXGREENLAND-29-27"
     },
     {
-      "ticker": "KXPRESNOMD-28-GN",
-      "label": "Gavin Newsom 2028 Dem nominee",
+      "ticker": "KXNEXTAG-29-TBLA",
+      "label": "Todd Blanche Next AG",
+      "domain": "US Politics",
+      "marketProb": 71,
+      "aiProb": 68,
+      "gap": -3,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Blanche holds 71% market price with a 2-cent rise today; the DOJ subpoenaing NYT journalists and FBI hunting leakers signals an AG aligned with aggressive press and leak prosecution is already functionally in place, supporting continuity of current leadership rather than replacement.",
+      "volume24h": 5158,
+      "openInterest": 575741,
+      "priceChange24h": 2,
+      "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
+    },
+    {
+      "ticker": "KXSTATE51-29-VE",
+      "label": "Venezuela as 51st State Before 2029",
       "domain": "Americas",
-      "marketProb": 20,
-      "aiProb": 18,
+      "marketProb": 4,
+      "aiProb": 2,
       "gap": -2,
       "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Newsom leads the Dem field at 20% on Kalshi with a +1 cent move; the Iran war and domestic turbulence favor a candidate with executive credential and national profile, but the field remains wide open and his California association creates electability headwinds.",
-      "volume24h": 43527,
-      "openInterest": 3235327,
-      "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
-    },
-    {
-      "ticker": "KXPRESNOMD-28-AOC",
-      "label": "AOC 2028 Dem nominee",
-      "domain": "Americas",
-      "marketProb": 16,
-      "aiProb": 12,
-      "gap": -4,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "AOC sits at 16% but slipped 1 cent; anti-war sentiment driven by the Iran conflict and ICE shooting controversies could energize her progressive base, but a wartime political environment historically disadvantages far-left nominees, keeping her probability below market pricing.",
-      "volume24h": 64499,
-      "openInterest": 3703413,
+      "confidence": "HIGH",
+      "rationale": "Cuba offering Trump a luxury island to avoid invasion signals regional actors assess US intervention appetite as real but targeted, while Venezuela annexation as a formal state faces constitutional, military, and diplomatic barriers that remain insurmountable in this time horizon regardless of rhetorical escalation.",
+      "volume24h": 1828,
+      "openInterest": 96850,
       "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
-    },
-    {
-      "ticker": "KXPRESPERSON-28-JVAN",
-      "label": "J.D. Vance wins 2028 presidency",
-      "domain": "Americas",
-      "marketProb": 16,
-      "aiProb": 11,
-      "gap": -5,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Vance dropped 2 cents to 16% as the Iran war escalation and deaths of Graham and McConnell's hospitalization destabilize the Republican old guard coalition; Vance inherits incumbency advantage as VP but the geopolitical crisis is unresolved and could define 2028 unpredictably.",
-      "volume24h": 16425,
-      "openInterest": 1803730,
-      "priceChange24h": -2,
-      "url": "https://kalshi.com/markets/KXPRESPERSON-28-JVAN"
-    },
-    {
-      "ticker": "KXPRESPERSON-28-MRUB",
-      "label": "Marco Rubio wins 2028 presidency",
-      "domain": "Americas",
-      "marketProb": 16,
-      "aiProb": 10,
-      "gap": -6,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Rubio dropped 2 cents to 16% despite being the face of Iran policy and Venezuela strategy; the Iran escalation cuts both ways — war fatigue could damage him while a successful resolution could elevate him, but the current trajectory favors caution on his electoral prospects.",
-      "volume24h": 10350,
-      "openInterest": 2192532,
-      "priceChange24h": -2,
-      "url": "https://kalshi.com/markets/KXPRESPERSON-28-MRUB"
+      "url": "https://kalshi.com/markets/KXSTATE51-29-VE"
     }
   ],
   "watchSignals": [
-    "Casualty and damage assessment from US strikes on 140 Iranian targets; confirmation of Iranian air defense effectiveness and collateral damage patterns",
-    "Strait of Hormuz transit corridor stability; monitoring whether commercial shipping resumes at scale or remains constrained by Iranian threats",
-    "Republican Senate leadership vacuum following Lindsey Graham's sudden death at 71; succession dynamics and impact on Iran hawk coalition in Congress",
-    "Iranian retaliation cadence and targeting precision; whether second and third waves of Iranian ballistic/drone strikes follow established patterns or escalate in sophistication",
-    "Mediation pressure from international actors (UN, regional states) to stabilize US-Iran interim peace deal before collapse; diplomatic messaging and back-channel activity",
-    "Domestic US political response: DOJ media subpoenas, Patel administration pressure, and potential constitutional friction over emergency war powers during election cycle"
+    "Senate seat succession after Graham's death - Treasury Secretary Bessent or other Trump ally appointment will signal administration control of upper chamber and policy direction",
+    "Iran escalation trajectory - US strikes on Iranian targets, IRGC response timing, and Strait of Hormuz transit security indicate whether regional conflict enters sustained hot phase or stabilizes",
+    "Ukraine Sea of Azov shipping collapse - 105 vessels hit in 8 days suggests capability to degrade Russian logistics; watch for Russian counter-response and NATO involvement escalation",
+    "South China Sea coalition fracture - China's rejection of 14-nation support for 2016 ruling; monitor whether additional nations defect or hold line on freedom of navigation",
+    "Democratic 2028 nominee crystallization - AOC trending 59% on prediction markets while establishment figures (Newsom 20%, Beshear 3%) fragment; watch primary signals and party unity",
+    "Middle East US military posture - Watch for Iranian retaliation scope, Saudi-Houthi ceasefire status, and whether US coordinates Strait of Hormuz escort operations indicating sustained commitment"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East Military",
-      "headline": "Active Iran-US kinetic conflict with dual escalation: Iranian ballistic/drone strikes on Gulf bases (Qatar Al Udeid, Bahrain 5th Fleet, Oman Duqm); US retaliatory strike on 140 Iranian targets including missiles, drones, naval, comms, coastal surveillance",
+      "domain": "US Domestic Politics",
+      "headline": "Senator Lindsey Graham dead after brief illness following Ukraine return",
       "significance": "CRITICAL",
-      "summary": "Multiple confirmed Iranian missile attacks on US facilities across Gulf region met with large-scale US strike package. Airspace over Qatar, Bahrain, Kuwait under active threat. Commercial shipping and military operations disrupted. Escalation cycle active as of Jul 12 2026.",
-      "signal": "Regional conflict now kinetic and reciprocal; risk of further escalation unless mediation succeeds; energy markets and sea lane security threatened; potential for miscalculation or inadvertent strike on civilian targets"
+      "summary": "South Carolina Republican senator and Trump ally Lindsey Graham died unexpectedly after returning from Ukraine visit. Succession triggers immediate power dynamic shift in Senate. Treasury Secretary Scott Bessent is leading candidate for replacement, signaling Trump's ability to consolidate executive-legislative control.",
+      "signal": "Removes senior Trump critic-turned-ally from Senate; Bessent appointment would signal prioritization of economic policy continuity over legislative independence."
     },
     {
       "id": "gt2",
-      "domain": "Maritime/Energy",
-      "headline": "Strait of Hormuz transit corridor officially closed by Iran; US claim of alternate southern (Omani waters) corridor remains open but contested by Iranian declarations",
+      "domain": "Middle East Conflict",
+      "headline": "US executes major strike campaign against Iranian military targets; Strait of Hormuz under active US naval coordination",
       "significance": "CRITICAL",
-      "summary": "Iran has declared Strait of Hormuz closed; US JMIC states southern corridor via Oman waters available. LNG shipments continue through Strait despite tensions. Oil prices falling on hopes for smoother shipping. Reality of closure vs. corridor viability unclear.",
-      "signal": "Global energy security and commodities markets sensitive to actual vs. declared closure; prolonged uncertainty compounds inflation risk and supply chain disruption"
+      "summary": "CENTCOM conducted dozens of strikes on Iranian air defense, radar, missile and drone capabilities on July 12. 20 commercial vessels transited Strait of Hormuz under US coordination. Iran rejected IAEA inspections and threatened to abandon nuclear MOU. Saudi-Houthi ceasefire appears broken.",
+      "signal": "Indicates Trump administration executing kinetic Iran policy; US reasserting physical control of critical energy chokepoint; regional conflict rapidly moving from diplomatic to military-dominant phase."
     },
     {
       "id": "gt3",
-      "domain": "US Domestic Politics",
-      "headline": "Senator Lindsey Graham (R-SC), 71, died of sudden cardiac arrest at his DC residence after returning from 10th trip to Ukraine. Second senior Republican (after McConnell hospitalization) to suffer acute health event in one month.",
+      "domain": "Russia-Ukraine War",
+      "headline": "Ukrainian drone strikes destroy 105 Russian vessels in Sea of Azov within 8 days; shipping corridor functionally collapsed",
       "significance": "HIGH",
-      "summary": "Graham was a key hawk on Iran, Ukraine aid, and defense spending. His death removes a prominent voice from Senate Republican leadership during active conflict with Iran. Pattern of two consecutive GOP senate leadership health crises raises succession questions.",
-      "signal": "Loss of hawkish voice in Senate may weaken GOP pressure on Iran policy; timing during active conflict creates vacuum in war powers debate and military authorization dynamics"
+      "summary": "Ukrainian forces hit 7 tankers, 5 cargo ships, 2 tugboats and ferry on night of July 13. Cumulative destruction of 105 vessels over 8 days has collapsed Azov/Don/Kerch Russian shipping. Russia's ability to supply occupied territory severely degraded.",
+      "signal": "Demonstrates Ukraine's sustained offensive capability and force attrition of Russian logistics; indicates conflict entering phase where Russia must choose between accepting territorial loss or major escalation."
     },
     {
       "id": "gt4",
-      "domain": "US Domestic Politics",
-      "headline": "Trump administration escalating pressure on media: DOJ subpoenas NYT journalists; FBI hunting for leakers; Patel faces internal administration threat over perceived incompetence",
+      "domain": "Indo-Pacific Competition",
+      "headline": "14 nations including Japan, US, UK reaffirm 2016 South China Sea ruling invalidating Chinese maritime claims; China summons envoys and rejects tribunal authority",
       "significance": "HIGH",
-      "summary": "Simultaneous legal pressure on press, internal administrative friction, and leak investigations signal tightening control and potential constitutional friction over press freedom during wartime.",
-      "signal": "Institutional checks on executive power may be weakening; wartime secrecy and media control will complicate public accountability and foreign intelligence gathering transparency"
+      "summary": "Coordinated statement from US, UK, Japan and 12 others backing arbitral tribunal decision on South China Sea. China lodged formal protests and rejected ruling as illegal. Indicates hardening coalition on rules-based order vs. Beijing's expansionism.",
+      "signal": "Alliance cohesion on China containment remains intact; Beijing's isolation on lawfare strategy growing; watch for whether additional nations defect or China escalates coercive responses."
     },
     {
       "id": "gt5",
-      "domain": "Foreign Policy/Diplomacy",
-      "headline": "US-Iran interim peace memorandum vulnerability confirmed by expert analysis; ambiguities leave deal open to collapse; international mediators (likely UN, regional states) actively pushing to stabilize talks after intense flare-up",
+      "domain": "EU Cybersecurity Threat",
+      "headline": "EU publicly attributes multi-year cyberattack campaign against government and critical infrastructure to Russian FSB across 10 member states",
       "significance": "HIGH",
-      "summary": "Formal peace deal exists but characterized as fragile with unresolved ambiguities. Kinetic escalation this week (Jul 12 2026) tests durability of agreement. Active diplomatic intervention underway to prevent full breakdown.",
-      "signal": "De-escalation pathway still theoretically available but narrowing; continued military strikes may trigger formal deal termination and open-ended conflict; diplomatic fatigue and trust erosion accelerating"
+      "summary": "European Union announced Russia's Federal Security Service responsible for sustained cyberattacks on France, Germany, Poland, Cyprus, Netherlands, Austria, Slovakia, Romania, Finland, and Ukraine. Targets included governmental networks and critical infrastructure sabotage.",
+      "signal": "Public attribution signals EU escalating cyber accountability rhetoric; indicates Russian FSB maintaining offensive posture against Europe despite other regional conflicts; NATO cyber deterrence effectiveness questionable."
     }
   ]
 }
