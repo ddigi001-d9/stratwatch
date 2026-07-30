@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-29T12:56:52.410Z",
-  "runNumber": 76,
+  "generatedAt": "2026-07-30T12:26:01.774Z",
+  "runNumber": 77,
   "situation": {
-    "headline": "Active US-Iran war with Saudi co-belligerence, 400+ US casualty incidents since late February, and Chinese MANPADS delivery pipeline to Iran signal conflict is transitioning from strike-counterstrike to sustained attritional warfare threatening US force posture across CENTCOM",
+    "headline": "US CENTCOM has conducted heavy strikes on Iran from Kuwait using HIMARS/ATACMS/PrSM in direct response to Iranian ballistic missile attacks on US forces in Jordan, marking the most significant direct US-Iran military exchange in decades and triggering cascading regional escalation",
     "velocity": "ACCELERATING",
     "domains": [
       {
@@ -10,281 +10,281 @@
         "prob": 94,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "US-Iran kinetic war is active with ballistic missile exchanges, Iraq as secondary battlespace, Saudi co-belligerence, and Chinese MANPADS inbound to Iran within weeks — no off-ramp visible and diplomatic pause has already collapsed"
+        "status": "Active US-Iran kinetic exchange is underway with IRGC striking Jordan, Kuwait, and Egyptian port infrastructure while CENTCOM hits Abadan, Ahvaz, Bushehr, Kish, and Bandar Abbas; Polymarket pricing 26% chance Iran strikes a Gulf State within a week signals further escalation is the base case, not the tail risk"
       },
       {
         "name": "Indo-Pacific",
-        "prob": 52,
+        "prob": 31,
         "label": "China coercion escalation",
         "trajectory": "UP",
-        "status": "First confirmed YJ-20 hypersonic AShBM launch from a Type 052D destroyer marks a significant PLAN capability demonstration timed during US CENTCOM distraction, while China plays diplomatic broker on Hormuz to protect its own energy flows"
+        "status": "China denying reported plans to supply Iran with 400 shoulder-fired air defense systems is itself a signal the reports have operational basis; US military attention and munitions consumption in Middle East creates a window Beijing may exploit, though no direct coercive action is confirmed in this window"
       },
       {
         "name": "Europe",
-        "prob": 22,
+        "prob": 52,
         "label": "NATO cohesion fracture",
-        "trajectory": "FLAT",
-        "status": "Senate advanced Russia sanctions 86-12 with Zelensky present, signaling strong bipartisan support for Ukraine posture, though US attention and materiel are increasingly consumed by the Iran theater"
+        "trajectory": "UP",
+        "status": "Multiple confirmed Russian Kh-101 cruise missile impacts inside Polish territory, now at least two separate village sites roughly 100 km from Ukraine's border, with EU Commission calling it an unacceptable violation and NATO in contact with Warsaw; Article 5 deliberation avoidance is becoming structurally harder to sustain as incidents multiply"
       },
       {
         "name": "Energy",
-        "prob": 87,
+        "prob": 81,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Oil price spike is live, Houthis are weighing Red Sea tolls with Chinese vessel exemptions, Strait of Hormuz safe passage is in question, and Saudi energy infrastructure is a declared IRGC target — a sustained supply disruption is now baseline not tail risk"
+        "status": "Damietta port drone strike, Bandar Abbas and Kish Island in CENTCOM strike package, Ukrainian destruction of Russia's Taman oil export terminal, and drone hits on four Russian Black Sea tankers together threaten simultaneous disruption across multiple major export corridors; SHELL profit surge confirms markets are already pricing persistent conflict premium"
       },
       {
         "name": "US Politics",
         "prob": 58,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Wartime casualty figures, Pentagon weapons depletion headlines, immigration backlash, blood supply crisis, and an approval tracker in context suggest compounding domestic political stress; Mark Kelly surging 4 cents on Kalshi (7%, highest 24h move in the nomination field) likely reflects his military-veteran-senator profile gaining premium in a war environment"
+        "status": "Drudge poll showing Democrats with an 8-point generic ballot lead, Republican internal backlash over Trump's Graham endorsement, mounting legal fee liabilities from court losses, and Trump exasperation with the war's pace collectively signal a deteriorating political environment for the GOP ahead of midterms; war popularity is the only potential offset"
       }
     ],
-    "unseen": "China is executing a dual-track strategy that almost no Western analyst is holding together: simultaneously arming Iran with MANPADS through a Hong Kong intermediary to bleed US air power and extend the conflict, while publicly calling for Hormuz safe passage to position itself as the indispensable mediator — Beijing pays nothing, Iran gets survivability against low-altitude US assets, and China emerges as the power that ended the war on terms favorable to itself regardless of military outcome",
-    "criticalWindow": "Arrival of Chinese MANPADS in Iran within weeks is the most time-sensitive inflection point — once QW-12 and FN-16 systems are distributed to IRGC and proxy networks across Iraq, Syria, and Yemen, US helicopter and low-altitude ISR operations face a materially degraded threat environment that cannot be reversed without a major escalation against Chinese supply chains, forcing a direct US-China confrontation decision",
+    "unseen": "The simultaneous degradation of US munitions stocks through ATACMS and PrSM expenditure against Iran and HIMARS usage in a high-intensity campaign, combined with ongoing Ukraine resupply demands and Pentagon weapons scramble headlines, means the US is drawing down its most advanced precision strike inventory across two theaters simultaneously; this munitions depth problem is the hidden constraint that will force a strategic choice between Europe and Middle East commitments within weeks, and Beijing is almost certainly tracking stockpile burn rates in real time as a planning input for Taiwan contingencies",
+    "criticalWindow": "The next 72-96 hours will determine whether Iran responds to CENTCOM strikes with a second ballistic missile salvo against Kuwait or US bases in the Gulf, which would trigger a formal escalation ladder with no off-ramp short of Iranian capitulation or a ceasefire framework; simultaneously, NATO must decide within days whether Polish Kh-101 impacts constitute grounds for Article 4 or 5 consultations, and delay itself becomes a signal of alliance fragility that Russia will exploit",
     "watchFor": [
-      "First confirmed MANPADS employment against US rotary-wing or low-altitude fixed-wing aircraft in Iraq or Yemen — signals Chinese systems are operational in-theater",
-      "Iranian or Houthi strike on Saudi oil infrastructure causing 5% global supply disruption — triggers potential USD oil price shock above $120 and tests Saudi willingness to remain a co-belligerent",
-      "Trump-Netanyahu White House meeting outcome on Iran nuclear program targeting — any public signal of strikes on Fordow or Natanz would represent unambiguous escalation to a new phase",
-      "CENTCOM public statement on weapons inventory or rotation of carrier strike groups — Pentagon depletion headlines combined with 400+ casualty incidents suggest a strategic reserve and sustainment crisis that would force a pause or a request for emergency supplemental authorization"
+      "Iranian second-wave ballistic missile strike against Kuwait, Qatar, Bahrain, or UAE bases hosting US forces, which Polymarket prices at roughly 26% within one week",
+      "NATO formal Article 4 consultation triggered by Poland over Kh-101 impacts, or conversely Warsaw being pressured to accept a minimizing explanation as before, fracturing eastern flank confidence",
+      "Chinese PLA naval or air activity in the Taiwan Strait or South China Sea that tests US response capacity while CENTCOM is in active combat posture against Iran",
+      "Strait of Hormuz closure or Iranian mining operations following CENTCOM strikes on Bandar Abbas, which would trigger an immediate global energy supply shock with oil price spike potentially exceeding any seen since 2022"
     ],
-    "confidenceNote": "Key uncertainties center on actual US casualty figures (400+ incidents reported but fatality counts suppressed), true state of Iranian air defense reconstitution, whether Saudi Arabia's domestic political will holds under Houthi drone attrition, and whether the MANPADS delivery is already partially complete versus weeks away — the CENTCOM OPSEC warning about cellphone BDA also means US forces are operating with degraded information discipline, making tactical surprise by Iran more plausible than command assessments may reflect",
-    "topPattern": "The strategic picture is a US caught in an attritional Middle East war with degrading munitions stocks and rising casualties while China uses the distraction to debut hypersonic AShBM capability in the Pacific and arm the adversary — the Kalshi mark on Mark Kelly at 7% (plus 4 cents, highest directional move in the nomination field) is the market pricing a wartime-credentialed Democrat, which is itself a signal that prediction markets are beginning to discount a prolonged conflict with domestic political consequences extending to 2028"
+    "confidenceNote": "Critical uncertainty centers on the OSINT feed's verifiability: CENTCOM strike confirmation and Iranian missile attacks appear corroborated across multiple independent OSINT accounts but the precise battle damage assessment for Iranian targets is unknown; the Polish missile incidents have multiple source corroboration but NATO's official framing remains pending; prediction market prices reflect crowd judgment under uncertainty and can shift violently on a single confirmed event; the US domestic political data is a single poll snapshot and midterm dynamics are highly sensitive to whether the Iran conflict is perceived as a win or quagmire by October 2026",
+    "topPattern": "The simultaneous eruption of kinetic US-Iran combat, Russian missile overflights of NATO territory, and Ukrainian deep-strike operations against Russian energy infrastructure represents a coordinated stress test of Western deterrence architecture rather than coincidence; Kalshi markets have not yet updated Republican 2028 probabilities or energy shock contracts to reflect the severity of this week's events, suggesting prediction markets are lagging the intelligence picture by at least 24-48 hours and creating a brief window where policy response can get ahead of public and market pricing"
   },
   "signals": [
     {
       "id": "sig1",
       "domain": "Middle East",
-      "headline": "US-Saudi joint strikes on Iran-backed militias in Iraq; Iran receives Chinese MANPADS within weeks",
+      "headline": "US CENTCOM conducts heavy strike wave on Iran; HIMARS fired from Kuwait into multiple Iranian cities",
       "significance": "CRITICAL",
-      "summary": "US and Saudi forces conducted precision airstrikes on Popular Mobilization Forces (PMF) headquarters in eastern Iraq on July 28 in response to 30+ IRGC-directed drone attacks over 72 hours. Simultaneously, Iran is expected to receive 300-400 Chinese shoulder-fired air defense systems (QW-12/FN-16 MANPADS) via Hong Kong intermediary within weeks, marking major Tehran rearmament post-war.",
-      "signal": "Escalation cycle now locked: US-Saudi response temporarily ended diplomatic pause but Iran's incoming Chinese air defenses will degrade US air superiority in theater. Combined with Iranian claims of US strikes near Azerbaijan border, risk of uncontrolled escalation spike if CENTCOM/Saudi continue operations. China's willingness to arm Iran mid-conflict signals Beijing sees US as weakening regional position.",
-      "contradicts": "Recent Zelensky-Trump rapprochement and Senate passage of Russia sanctions suggest Trump seeking to stabilize multi-theater commitments; instead Middle East is reigniting with new foreign materiel influx.",
-      "timestamp": "2026-07-29T12:59:19.570Z"
+      "summary": "US Army M142 HIMARS systems launched ATACMS and PrSM missiles from Kuwait against Iranian targets across Abadan, Ahvaz, Bushehr, Kish Island, and Bandar Abbas on Jul 29 evening. CENTCOM confirmed operation as response to Iranian ballistic missile attacks on US forces in Jordan. Secondary explosions and fires reported in Abadan.",
+      "signal": "Escalation has transitioned from defensive posture to sustained offensive operations inside Iranian territory. This marks threshold crossing toward sustained US-Iran military exchange outside proxy framework. Risk of Iranian retaliation against Gulf states or US assets significantly elevated; Polymarket traders now price 26% chance of Iranian strikes on Gulf states within one week.",
+      "contradicts": "Prior consensus that US would limit response to air defense or terminal-phase interception; instead indicates willingness to strike Iranian power-projection infrastructure directly.",
+      "timestamp": "2026-07-30T12:28:29.332Z"
     },
     {
       "id": "sig2",
-      "domain": "Middle East",
-      "headline": "Netanyahu scheduled for first Trump White House talks since Iran war began",
-      "significance": "HIGH",
-      "summary": "Netanyahu will meet Trump for first time since Iran hostilities escalated. Meeting scheduled amid ongoing US-Saudi strikes and Iranian rearmament. China simultaneously calling for Gulf dialogue and safe Strait of Hormuz passage.",
-      "signal": "Trump-Netanyahu alignment on Iran will be tested by logistics: US weapons depletion (per Drudge headline), Pentagon strain, and Saudi appetite for continued operations may exceed Trump's tolerance. Israeli pressure for follow-on strikes vs US need to manage costs and allies. China's call for renewed Gulf talks may signal Beijing offering back-channel off-ramp Trump could exploit.",
-      "contradicts": "Trump's public rhetorical toughness ('beat the f*ing sh*t out of them') versus operational/resource constraints visible in defense posture reporting.",
-      "timestamp": "2026-07-29T12:59:19.570Z"
+      "domain": "Europe",
+      "headline": "Russian Kh-101 cruise missiles penetrate Polish airspace; multiple impacts near Ukrainian border during large-scale attack",
+      "significance": "CRITICAL",
+      "summary": "At least two Russian Kh-101 air-launched cruise missiles crossed into Polish territory overnight, impacting fields near villages of Tarnawa-Kolonia and Targowisko, approximately 95-105 km from the Ukrainian border. Air raid sirens sounded across Eastern Poland including Lublin. Polish military helicopters deployed to secure impact sites; 10+ meter craters observed.",
+      "signal": "NATO territory has now absorbed direct kinetic fire from Russian stand-off weapons during active Ukraine operations. Pattern suggests either deliberate Russian probing of NATO response thresholds or systematic inability/unwillingness to constrain attacks to Ukrainian airspace. EU Commission and NATO statements characterize as unacceptable violation but announce no military countermeasure, validating OSINT assessment that NATO tolerance for 'accidental' violations is increasing.",
+      "contradicts": "Prior red-line framing that any Russian strike on NATO soil would trigger Article 5 response; instead reveals tacit acceptance of low-level territorial violations as cost of avoiding direct NATO-Russia conflict.",
+      "timestamp": "2026-07-30T12:28:29.332Z"
     },
     {
       "id": "sig3",
-      "domain": "US Politics",
-      "headline": "Prediction market: Mark Kelly (7%) and Jon Ossoff (15%) surge for 2028 Democratic nominee; Newsom steady (16%)",
+      "domain": "Middle East",
+      "headline": "Iran demonstrates expanded IRGC missile strike capability; targets include US-aligned bases in Jordan and regional facilities",
       "significance": "HIGH",
-      "summary": "24-hour delta shows Kelly +4¢ (to 7%), Ossoff +1¢ (to 15%), while Newsom flat at 16%. Mark Cuban (1%), Beshear (4%), Harris (10%) show minimal movement. Kelly's 24-hour jump of 57% relatively suggests fresh information or favorable narrative shift.",
-      "signal": "Market anticipates Democrat recruiting candidate with military credibility (Kelly: US Air Force combat pilot, Arizona senator) or foreign-policy heavyweight (Ossoff: Intel Committee ranking member) in response to Iran conflict. This signals market participants believe Democratic base priorities shifting from age/identity toward security-competence messaging for 2028. Kelly's rise despite low absolute price suggests sophisticated money entering.",
-      "contradicts": "Consensus narrative that Newsom (youth, governors, West Coast) was front-runner; Kelly emergence suggests Iran crisis driving credential reassessment.",
-      "timestamp": "2026-07-29T12:59:19.570Z"
+      "summary": "IRGC Aerospace Force released footage showing coordinated launch of Qadr F, Kheibar Shekan, Haj Qassem medium-range ballistic missiles and Shahed-136 loitering munitions targeting Muwaffaq Al Salti Air Base in Jordan. New variant of Haj Qassem equipped with adapter between warhead and booster plus redesigned single-cone warhead indicates ongoing technical improvements.",
+      "signal": "Iran's inventory of precision strike capability continues to expand and evolve despite sanctions and attrition. Simultaneous multi-domain strike (ballistic missiles + loitering munitions) demonstrates coordinated IRGC doctrine development. Targeting of Jordanian base indicates Iran willing to strike US regional infrastructure directly, not merely symbolic or proxy strikes.",
+      "contradicts": "Assumption that Iranian missile force has been substantially degraded or is operationally constrained; instead indicates sustained modernization and operational readiness.",
+      "timestamp": "2026-07-30T12:28:29.332Z"
     },
     {
       "id": "sig4",
-      "domain": "Energy",
-      "headline": "Oil prices spike; Houthis weighing Red Sea toll system with China exemption",
+      "domain": "Middle East",
+      "headline": "Drone strike on Egyptian port (Damietta) kills worker at Chinese firm; pre-attack awareness traced to IRGC-linked individuals",
       "significance": "HIGH",
-      "summary": "Drudge reports oil spike from Middle East escalation. OSINT feed shows Houthis considering fee regime on Bab-el-Mandeb transit with explicit China exemption, per Reuters. Saudi energy infrastructure was stated target of Iran-backed drone attacks.",
-      "signal": "Houthi toll system functionally recreates Persian Gulf chokepoint control favoring China (exemption) while taxing Western trade. Combined with oil spike, signals possible Houthi-Iran-China coordination to impose soft asymmetric sanctions on US-aligned shipping. If Houthis implement tolls, US faces choice: naval intervention (resource drain, escalation risk) or accept degraded Suez/Red Sea security. China gets free pass and strategic advantage.",
-      "contradicts": "Assumption that Houthis are purely tactical proxy; toll announcement suggests strategic tier thinking aligned with Beijing interests.",
-      "timestamp": "2026-07-29T12:59:19.570Z"
+      "summary": "Egyptian Cabinet confirmed preliminary investigations attribute Damietta port strike to drone attack. OSINT assessment indicates IRGC-linked individuals possessed advance knowledge of operation as of Jul 26. One worker at Chinese firm facility killed. Incident consistent with pattern of Iranian strikes on regional economic infrastructure.",
+      "signal": "Iranian operations now targeting non-US, non-Israeli economic chokepoints (Chinese-linked commercial facility in Egypt). Suggests Iranian strategy is broadening beyond direct US military targets to disrupt regional commerce and implicate third-party nationals, potentially generating diplomatic friction between US allies and China.",
+      "contradicts": "Characterization of Iranian strikes as limited to retaliation against specific US actions; instead indicates systematic campaign against regional commerce and infrastructure with potential secondary political objectives.",
+      "timestamp": "2026-07-30T12:28:29.332Z"
     },
     {
       "id": "sig5",
-      "domain": "Technology",
-      "headline": "Ukrainian drone strikes destroy Russian Wildberries e-commerce distribution hubs; Russia blames attacks on logistics infrastructure",
-      "significance": "MEDIUM",
-      "summary": "Two Ukrainian drone strikes destroyed Russian Wildberries distribution centers (Ryazan warehouse reported partially collapsed/ablaze). Russian Sberbank reports Wildberries attack damage and deteriorating credit quality of marketplaces. Strikes target critical Russian supply-chain infrastructure outside military domain.",
-      "signal": "Ukraine expanding targeting logic beyond military assets to disrupt civilian logistics and economic resilience. If Russia retaliates with cyberattacks on US infrastructure (Minnesota water systems already hit per Drudge; Telegram founder charged), escalates tech/hybrid warfare across NATO allies. Signals Ukraine-NATO tacitly coordinating to impose economic costs on Russia, but risks triggering Russian retaliation against US critical infrastructure.",
-      "contradicts": "Public framing of Ukraine as defensive; warehouse targeting is offensive economic warfare.",
-      "timestamp": "2026-07-29T12:59:19.570Z"
+      "domain": "Energy",
+      "headline": "Ukraine conducts major strike on Russian Black Sea oil export terminal; Tamanneftegaz facility heavily ablaze",
+      "significance": "HIGH",
+      "summary": "Ukrainian forces carried out overnight strike on Tamanneftegaz export terminal at Taman port, one of Russia's largest Black Sea seaborne oil export facilities. Multiple successful hits resulted in heavy fires and secondary explosions. Ukraine also targeted 4 Russian oil tankers in Black Sea and Sea of Azov.",
+      "signal": "Ukraine is systematizing attacks on Russian energy export infrastructure as economic warfare strategy. Escalating strike tempo on oil terminals and tankers indicates shift toward attrition of Russian energy revenue and foreign exchange earnings. This pressure on Russian fiscal capacity compounds effects of sanctions.",
+      "contradicts": "Prior assessment that Ukrainian strike capability was primarily defensive; instead indicates sustained offensive operations against Russian strategic economic assets.",
+      "timestamp": "2026-07-30T12:28:29.332Z"
     },
     {
       "id": "sig6",
       "domain": "US Politics",
-      "headline": "Senate confirms Jay Clayton as Director of National Intelligence (51-47 party-line) replacing Tulsi Gabbard",
+      "headline": "Prediction market pricing reveals dramatic repricing of 2028 Democratic nomination and Kamala Harris presidential intentions",
       "significance": "MEDIUM",
-      "summary": "Clayton confirmed DNI in straight party-line vote, replacing Gabbard. Occurs amid Iran war escalation, multiple cyberattacks on US systems, and prediction markets pricing 2028 Democratic candidate pivot toward security credentials.",
-      "signal": "Clayton confirmation (traditional establishment intelligence figure) signals Trump administration stabilizing intelligence community after Gabbard's controversial tenure. However, party-line vote (51-47) shows Democrats will weaponize DNI confirmation; future appointments face gridlock. With Iran rearmament and US weapons depletion reported, intelligence apparatus leadership now stabilized but polarized—risk of intelligence failures or politicization during next crisis cycle.",
-      "contradicts": "Trump's anti-establishment messaging; Clayton represents traditional intel establishment.",
-      "timestamp": "2026-07-29T12:59:19.570Z"
+      "summary": "Kalshi markets show Harris 2028 Democratic nomination odds at 10% (stable), but pre-election announcement markets show sharp moves: Harris announcement before April 1, 2027 now priced at 49% (up 16 cents in 24h); before July 1, 2027 at 67% (up 12 cents). Mark Kelly nomination odds steady 7%, Gavin Newsom 17%. Harris win-next-election odds only 5%.",
+      "signal": "Market traders are pricing increasing probability that Harris will announce 2028 run within next 6-9 months, but simultaneously pricing very low probability (5%) she would win general election if nominated. This suggests traders expect Harris run announcement but view her as electorally weak nominee, consistent with internal Democratic Party uncertainty about 2028 field leadership.",
+      "contradicts": "Assumption of Democratic consolidation around clear frontrunner; instead reveals fragmented expectations and Harris viewed as unlikely general election victor despite presumed frontrunner status.",
+      "timestamp": "2026-07-30T12:28:29.332Z"
     }
   ],
-  "scanNote": "Signal quality degraded by Drudge headline sensationalism and OSINT feed mixing confirmed/speculative reports; cross-validated against Kalshi markets and GDELT newswire. Iran war escalation and Chinese materiel delivery are highest-confidence developments; prediction-market shifts in Kelly/Ossoff suggest real money positioning on security-credentialed Democratic alternatives.",
+  "scanNote": "Signal quality mixed: OSINT feeds show verifiable multi-source corroboration on military events (missile strikes, ship targets, crater imagery); political market signals are pricing mechanisms reflecting trader sentiment, not ground truth; Drudge headlines are editorial curation with entertainment admixture. Middle East and Europe military signals rated HIGH-CRITICAL confidence. US politics signal rated MEDIUM confidence (market pricing reflects expectations, not events).",
   "markets": [
     {
-      "ticker": "KXPRESNOMD-28-MK",
-      "label": "Mark Kelly 2028 Dem Nominee",
+      "ticker": "KXPRESPARTY-2028-R",
+      "label": "Republican wins 2028 presidency",
       "domain": "US Politics",
-      "marketProb": 7,
-      "aiProb": 12,
-      "gap": 5,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "The Iran war context elevates a combat-veteran Senator with national security credentials; the +4¢ 24h spike and high volume signal fresh speculative interest likely tied to the ongoing conflict narrative boosting Kelly's profile.",
-      "volume24h": 363739,
-      "openInterest": 3649549,
-      "priceChange24h": 4,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-MK"
-    },
-    {
-      "ticker": "KXPRESNOMD-28-JOSS",
-      "label": "Jon Ossoff 2028 Dem Nominee",
-      "domain": "US Politics",
-      "marketProb": 15,
-      "aiProb": 10,
-      "gap": -5,
+      "marketProb": 42,
+      "aiProb": 48,
+      "gap": 6,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "Ossoff's visible Senate role — confirmed by his presence during the Russia sanctions vote advancing 86-12 — keeps him in the conversation, but his national security thin-resume limits ceiling in a wartime cycle.",
-      "volume24h": 15973,
-      "openInterest": 3686627,
-      "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
+      "rationale": "Active US-Iran war, Russian missile incursions into NATO territory, and a Drudge-reported 8-point Democratic midterm polling advantage create a highly volatile environment where incumbency dynamics and wartime rally effects are in genuine tension, leaving the 2028 race genuinely uncertain.",
+      "volume24h": 5002,
+      "openInterest": 135077,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESPARTY-2028-R"
+    },
+    {
+      "ticker": "KXPRESNOMR-28-JDV",
+      "label": "JD Vance Republican nominee 2028",
+      "domain": "US Politics",
+      "marketProb": 41,
+      "aiProb": 44,
+      "gap": 3,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "As sitting VP during an active multi-front war with Trump reported 'exasperated' and constitutionally barred from running again, Vance is the default Republican frontrunner but faces risk if the war turns politically toxic, consistent with the market's 41% and a slight uptick signal.",
+      "volume24h": 10449,
+      "openInterest": 1596157,
+      "priceChange24h": 2,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
     },
     {
       "ticker": "KXPRESNOMD-28-GN",
-      "label": "Gavin Newsom 2028 Dem Nominee",
+      "label": "Gavin Newsom Democratic nominee 2028",
       "domain": "US Politics",
-      "marketProb": 16,
+      "marketProb": 17,
       "aiProb": 14,
-      "gap": -2,
+      "gap": -3,
       "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Newsom remains the structural frontrunner by name recognition and fundraising infrastructure, but the -2¢ drift suggests markets are rotating toward candidates with harder national-security credibility in a wartime environment.",
-      "volume24h": 62453,
-      "openInterest": 3521088,
-      "priceChange24h": -2,
+      "confidence": "LOW",
+      "rationale": "Newsom remains a recognizable Democratic brand but the 8-point Democratic midterm lead suggests the party has momentum that could elevate newer candidates over him, keeping his odds modest and in line with the market's 17%.",
+      "volume24h": 50686,
+      "openInterest": 3541967,
+      "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
     },
     {
-      "ticker": "KXPRESNOMD-28-AOC",
-      "label": "AOC 2028 Dem Nominee",
+      "ticker": "KXKAMALARUN-28-27APR01",
+      "label": "Kamala Harris announces 2028 run before Apr 1, 2027",
       "domain": "US Politics",
-      "marketProb": 15,
-      "aiProb": 8,
-      "gap": -7,
+      "marketProb": 49,
+      "aiProb": 35,
+      "gap": -14,
       "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "The OSINT feed references a 'Band of Socialists Sowing Panic in Dem Party' wielding surprising power, which is the clearest intel signal in the context directly relevant to AOC's lane; however an active US war with Iran structurally disadvantages an anti-intervention left candidacy.",
-      "volume24h": 8657,
-      "openInterest": 3886801,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
+      "confidence": "LOW",
+      "rationale": "The sharp 24-hour surge of plus 16 cents to 49% is a notable prediction-market signal worth fading slightly given Harris's demonstrated reluctance and weak prior electoral performance, but the Democratic polling surge creates real incentive for her to move early.",
+      "volume24h": 8537,
+      "openInterest": 5891,
+      "priceChange24h": 16,
+      "url": "https://kalshi.com/markets/KXKAMALARUN-28-27APR01"
     },
     {
-      "ticker": "KXPRESNOMD-28-KH",
-      "label": "Kamala Harris 2028 Dem Nominee",
+      "ticker": "KXKAMALARUN-28-27JUL01",
+      "label": "Kamala Harris announces 2028 run before Jul 1, 2027",
       "domain": "US Politics",
-      "marketProb": 10,
-      "aiProb": 7,
-      "gap": -3,
+      "marketProb": 67,
+      "aiProb": 50,
+      "gap": -17,
       "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Harris carries heavy 2024 baggage and no fresh intel in the context rehabilitates her standing; flat market movement confirms she is holding a residual floor rather than building momentum.",
-      "volume24h": 22253,
-      "openInterest": 3725504,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-KH"
+      "confidence": "LOW",
+      "rationale": "The plus 12 cent surge to 67% in 24 hours, combined with favorable Democratic polling environment and an open field, suggests genuine market conviction; STRATWATCH assigns a lower probability reflecting Harris's structural weaknesses as a candidate despite the favorable environment.",
+      "volume24h": 8010,
+      "openInterest": 5877,
+      "priceChange24h": 12,
+      "url": "https://kalshi.com/markets/KXKAMALARUN-28-27JUL01"
     },
     {
       "ticker": "KXNEXTAG-29-TBLA",
-      "label": "Todd Blanche as Next AG",
+      "label": "Todd Blanche next AG",
       "domain": "US Politics",
-      "marketProb": 86,
-      "aiProb": 82,
-      "gap": -4,
+      "marketProb": 74,
+      "aiProb": 60,
+      "gap": -14,
       "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "At 86% with only a modest +1¢ move, market consensus is firm; no intel in the context disrupts the Blanche trajectory and the Lee Zeldin contract dropping -3¢ simultaneously reinforces Blanche's dominant position.",
-      "volume24h": 25036,
-      "openInterest": 651800,
-      "priceChange24h": 1,
+      "confidence": "MEDIUM",
+      "rationale": "The sharp minus 12 cent single-day drop from what was likely near 86% to 74% is a significant market movement suggesting new information about Blanche's standing; amid wartime executive branch reshuffling and reported Republican internal tensions, a leadership change at DOJ is plausible but Blanche retains frontrunner status.",
+      "volume24h": 85337,
+      "openInterest": 650115,
+      "priceChange24h": -12,
       "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
     },
     {
-      "ticker": "KXDEMFIRSTCONTEST-28-NH",
-      "label": "New Hampshire First 2028 Dem Contest",
+      "ticker": "KXNEXTAG-29-LZEL",
+      "label": "Lee Zeldin next AG",
       "domain": "US Politics",
-      "marketProb": 67,
-      "aiProb": 60,
-      "gap": -7,
+      "marketProb": 7,
+      "aiProb": 10,
+      "gap": 3,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "The extraordinary +67¢ single-day spike on thin OI suggests a new rule or procedural development broke overnight; the move is a market-structure signal worth flagging but low confidence given sparse corroborating intel in the feed.",
-      "volume24h": 11852,
-      "openInterest": 8895,
-      "priceChange24h": 67,
-      "url": "https://kalshi.com/markets/KXDEMFIRSTCONTEST-28-NH"
+      "rationale": "The plus 5 cent spike to 7% in 24 hours is a notable secondary signal possibly linked to the same information causing Blanche to drop, warranting monitoring but not enough volume or open interest to treat as high-conviction intelligence.",
+      "volume24h": 8971,
+      "openInterest": 379041,
+      "priceChange24h": 5,
+      "url": "https://kalshi.com/markets/KXNEXTAG-29-LZEL"
     },
     {
-      "ticker": "KXGDPYEAR-33-B2.3",
-      "label": "US GDP 2033 at 2.1-2.5%",
-      "domain": "Americas",
-      "marketProb": 11,
-      "aiProb": 9,
+      "ticker": "KXGREENLAND-29-27",
+      "label": "Trump buys Greenland before 2027",
+      "domain": "US Politics",
+      "marketProb": 5,
+      "aiProb": 3,
       "gap": -2,
       "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Active US-Iran war, Pentagon weapons depletion, oil price spikes, tariff disruption, and cyberattacks on domestic infrastructure collectively introduce significant downside macro drag making the 2.1-2.5% band less likely than pre-war baselines would suggest.",
-      "volume24h": 7553,
-      "openInterest": 4813,
+      "confidence": "HIGH",
+      "rationale": "With US forces actively engaged in strikes on Iran, a Russian cruise missile in Polish territory, and active multi-theater crisis management consuming all executive bandwidth, the Greenland acquisition effort is effectively frozen and the minus 1 cent drift toward 5% is still generous given near-zero operational capacity for such a diplomatic initiative.",
+      "volume24h": 42013,
+      "openInterest": 399313,
       "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXGDPYEAR-33-B2.3"
+      "url": "https://kalshi.com/markets/KXGREENLAND-29-27"
     }
   ],
   "watchSignals": [
-    "Iranian air defense system deliveries from China arriving within weeks—first MANPADS shipment (300-400 units QW-12/FN-16) via Hong Kong intermediary will alter regional air superiority calculus and constrain future US/Saudi strike options",
-    "Houthis imposing Red Sea toll regime on commercial shipping with explicit China exemption—indicates Beijing leverage over proxy actors and threatens global commerce chokepoint; triggers maritime security escalation and potential US naval posture response",
-    "Netanyahu-Trump White House meeting timing and messaging on Iran war continuity—outcome signals whether US sustains strike tempo or pivots to diplomatic off-ramp; affects Israeli operational planning and regional de-escalation credibility",
-    "Pentagon weapons depletion status and munitions resupply timelines—constrains follow-on strike capability against Iran; congressional appropriations bills and DSCA notification activity will reveal depth of attrition and strategic runway",
-    "Zelensky improving Trump relationship and Crimea ambiguity statements—suggests shifting US commitment to Ukraine war scope; prediction markets show Kelly and Ossoff gaining 2028 Democratic nominee share, indicating Democratic base hedging on foreign policy continuity",
-    "Domestic political fracture signals—McConnell health status demands, Fauci Fifth Amendment invocation, Senate ICC/African nations withdrawals, ICE arrests surge—reveal governance stress and potential administration capacity constraints during active Middle East conflict"
+    "Polish-Russian airspace violations: Kh-101 cruise missiles crossing into Polish territory near Targowisko and Tarnawa-Kolonia. Watch for NATO Article 5 invocation threshold and Polish military response escalation",
+    "Iran strike cycle continuation: US CENTCOM conducted heavy wave strikes on IRGC targets in response to Iranian ballistic missile attack on Jordan. Monitor for Iranian asymmetric retaliation against Gulf states or US assets within 7-14 days",
+    "Chinese air defense transfers to Iran: Polymarket and conflict radar reporting denied Chinese plan to supply 400 shoulder-fired systems to Iran. Watch for confirmation via HUMINT or satellite imagery indicating supply chain activation",
+    "Kamala Harris 2028 candidacy announcement timing: Prediction market shows 49% probability of announcement before April 1, 2027 (up 16 cents in 24h) and 67% before July 1, 2027 (up 12 cents). Expect campaign positioning signals within weeks",
+    "HIMARS strike sustainability from Kuwait: US Army M142 systems launching ATACMS and PrSM into southern Iran from Kuwaiti territory. Monitor for Iranian retaliation targeting Kuwait infrastructure and US force posture adjustments",
+    "Polish NATO siren activation pattern: Multiple air raid sirens in Lublin and eastern Polish cities during Russian missile attacks. Watch for civilian panic, NATO reinforcement requests, or Polish military mobilization announcements"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Military Kinetics",
-      "headline": "Iran launched ballistic missiles at US bases overnight; all intercepted per CENTCOM; US and Saudi forces responded with precision airstrikes on Iran-backed PMF/IRGC-directed targets across eastern Iraq",
+      "domain": "Middle East Escalation",
+      "headline": "Active US-Iran strike exchange cycle initiated July 29-30, 2026",
       "significance": "CRITICAL",
-      "summary": "Active shooting war between US/Saudi and Iranian proxy forces confirmed. Iran's overnight attack followed 30+ drone strikes over 72 hours on US forces. Patriot air defense expended 10 interceptors on 5-6 missiles; secondary explosions reported in Iraqi ammunition depot strikes indicate successful targeting of logistics nodes.",
-      "signal": "Conflict has entered sustained attrition phase with real combat losses. US air defense munition burn rate is measurable; Iranian willingness to absorb counter-strikes suggests Tehran calculating acceptable cost of escalation. Regional proxy network remains operational despite strikes."
+      "summary": "Iran launched ballistic missiles at US forces in Jordan. CENTCOM responded with heavy wave of strikes on dozens of IRGC targets across Iran using HIMARS from Kuwait, striking Abadan, Ahvaz, Bushehr, Kish Island, and Bandar Abbas. Secondary explosions and fires reported in multiple Iranian cities.",
+      "signal": "US is now in active kinetic exchange with Iranian IRGC. Risk of further escalation through proxies (Hezbollah, Houthis) or Iranian naval/asymmetric response is elevated. Regional allies (Jordan, Gulf states) directly threatened. Polymarket pricing Iranian strikes on Gulf states at 26% probability indicates substantive risk assessment."
     },
     {
       "id": "gt2",
-      "domain": "Strategic Competition",
-      "headline": "China providing Iran 300-400 MANPADS (QW-12/FN-16) within weeks via Hong Kong intermediary; $60-70M deal marks Beijing's major air defense rebuild effort for Tehran post-war",
+      "domain": "NATO-Russia Border Crisis",
+      "headline": "Russian Kh-101 cruise missiles penetrated Polish airspace at least 100km from Ukraine border",
       "significance": "CRITICAL",
-      "summary": "Chinese military-industrial supply to Iran now operationalized at scale. This weaponization occurs during active US-Iran conflict, signaling Beijing's strategic support for Iranian resilience and implicit challenge to US regional air dominance. Delivery method (Hong Kong intermediary) designed to create legal/sanctions circumvention layers.",
-      "signal": "China escalating implicit military support to Iran during conflict rather than attempting de-escalation. Contradicts public Chinese neutrality messaging. Implies Beijing views US-Iran conflict as opportunity to bind Iran closer and contest regional dominance. Complicates US strike planning against Iranian air defenses."
+      "summary": "Multiple confirmed Russian cruise missile impacts in Polish territory near Targowisko and Tarnawa-Kolonia, leaving 10-meter craters and triggering air raid sirens in Lublin and eastern cities. Polish military deployed helicopters and emergency responders. OSINT consensus on three separate missile incursions during large-scale Russian attack on Ukraine.",
+      "signal": "First confirmed NATO member territory impacts in this conflict phase. Escalation from previous 'accidental' drone/missile incidents suggests intentional or reckless Russian targeting. NATO has not invoked Article 5, indicating political reluctance to formalize collective defense response. Polish sovereignty breach creates alliance cohesion test and potential for miscalculation."
     },
     {
       "id": "gt3",
-      "domain": "Proxy Warfare",
-      "headline": "Houthis weighing toll/fee regime on commercial vessels through Bab el-Mandeb Strait with explicit China exemption; Reuters confirms Chinese fleet will be exempt from tolls",
-      "significance": "CRITICAL",
-      "summary": "Houthis are operationalizing economic coercion against global shipping while giving preferred treatment to Chinese commerce. This represents coordination between Beijing and Tehran-aligned actors to weaponize Hormuz/Red Sea chokepoint and extract revenue/leverage from Western trade routes while favoring Beijing.",
-      "signal": "Demonstrates integrated China-Iran-Houthi network functioning to contest US maritime dominance and extract economic rents from global commerce. Signals to markets that Strait transit carries geopolitical risk premium. Likely trigger for US naval escort/convoy operations and potential escalation against Houthis."
+      "domain": "Democratic 2028 Presidential Race",
+      "headline": "Kamala Harris announcement probability spiked to 49% before April 1, 2027 in prediction markets",
+      "significance": "HIGH",
+      "summary": "Kalshi markets show Harris candidacy probability up 16 cents in 24 hours for April 2027 window and up 12 cents for July 2027 window. Jon Ossoff at 15% and Gavin Newsom at 17% are next-tier challengers. Mark Kelly at 7% shows fringe viability. Market activity indicates real campaign infrastructure signaling.",
+      "signal": "Democratic field remains fragmented and open. Harris represents establishment continuity play; market movement suggests recent positive news or donor signaling. Prediction markets now price her entry as more likely than not within 9 months. Early indicator of party coalition formation and anti-Trump coalition strength testing."
     },
     {
       "id": "gt4",
-      "domain": "Intelligence",
-      "headline": "CENTCOM Commander warned US troops that cellphone videos and social media posts provide Iran real-time battle damage assessments enabling follow-on strike planning; operational security breach confirmed",
+      "domain": "Strategic Weapons Innovation",
+      "headline": "Iran deployed upgraded Haj Qassem variant with new warhead adapter and Kheibar Shekan missiles at Muwaffaq Al Salti Air Base in Jordan",
       "significance": "HIGH",
-      "summary": "US force posture transparency to adversary is degrading due to digital footprint of deployed personnel. Iran has demonstrated ability to collect and rapidly analyze strike damage data from open sources, shortening their targeting cycle. Indicates Iranian adaptive capacity despite air defense losses.",
-      "signal": "US operational advantage eroding due to information environment. Iran developing rapid damage-assessment and re-targeting capability. Suggests need for stricter OPSEC enforcement but reveals structural vulnerability of networked forces in era of pervasive surveillance. Increases risk of follow-on Iranian strikes."
+      "summary": "IRGC Aerospace Force released footage of ballistic missile launch including redesigned single-cone warhead on Haj Qassem with new adapter between warhead and solid-fuel booster. Also deployed Kheibar Shekan and Shahed-136 loitering munitions. Represents technical evolution in Iranian missile capability.",
+      "signal": "Iran is iterating on ballistic missile design mid-conflict, suggesting access to advanced engineering resources and confidence in continued capability deployment. New warhead design may indicate hardened target penetration attempts or improved accuracy. US targeting data will drive future IRGC procurement and force posture decisions."
     },
     {
       "id": "gt5",
-      "domain": "Alliance Dynamics",
-      "headline": "Saudi Arabia joined US strikes on Iran-backed targets in Iraq; confirmed Saudi Air Force (RSAF) participation in joint CENTCOM operations against PMF/IRGC positions",
+      "domain": "Energy Market Warfare",
+      "headline": "Ukrainian forces destroyed Tamanneftegaz export terminal at Taman port on Black Sea; Russian oil infrastructure under sustained attack",
       "significance": "HIGH",
-      "summary": "Saudi Arabia actively joined combat operations against Iranian-backed forces despite diplomatic pause. Represents formal Saudi-US military alignment against Iranian regional expansion. Saudi willingness to conduct kinetic operations suggests both confidence in US air umbrella and shared threat perception of Iranian militias targeting Saudi energy infrastructure.",
-      "signal": "Riyadh-Washington defense relationship intact and operationalized. Saudi participation legitimizes US strikes regionally and complicates Iranian response calculations. Indicates no daylight between Trump administration and Saudi leadership on Iran threat; Saudi energy security concerns directly motivating their air participation."
+      "summary": "Major strike on Russian seaborne oil export facility scored multiple successful hits and triggered massive fires. Follows Ukrainian targeting of 4 Russian oil tankers in Black Sea and Sea of Azov. Drudge reports Shell profits surging from continuing conflict, indicating global energy price premium persisting.",
+      "signal": "Ukraine executing deliberate energy infrastructure campaign to degrade Russian export revenue and financing capacity for war effort. Russian Black Sea logistics now degraded but not eliminated. Global oil markets remain elevated; energy security concerns support continued European/US military aid allocation. Sanctions resilience of Russian energy sector being tested."
     }
   ]
 }
