@@ -1,290 +1,300 @@
 {
-  "generatedAt": "2026-08-04T12:55:06.221Z",
-  "runNumber": 82,
+  "generatedAt": "2026-08-05T12:48:50.377Z",
+  "runNumber": 83,
   "situation": {
-    "headline": "US precision munition stockpiles critically depleted after five months of Iran war while Hormuz partial-reopening deal is live but fragile, creating a closing window for coercive diplomacy before the US loses credible military leverage",
+    "headline": "Ukraine faces catastrophic interceptor depletion as Russia strikes Kyiv with zero intercepts confirmed, while a fragile 60-day Hormuz reopening deal is reportedly imminent — two simultaneous crises testing US extended deterrence and energy diplomacy simultaneously",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 88,
+        "prob": 82,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Iran-US standoff at inflection point: Hormuz partial deal reportedly forming via Oman mediation but IRGC drone strikes on Kuwait bases and Houthi attacks on Saudi targets signal Iran is hedging and testing limits simultaneously."
+        "status": "Houthi naval blockade of Saudi tankers near Yanbu, suspected Houthi strike on Jebel Ali, and a fragile 60-day Hormuz interim deal converge into a high-volatility window where any deal collapse triggers immediate oil shock and potential US-Iran kinetic exchange; Trump's own public statements suggest he is partially cut out of or skeptical of the Hormuz framework."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 41,
+        "prob": 38,
         "label": "China coercion escalation",
         "trajectory": "UP",
-        "status": "ATACMS and precision munition depletion disclosed publicly is a serious strategic signal to Beijing about reduced US two-theater capacity; HIMARS redeployment to Alaska (Nome) suggests US is repositioning assets northward, possibly reflecting Arctic or DPRK concern."
+        "status": "Taiwan-US drone partnership talks advance amid sustained Chinese South China Sea pressure; KMT-government friction over SCS claims signals internal Taiwan political vulnerability Beijing will exploit, though no immediate military trigger is visible."
       },
       {
         "name": "Europe",
-        "prob": 22,
+        "prob": 44,
         "label": "NATO cohesion fracture",
-        "trajectory": "FLAT",
-        "status": "Ukraine drone campaign escalating against Russian civilian logistics targets while Russian Geran drones hit Ukrainian ports and Black Sea shipping; Turkey publicly protests Black Sea attacks but remains in NATO; no imminent fracture signal."
+        "trajectory": "UP",
+        "status": "Germany faces a suspected sabotage drone campaign targeting Leipzig/Halle airport and Ukrainian cargo aircraft, North Korea is expanding missile deployments to western Russia, and Ukraine's Patriot interceptor shortage is severe — collectively stress-testing NATO's willingness to absorb escalation costs without US leadership."
       },
       {
         "name": "Energy",
-        "prob": 91,
+        "prob": 67,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Hormuz at 10 percent of pre-war throughput with 2.6 billion barrels removed from global supply per Aramco CEO; even a partial reopening deal leaves structural shortfall requiring months to rebuild inventories, guaranteeing elevated energy prices and economic pressure on allies and adversaries alike."
+        "status": "Hormuz remains partially mined and partially closed, Houthis are actively targeting Saudi oil infrastructure near Yanbu, and the 60-day interim deal is unannounced and unverified — any single maritime incident in this window can spike Brent sharply despite current equity market record highs."
       },
       {
         "name": "US Politics",
-        "prob": 38,
+        "prob": 51,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Michigan primary testing progressive bloc strength, DHS controversies, and 75 judicial rulings against Trump speech actions are energizing Democratic base; Drudge-tracked Trump approval tracker and ICE social media controversy suggest headwinds, but war-footing environment historically suppresses opposition gains."
+        "status": "Democrats are coalescing around progressive insurgents in Wisconsin while Kalshi shows Newsom gaining 2 cents and AOC holding at 15% for 2028 nomination, suggesting the party's center of gravity is moving left in ways that may alienate suburban swing voters but energize base turnout; immigration detention of military families is a potentially decisive liability for Republicans in competitive districts."
       }
     ],
-    "unseen": "The public disclosure that the US Army has exhausted virtually all long-range precision munitions is not merely a logistics story — it is a strategic communication that simultaneously weakens US deterrence against China and Iran while paradoxically creating an urgent pressure point to close the Hormuz deal NOW before adversaries fully internalize American magazine depth limits; the Kalshi market showing Todd Blanche at 96 percent for AG with a plus-6 cent 24h surge suggests a domestic political consolidation move is imminent, which could further distract senior leadership attention at exactly the wrong moment in the Iran negotiation window.",
-    "criticalWindow": "The next 48-72 hours around the Trump-imposed Hormuz deal deadline is the most time-sensitive decision node: if no deal closes, US airstrikes against Iran would commence with a depleted precision munitions inventory, risking a protracted air campaign the US may lack the depth to sustain while simultaneously deterring China, and locking in a multi-month energy supply shock with no quick recovery path.",
+    "unseen": "The simultaneous depletion of US Patriot interceptor stocks to roughly 20% capacity and the 60-day Hormuz interim deal are directly linked — Washington is rationing extended deterrence assets across multiple theaters at once, meaning any Hormuz deal collapse or Houthi escalation in the Red Sea will force an explicit prioritization choice between defending Ukraine's airspace and defending Gulf energy lanes, a strategic trilemma that no public US policy statement has acknowledged.",
+    "criticalWindow": "The next 10-14 days around the announced Hormuz interim deal: if the 60-day framework is not formalized and publicly verified by both Tehran and Washington before the next major Houthi strike or Iranian provocation, the deal collapses with no diplomatic runway left, oil spikes, and Trump faces pressure to conduct kinetic strikes on Iranian naval assets while simultaneously being unable to resupply Ukraine with interceptors — a dual crisis with no good exit.",
     "watchFor": [
-      "Confirmation or collapse of the Iran-Oman Hormuz partial reopening arrangement within Trump's stated 24-48 hour deadline",
-      "Additional IRGC attacks on US bases in Kuwait, Bahrain, or Qatar indicating Iran has decided to reject the deal and escalate",
-      "Any Chinese naval or air activity around Taiwan or South China Sea that tests US response capacity during the munitions-depleted Iran war posture",
-      "Domestic political disruption from the Todd Blanche AG confirmation or DHS leak fallout that pulls White House bandwidth away from the Iran negotiation track"
+      "Formal joint announcement of Hormuz 60-day deal by US, Iran, and Oman — absence by end of this week signals collapse",
+      "Additional Russian zero-intercept strike packages on Kyiv indicating Ukraine has crossed a critical interceptor threshold below operational viability",
+      "Second or third Houthi missile strike on Saudi Aramco infrastructure near Yanbu escalating from tanker targeting to fixed energy assets",
+      "North Korean ballistic missile shipment confirmation to Russia triggering new escalation decision by NATO on weapons supply to Ukraine"
     ],
-    "confidenceNote": "Key uncertainties include: actual munitions depletion figures may be more nuanced than the headline suggests; the Iran-Oman deal terms are third-hand sourced and Iranian internal politics around Pezeshkian's denial of resignation rumors suggest factional instability that could derail any deal independently of US pressure; prediction market data is US-centric and does not capture Iranian domestic decision calculus; the explosion at the Tehran aluminum factory is unexplained and could be sabotage, accident, or a framing event.",
-    "topPattern": "A convergence of depleted US precision strike inventory, a live but fragile Hormuz deal deadline, IRGC escalation against Kuwait bases, and a 91 percent energy supply shock probability creates a strategic trap: the US must close a diplomatic deal within days using leverage it is rapidly losing, while Kalshi markets show the domestic political environment absorbing AG consolidation moves at 96 percent probability, suggesting the administration is simultaneously managing a war inflection and a domestic power centralization — a combination historically associated with high-error foreign policy decisions."
+    "confidenceNote": "Key uncertainties include: the actual status of US Patriot interceptor reserves (the 80% depletion figure is unverified and may be Ukrainian advocacy rather than DoD assessment); whether the Hormuz deal has Trump's personal buy-in given his contradictory public statements; the actual operational capacity of the Russian drone-strike campaign against European infrastructure; and whether Kalshi's 17% Trump resignation probability reflects genuine political intelligence or speculative noise from a volatile retail market.",
+    "topPattern": "A cascading deterrence depletion loop is underway — US interceptor stocks are exhausted defending Ukraine, Houthis are escalating against Saudi infrastructure with near-impunity, Iran senses negotiating leverage on Hormuz, and European infrastructure is being probed by drone sabotage, all while Kalshi shows Trump resignation at 17% (down 3 cents today) and Vance at 17% to win the presidency, suggesting markets are pricing meaningful leadership uncertainty into a moment of maximum external pressure."
   },
   "signals": [
     {
       "id": "sig1",
       "domain": "Middle East",
-      "headline": "Trump ultimatum: Iran deal on Hormuz by today/tomorrow or major airstrikes",
+      "headline": "US-Iran-Oman Hormuz Strait interim deal imminent, Trump administration targeting Wednesday announcement",
       "significance": "CRITICAL",
-      "summary": "Trump administration has issued explicit 48-hour deadline for Iran-Oman agreement to reopen Strait of Hormuz, with Treasury Secretary Bessent confirming deal possible by tomorrow. IRGC struck US base in Kuwait overnight with drones; Iranian official threatens retaliation against US naval blockade.",
-      "signal": "Imminent kinetic escalation or breakthrough negotiation. US missile stockpile depleted to 'virtually all' after 5 months Iran ops—constrains response options against peer competitors like China. Market may be pricing in temporary ceasefire deal rather than major strike campaign.",
-      "contradicts": "Headline 'Trump threats fall flat' contradicted by credible administration officials signaling genuine deal framework within 24-48 hours.",
-      "timestamp": "2026-08-04T12:57:17.176Z"
+      "summary": "Three separate OSINT sources report US, Iran, and Oman closing on 60-day interim arrangement to reopen Strait of Hormuz. Framework routes inbound shipping through Iranian waters, outbound through Omani waters, with mine-clearing and permanent agreement negotiation to follow. Trump stated US controls strait 'totally' while threatening Iran with hard response if they violate terms.",
+      "signal": "If deal closes this week, represents major de-escalation and implicit US-Iran negotiation success despite public Trump antagonism. Oil markets and regional maritime insurance will reprice sharply. Suggests Trump administration pursuing strategic stabilization despite rhetorical posturing—contradicts prior unpredictability on Iran.",
+      "contradicts": "Trump's prior 'maximum pressure' Iran posture and public distrust of diplomatic arrangements",
+      "timestamp": "2026-08-05T12:51:14.295Z"
     },
     {
       "id": "sig2",
-      "domain": "Energy",
-      "headline": "Strait of Hormuz traffic collapsed to 10% of pre-war baseline; 100M barrels weekly supply loss continues",
+      "domain": "Europe",
+      "headline": "Coordinated drone attack on German airport and DHL cargo aircraft; suspected sabotage linked to Ukraine-Russia conflict spillover",
       "significance": "CRITICAL",
-      "summary": "Saudi Aramco CEO confirms Iran war removed 2.6 billion barrels from global supply. Hormuz closure has decimated traffic and created 100M barrel/week loss; rebuilding inventories will take months. Iraqi crude tankers now passing through, signaling potential deal progress.",
-      "signal": "Global oil market remains severely undersupplied. Reopening Hormuz even partially would release immediate downward pressure on prices, but any new escalation locks in $80+ oil floor for Q4 2026. US energy independence thesis tested.",
-      "contradicts": null,
-      "timestamp": "2026-08-04T12:57:17.176Z"
+      "summary": "Leipzig/Halle Airport discovered explosive-laden drone near Ukrainian cargo aircraft Tuesday night. A second drone struck departing DHL cargo plane at 400 meters, causing front-end damage; aircraft diverted safely to Hannover. German authorities investigating as joint state security and sabotage operation. Pattern consistent with Russian or proxy-backed escalation against NATO logistics.",
+      "signal": "First confirmed strike on NATO-member civilian aviation infrastructure linked to proxy warfare. Establishes precedent for air-domain attacks on allied supply chains; signals Russian willingness to escalate into NATO airspace if Ukrainian cargo flows continue. Major escalation threshold crossed with minimal response signaling observed so far.",
+      "contradicts": "Assumption that Russia-Ukraine conflict remains geographically contained east of NATO borders",
+      "timestamp": "2026-08-05T12:51:14.296Z"
     },
     {
       "id": "sig3",
-      "domain": "US Politics",
-      "headline": "Todd Blanche locked at 96% to become Trump Attorney General; Jeanine Pirro drops to 0% after Reflecting Pool case",
+      "domain": "Europe",
+      "headline": "Russia suffers interceptor shortage; Ukraine downed zero of 24 overnight missiles fired at Kyiv; 17+ civilian casualties",
       "significance": "HIGH",
-      "summary": "Kalshi market shows extreme convergence on Blanche (96%, +6 cents 24h) while Pirro collapsed post-vandalism controversy. Drudge reports Trump sours on Pirro. Market liquidity high (OI 626k), indicating institutional conviction.",
-      "signal": "Trump inner circle legal strategy firming around Blanche over ideological hawk Pirro. Suggests continuity-focused DOJ agenda rather than scorched-earth purge. Contradicts MAGA faction expectations of aggressive prosecution-minded AG.",
-      "contradicts": "MAGA populist narrative of Trump building aggressive legal machinery; instead appears to be selecting institutionalist with mainstream legal credentials.",
-      "timestamp": "2026-08-04T12:57:17.176Z"
+      "summary": "OSINT report documents Russian 24-missile overnight strike on Kyiv with zero Ukrainian interceptions due to severe Patriot missile shortage following cessation of US deliveries. At least 17 killed; Russian strikes destroyed major civilian logistics (Nova Poshta warehouse, Rozetka distribution center). Houthi supply agreement contingent on at least year-long Ukrainian domestic production startup.",
+      "signal": "US ammunition withholding creates immediate force-asymmetry window favoring Russian escalation. Ukraine's air defense collapse signals supply-dependent vulnerability. Talks on Ukrainian Patriot component production offer only medium-term (12+ month) relief. Risk of rapid territorial losses if attrition continues unmitigated.",
+      "contradicts": "Notion that US military aid reduction represents marginal adjustment rather than operational game-changer",
+      "timestamp": "2026-08-05T12:51:14.296Z"
     },
     {
       "id": "sig4",
-      "domain": "US Politics",
-      "headline": "Democratic 2028 primary remains fragmented; Newsom 17%, Ossoff 15%, Beshear 4%, AOC 14% prediction prices",
+      "domain": "Indo-Pacific",
+      "headline": "North Korea confirms deployment of missile unit to western Russia; up to 120 ballistic missiles and 6 launchers planned",
       "significance": "HIGH",
-      "summary": "No Democratic frontrunner has consolidated 20% market probability. Newsom marginal 17%, Ossoff stable 15%, AOC unexpectedly high at 14%. High open interest (3M+) across multiple candidates suggests deep uncertainty and lack of clear successor narrative.",
-      "signal": "Democratic Party apparatus has not coalesced around single nominee strategy 2.5 years pre-election. Open primary field likely to fragment further, weakening party unity relative to GOP consolidation around Vance (39% R nom) and Rubio (30% R nom). Succession crisis risk.",
-      "contradicts": "Consensus that Democratic Party would clear field around established centrist; instead market pricing indicates open competitive primary.",
-      "timestamp": "2026-08-04T12:57:17.176Z"
+      "summary": "Ukrainian military intelligence claims North Korea has begun deploying ballistic missile unit to western Russia with planned delivery of up to 120 ballistic missiles and 6 launchers. Marks major expansion of Russia-DPRK military cooperation beyond artillery and manpower.",
+      "signal": "Moscow-Pyongyang military axis deepening operationally, not just rhetorically. North Korean long-range capability injection into Russia's arsenal reduces Russian industrial constraints on missile production and enables sustained intensity in Ukraine campaign. US strategic calculations on Asia and Europe now interdependent.",
+      "contradicts": "Assumption that Russia and North Korea maintain limited, transactional relationship",
+      "timestamp": "2026-08-05T12:51:14.296Z"
     },
     {
       "id": "sig5",
       "domain": "Middle East",
-      "headline": "Ukraine strikes Russian Wildberries e-commerce distribution centers; civilian infrastructure as targeting priority",
-      "significance": "MEDIUM",
-      "summary": "Multiple overnight Ukrainian drone strikes targeted three Wildberries warehouses (Krasny Bor, St. Petersburg, near Moscow). Casualties reported 5 killed, 10 wounded. Commercial logistics infrastructure now explicit targeting vector in broader conflict.",
-      "signal": "Kyiv shifting targeting doctrine toward economic chokepoints rather than military assets alone. Russia's dual-use logistics networks now fair game. Escalation into civilian supply-chain warfare signals desperation or strategic shift toward economic attrition. May lower civilian morale for Russian support.",
-      "contradicts": null,
-      "timestamp": "2026-08-04T12:57:17.176Z"
+      "headline": "Houthis escalate Saudi oil tanker campaign; 8 ships targeted since July 22, 29 more diverted from Saudi ports",
+      "significance": "HIGH",
+      "summary": "Houthis claim direct attacks on Saudi oil tanker 'Wafa' with ballistic missiles in northern Red Sea off Yanbu, alongside total of 8 Saudi tankers targeted and 29 diverted since July 22. Spokesman Yahya Saree framed as 'naval blockade' on Saudi Arabia. Parallel unconfirmed reports of Houthi involvement in Dubai Jebel Ali port explosions overnight.",
+      "signal": "Houthi anti-shipping campaign now quantifiably disrupts Saudi crude export logistics and global energy trade. If Dubai port strike attribution to Houthis confirmed, attack vector expands from maritime to fixed infrastructure. Signals potential for sustained energy price volatility and expanded regional conflict footprint.",
+      "contradicts": "Prior assessments of Houthi capability as limited to sporadic, low-impact strikes",
+      "timestamp": "2026-08-05T12:51:14.296Z"
     },
     {
       "id": "sig6",
-      "domain": "Europe",
-      "headline": "Spain migrant crisis reveals geopolitical tool: Morocco allowed surge into Ceuta for territorial leverage",
+      "domain": "US Politics",
+      "headline": "Todd Blanche locked at 95% probability for Trump Attorney General; rapid consolidation after field winnowing",
       "significance": "MEDIUM",
-      "summary": "Spanish intelligence concluded Morocco deliberately permitted migrant surge into Ceuta while profiting politically. Used event to press sovereignty claims over Ceuta and Melilla enclaves. Migrant flows weaponized as statecraft.",
-      "signal": "North African state capacity to instrumentalize migration flows for geopolitical coercion against EU members. Pattern likely to recur. Undermines US-allied European border stability; signals Moroccan pivot toward independent regional power play rather than Western alliance coherence.",
-      "contradicts": null,
-      "timestamp": "2026-08-04T12:57:17.176Z"
+      "summary": "Kalshi market for Trump's next Attorney General shows Todd Blanche at 95% probability with 24-hour decline of 1 cent, indicating high confidence post-vetting. No serious competitor above 2% (Ron DeSantis). Open interest stable at 637k, suggesting broad consensus.",
+      "signal": "Attorney General succession appears operationally settled despite public uncertainty framing. Blanche's prior Trump defense counsel role signals continuity on legal strategy; low probability of external constraint or ethics block suggests administrative vetting complete. Predicts low friction on confirmation.",
+      "contradicts": "Media narrative of uncertain or contested AG selection",
+      "timestamp": "2026-08-05T12:51:14.296Z"
+    },
+    {
+      "id": "sig7",
+      "domain": "US Politics",
+      "headline": "2028 Democratic field shows Ossoff (15%) and AOC (15%) gaining ground; Harris (10%), Newsom (18%) commanding plurality but soft support",
+      "significance": "MEDIUM",
+      "summary": "Prediction markets show fragmented Democratic 2028 primary with Gavin Newsom (18%) leading, followed by Ossoff and AOC both at 15%, Harris at 10%. J.D. Vance commands 40% of Republican nomination field. Markets reflect early-stage jockeying with substantial tail risk across both parties.",
+      "signal": "Democratic field lacks dominant frontrunner; younger/progressive wing (Ossoff, AOC) gaining relative to centrist/gubernatorial model (Newsom, Harris). Republicans consolidating around Vance but with low absolute probability (40%), indicating open succession anxiety post-Trump. 2028 race remains highly uncertain with non-standard candidates viable.",
+      "contradicts": "Assumption of predictable heir-apparent emergence in either party",
+      "timestamp": "2026-08-05T12:51:14.296Z"
     }
   ],
-  "scanNote": "Signal quality moderate-to-high: OSINT feeds show real-time operational tempo (drone strikes, base attacks); market data shows institutional conviction on AG selection; but headline sensationalism (fart-induced theater evacuation, Dion comeback) dilutes signal-to-noise ratio. Iran deal timeline appears credible via multiple corroboration (Trump, Bessent, Iranian sources, Qatari mediation) but deteriorating fast given overnight IRGC attacks.",
+  "scanNote": "Signal quality constrained by OSINT source variability and headline-only format; Kalshi markets show authentic price discovery with institutional volume; Drudge aggregation lacks geographic filter requiring manual context segregation.",
   "markets": [
     {
-      "ticker": "KXNEXTAG-29-TBLA",
-      "label": "Todd Blanche as next AG",
+      "ticker": "KXTRUMPRESIGN",
+      "label": "Trump resigns before term ends",
       "domain": "US Politics",
-      "marketProb": 96,
-      "aiProb": 88,
-      "gap": -8,
+      "marketProb": 17,
+      "aiProb": 8,
+      "gap": -9,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Despite headlines about using federal agencies against dissenters, judicial threats, and a 17% market price, no concrete resignation trigger is evident; the 3-cent drop in 24h suggests fading sentiment, and historical base rates for presidential resignation are extremely low.",
+      "volume24h": 7738,
+      "openInterest": 114050,
+      "priceChange24h": -3,
+      "url": "https://kalshi.com/markets/KXTRUMPRESIGN"
+    },
+    {
+      "ticker": "KXNEXTAG-29-TBLA",
+      "label": "Todd Blanche becomes next AG",
+      "domain": "US Politics",
+      "marketProb": 95,
+      "aiProb": 91,
+      "gap": -4,
       "favorable": false,
       "confidence": "HIGH",
-      "rationale": "Market already at 96% with a sharp +6¢ 24h move and high OI; slight haircut applied given Trump's volatility on personnel and the Pirro episode signals ongoing White House instability, but Blanche remains overwhelmingly favored and nomination-withdrawal market sits at only 4%.",
-      "volume24h": 119700,
-      "openInterest": 626175,
-      "priceChange24h": 6,
+      "rationale": "Market is already at 95% with high open interest and volume; no contradicting intel in the context suggests a disruption to Blanche's candidacy, and the headline about Hegseth's Army pick losing Republican support does not appear to spill over to Blanche.",
+      "volume24h": 63399,
+      "openInterest": 637302,
+      "priceChange24h": -1,
       "url": "https://kalshi.com/markets/KXNEXTAG-29-TBLA"
     },
     {
-      "ticker": "KXBLANCHEWITHDRAW-28JAN01-JAN01",
-      "label": "Blanche nomination withdrawn before Jan 1 2027",
-      "domain": "US Politics",
-      "marketProb": 4,
-      "aiProb": 8,
-      "gap": 4,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "The -4¢ move and very low OI suggest fading concern about withdrawal; Trump's pattern of souring on nominees (Pirro headline) keeps a non-trivial but small tail risk alive, so STRATWATCH sets this slightly above the 4% market price.",
-      "volume24h": 5351,
-      "openInterest": 7302,
-      "priceChange24h": -4,
-      "url": "https://kalshi.com/markets/KXBLANCHEWITHDRAW-28JAN01-JAN01"
-    },
-    {
       "ticker": "KXPRESNOMD-28-GN",
-      "label": "Gavin Newsom 2028 Dem nominee",
+      "label": "Gavin Newsom wins 2028 Dem nom",
       "domain": "US Politics",
-      "marketProb": 17,
-      "aiProb": 14,
+      "marketProb": 18,
+      "aiProb": 15,
       "gap": -3,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "The Michigan primary testing progressive clout and the Dems' fight-for-the-future headline suggest the party is under pressure to move left, which structurally disadvantages a coastal centrist like Newsom despite his name recognition; market at 17% appears slightly high.",
-      "volume24h": 25707,
-      "openInterest": 3637900,
-      "priceChange24h": 1,
+      "rationale": "Newsom had a 2-cent uptick today, but the Democratic field remains extremely fragmented with Ossoff and AOC both at 15%, and the Wisconsin socialist race signals the party's progressive wing could drive the primary in an unpredictable direction.",
+      "volume24h": 40364,
+      "openInterest": 3659239,
+      "priceChange24h": 2,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
     },
     {
-      "ticker": "KXPRESNOMD-28-AOC",
-      "label": "AOC 2028 Dem nominee",
+      "ticker": "KXPRESNOMD-28-JOSS",
+      "label": "Jon Ossoff wins 2028 Dem nom",
       "domain": "US Politics",
-      "marketProb": 14,
-      "aiProb": 18,
-      "gap": 4,
+      "marketProb": 15,
+      "aiProb": 12,
+      "gap": -3,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "Progressive primary tests and the Democrats' identity battle favor AOC's wing; her 14% market price is modestly undervalued given the leftward energy signaled by the Michigan primary context and high OI reflecting serious market attention.",
-      "volume24h": 52895,
-      "openInterest": 3960246,
+      "rationale": "At 15% with the highest OI among Dem candidates, Ossoff benefits from a moderate lane, but the party's leftward pull signaled by socialist activity in Wisconsin and AOC's matching price suggest the field is too unsettled to assign significantly higher probability than market.",
+      "volume24h": 81606,
+      "openInterest": 3745857,
       "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
     },
     {
-      "ticker": "KXPRESNOMD-28-JOSS",
-      "label": "Jon Ossoff 2028 Dem nominee",
+      "ticker": "KXPRESNOMD-28-AOC",
+      "label": "AOC wins 2028 Dem nom",
       "domain": "US Politics",
       "marketProb": 15,
       "aiProb": 10,
       "gap": -5,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "Ossoff is a credible moderate from a swing state with a strong fundraising base, but the party's progressive-vs-centrist fracture and his relatively low national profile keep his ceiling limited; market at 15% is slightly overpriced.",
-      "volume24h": 19586,
-      "openInterest": 3778499,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
-    },
-    {
-      "ticker": "KXPRESNOMR-28-MR",
-      "label": "Marco Rubio 2028 GOP nominee",
-      "domain": "US Politics",
-      "marketProb": 30,
-      "aiProb": 22,
-      "gap": -8,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Rubio is the most credible non-Vance heir if Trump is sidelined, but the Iran war context, where he would own foreign-policy outcomes as a senior administration figure, cuts both ways; 30% market price appears modestly high given Vance's structural incumbency advantage.",
-      "volume24h": 4655,
-      "openInterest": 2361462,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
+      "rationale": "The socialist candidate surge in Wisconsin and progressive energy is a tailwind, but AOC faces structural electability concerns in a general election environment where markets already price her equal to Ossoff, making 10% a slight discount to the 15% market price.",
+      "volume24h": 19612,
+      "openInterest": 3967757,
+      "priceChange24h": 1,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
     },
     {
       "ticker": "KXPRESNOMR-28-JDV",
-      "label": "J.D. Vance 2028 GOP nominee",
+      "label": "J.D. Vance wins 2028 GOP nom",
       "domain": "US Politics",
-      "marketProb": 39,
-      "aiProb": 42,
-      "gap": 3,
+      "marketProb": 40,
+      "aiProb": 38,
+      "gap": -2,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "As sitting VP Vance holds the strongest structural position for the 2028 GOP nomination; the Iran war and missile-depletion story could be a liability, but incumbency advantage and MAGA alignment justify a probability slightly above the 39% market price.",
-      "volume24h": 5013,
-      "openInterest": 1608149,
-      "priceChange24h": 0,
+      "rationale": "At 40% market price with the strongest OI among GOP candidates, Vance is the clear frontrunner as sitting VP, but the Hegseth Army pick losing Republican support signals potential MAGA coalition fractures that could benefit Tucker Carlson or another challenger.",
+      "volume24h": 4882,
+      "openInterest": 1611750,
+      "priceChange24h": 1,
       "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
     },
     {
-      "ticker": "KXMIDTERMMOV-TXSENR-P3",
-      "label": "GOP wins Texas Senate by 3+ pts",
+      "ticker": "KXNEXTAG-29-RDES",
+      "label": "Ron DeSantis becomes next AG",
       "domain": "US Politics",
-      "marketProb": 30,
-      "aiProb": 38,
+      "marketProb": 2,
+      "aiProb": 2,
+      "gap": 0,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "A 1-cent uptick and very low volume; with Blanche at 95% probability, DeSantis as AG is a remote contingency with no supporting intel in the current context, and DeSantis's political positioning for 2028 makes an AG appointment counterproductive for him.",
+      "volume24h": 7989,
+      "openInterest": 382295,
+      "priceChange24h": 1,
+      "url": "https://kalshi.com/markets/KXNEXTAG-29-RDES"
+    },
+    {
+      "ticker": "KXTRUMPBEARCASECOMBO-27DEC-26",
+      "label": "Trump bear case scenario in 2026",
+      "domain": "US Politics",
+      "marketProb": 10,
+      "aiProb": 18,
       "gap": 8,
       "favorable": false,
-      "confidence": "LOW",
-      "rationale": "The -7¢ single-day drop is a notable signal of eroding confidence; ICE overreach, civil-liberties court rulings against Trump (75 cases headline), and Republican donor fatigue (Lauder closing wallet) all suggest GOP enthusiasm headwinds that could narrow Texas margins more than historically expected.",
-      "volume24h": 4894,
-      "openInterest": 29081,
-      "priceChange24h": -7,
-      "url": "https://kalshi.com/markets/KXMIDTERMMOV-TXSENR-P3"
+      "confidence": "MEDIUM",
+      "rationale": "The convergence of judicial threats, federal punishment of dissenters, interceptor shortages leaving the US at 80% depletion, nuclear strategy leaks, and a Hormuz crisis all elevate tail risks for the Trump administration, making the 10% market price appear slightly underpriced.",
+      "volume24h": 4895,
+      "openInterest": 89645,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXTRUMPBEARCASECOMBO-27DEC-26"
     }
   ],
   "watchSignals": [
-    "Strait of Hormuz negotiation outcome within 48 hours: Trump ultimatum to Iran for deal today or tomorrow triggers either breakthrough or major US airstrikes",
-    "Todd Blanche Attorney General confirmation trajectory: 96% prediction-market price with +6 cent 24h move signals high conviction but watch Senate Judiciary dynamics and any ethical/legal complications",
-    "US munitions stockpile depletion crisis: Army has burned through virtually all long-range precision missiles in 5 months of Iran war; resupply timelines and China conflict implications become acute if conflict sustains",
-    "Iranian drone and naval escalation pattern: IRGC attacks on Kuwait base, Houthi strikes on Saudi infrastructure, and threats to US warships indicate potential threshold-crossing toward direct Iran-US military engagement",
-    "Global shipping disruption cascades: Hormuz traffic at 10% of pre-war baseline, 100+ million barrels weekly production loss, 2.6 billion barrels removed from supply; oil markets and allied economies face structural shock if blockade hardens",
-    "2028 Democratic nominee market settling: Newsom 17%, Ossoff 15%, AOC 14%, Kamala Harris 10% signals fragmentation and test-run phase ending; Michigan primary and progressive turnout this week may crystallize frontrunner"
+    "Strait of Hormuz interim agreement announcement (Axios reported 60-day framework with Iran/Oman within days) - oil markets, regional stability, Trump negotiating credibility",
+    "Ukraine interceptor shortage escalation (zero Patriot interceptions in latest strikes, 80% US stockpile depletion reported) - weapons supply decisions, European NATO burden-shift pressure, potential ceasefire dynamics",
+    "North Korean ballistic missile deployment to Russia (SIX launchers, 120 missiles alleged by Ukrainian intelligence) - US-China war planning implications, regional alliance restructuring, arms control collapse signal",
+    "German airport drone sabotage investigation fallout (explosive device at Leipzig/Halle, DHL cargo aircraft collision at 400m) - US supply chains via Germany, escalation of proxy attacks on NATO territory, attribution clarity",
+    "Russian defense industrial targeting (Ural Drone Factory CEO critically wounded car bombing, Wildberries distribution center destroyed by Ukrainian strikes) - escalating asymmetric warfare inside Russia, attrition dynamics in Ukraine conflict",
+    "Todd Blanche Attorney General confirmation trajectory (95% Kalshi price, 637k open interest) - judicial independence signals, DOJ autonomy expectations, potential prosecutorial direction shifts"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East / Energy Security",
-      "headline": "Iran-US brink crisis: Trump demands Hormuz deal within 24-48 hours or military action",
+      "domain": "Middle East Geopolitics",
+      "headline": "Houthis executing sustained maritime interdiction campaign against Saudi shipping and targeting regional energy infrastructure",
       "significance": "CRITICAL",
-      "summary": "Trump administration has issued explicit ultimatum to Iran via Treasury and direct statements: reach agreement on Strait of Hormuz reopening with Oman mediation today or tomorrow, or face major US airstrikes. Iran and Oman are actively discussing temporary reopening plan (Iran controls inbound, Oman handles outbound). This is an active negotiation-or-war binary decision point.",
-      "signal": "If deal fails: major kinetic escalation highly probable within 72 hours. If deal succeeds: temporary energy market relief but underlying Iran sanctions/blockade logic remains. Either path signals Trump administration readiness for direct Iran confrontation and willingness to risk global oil shocks."
+      "summary": "Houthi forces have attacked eight Saudi oil tankers since July 22, diverted 29 others from ports, and struck Dubai Jebel Ali port overnight. They claim ongoing anti-ship ballistic missile and drone capability with intent to intensify. US controls Strait but has not directly interdicted Houthi operations.",
+      "signal": "Energy price volatility, regional coalition cohesion stress, potential trigger for US military escalation or negotiated settlement (Hormuz interim deal suggests Trump administration favoring diplomacy over force)"
     },
     {
       "id": "gt2",
-      "domain": "Military Readiness / Strategic Posture",
-      "headline": "US Army has expended virtually all long-range precision missiles in 5-month Iran conflict",
+      "domain": "Ukraine Conflict - Military Supply",
+      "headline": "Ukraine facing critical air defense ammunition shortage despite continued Russian strike tempo; zero interceptions in overnight barrage",
       "significance": "CRITICAL",
-      "summary": "US military has consumed its entire stockpile of highly accurate long-range missiles (ATACMS, Tomahawks, precision munitions) during 5 months of Iran War operations. These systems are critical deterrents against China and would be essential in any Indo-Pacific conflict. Resupply timelines are measured in months to years.",
-      "signal": "US strategic depth against two-front conflict (Iran + China) is severely compromised. Taiwan, South Korea, and allied posture become more vulnerable. Industrial base acceleration required but lags current consumption rate. Implies Trump administration calculated that Iran conflict would be brief or subordinate to China containment calculus."
+      "summary": "Multiple OSINT sources confirm Ukraine intercepted zero missiles in recent overnight Russian strike killing at least 14-17 civilians. US has depleted 80% of interceptor stockpiles for key defense system. Talks continue on local Patriot production but delivery takes minimum one year.",
+      "signal": "Ukrainian military sustainability crisis, opening for Russian escalation or negotiated pause, pressure on US to accelerate production or accept attrition model, potential NATO direct involvement trigger"
     },
     {
       "id": "gt3",
-      "domain": "Global Energy Markets / Geopolitical Leverage",
-      "headline": "Hormuz blockade has removed 2.6 billion barrels from supply; traffic at 10% of pre-war; 100M+ barrels lost weekly",
+      "domain": "Russia-North Korea Military Alignment",
+      "headline": "North Korea allegedly deploying missile unit to western Russia with plans to supply up to 120 ballistic missiles and six launchers",
       "significance": "CRITICAL",
-      "summary": "Saudi Aramco CEO confirms Iran-backed Hormuz closure has crashed crude flow to near-total shutdown. Weekly losses exceed 100 million barrels. Rebuilding global inventories will take months even if strait reopens. This constitutes effective economic warfare affecting US allies and global oil prices.",
-      "signal": "Energy inflation risk resurges if Hormuz remains closed or if deal fails. Petrodollar stability and USD purchasing power under pressure. Allied economies (Japan, South Korea, Europe) face industrial shutdown risks. Trump administration faces domestic inflation headwind if conflict continues; this pressures either deal-making or rapid military victory narrative."
+      "summary": "Ukrainian military intelligence claims North Korea has begun deployment of missile unit to Russia and plans major ballistic missile supply. If confirmed, represents first major DPRK force deployment outside peninsula and marks qualitative escalation in Moscow-Pyongyang military cooperation.",
+      "signal": "US Indo-Pacific posture stress, potential expansion of conflict envelope to Korean peninsula, arms control architecture collapse, China-Russia-DPRK alignment solidifying, NATO-US doctrine implications for multi-theater war planning"
     },
     {
       "id": "gt4",
-      "domain": "US Domestic Politics / 2028 Presidential Succession",
-      "headline": "Democratic nominee field remains fragmented; no clear frontrunner 2 years pre-election",
+      "domain": "Energy Markets & Economic Stress",
+      "headline": "AI bubble reaching depression-level territory per Ray Dalio; stock market at record highs while structural economic risks accumulate",
       "significance": "HIGH",
-      "summary": "Prediction markets show Newsom 17%, Ossoff 15%, AOC 14%, Harris 10%, Beshear 4%, Shapiro 5%. No candidate exceeds 20%. Michigan primary tonight tests progressive vs moderate split. Establishment remains unsettled on successor after Biden retirement. Market volatility low (flat 24h moves) suggests uncertainty rather than conviction.",
-      "signal": "Democratic nominee process will remain contested through 2026 midterms and into 2027. Kingmaker dynamics favor media, donor networks, and state-level power brokers over grassroots consensus. Whomever emerges will be reactive to Trump administration foreign policy crises (Iran, China, Ukraine) rather than proactive."
+      "summary": "Drudge reports Dalio warning of AI bubble at Great Depression scale while equity markets smash records and banker bonuses inflate. Context suggests rising inflation concerns, rate trajectory uncertainty, and asset-liability mismatches.",
+      "signal": "Potential financial market correction timing, capital flight risk, impact on US geopolitical leverage (spending power), recession preparation in defense planning cycles"
     },
     {
       "id": "gt5",
-      "domain": "Trump Administration Personnel / Institutional Control",
-      "headline": "Todd Blanche locked in as next Attorney General at 96% prediction-market price; +6 cent surge signals Senate confirmation near-certain",
+      "domain": "Democratic Party 2028 Succession",
+      "headline": "Kalshi markets show Newsom (18%) and Ossoff (15%) as top Democratic nominees; Harris dropped to 10%; no clear frontrunner established",
       "significance": "HIGH",
-      "summary": "Todd Blanche nomination at highest confidence level in Kalshi AG markets. 24-hour +6 cent move suggests recent positive Senate signals or procedural clearance. No credible alternative candidate is tracking above 2%. Only 4% market probability he withdraws before Jan 1, 2027.",
-      "signal": "Trump administration will have loyalist Attorney General who defended Trump in criminal cases. DOJ independence under further strain. Expect accelerated moves on immigration enforcement (ICE social-media targeting already signaled), election security (Trump-favorable interpretation), and potential political prosecutions. Institutional checks on executive power degrading."
+      "summary": "Prediction market pricing shows fragmented Democratic field with Newsom gaining (+2 cents 24h), Ossoff stable at 15%, Harris at 10%, Shapiro at 5%. Zero price movement suggests low information advantage and high uncertainty. Incumbent Harris discount signals donor/market skepticism.",
+      "signal": "Democratic Party organizational weakness, potential 2028 campaign resource misallocation, vulnerability to Republican nominee consolidation (Trump/Vance dominance vs fragmented Dem field), governance continuity risk"
     }
   ]
 }
