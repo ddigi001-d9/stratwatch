@@ -1,320 +1,260 @@
 {
-  "generatedAt": "2026-08-12T11:42:08.929Z",
-  "runNumber": 90,
+  "generatedAt": "2026-08-13T11:41:33.392Z",
+  "runNumber": 91,
   "situation": {
-    "headline": "Iran-US military standoff intensifying across multiple vectors: Hormuz closure threat, active naval blockade enforcement, downed F-15E, and collapsed ceasefire talks signal highest Persian Gulf escalation risk since 2020",
+    "headline": "Iran's closure of the Strait of Hormuz, combined with a U.S. naval blockade enforcing 59 commercial vessel redirections, marks the most consequential chokepoint confrontation since the Tanker War, with cascading energy, military, and alliance implications still unpriced by markets",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 82,
+        "prob": 87,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Iran denying ceasefire validity while threatening permanent Hormuz closure, US actively boarding and disabling vessels running the blockade, and a confirmed F-15E shootdown collectively indicate a conflict on the edge of uncontrolled escalation with no off-ramp currently visible."
+        "status": "Hormuz blockade is live, Iran is publicly defiant and conditioning reopening on unmet demands, Houthi fiber-optic FPV drone recovery signals technology maturation, and Russian satellite intel support to Houthis broadens the conflict's sponsor network into a multi-adversary confrontation for CENTCOM"
       },
       {
         "name": "Indo-Pacific",
-        "prob": 31,
+        "prob": 52,
         "label": "China coercion escalation",
-        "trajectory": "FLAT",
-        "status": "Context contains minimal Indo-Pacific signal; US military attention and assets consumed by Persian Gulf operations reduce deterrence bandwidth available to counter potential opportunistic Chinese moves, but no triggering action is visible in the current feed."
+        "trajectory": "UP",
+        "status": "Taiwan's weaponization of coast guard for battle-ready posture is a significant doctrinal shift, a new Chinese oil pipeline coming online reduces Beijing's vulnerability to sea-lane pressure, and Putin's Kuril visit strains the U.S.-Japan alliance bandwidth at a moment Japan is already diplomatically stretched"
       },
       {
         "name": "Europe",
-        "prob": 14,
+        "prob": 31,
         "label": "NATO cohesion fracture",
         "trajectory": "DOWN",
-        "status": "Eastern flank states are demonstrably strengthening posture with Poland's record rearmament and Baltic Operation Werewolf security coordination, while Ukrainian deep strikes on Novorossiysk and Russian oil infrastructure indicate an active but stable attrition dynamic that is not immediately threatening NATO unity."
+        "status": "Ukrainian drone effectiveness — defeating a U.S. 1st Cavalry brigade in Combined Resolve wargames, striking Crimea's power grid twice in two days, and hitting Russian refineries and Black Sea Fleet frigates — signals Ukraine is operationally self-sustaining enough to reduce near-term allied burden-sharing tension, but the GRU spy network targeting F-16 and Mirage 2000 bases reveals NATO air asset vulnerability that could re-escalate alliance risk calculus"
       },
       {
         "name": "Energy",
-        "prob": 71,
+        "prob": 82,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Iran's explicit Hormuz closure threat backed by active interdiction of vessels, simultaneous Ukrainian drone destruction of Novorossiysk Transneft oil terminal and Orsk refinery, and record European river drought constraining hydro and barge transport create a convergent multi-vector energy supply shock scenario with high probability of price spike within 60 days."
+        "status": "Hormuz is physically blocked, crude is climbing, U.S. natural gas is projected at record production but faces domestic shortage risk, the Saudi-Oman land corridor is operational but cannot replace Hormuz volume at scale, and U.S. refiners posting soaring profits while consumers face record August gas prices creates a politically toxic domestic feedback loop"
       },
       {
         "name": "US Politics",
-        "prob": 58,
+        "prob": 38,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Wisconsin upset, centrist insurgency, Trump approval at reported all-time low, ICE human rights controversies, and a deported US citizen story all point to a deteriorating Republican midterm environment; Kalshi Wisconsin governor market crashed 38 cents, the single largest move in the entire feed, confirming rapid reassessment of GOP viability."
+        "status": "Deficit at highest since COVID, record August gas prices, White House staff churn including Leavitt departure, ICE detention deaths, and hard-left figures like Mamdani polling 69 percent favorability in NYC while DSA pursues power and Hasan Piker agitates Democratic base all suggest an energized opposition, but prediction markets show AOC at 18 percent for 2028 nomination with a 3-cent 24h spike — the left flank is gaining traction in ways that could fracture Democratic coalition discipline heading into midterms"
       }
     ],
-    "unseen": "The simultaneous destruction of Russian energy infrastructure at Novorossiysk and Iranian Hormuz closure threats are not being read together as a coordinated global energy shock: if both choke points are disrupted concurrently, the resulting oil price spike would stress an already credit-card-debt-laden US consumer economy, potentially validating the Citrini economic stress composite market which jumped 5 cents today and now prices a 24 percent chance of multi-indicator economic distress before July 2028, a risk that feedback-loops directly into the 2026 and 2028 electoral dynamics markets are already pricing.",
-    "criticalWindow": "The next 30 days around the Iran ceasefire void: with no framework in place, no talks announced, and CENTCOM already firing Hellfires at blockade runners, a single miscalculated Iranian or US naval action in the Strait of Hormuz could trigger an irreversible escalation before any diplomatic circuit-breaker can be activated, making the absence of back-channel negotiation the most dangerous gap in current US policy.",
+    "unseen": "The convergence of Russian satellite intelligence supporting Houthis in Yemen, Russian GRU networks targeting Western-supplied F-16 and Mirage 2000 bases in Ukraine, and Iran coordinating drone targeting data against U.S. F-15Es suggests a coordinated adversary ISR-sharing architecture — Russia, Iran, and Houthi proxies are operating a de facto joint intelligence network against U.S. and allied platforms across three theaters simultaneously, which no single theater analyst is likely treating as a unified threat picture",
+    "criticalWindow": "The next 30-45 days on Hormuz are decisive: Iran has publicly stated conditions for reopening, the U.S. has redirected 59 vessels and boarded 2, and any kinetic incident involving a commercial vessel, U.S. naval asset, or Iranian platform risks triggering an escalation ladder with no established off-ramp, coinciding with the September 30 U.S. withdrawal deadline from Iraq that removes forward basing leverage and complicates CENTCOM's posture",
     "watchFor": [
-      "Iranian mining or physical closure action in the Strait of Hormuz, which would immediately trigger allied military response and a global oil shock",
-      "Additional US aircraft or naval vessel losses to Iranian drone-ballistic missile saturation tactics designed to exhaust interceptor inventories, potentially forcing a US strike on Iranian territory",
-      "Brent crude price breaching 110 dollars per barrel as Novorossiysk and Hormuz disruptions compound, triggering recession probability repricing and consumer confidence collapse ahead of November 2026",
-      "A Wisconsin-style Democratic upset in a second competitive 2026 special or primary election, confirming the generic ballot shift is structural rather than localized and causing Republican leadership to break with Trump on a key policy to limit exposure"
+      "Iranian announcement of specific conditions for Hormuz reopening or any back-channel Omani mediation signal, which would be the first de-escalation indicator",
+      "Additional Ukrainian long-range MICH-2000 strikes against Russian strategic infrastructure — particularly refineries or Black Sea Fleet assets — that could prompt Russian retaliation against NATO-adjacent territory or F-16 host nation airfields",
+      "U.S. or allied naval vessel confrontation with Iranian forces enforcing the Hormuz closure, which would be the trigger event for rapid oil price spike past current climb trajectory",
+      "Kalshi 2028 prediction market movement on AOC nomination contract above 22 percent or Vance above 48 percent, signaling crystallizing post-Trump succession clarity that would reshape 2026 midterm messaging for both parties"
     ],
-    "confidenceNote": "Critical uncertainties include: the true operational status of the Hormuz closure threat versus Iranian negotiating posture; whether the downed F-15E report is confirmed by DoD or remains single-source OSINT; the depth of the Wisconsin Democratic win and whether it reflects a nationalized wave or local candidate factors; and the degree to which Ukrainian infrastructure strikes on Russia are coordinated with or independent of US strategic signaling to Moscow. The GDELT global wire fields are empty, removing cross-validation from that source entirely and reducing confidence in regional assessments outside what OSINT feeds confirm.",
-    "topPattern": "The dominant pattern is simultaneous US military overextension across three active theaters, a Persian Gulf naval conflict with Iran, a proxy war in Ukraine now including direct US asset losses, and a deteriorating domestic political environment measured by the single largest Kalshi single-day move in the feed, Wisconsin governor Republican margin crashing 38 cents, all converging on a common energy price vulnerability that the Citrini composite market and the 22nd Amendment repeal market both ticked upward today, suggesting sophisticated money is beginning to price a scenario where military and economic stress mutually reinforce political instability through 2028."
+    "confidenceNote": "Key uncertainties include: actual Iranian red lines for Hormuz reopening are unknown and the FM statement may be posturing rather than policy; the degree to which Israeli-relayed intelligence on Iran assassination plot was genuine versus manipulated remains unresolved per CIA low-confidence assessment; Ukrainian battlefield drone performance against U.S. forces in wargames is significant but exercise conditions may not replicate real combined-arms integration; and the political durability of the Americas Counter Cartel Coalition is untested given ICC exit pressure on members",
+    "topPattern": "The operational thread connecting the most critical dots is adversary ISR convergence: Russia is providing satellite targeting to Houthis, Iranian drones fed F-15E location data to missile teams, GRU networks photograph Western F-16 bases, and Ukrainian drones simultaneously outperform a U.S. armored brigade — together these signal that U.S. platform survivability assumptions across all theaters are outdated, a vulnerability the Hormuz crisis is now exploiting in real time while Kalshi markets remain focused on 2028 election horse-racing rather than pricing near-term conflict risk"
   },
   "signals": [
     {
       "id": "sig1",
       "domain": "Middle East",
-      "headline": "Iran threatens Strait of Hormuz closure; claims US violated ceasefire within 48 hours",
+      "headline": "Iran blocks Strait of Hormuz; US enforces naval blockade",
       "significance": "CRITICAL",
-      "summary": "Iran's Supreme National Security Council Secretary Mohsen Rezaei declared the Strait will remain closed until US ends war, blockade, releases assets, and withdraws. Iran claims no active talks to extend ceasefire and that Washington violated terms immediately. CENTCOM simultaneously disabled Iran-bound cargo vessel M/V Vela Nova.",
-      "signal": "Escalating maritime chokepoint risk with ~30% of global oil transiting Hormuz. Combined with Ukrainian drone strikes on Russian Black Sea ports and CENTCOM naval enforcement, global energy markets face dual supply-route pressure. If Iran follows through on closure threat, oil shock could trigger 2027 recession (currently priced 27% on Kalshi).",
-      "contradicts": "Any assumption of stable Iran nuclear/sanctions framework post-Trump term.",
-      "timestamp": "2026-08-12T11:44:39.896Z"
+      "summary": "Iran's Persian Gulf Waterways Authority declares Strait remains blocked until conditions met. US has redirected 59 commercial vessels and disabled 3 enforcing counter-blockade as of Aug 12. Global crude prices climbing; natural gas shortage looming in US.",
+      "signal": "Energy chokepoint escalation creates dual supply-shock and geopolitical leverage risk. Prediction markets show zero pricing of major disruption despite $70B+ daily global oil transit at risk. US military posture (redirection ops) suggests confidence but Iranian rhetoric escalates.",
+      "contradicts": "Market complacency on Hormuz risk; oil futures showing modest moves despite strategic chokepoint closure",
+      "timestamp": "2026-08-13T11:43:58.058Z"
     },
     {
       "id": "sig2",
       "domain": "Europe",
-      "headline": "Latvia launches Operation Werewolf against migrant-smuggling; identifies tunnel under Belarus border",
+      "headline": "Ukrainian drones defeat US Army brigade in wargames; Russian refineries burning",
       "significance": "HIGH",
-      "summary": "Riga discovered cross-border tunnel and is deploying troops, drones, and multilateral coordination (Estonia, Lithuania, Poland) to dismantle smuggling networks. Frames migration control as military-grade security operation. Echoes Trump admin rhetoric on border militarization (bulldozing Big Bend National Park for wall).",
-      "signal": "NATO's eastern flank now treating irregular migration as kinetic security threat requiring military interdiction. If pattern spreads westward and EU adopts similar posture, Schengen zone integrity fractures. Signals convergence with US approach to border as theater of operations rather than administrative boundary.",
-      "contradicts": "Liberal EU migration policy consensus; suggests rightward security shift across bloc.",
-      "timestamp": "2026-08-12T11:44:39.896Z"
+      "summary": "Ukrainian 412th Unmanned Systems Regiment overwhelmed US 1st Cavalry Division brigade during Combined Resolve exercise in Germany. Ukraine producing domestically designed MICH-2000 long-range strike drones; Gazprom Salavat refinery hit by Ukrainian drone attack. Sevastopol power grid destroyed twice in 48 hours.",
+      "signal": "US doctrine assumptions about armored formations under drone saturation appear invalidated at peer level. Ukrainian autonomy in drone production and strike capability suggests war trajectory toward attrition favoring defender with manufacturing base. Implication: long-term US military modernization requirements and potential NATO readiness gaps.",
+      "contradicts": "Consensus that US technological edge insulates against drone swarms; wargame result suggests peer adversary can exploit US force structure vulnerabilities",
+      "timestamp": "2026-08-13T11:43:58.058Z"
     },
     {
       "id": "sig3",
       "domain": "US Politics",
-      "headline": "Trump approval hits all-time low; 22nd Amendment repeal odds jump to 12% on prediction markets",
-      "significance": "CRITICAL",
-      "summary": "Drudge reports approval at historic lows and multiple crises (Secret Service scandal, Wisconsin upset, Connecticut lawmaker loss). Simultaneously, Kalshi 22nd Amendment repeal contract surged +5 cents in 24h to 12%, indicating measurable shift in third-term scenario probability despite headline political damage.",
-      "signal": "Market pricing divergence suggests elite minority views constitutional amendment as feasible response to Trump political weakness—not strength. If approval continues hemorrhaging and 2028 succession contests open, pressure for executive power consolidation increases. Precedent: FDR's 1940 third term broke convention; 22nd Amendment was *response*, not constraint on ambition.",
-      "contradicts": "Consensus that Trump controls GOP succession; markets show contingency planning for constitutional workaround.",
-      "timestamp": "2026-08-12T11:44:39.896Z"
+      "headline": "White House Press Secretary Karoline Leavitt departing end of August",
+      "significance": "MEDIUM",
+      "summary": "Leavitt announced resignation effective end of month citing family obligations. Prediction market for next Press Secretary shows Anna Kelly at 20% (jumped +20¢ in 24h), Spencer Pratt at 2% (+2¢). Market capitalization on successor position minimal (OI ~4200 vs millions on presidential races).",
+      "signal": "Sudden departure during active administration signals possible internal friction or planned shake-up. Market repricing of successor suggests Kelly frontrunner but extremely low conviction/liquidity indicates uncertainty. Timing coincides with multiple Drudge headlines flagging White House instability.",
+      "contradicts": "Normal administrative transitions; departure mid-term during active political period unusual absent disclosed crisis",
+      "timestamp": "2026-08-13T11:43:58.058Z"
     },
     {
       "id": "sig4",
-      "domain": "US Politics",
-      "headline": "Progressive wins in Minnesota Senate; Wisconsin governor margin collapses to 13% GOP win probability",
+      "domain": "Americas",
+      "headline": "US to withdraw all forces from Iraq by Sept 30, 2026",
       "significance": "HIGH",
-      "summary": "Mamdani and progressives advance in Minnesota primary with Hasidic community backing. Wisconsin governor race flips sharply: GOP margin of 2+ points now only 13% likely (down 38 cents in 24h). Centrist coalition 'strikes back' per Drudge but loses key races.",
-      "signal": "Democratic base mobilizing left despite approval crisis messaging. Wisconsin governor collapse suggests midterm headwind for GOP in swing states. If pattern holds into 2026 midterms, reduces margin for 2028 presidential recovery narrative and raises recession + 2028 third-party/alternative candidacy risk.",
-      "contradicts": "Trump consolidation narrative; shows fracturing opposition with structural advantages in key races.",
-      "timestamp": "2026-08-12T11:44:39.896Z"
+      "summary": "Complete US military departure from Iraq ending presence since 2003 invasion. Announced via ABC News. Coincides with Americas Counter Cartel Coalition expansion (19 members, Peru, Colombia focus) and Secretary Hegseth prioritizing transnational criminal networks.",
+      "signal": "Simultaneous Iraq drawdown and WestHem drug war pivot signals major pivot in force posture and strategic priority. Iraq vacuum creates space for Iran-backed proxies and ISIS resurgence risk. Reallocation of US military capacity to cartel operations suggests domestic security/border concerns elevated over Middle East counterterrorism.",
+      "contradicts": "Long-standing assumption of permanent US Iraq footprint post-2003; contradicts earlier indicators of sustained Middle East commitment",
+      "timestamp": "2026-08-13T11:43:58.058Z"
     },
     {
       "id": "sig5",
-      "domain": "Indo-Pacific / Technology",
-      "headline": "Iranian drone swarm + ballistic missiles defeat US F-15E; Iran adapting to exploit US interceptor depletion",
-      "significance": "HIGH",
-      "summary": "New York Times reports Iranian forces used drone swarm to provide targeting data, enabling air-defense shootdown of advanced US fighter. Iran is explicitly combining drones with maneuvering ballistic missiles to overwhelm US air-defense capacity and deplete limited Patriot/THAAD stocks across Jordan bases.",
-      "signal": "US air superiority assumption in Middle East eroding. Combined-arms Iranian doctrine is learning curve that forces CENTCOM to rationalize interceptor usage, raising risk of air base vulnerability if Iran sustains multi-front attack tempo. Signals shift from US power projection to contested airspace in Persian Gulf theater.",
-      "contradicts": "Post-Cold War US technological dominance in air defense; shows near-peer capacity to neutralize legacy systems.",
-      "timestamp": "2026-08-12T11:44:39.896Z"
+      "domain": "Indo-Pacific",
+      "headline": "Putin visits disputed Kuril Islands; Japan summons Russian ambassador",
+      "significance": "MEDIUM",
+      "summary": "Russian President visited far-eastern Kuril chain for first time, drawing Japanese protests. Japan summoned Russian ambassador in response. Territory claimed by both nations.",
+      "signal": "High-visibility territorial assertion by Russia signals testing of Japan resolve and potential opening for opportunistic regional revisionism. Coincides with Ukraine drone victories and Western military distraction. Suggests Russia emboldened by perceived Western focus fragmentation.",
+      "contradicts": "Post-Ukraine invasion Putin caution; signal of renewed territorial aggression contradicts prior assessments of Russian retrenchment",
+      "timestamp": "2026-08-13T11:43:58.058Z"
     },
     {
       "id": "sig6",
-      "domain": "Energy",
-      "headline": "Ukrainian drone strikes ablaze Russian Orsk Oil Refinery and Novorossiysk port complex; Russian ships adopting naval camouflage",
+      "domain": "Technology",
+      "headline": "Houthis deploy fiber-optic FPV drones; rely on Russian satellite intel for strikes",
       "significance": "HIGH",
-      "summary": "NASA FIRMS detected fires at Novorossiysk Transneft terminal and Russian Navy base after heavy Ukrainian drone raids. Orsk refinery processing unit hit. Russian cargo vessels now sporting naval 'dazzle' camouflage in Black Sea, indicating systematic damage expectations.",
-      "signal": "Ukraine sustainably degrading Russian energy production and export logistics. Adaptive Russian camouflage tactics indicate expectation of continued strikes. If Ukrainian drone production sustains, Russian oil export capacity will deteriorate, tightening global supply and supporting energy price floor that resists recession narrative (Kalshi 2027 recession at 27%).",
-      "contradicts": "Assumption of stable Russian energy exports; demonstrates Ukrainian capability to strike deep infrastructure targets repeatedly.",
-      "timestamp": "2026-08-12T11:44:39.896Z"
+      "summary": "Saudi-backed forces recovered first intact fiber-optic guided FPV drone from Houthis on Ma'rib front. Separate reporting confirms Houthis using Russian satellite intelligence for targeting Saudi/Yemeni coalition forces. CENTCOM conducting naval blockade against Iran.",
+      "signal": "Evidence of direct Russian ISR support to Houthi operations creates Moscow-Tehran-Houthi axis military coordination. Fiber-optic guidance suggests advanced drone capability beyond expected non-state actor sophistication. Implies Russian military integration into proxy operations deeper than previously disclosed.",
+      "contradicts": "Consensus that Houthis operate largely autonomously; Russian intel sharing signals state-level coordination undermining US blockade strategy",
+      "timestamp": "2026-08-13T11:43:58.058Z"
     }
   ],
-  "scanNote": "Signal quality compromised by Drudge sensationalism and OSINT fragmentation, but Kalshi market moves (22nd Amendment +5¢, Wisconsin GOP collapse -38¢, Jon Ossoff +2¢) reveal elite probabilistic shifts not yet reflected in headline consensus.",
+  "scanNote": "Signal quality degraded by headline sensationalism (Drudge), but OSINT feeds and prediction-market repricing provide high-confidence tactical intelligence; geopolitical implications exceed market pricing across energy, military readiness, and alliance resilience.",
   "markets": [
     {
-      "ticker": "KXMIDTERMMOV-WIGOVR-P2",
-      "label": "Wisconsin GOP Gov margin 2+ pts",
+      "ticker": "KXNEXTPRESSEC-29JAN21-AKEL",
+      "label": "Anna Kelly as next WH Press Secretary",
       "domain": "US Politics",
-      "marketProb": 13,
-      "aiProb": 10,
-      "gap": -3,
-      "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "Drudge 'UPSET IN WISCONSIN' and 'CENTRISTS STRIKE BACK' headlines, combined with a massive -38 cent single-day price collapse on this market, strongly signal a Democratic win or very narrow Republican margin in the Wisconsin governor race.",
-      "volume24h": 3318,
-      "openInterest": 3749,
-      "priceChange24h": -38,
-      "url": "https://kalshi.com/markets/KXMIDTERMMOV-WIGOVR-P2"
-    },
-    {
-      "ticker": "KXMIDTERMMOV-TXSENR-P3",
-      "label": "Paxton Texas Senate 3+ pt margin",
-      "domain": "US Politics",
-      "marketProb": 36,
-      "aiProb": 40,
-      "gap": 4,
-      "favorable": false,
+      "marketProb": 20,
+      "aiProb": 35,
+      "gap": 15,
+      "favorable": true,
       "confidence": "MEDIUM",
-      "rationale": "Paxton's brutal town hall confrontation over infidelity and ongoing political vulnerabilities undercut his margins, but Texas structural Republican advantage keeps a 3-point win plausible; the +6 cent market move suggests some optimism that may not be warranted given reputational damage.",
-      "volume24h": 4111,
-      "openInterest": 37301,
-      "priceChange24h": 6,
-      "url": "https://kalshi.com/markets/KXMIDTERMMOV-TXSENR-P3"
-    },
-    {
-      "ticker": "KXMNSENGOVCOMBO-26NOV-DEMDEM",
-      "label": "Minnesota Dem sweep Gov+Senate",
-      "domain": "US Politics",
-      "marketProb": 79,
-      "aiProb": 72,
-      "gap": -7,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Drudge notes progressives won the Minnesota Senate primary and Hasidic Grand Rebbe is defending Mamdani, but the -13 cent drop suggests the market is pricing in some Republican or centrist competitive risk in the governor race consistent with the 'CENTRISTS STRIKE BACK' headline.",
-      "volume24h": 5271,
-      "openInterest": 7406,
-      "priceChange24h": -13,
-      "url": "https://kalshi.com/markets/KXMNSENGOVCOMBO-26NOV-DEMDEM"
-    },
-    {
-      "ticker": "KXAMEND22-29-JAN01",
-      "label": "22nd Amendment repealed/reinterpreted by Jan 2029",
-      "domain": "US Politics",
-      "marketProb": 12,
-      "aiProb": 4,
-      "gap": -8,
-      "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "Despite a notable +5 cent spike likely driven by Trump's all-time low approval and political turbulence creating speculative noise, there is no credible legislative or judicial pathway to 22nd Amendment repeal before January 2029, making this market substantially overpriced at 12%.",
-      "volume24h": 7652,
-      "openInterest": 76361,
-      "priceChange24h": 5,
-      "url": "https://kalshi.com/markets/KXAMEND22-29-JAN01"
-    },
-    {
-      "ticker": "KXCITRINI-28JUL01",
-      "label": "Multi-indicator US economic distress index 2",
-      "domain": "Americas",
-      "marketProb": 24,
-      "aiProb": 30,
-      "gap": 6,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Drudge 'US FINANCIAL CRISIS BREWING' and mounting credit card debt headlines alongside a +5 cent price move reflect growing economic anxiety, but the composite threshold requiring multiple simultaneous extreme indicators remains unlikely even in a deteriorating environment.",
-      "volume24h": 4161,
-      "openInterest": 177451,
-      "priceChange24h": 5,
-      "url": "https://kalshi.com/markets/KXCITRINI-28JUL01"
-    },
-    {
-      "ticker": "KXRECSSNBER-27",
-      "label": "US recession in 2027",
-      "domain": "Americas",
-      "marketProb": 27,
-      "aiProb": 32,
-      "gap": 5,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Credit card debt surge, home equity being tapped as piggy bank, and a possible US financial crisis signal stress building in consumer balance sheets, partially offset by the -3 cent market drop suggesting traders are slightly dialing back recession fears in the near term.",
-      "volume24h": 8860,
-      "openInterest": 81922,
-      "priceChange24h": -3,
-      "url": "https://kalshi.com/markets/KXRECSSNBER-27"
-    },
-    {
-      "ticker": "KXPRESNOMD-28-GN",
-      "label": "Newsom 2028 Dem presidential nominee",
-      "domain": "US Politics",
-      "marketProb": 18,
-      "aiProb": 14,
-      "gap": -4,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Newsom's high-profile Detroit church speech attacking Trump keeps him visible, but his California albatross, the crowded field led by Ossoff and AOC in market pricing, and his 'SERMON OF GAVIN' framing suggest he remains a secondary contender rather than frontrunner.",
-      "volume24h": 30148,
-      "openInterest": 3817233,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
+      "rationale": "Leavitt's confirmed departure at end of August creates an immediate vacancy, and the +20¢ single-day surge to 20% on very thin OI signals a credible but unconfirmed leak about Kelly as frontrunner among several candidates.",
+      "volume24h": 5547,
+      "openInterest": 4262,
+      "priceChange24h": 20,
+      "url": "https://kalshi.com/markets/KXNEXTPRESSEC-29JAN21-AKEL"
     },
     {
       "ticker": "KXPRESNOMD-28-AOC",
-      "label": "AOC 2028 Dem presidential nominee",
+      "label": "AOC 2028 Dem nominee",
       "domain": "US Politics",
-      "marketProb": 15,
-      "aiProb": 12,
-      "gap": -3,
+      "marketProb": 18,
+      "aiProb": 20,
+      "gap": 2,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Progressive primary wins in Minnesota and the 'BLOW TO RISING LEFT' in Wisconsin create a mixed signal for AOC's lane; at 15% market price she appears slightly overpriced given centrist backlash signals and the structural disadvantage of running as an unambiguous progressive in a general election.",
-      "volume24h": 82762,
-      "openInterest": 4077341,
-      "priceChange24h": 1,
+      "rationale": "Mamdani's 69% NYC favorability and the DSA's rising organizational strength signal a genuine leftward gravitational pull in the Democratic base, giving AOC a structural tailwind, though her general-election liability keeps overall probability modest.",
+      "volume24h": 144986,
+      "openInterest": 4177404,
+      "priceChange24h": 3,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
     },
     {
-      "ticker": "KXGREENLANDPRICE-29JAN21-NOACQ",
-      "label": "No US acquisition of Greenland by Jan 2029",
-      "domain": "Americas",
-      "marketProb": 84,
-      "aiProb": 87,
-      "gap": 3,
+      "ticker": "KXPRESNOMD-28-GN",
+      "label": "Gavin Newsom 2028 Dem nominee",
+      "domain": "US Politics",
+      "marketProb": 17,
+      "aiProb": 14,
+      "gap": -3,
       "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "No intelligence in this context suggests any movement toward a Greenland acquisition mechanism, and the $900M White House construction spending signals domestic capital allocation priorities; the market's 84% no-acquisition price is slightly underweighted given the near-total absence of actionable progress.",
-      "volume24h": 4434,
-      "openInterest": 178497,
-      "priceChange24h": 2,
-      "url": "https://kalshi.com/markets/KXGREENLANDPRICE-29JAN21-NOACQ"
+      "confidence": "MEDIUM",
+      "rationale": "California's high-profile confrontations with Paramount and the broader media environment keep Newsom nationally visible, but the 69% Mamdani favorability in NYC and the DSA's momentum represent real competition from the progressive flank.",
+      "volume24h": 32514,
+      "openInterest": 3836981,
+      "priceChange24h": -1,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
     },
     {
       "ticker": "KXPRESNOMR-28-JDV",
-      "label": "JD Vance 2028 GOP presidential nominee",
+      "label": "J.D. Vance 2028 GOP nominee",
       "domain": "US Politics",
-      "marketProb": 41,
-      "aiProb": 35,
-      "gap": -6,
+      "marketProb": 43,
+      "aiProb": 40,
+      "gap": -3,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Trump's all-time low approval and the -1 cent drift on Vance's market reflects concern that toxic political environment depresses Vance's inherited brand equity, though as sitting VP he retains the structural frontrunner advantage in a field with no dominant alternative; 41% market price is modestly high.",
-      "volume24h": 5751,
-      "openInterest": 1656779,
-      "priceChange24h": -1,
+      "rationale": "Vance is the incumbent Vice President and institutional favorite at 43% on Kalshi; the White House turbulence including Leavitt's departure and ongoing Trump health questions from his cardiologist slightly erode but do not collapse his structural advantage as heir apparent.",
+      "volume24h": 53538,
+      "openInterest": 1658529,
+      "priceChange24h": 2,
       "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
+    },
+    {
+      "ticker": "KXPRESNOMR-28-MR",
+      "label": "Marco Rubio 2028 GOP nominee",
+      "domain": "US Politics",
+      "marketProb": 24,
+      "aiProb": 20,
+      "gap": -4,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Rubio's role managing the Iran-Hormuz crisis and the Iraq withdrawal as a senior foreign policy figure gives him credibility, but Vance's incumbency advantage as VP makes Rubio a distant second despite his 24% Kalshi price.",
+      "volume24h": 19564,
+      "openInterest": 2347350,
+      "priceChange24h": -1,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
+    },
+    {
+      "ticker": "KXMAMDANIOUT-26AUG-27JAN01",
+      "label": "Mamdani leaves NYC Mayor before Jan 1 2027",
+      "domain": "US Politics",
+      "marketProb": 1,
+      "aiProb": 1,
+      "gap": 0,
+      "favorable": false,
+      "confidence": "HIGH",
+      "rationale": "Mamdani's 69% favorability rating and the DSA's active power-building agenda make an early mayoral departure before January 2027 essentially implausible; the market's 1% price is correctly calibrated and STRATWATCH sees no contradicting intelligence.",
+      "volume24h": 9110,
+      "openInterest": 8922,
+      "priceChange24h": -1,
+      "url": "https://kalshi.com/markets/KXMAMDANIOUT-26AUG-27JAN01"
     }
   ],
   "watchSignals": [
-    "US-Iran escalation cycle: Trump plane diversion, CENTCOM blockade of Iranian shipping, Iranian drone swarm tactics against US F-15E. Watch for Iranian retaliation window and US force posture response in Gulf over next 10-14 days",
-    "Ukraine attrition metrics: Russian cruise missile tempo (153 in July 2026), Ukrainian drone strike cadence on Russian ports (Novorossiysk, Orsk refinery). Monitor if Ukrainian drone production/logistics can sustain current attack rate or degrades by late August",
-    "US domestic political fracture signals: Trump approval all-time low, Secret Service breach allegations, 22nd Amendment repeal market at 12% (jumped +5¢), Medicaid gender transition funding ban. Watch for coordinated legislative pushes and conservative consolidation moves in next 2 weeks",
-    "Democratic 2028 primary shape: AOC at 15%, Newsom 18%, Ossoff 14%, Kamala Harris collapsed to 9%. Minnesota Democratic sweep at 79% (down -13¢ in 24h). Watch Minnesota Senate primary outcome Aug 13 as delegate signal and whether AOC/progressive wing sustains momentum",
-    "Border/migration operational tempo: Latvia Operation Werewolf counter-smuggling, Big Bend National Park bulldozing for wall construction, ICE electric shock equipment deployment. Monitor for measurable change in apprehension rates or humanitarian incidents next 2-3 weeks",
-    "Market repricing of recession risk: Recession 2027 at 27% (down -3¢), long-term credit stress headlines (credit card debt, home equity withdrawal). Watch for CPI/employment data release Aug 14-16 and yield curve inversion signals"
+    "Iran's blockade of Strait of Hormuz and stated conditions for reopening—energy prices and global supply chain vulnerability escalating",
+    "Ukrainian drone superiority demonstrated against US brigade-level forces in Combined Resolve exercise—implications for force modernization and doctrine",
+    "Kalshi market repricing of 2028 Republican nomination: J.D. Vance 43% vs Trump 3% suggests major shift in GOP succession dynamics",
+    "White House Press Secretary Karoline Leavitt departure end of August signals potential broader staffing instability in Trump administration",
+    "Russian sabotage network in Ukraine targeting F-16/Mirage basing—direct threat to NATO air asset positioning and operational security",
+    "Gazprom Salavat refinery ablation and Sevastopol power loss from Ukrainian strikes—Russian infrastructure attrition rate and civilian impact escalation"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "US-Iran Military",
-      "headline": "Trump diverted from scheduled flight in Ankara due to Iranian assassination threat; Iranian forces shot down US F-15E using drone-guided air defense swarm; CENTCOM disabled Iranian-bound cargo ship M/V Vela Nova",
+      "domain": "Energy Security",
+      "headline": "Iran blocks Strait of Hormuz pending conditions; US-Saudi alternatives under construction",
       "significance": "CRITICAL",
-      "summary": "Active escalatory cycle between US and Iran involving kinetic strikes, intelligence-driven force protection measures, and naval blockade enforcement. Iranian adaptive tactics (drone swarms guiding SAMs) suggest degradation of US air defense margins and evolving Iranian playbook for asymmetric warfare.",
-      "signal": "Direct kinetic exchange underway; risk of incident spiral in Gulf corridor remains acute. US force posture appears stretched across multiple counter-threats simultaneously (drone defense, cruise missile interception, maritime patrol). Iranian messaging suggests willingness to continue escalation."
+      "summary": "Iran's Persian Gulf Waterways Authority confirms Strait of Hormuz blockade with no reopening timeline. Saudi-Oman 'Secure Green Land Corridor' (564 km, $533M) operational as maritime bypass. US Navy enforcing counter-blockade with 59 vessels redirected, 3 disabled, 2 boarded as of Aug 12.",
+      "signal": "Sustained energy price volatility, inflation pressure, and shift in Gulf trade flows away from maritime chokepoints. US must manage allied access while deterring Iranian escalation."
     },
     {
       "id": "gt2",
-      "domain": "Ukraine-Russia Conflict",
-      "headline": "Russian Federation fired 153 cruise missiles in single month (July 2026); Ukrainian drone strikes destroyed Russian refinery (Orsk) and struck Novoressiysk naval/oil terminal causing multiple fires; Russian forces adapted dazzle camouflage on Black Sea cargo vessels",
+      "domain": "Military Capability",
+      "headline": "Ukrainian drone units defeated US 1st Cavalry Brigade in Combined Resolve wargames; US acknowledges gap",
       "significance": "CRITICAL",
-      "summary": "Both sides demonstrating sustained offensive capability and tactical adaptation. Russia maintaining industrial-scale missile production; Ukraine executing precision strikes on high-value infrastructure. Symmetry in attrition pressure suggests prolonged conflict trajectory without decisive military shift.",
-      "signal": "Conflict enters grinding mutual attrition phase. Russian economic/military-industrial base stress measurable (port infrastructure under sustained attack). Ukrainian drone logistics and targeting remain lethal but substrate of supply-chain vulnerability exposed. US military-aid pipeline and NATO ammunition production become decisive factor over 6-12 month horizon."
+      "summary": "WSJ reports Ukrainian drone operators overwhelmed brigade-size US armored formation at Exercise Combined Resolve in Germany. US officials confirmed Ukrainian reconnaissance and loitering munition tactics achieved battlefield dominance despite US air/armor superiority doctrine.",
+      "signal": "US force structure assumptions degraded; peer competitors now fielding more effective drone integration. Immediate implications for NATO force posture, air defense doctrine, and FY2027 modernization priorities."
     },
     {
       "id": "gt3",
-      "domain": "US Domestic Politics",
-      "headline": "Trump approval ratings hit all-time low per polling; 22nd Amendment repeal/reinterpretation market jumped to 12% (+5¢ in 24h); Trump spending $900M on White House construction; Special grand jury convened by Pirro in Washington",
+      "domain": "Russian Intelligence",
+      "headline": "SBU dismantled 14-person Russian GRU network targeting F-16/Mirage basing in Ukraine",
       "significance": "HIGH",
-      "summary": "Confluence of approval decline, constitutional amendment speculation, and ongoing legal pressure indicates heightened political instability and potential precedent-breaking moves under consideration. Market pricing of 22nd Amendment change signals non-negligible institutional-consensus shift.",
-      "signal": "Trump administration facing legitimacy erosion and potential desperate constitutional measures. Judicial pressure (Pirro grand jury, Paxton town halls) maintains pressure. Risk of norm-breaking executive action or legislative overreach escalates as approval declines."
+      "summary": "Ukrainian Security Service arrested network of GRU agents including Ukrainian officer photographing NATO aircraft, airfields, and logging flight times. Intelligence passed to Russia supported targeting of allied air assets.",
+      "signal": "Russian collection against NATO air operations remains operationally active. Compartmentation failures within Ukrainian officer corps confirm vulnerability of allied basing. US must reinforce OPSEC and counterintelligence posture in theater."
     },
     {
       "id": "gt4",
-      "domain": "Democratic 2028 Primary",
-      "headline": "Gavin Newsom at 18% nomination odds; AOC 15%; Jon Ossoff 14%; Kamala Harris collapsed to 9%; Minnesota Democratic sweep prediction at 79% (down -13¢); progressive wins in Minnesota Senate primary reported",
+      "domain": "Domestic Politics",
+      "headline": "Prediction markets reprice 2028 Republican succession: Vance 43%, Trump 3%, Rubio 24%",
       "significance": "HIGH",
-      "summary": "Democratic party showing ideological fragmentation and regional variance. Progressive wing (AOC, Ossoff) maintaining structural support; centrist consolidation around Newsom. Harris collapse indicates base reluctance to nominate recent administration figure. Minnesota swing toward Democrats in gubernatorial context but nomination market volatility suggests uncertainty.",
-      "signal": "Democratic base potentially coalescing around younger, ideologically-distinct candidates rather than establishment names. Minnesota outcome will signal whether grassroots progressive mobilization persists post-2024 or reverts to centrist preference. Nomination process likely contested and fractious."
+      "summary": "Kalshi markets show sharp divergence from 2024 baseline. J.D. Vance's 43% price reflects succession expectations; Trump's 3% nominally prices out second comeback. Rubio (24%) emerges as establishment conservative alternative.",
+      "signal": "Market signal of elite consensus shift away from Trump renewal; Vance consolidating VP-to-nominee trajectory. Watch for explicit Trump endorsement or health-related narrative shifts to move Trump odds. Policy continuity under Vance administration likely on Ukraine/China but less chaotic messaging."
     },
     {
       "id": "gt5",
-      "domain": "Border Operations & Migration",
-      "headline": "Latvia launched Operation Werewolf to dismantle migrant-smuggling networks via Belarus border tunnel; Big Bend National Park bulldozing begun for border wall construction; ICE agents equipped with electric shock gloves; US citizen wrongly arrested via face recognition error",
+      "domain": "White House Staffing",
+      "headline": "Press Secretary Karoline Leavitt departing end of August; successor pool uncertain",
       "significance": "HIGH",
-      "summary": "Trump administration executing hardline border enforcement with infrastructure acceleration and capability deployment (less-lethal weapons). Eastern European allied pressure mounting on Belarus migration corridor. However, operational errors (wrongful arrest) and humanitarian concern baseline present political liability surface.",
-      "signal": "Administration committed to high-tempo border operations and willing to deploy controversial equipment. International coordination with Eastern Europe on migration control advancing. Risk of escalating civil-liberties incidents and operational friction. Effectiveness metrics (apprehension rates, smuggling network dismantlement) will define policy legitimacy."
+      "summary": "Leavitt stepping down for family reasons. Kalshi shows Anna Kelly (20%) emerging as replacement frontrunner, with Spencer Pratt (2%) as long-shot. Broader pattern of mid-term admin departures suggests organizational turbulence.",
+      "signal": "Messaging continuity risk during critical period (Syria, Iran sanctions, Taiwan). Successor's media strategy will reset tone on classified intelligence, foreign policy, and domestic polarization narratives."
     }
   ]
 }
