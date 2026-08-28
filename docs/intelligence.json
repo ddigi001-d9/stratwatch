@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-27T20:52:38.198Z",
-  "runNumber": 105,
+  "generatedAt": "2026-08-28T21:18:23.185Z",
+  "runNumber": 106,
   "situation": {
-    "headline": "Post-Iran war Patriot depletion has left Europe in a 'beyond critical' air defense gap at the precise moment CIA warns Kremlin against NATO attack, creating a window of maximum deterrence fragility",
+    "headline": "Iran fires missiles and drones into Strait of Hormuz while US simultaneously pursues Venezuelan oil deal and maximum-pressure sanctions on Tehran — a convergent energy-security and escalation crisis forming across two hemispheres",
     "velocity": "ACCELERATING",
     "domains": [
       {
@@ -10,266 +10,311 @@
         "prob": 72,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Iran refuses negotiations while US maintains naval blockade and sanctions; former Mossad chief signals operational escalation campaign until regime falls; Houthis still striking Saudi-backed forces; no off-ramp visible."
+        "status": "Iran's reported Strait of Hormuz missile-drone salvo, combined with US Treasury severing remaining economic lifelines and Lebanon pilot-zone failure, points to a multi-front escalation spiral with no near-term off-ramp visible; Russia Doomsday Radio coded-message burst after CIA Director Ratcliffe's Moscow visit adds a nuclear-signaling dimension that complicates US crisis management."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 61,
+        "prob": 38,
         "label": "China coercion escalation",
         "trajectory": "UP",
-        "status": "Beijing deploying record ship numbers around Taiwan while US weapons stocks are visibly depleted from Iran war; new Type 054B frigate with expanded VLS spotted; adversary calculus likely improving."
+        "status": "Chinese embassy guards deploying shock weapons against protesters signals hardening posture; Beijing is watching US military distraction across Middle East and Ukraine theaters as a potential opportunity window, though no direct kinetic trigger is imminent in the 90-day frame."
       },
       {
         "name": "Europe",
-        "prob": 29,
+        "prob": 22,
         "label": "NATO cohesion fracture",
-        "trajectory": "UP",
-        "status": "Patriot stocks at 'beyond critical' levels in Europe, Trump publicly downplays Russia NATO threat while CIA director privately warns Kremlin, creating dangerous credibility gap; Armenia dropping Russia from strategic partners signals realignment fluidity."
+        "trajectory": "FLAT",
+        "status": "European officials assess no imminent Russian conventional attack on NATO despite coded Russian radio traffic and Sikorski's warnings; the Ratcliffe Moscow visit creates ambiguity about US back-channel intent that is quietly alarming allies without producing a visible fracture yet."
       },
       {
         "name": "Energy",
-        "prob": 38,
+        "prob": 61,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "US naval blockade redirecting 75+ commercial vessels; Saudi preparing for new Houthi conflict which threatens Red Sea transit; Iran corridor through Oman waters signals attempt to circumvent blockade."
+        "status": "Iranian Strait of Hormuz provocation threatens the chokepoint carrying roughly 20 percent of global oil; simultaneous US move to lock up Venezuelan oil fields and Japan spending a record 98.7 billion USD to defend the yen signal acute anticipation of energy-driven dollar stress, making a supply-shock event within 60 days materially probable."
       },
       {
         "name": "US Politics",
         "prob": 44,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Markets price AOC at 16% and Ossoff at 17% for 2028 Dem nomination with Ossoff surging in visibility; ICE targeting non-criminals generates backlash; Dems at odds over El-Sayed streamer ties suggesting internal fractures that may limit midterm gains."
+        "status": "Downward job-revision of 79,000, record corporate-profit-versus-worker-pay divergence, housing fragility, and sharp Canadian tourism drop to Florida collectively create favorable conditions for a Democratic pickup cycle; Kalshi markets price AOC at 17 percent for 2028 Democratic nomination and Ossoff at 17 percent, reflecting a party still unsettled on its identity, which could suppress turnout enthusiasm even in a favorable environment."
       }
     ],
-    "unseen": "The Iran war's consumption of US Patriot interceptors has simultaneously degraded European deterrence and signaled to Beijing that US power projection is finite and sequentially exhaustible; China is almost certainly war-gaming a Taiwan contingency timed to a period when US is diplomatically or militarily committed elsewhere, and the Patriot shortage gives them the clearest real-world data point yet that dual-theater high-intensity conflict exceeds US magazine depth.",
-    "criticalWindow": "The next 30-60 days before US Patriot stocks in Europe can be meaningfully replenished represents the peak vulnerability window; if Russia tests NATO resolve with a sub-Article 5 provocation such as airspace incursion or hybrid action against a Baltic state during this gap, the US faces a credibility crisis it cannot back with hardware.",
+    "unseen": "The coincidence of a US servicemember under federal investigation for Polymarket bets tied to military operations, Don Jr. facing probe into allegedly clairvoyant prediction-market positions, and the broader worry about election-gambling manipulation collectively suggest that adversaries or well-positioned insiders may be monetizing foreknowledge of US operational decisions — a counterintelligence and market-integrity threat that is being treated as separate scandals rather than a unified signal about information leakage from within the national security apparatus.",
+    "criticalWindow": "The next 14 to 30 days in the Strait of Hormuz: Iran's missile-drone provocation is either a signaling probe or the opening of an attrition campaign against Gulf shipping; the US response posture, combined with Treasury's maximum-pressure escalation and the ongoing Russia-CIA back-channel ambiguity, will determine whether the energy-market shock remains contained or metastasizes into a broader Gulf crisis before winter heating-season demand peaks.",
     "watchFor": [
-      "Russian military activity near Baltic states or Romanian airspace incidents escalating beyond drone drift, signaling deliberate probing of the Patriot gap",
-      "China accelerating PLAN exercises around Taiwan or enforcing a de facto blockade zone while US carrier groups remain committed to Middle East blockade posture",
-      "Iran operationalizing the Oman corridor to resume oil exports at scale, undermining sanctions architecture and providing regime revenue to reconstitute forces",
-      "Saudi Arabia initiating kinetic operations against Houthis, pulling US back into Yemen-adjacent commitments and further straining CENTCOM resources already stretched by Iran blockade"
+      "Iranian follow-on strikes in the Strait of Hormuz or against Gulf state infrastructure, which would force a US military response decision within hours",
+      "Russia Doomsday Radio coded transmissions resolving into identifiable command-and-control patterns correlated with Ukraine battlefield operations or nuclear-force posturing",
+      "Federal charges formally filed against the US servicemember in the Polymarket insider-trading investigation, which would publicly expose the depth of operational-security compromise",
+      "Kalshi and Polymarket price movements on Middle East conflict or oil-supply contracts spiking ahead of any official announcement about US military action in or near Iran, repeating the pattern already under investigation"
     ],
-    "confidenceNote": "Key uncertainties include actual Patriot interceptor counts which are classified; the sincerity of Trump-Putin assurances versus Kremlin actual intent; whether Iran regime fragility under sanctions is real or performative; and whether the Ossoff political surge in prediction markets reflects genuine national momentum or is a Georgia-specific phenomenon being overweighted.",
-    "topPattern": "A single strategic thread connects the dominant risks: the Iran war has consumed irreplaceable US munitions and carrier time, and adversaries China, Russia, and Iran's proxies are each separately probing whether US extended deterrence has been hollowed out, with Kalshi markets showing Rubio at 13% and Vance at 22% for 2028 suggesting even domestic political actors are pricing in significant uncertainty about whether the current strategic posture is sustainable through a full term."
+    "confidenceNote": "The Iran Strait of Hormuz report comes from a single OSINT account flagged as early and unconfirmed; if it does not materialize, the energy-shock probability drops significantly. The Venezuela oil deal is described as poised but unsigned. The Russia ICBM test from Plesetsk is a routine annual event and should not be over-weighted as escalatory on its own. Prediction-market data reflects retail sentiment, not institutional intelligence, and the large open-interest figures on obscure 2028 candidates likely reflect liquidity-farming rather than genuine probability discovery.",
+    "topPattern": "A deliberate or opportunistic Iranian escalation in the Strait of Hormuz is converging with US maximum-pressure sanctions, a US pivot toward Venezuelan oil, and Japan's record yen-defense spending — all simultaneously — suggesting that multiple state actors are repositioning ahead of an anticipated energy-price shock that prediction markets have not yet fully priced, while an insider-trading scandal involving a US servicemember monetizing military operational foreknowledge on Polymarket points to a systemic OPSEC breach that could compromise the US ability to respond covertly to any of these converging crises."
   },
   "signals": [
     {
       "id": "sig1",
-      "domain": "Europe",
-      "headline": "US Patriot missile stocks in Europe at 'beyond critical' levels after Middle East reallocation",
+      "domain": "US Politics",
+      "headline": "Military officer allegedly profited $1M+ from Polymarket bets tied to military operations under federal investigation",
       "significance": "CRITICAL",
-      "summary": "Multiple reports confirm US air defense interceptor stockpiles supporting NATO are severely depleted due to transfers to Iran war theater. US/NATO officials state forces would have 'limited capability' against ballistic attack in a hot war with Russia, facing repeated strikes without adequate defense.",
-      "signal": "NATO European deterrent capability against Russian ballistic threat has collapsed below operational threshold while Trump administration simultaneously issues confidence about Russia not attacking NATO. Strategic mismatch creates window of vulnerability and potential miscalculation by Moscow.",
-      "contradicts": "Trump's repeated assurances that 'Russia won't attack NATO' and CIA Director Ratcliffe's reported warnings to Kremlin—stated confidence appears disconnected from actual force posture reality.",
-      "timestamp": "2026-08-27T20:55:28.213Z"
+      "summary": "Federal authorities are preparing charges against a U.S. servicemember who made over $1 million in profits from prediction-market bets correlated with military operations. This represents a severe breach of operational security, information asymmetry abuse, and potential violations of insider-trading and military conduct statutes. The case suggests prediction markets may be leaking sensitive tactical/strategic intelligence in real time.",
+      "signal": "Prediction markets (Polymarket, Kalshi) are now confirmed conduits for monetizing classified or operationally sensitive U.S. military information. Risk that adversaries are also profiting from market signals to reverse-engineer U.S. intentions. Immediate counterintelligence and market-monitoring priority.",
+      "contradicts": "Consensus that prediction markets are efficient price-discovery mechanisms; they are also surveillance/exfiltration vectors for insiders with asymmetric access to non-public military events.",
+      "timestamp": "2026-08-28T21:19:53.700Z"
     },
     {
       "id": "sig2",
-      "domain": "Middle East",
-      "headline": "Trump administration rejects Iran negotiations; former Mossad chief signals regime change as end-state",
+      "domain": "Europe",
+      "headline": "CIA Director Ratcliffe Moscow visit clarified: no evidence of Russian conventional NATO/Baltic attack prep, contradicting initial reporting",
       "significance": "HIGH",
-      "summary": "White House confirms no Iran talks are underway and will not begin until Tehran is 'ready to come to the table in a meaningful way.' Former Mossad chief Dedi Barnea publicly states economic/political/operational escalation must continue 'until it falls.'",
-      "signal": "US policy has shifted from containment/deterrence to explicit regime-change objective. This elevates risk of uncontrolled escalation in Gulf and wider Middle East, potentially drawing US into extended regional conflict.",
-      "contradicts": "Previous diplomatic off-ramps or negotiation frameworks; signals intent to pressure Iran until internal collapse rather than negotiated settlement.",
-      "timestamp": "2026-08-27T20:55:28.213Z"
+      "summary": "European officials dispute the stated purpose of Ratcliffe's recent Moscow visit, asserting there is no evidence Russia is preparing a conventional attack on NATO or Baltic states. This suggests either the visit's actual agenda differs from public narrative, or threat assessments have been downgraded post-dialogue. Signal indicates U.S.-Russia crisis de-escalation or covert diplomatic track.",
+      "signal": "U.S. senior intelligence leadership engaging Russia on military posture in a context where threat level is assessed as low by NATO allies. Implies either back-channel negotiations ongoing or U.S. reassurance signals to Moscow. Contradicts hawkish European threat perception.",
+      "contradicts": "High-alert framing of Russian military posture near NATO borders; European confidence in low attack probability suggests either intelligence coordination shift or mismatch between U.S. and allied threat modeling.",
+      "timestamp": "2026-08-28T21:19:53.700Z"
     },
     {
       "id": "sig3",
-      "domain": "US Politics",
-      "headline": "Prediction markets show Trump 2028 general-election odds at 3% vs J.D. Vance at 22%",
-      "significance": "HIGH",
-      "summary": "Market pricing on 2028 presidential outcome shows dramatic divergence: Trump priced at only 3% while VP Vance trades at 22%. This inversion suggests market expects Trump either ineligible, indicted, or voluntary exit before 2028.",
-      "signal": "Prediction markets are pricing material political/legal risk to Trump's continued viability as 2028 candidate. Market structure implies Vance positioned as transition figure; contradicts public messaging about Trump's control of GOP.",
-      "contradicts": "Trump's current dominance of Republican party narrative and his public interest in 2028 run.",
-      "timestamp": "2026-08-27T20:55:28.213Z"
+      "domain": "Middle East",
+      "headline": "Iran reportedly fires missiles and drones into Strait of Hormuz; U.S. Treasury threatens total economic severance and sanctions on Iran's financial enablers",
+      "significance": "CRITICAL",
+      "summary": "Early reports indicate Iran discharged missiles/drones into the Strait of Hormuz. Concurrently, Treasury Secretary Bessent publicly committed to severing every economic lifeline to Tehran and warned allies against accessing U.S. dollar/financial system. Escalatory rhetoric paired with Iranian military action signals heightened regional tensions and potential blockade scenario.",
+      "signal": "Iran testing U.S. resolve in critical chokepoint while Trump administration signals maximum financial/economic warfare posture. Risk of tit-for-tat escalation; maritime insurance and energy prices at risk. U.S. appears to be attempting coercive diplomacy via economic isolation rather than military deterrence alone.",
+      "contradicts": "Recent CIA-Russia dialogue suggesting de-escalation tone; Middle East appears decoupled from Russia channel, or Iran pursuing independent strategy.",
+      "timestamp": "2026-08-28T21:19:53.700Z"
     },
     {
       "id": "sig4",
-      "domain": "Indo-Pacific",
-      "headline": "China deploys record number of ships around Taiwan as US weapons shortage alarms allies",
-      "significance": "CRITICAL",
-      "summary": "Beijing's naval pressure around Taiwan reaches historic levels. Simultaneously, US military faces acute shortage of advanced air defense systems globally, with Patriot stocks critically depleted and redirected to Middle East operations.",
-      "signal": "Windows of strategic vulnerability now overlap: China's maximum pressure on Taiwan coincides with US air defense depletion and divided focus. Allies (Japan, South Korea, Taiwan) face heightened risk; US cannot simultaneously reinforce both European and Indo-Pacific theaters.",
-      "contradicts": "Stated US pivot-to-Asia strategy and commitment to Taiwan defense under current force posture constraints.",
-      "timestamp": "2026-08-27T20:55:28.213Z"
+      "domain": "Americas",
+      "headline": "Canada-U.S. bilateral stress: tourism to Florida collapsing, 'don't travel' warnings issued, product boycott campaign renewed",
+      "significance": "HIGH",
+      "summary": "Canadian visitor arrivals to Florida have declined sharply. Canadian authorities are actively warning citizens against travel to the U.S. and renewing boycott campaigns against U.S. products. This represents an organized de-escalation of bilateral civilian/economic ties amid government tensions, likely over trade, tariffs, or Trump administration policies.",
+      "signal": "Canada transitioning from rhetorical to behavioral economic decoupling. Risk of deeper trade disruption, supply-chain fragmentation with largest U.S. trading partner, and erosion of North American economic integration. Signals loss of Trump administration trust among allies.",
+      "contradicts": "USMCA framework stability; bilateral relationship assumed robust despite political friction.",
+      "timestamp": "2026-08-28T21:19:53.700Z"
     },
     {
       "id": "sig5",
-      "domain": "Americas",
-      "headline": "Trump administration signs Lake Ontario renaming to 'Lake America' amid Canada trade friction",
+      "domain": "Technology",
+      "headline": "SpaceX $100B port expansion plan raises investor questions on funding source; Tesla/OpenAI/Anthropic cited as destabilizing San Francisco economy",
       "significance": "MEDIUM",
-      "summary": "Trump signed executive order to rename Lake Ontario and joked about renaming Atlantic/Pacific oceans. Action taken amid escalating trade tension with Canada (which hired 48 US university scholars).",
-      "signal": "Signals domestic audience symbolic reclamation narrative but fuels Canadian nationalism and grievance; complicates bilateral management and alliance cohesion. Suggests Trump administration prioritizes nationalist messaging over alliance maintenance on secondary issues.",
-      "contradicts": "Professional diplomatic norms and traditional US-Canada alliance management; gestures toward broader de-institutionalization of bilateral frameworks.",
-      "timestamp": "2026-08-27T20:55:28.213Z"
+      "summary": "SpaceX's announced $100 billion port development initiative lacks transparent funding clarity, raising investor skepticism. Separately, major AI/tech firms are criticized for distorting San Francisco cost-of-living and workforce dynamics. Signals potential overextension of private space/defense contractors and concentration of venture capital in few hands.",
+      "signal": "SpaceX capital deployment opacity may indicate either federal subsidy/ITAR-secured financing or private-equity leveraging tied to Defense contracts. If opaque, raises audit/accountability risks. AI firms' market dominance eroding social stability in tech hubs; potential antitrust scrutiny ahead.",
+      "contradicts": "Assumptions of transparent defense-contractor procurement and competitive AI market structure.",
+      "timestamp": "2026-08-28T21:19:53.700Z"
     },
     {
       "id": "sig6",
-      "domain": "Technology",
-      "headline": "Swarm of 700 AI bots deployed in hacking attack; AI-written content already embedded in major US news outlets",
+      "domain": "US Politics",
+      "headline": "Don Jr. faces probe into 'almost clairvoyant' bets; CEOs fear subpoenas after cutting checks to Trump",
       "significance": "HIGH",
-      "summary": "Reports document 700 AI-controlled bots executing coordinated hack. Separately, AI-generated opinion content confirmed appearing on New York Times, Wall Street Journal, and Washington Post without clear labeling.",
-      "signal": "US information ecosystem now exposed to large-scale AI-enabled attack vectors and covert content injection at highest-circulation outlets. Domestic information integrity compromised; attribution and source verification capabilities degraded.",
-      "contradicts": "Assumptions about editorial control, authenticity of published content, and baseline security of major institutional platforms.",
-      "timestamp": "2026-08-27T20:55:28.213Z"
+      "summary": "Federal authorities are investigating Don Trump Jr. for profits from prediction-market bets displaying suspicious accuracy relative to announced policy decisions. Simultaneously, corporate executives report concern over potential subpoenas after making donations to Trump or his entities. Suggests coordinated insider-trading risk and quid-pro-quo perception in Trump ecosystem.",
+      "signal": "Pattern of family/inner-circle members profiting from non-public policy decisions before public announcement. Risk of criminal conspiracy charges, market manipulation liability, and systemic erosion of market integrity. Corporate donation chilling effect may indicate awareness of potential legal exposure.",
+      "contradicts": "Assumption that Trump administration operates under traditional ethics/transparency frameworks; insider-trading enforcement appears selective or retroactive rather than proactive.",
+      "timestamp": "2026-08-28T21:19:53.700Z"
     }
   ],
-  "scanNote": "Signal quality mixed: military/market data high-confidence, headlines lower-confidence due to editorial sensationalism; geopolitical pattern integration shows critical threshold-crossing across multiple theaters simultaneously.",
+  "scanNote": "Signal quality degraded by heavy reliance on Drudge-style sensationalism and social-media OSINT; core geopolitical/military/economic signals are credible but headline noise is high. Prediction-market insider-trading allegations are highest-fidelity intelligence indicators in this sweep.",
   "markets": [
     {
-      "ticker": "KXCANAL-29",
-      "label": "Trump takes back Panama Canal",
-      "domain": "Americas",
-      "marketProb": 28,
-      "aiProb": 18,
-      "gap": -10,
+      "ticker": "KXDEBTGROWTH-28DEC31-45",
+      "label": "US National Debt hits $45T under Trump",
+      "domain": "US Politics",
+      "marketProb": 89,
+      "aiProb": 91,
+      "gap": 2,
       "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Renaming Lake Ontario signals performative nationalism but actual canal seizure faces enormous legal and military obstacles; the 5-cent jump in OI today suggests retail speculation rather than informed positioning, and no operational signals in the OSINT feed support imminent action.",
-      "volume24h": 10908,
-      "openInterest": 101697,
-      "priceChange24h": 5,
-      "url": "https://kalshi.com/markets/KXCANAL-29"
+      "confidence": "HIGH",
+      "rationale": "With 79,000 fewer jobs than previously reported, record corporate profits masking weak labor compensation, and ongoing federal spending pressures, fiscal trajectory strongly supports the debt crossing $45T before end of Trump term; market at 89% is slightly underpriced given current macro signals.",
+      "volume24h": 6784,
+      "openInterest": 6425,
+      "priceChange24h": -6,
+      "url": "https://kalshi.com/markets/KXDEBTGROWTH-28DEC31-45"
     },
     {
-      "ticker": "KXAGENCYELIM-29-USAID",
-      "label": "USAID eliminated",
+      "ticker": "KXPRESNOMD-28-GN",
+      "label": "Gavin Newsom 2028 Dem nominee",
       "domain": "US Politics",
-      "marketProb": 32,
-      "aiProb": 28,
-      "gap": -4,
+      "marketProb": 13,
+      "aiProb": 16,
+      "gap": 3,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Market sits at 32% with a 3-cent uptick; congressional resistance and ongoing litigation continue to block full dissolution, but the administration's sustained pressure and DOGE momentum keep the tail risk real through the end of the term.",
-      "volume24h": 11504,
-      "openInterest": 32111,
-      "priceChange24h": 3,
-      "url": "https://kalshi.com/markets/KXAGENCYELIM-29-USAID"
+      "rationale": "Newsom remains a top-tier contender but faces headwinds from California governance critiques and a fragmented Democratic field; market at 13% is roughly correct, with AOC and Ossoff drawing comparable interest at similar prices.",
+      "volume24h": 61241,
+      "openInterest": 4245757,
+      "priceChange24h": 1,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
     },
     {
       "ticker": "KXPRESNOMD-28-AOC",
-      "label": "AOC wins Dem 2028 nomination",
-      "domain": "US Politics",
-      "marketProb": 16,
-      "aiProb": 12,
-      "gap": -4,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "At 16% market price, AOC's progressive base is energized but the intelligence cycle showing Ossoff actively building a centrist lane and the Dems-at-odds story over El-Sayed's controversy suggest the party is drifting toward electability candidates rather than the left flank.",
-      "volume24h": 67977,
-      "openInterest": 4666558,
-      "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
-    },
-    {
-      "ticker": "KXPRESNOMD-28-JOSS",
-      "label": "Ossoff wins Dem 2028 nomination",
+      "label": "AOC 2028 Dem nominee",
       "domain": "US Politics",
       "marketProb": 17,
       "aiProb": 14,
       "gap": -3,
       "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "AOC holds the highest open interest of any Democrat on the board reflecting genuine grassroots enthusiasm, but her left flank positioning in a post-2024 environment seeking electability makes a path to nomination difficult; 17% market price is a marginal overestimate.",
+      "volume24h": 12651,
+      "openInterest": 4671438,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
+    },
+    {
+      "ticker": "KXPRESNOMD-28-JOSS",
+      "label": "Jon Ossoff 2028 Dem nominee",
+      "domain": "US Politics",
+      "marketProb": 17,
+      "aiProb": 10,
+      "gap": -7,
+      "favorable": false,
       "confidence": "LOW",
-      "rationale": "Headlines explicitly note Ossoff finding a formula to excite donors and voters, consistent with early-cycle momentum, but at 17% the market is already pricing a plausible scenario; genuine name recognition and fundraising gaps keep my estimate slightly below market price.",
-      "volume24h": 12014,
-      "openInterest": 4525027,
-      "priceChange24h": -1,
+      "rationale": "Ossoff's high open interest signals speculative positioning rather than intelligence-backed momentum; no current OSINT or news signals support a breakout, making the 17% market price a significant overestimate.",
+      "volume24h": 11446,
+      "openInterest": 4532898,
+      "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
     },
     {
-      "ticker": "KXPRESPERSON-28-MRUB",
-      "label": "Rubio wins 2028 presidency",
+      "ticker": "KXPRESNOMR-28-MR",
+      "label": "Marco Rubio 2028 GOP nominee",
       "domain": "US Politics",
-      "marketProb": 13,
-      "aiProb": 8,
-      "gap": -5,
+      "marketProb": 19,
+      "aiProb": 22,
+      "gap": 3,
       "favorable": false,
-      "confidence": "LOW",
-      "rationale": "A 2-cent uptick to 13% likely reflects Rubio's high visibility as Secretary of State during the Iran conflict, but the CIA director's Kremlin visit and overall foreign policy turbulence are double-edged; Rubio remains a long shot for the nomination itself given Vance's institutional head start.",
-      "volume24h": 15130,
-      "openInterest": 2396420,
-      "priceChange24h": 2,
-      "url": "https://kalshi.com/markets/KXPRESPERSON-28-MRUB"
+      "confidence": "MEDIUM",
+      "rationale": "Rubio's visibility as a senior administration figure and Hegseth's controversial military purges elevate Rubio's relative standing; Treasury Secretary Bessent's aggressive Iran sanctions messaging signals Rubio-aligned hawkish consensus, modestly lifting his 19% market price.",
+      "volume24h": 7495,
+      "openInterest": 2376254,
+      "priceChange24h": -1,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
     },
     {
-      "ticker": "KXPRESNOMD-28-GN",
-      "label": "Newsom wins Dem 2028 nomination",
+      "ticker": "KXPRESPERSON-28-JVAN",
+      "label": "JD Vance wins 2028 presidency",
       "domain": "US Politics",
-      "marketProb": 11,
-      "aiProb": 9,
+      "marketProb": 20,
+      "aiProb": 18,
       "gap": -2,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "A 1-cent drop to 11% reflects ongoing California political vulnerabilities; the Department of Education Hitler-comparison controversy and ICE arrests environment make a coastal progressive harder to nominate, and Ossoff's rise directly competes for the same donor class.",
-      "volume24h": 97921,
-      "openInterest": 4202376,
-      "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
+      "rationale": "Vance is the most natural GOP heir apparent but faces headwinds from declining approval signals, economic softness including downward job revisions and a fragile housing market, and a -2 cent 24h move suggesting fading market confidence; 20% market price is a slight overestimate.",
+      "volume24h": 36743,
+      "openInterest": 2366188,
+      "priceChange24h": -2,
+      "url": "https://kalshi.com/markets/KXPRESPERSON-28-JVAN"
     },
     {
-      "ticker": "KXTHCLEGALSALE3MG-FED-26NOV16",
-      "label": "3mg THC beverages federally legal by Nov 2026",
+      "ticker": "KXNEXTPRESSEC-29JAN21-SJEN",
+      "label": "Scott Jennings next Press Secretary",
       "domain": "US Politics",
-      "marketProb": 87,
-      "aiProb": 55,
-      "gap": -32,
+      "marketProb": 21,
+      "aiProb": 15,
+      "gap": -6,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "An extraordinary 50-cent single-day spike to 87% signals a specific legislative or regulatory catalyst that is not yet visible in the OSINT feed; the move is too large to ignore as signal but absent confirming intel the true probability is materially lower than the current market price.",
-      "volume24h": 14741,
-      "openInterest": 17788,
-      "priceChange24h": 50,
-      "url": "https://kalshi.com/markets/KXTHCLEGALSALE3MG-FED-26NOV16"
+      "rationale": "The -6 cent single-day drop on Jennings is a strong signal of insider repositioning away from him; concurrent +4 cent move on Anna Kelly suggests the market is actively repricing toward her, making 21% for Jennings an overestimate.",
+      "volume24h": 30877,
+      "openInterest": 312666,
+      "priceChange24h": -6,
+      "url": "https://kalshi.com/markets/KXNEXTPRESSEC-29JAN21-SJEN"
+    },
+    {
+      "ticker": "KXNEXTPRESSEC-29JAN21-AKEL",
+      "label": "Anna Kelly next Press Secretary",
+      "domain": "US Politics",
+      "marketProb": 21,
+      "aiProb": 26,
+      "gap": 5,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "The +4 cent 24h move on Anna Kelly combined with simultaneous sharp drops for Jennings and Margo Martin is a coherent prediction-market signal of directional inside information; STRATWATCH assesses Kelly at 26%, above her current 21% market price.",
+      "volume24h": 8917,
+      "openInterest": 120618,
+      "priceChange24h": 4,
+      "url": "https://kalshi.com/markets/KXNEXTPRESSEC-29JAN21-AKEL"
+    },
+    {
+      "ticker": "KXAKPRIMARY-26MAY19-JWIL",
+      "label": "John Brendan Williams qualifies for AK runoff",
+      "domain": "US Politics",
+      "marketProb": 91,
+      "aiProb": 89,
+      "gap": -2,
+      "favorable": false,
+      "confidence": "HIGH",
+      "rationale": "The +87 cent single-session spike to 91% on very high volume is a definitive market signal, likely reflecting a qualifying event or ballot certification news; STRATWATCH concurs at 89% accounting for residual procedural uncertainty.",
+      "volume24h": 174282,
+      "openInterest": 187647,
+      "priceChange24h": 87,
+      "url": "https://kalshi.com/markets/KXAKPRIMARY-26MAY19-JWIL"
+    },
+    {
+      "ticker": "KXAKPRIMARY-26MAY19-MSCH",
+      "label": "Matthew Schultz qualifies for AK runoff",
+      "domain": "US Politics",
+      "marketProb": 39,
+      "aiProb": 28,
+      "gap": -11,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "The -55 cent crash on Schultz is directly correlated with the Williams surge, strongly implying Williams displaced Schultz in the top-four qualification picture; 39% market price is too high and STRATWATCH assesses 28% reflecting this competitive displacement signal.",
+      "volume24h": 65975,
+      "openInterest": 125031,
+      "priceChange24h": -55,
+      "url": "https://kalshi.com/markets/KXAKPRIMARY-26MAY19-MSCH"
     }
   ],
   "watchSignals": [
-    "Patriot missile stockpile status in Europe - AP reports 'beyond critical' levels; watch for NATO force posture announcements or emergency resupply orders from Congress",
-    "CIA Director Ratcliffe's Russia messaging - Trump claims Putin won't attack NATO after secretive visit; monitor for Russian military mobilization, Baltic incident indicators, or contradictory intelligence leaks",
-    "Iran sanctions escalation trajectory - Trump explicitly rejects negotiations; watch for Iranian retaliation via proxies (Houthis, militias), market oil price spikes, or Israeli military action signals",
-    "Weapons shortage cascade effects - Ukraine war drained US stocks; observe Pentagon testimony on critical munitions gaps, allied defense spending shifts, or force readiness downgrades across Pacific and European commands",
-    "Taiwan pressure intensity - PLAN record ship deployments ongoing; track for blockade hardening, US carrier response, cross-strait incident triggers, or TSMC supply chain vulnerability escalation",
-    "White House internal stability - Secret Service misconduct probe, Elon Musk West Wing presence, Lake Ontario rename executive action; watch for further agency investigations, press secretary turnover, or policy execution chaos"
+    "Hegseth's second Quantico summoning of senior military leaders — timing, attendees, and messaging will signal internal military-civilian friction and readiness posture",
+    "Escalating Iran activity in Strait of Hormuz and missile/drone tests paired with Treasury's economic siege — watch for whether this triggers direct Iranian retaliation or proxy activation against US interests",
+    "Ukraine drone campaign intensity (1,000/day target) and Russian Tu-95 attrition rate — metric for Ukrainian offset capabilities and whether Russia sustains air operations or withdraws deeper",
+    "Don Jr. investigation into 'almost clairvoyant' military-linked Polymarket bets and servicemember profit probe — outcome determines whether prediction markets face regulatory crackdown affecting intelligence-trading nexus",
+    "Trump's Venezuelan oil deal framework announcement and its conditions — reveals administration intent on resource extraction vs. regime change and potential sanctions relief signaling",
+    "NATO Baltic readiness posture and Polish messaging vs. CIA/Ratcliffe Moscow visit conclusions — clarifies whether perceived Russian threat is real tactical shift or strategic communication play"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Defense Industrial Base",
-      "headline": "US Patriot air defense interceptor stockpiles in Europe at 'beyond critical' levels after Middle East diversion during Iran war",
+      "domain": "Military Personnel & Discipline",
+      "headline": "Pete Hegseth considering second major Quantico address to senior military leaders; Navy punishes 19-year-old sailor for suicide attempt; Fired Stars and Stripes journalists sue Hegseth",
       "significance": "CRITICAL",
-      "summary": "NATO Europe faces severe air defense vulnerability. Patriot inventory depleted by Iran conflict shift to Middle East. US officials explicitly warned of limited capability against Russian ballistic attack and European target defenselessness.",
-      "signal": "NATO-Russia deterrence credibility undermined; Russian military calculus on NATO attack probability shifted materially downward; immediate risk of Russian escalation in Ukraine or Baltic probe"
+      "summary": "Multiple indicators of friction between civilian leadership (Hegseth) and military institution. Suicide attempt response and journalist firings suggest command climate and morale erosion. Second Quantico summoning suggests Hegseth believes first meeting in September 2025 did not achieve compliance or buy-in from flag officer corps.",
+      "signal": "Potential military-civilian rupture during peer conflict. Hegseth may lack institutional credibility. Risk of reduced officer willingness to execute unconventional orders, affecting operational effectiveness in Taiwan/Indo-Pacific scenarios."
     },
     {
       "id": "gt2",
-      "domain": "China-Taiwan",
-      "headline": "People's Liberation Army Navy deployed record number of vessels around Taiwan as cross-strait pressure intensifies",
+      "domain": "Iran & Middle East Escalation",
+      "headline": "Iran possibly fired missiles and drones into Strait of Hormuz; Treasury Department announced economic siege on all Iranian financial lifelines; Iran denounces measures as 'international crime against humanity'",
       "significance": "CRITICAL",
-      "summary": "PLAN third Type 054B frigate with advanced VLS systems observed. Record ship deployments indicate sustained blockade posture and military pressure campaign. Satellite intelligence confirms modernization and operational tempo.",
-      "signal": "Taiwan military advantage window closing; US force preposition inadequate for peer conflict; risk of forced unification scenario or crisis miscalculation escalating within 18-24 months"
+      "summary": "Coordinated economic maximum pressure campaign coupled with apparent Iranian kinetic response. Treasury targeting enables sanctions on Iran's enablers globally. Iranian rhetoric indicates regime rejection of negotiation pathway and preparation for sustained confrontation.",
+      "signal": "High risk of tit-for-tat escalation spiral. Proxy activity in Yemen, Iraq, Syria likely to intensify. Oil price volatility and maritime chokepoint risk. US may face forced choice between military response and economic de-escalation within 4-8 weeks."
     },
     {
       "id": "gt3",
-      "domain": "Iran-US Confrontation",
-      "headline": "Trump administration explicitly rejects Iran negotiations; former Mossad chief and White House both signal inevitable operational escalation until regime collapse",
-      "significance": "CRITICAL",
-      "summary": "No talks ongoing or planned until Tehran 'comes to table meaningfully.' Dedi Barnea statement signals Israeli-US alignment on military-economic pressure campaign without off-ramp. Rezaei denial of assassination plot indicates Iranian defensive posturing.",
-      "signal": "Regional proxy war (Houthis, militias) will intensify; Israeli strike window on Iranian nuclear facilities may open; energy markets vulnerable to supply shock; US military overcommitted across Middle East and Indo-Pacific"
+      "domain": "Ukraine War Attrition",
+      "headline": "Ukrainian Tu-95 strike at Engels-2 Air Base damaged bomber wing; Geran-4 strikes on Kyiv ammo depots cause secondary explosions; Russia declares no mobilization plans despite losses; Zelensky wants 1,000 drones/day",
+      "significance": "HIGH",
+      "summary": "Both sides inflicting damage beyond replacement rate. Russia relying on contract soldiers, no conscription announced—suggests force adequacy concerns. Ukraine scaling drone production to offset attrition but sustainability unclear.",
+      "signal": "War entering grinding phase favoring logistics and industrial capacity over manpower. US aid dependency for Ukraine remains critical. Russian ability to sustain deep strikes on rear areas undiminished. Stalemate likely unless major equipment injection or operational breakthrough occurs."
     },
     {
       "id": "gt4",
-      "domain": "Russia-NATO Border",
-      "headline": "CIA Director Ratcliffe conducted secretive Moscow trip to warn Kremlin against NATO attack; Trump claims personal assurance from Putin that attack will not occur",
+      "domain": "US Domestic Economy & Confidence",
+      "headline": "Job creation revised downward by 79,000; corporate profits surge while worker payouts decline; housing market described as fragile; interest rate pressures ongoing; Japan intervening in yen markets",
       "significance": "HIGH",
-      "summary": "Signaling mechanism activated at highest level. Trump confidence in Putin commitment public and explicit. Back-channel diplomatic communication suggests either genuine de-escalation or coordinated messaging to manage markets and allied psychology.",
-      "signal": "If genuine: Russian military buildup on NATO borders may be negotiating theater. If posturing: Trump administration vulnerable to Russian fait accompli in Ukraine or Baltic. Allied confidence in US security guarantee deteriorating regardless of intent"
+      "summary": "Labor market softening while capital concentration accelerates. Wage-price disconnect and asset inflation dynamics create stagflation risk. Global central bank interventions (Japan, others) signal monetary policy strain.",
+      "signal": "Consumer confidence fragility and political legitimacy pressure on incumbent administration. Prediction markets showing demand for 2028 succession—sign of hedging against economic downturn. Inflation persistence may constrain foreign policy spending or military readiness initiatives."
     },
     {
       "id": "gt5",
-      "domain": "Domestic Governance",
-      "headline": "Secret Service communications director and two non-law enforcement officials placed on leave amid misconduct investigation; Lake Ontario renamed to 'Lake America' via executive order",
+      "domain": "Intelligence & Counterintelligence Breach",
+      "headline": "Servicemember under investigation for $1M+ Polymarket profits on military operation outcomes; Don Jr. faces probe into 'almost clairvoyant' betting patterns; authorities expanding criminal charges",
       "significance": "HIGH",
-      "summary": "Executive branch internal stability questioned. Secret Service leadership breach suggests security clearance or operational misconduct. Lake renaming signals informal governance style and distraction from substantive policy. Index of institutional friction rising.",
-      "signal": "White House operational cohesion degrading; risk of security protocol failures; allied confidence in US institutional reliability declining; domestic political friction spilling into national security agencies"
+      "summary": "Serious breach of operational security and potential insider trading on classified military data. Investigation implicates members of Trump family/administration inner circle. Suggests either classified leakage or coordination with intelligence community elements.",
+      "signal": "Systemic counterintelligence failure during wartime. Prediction market data now treated as evidence in federal investigations. Risk of market regulation or closure affecting intelligence community's use of contrarian betting as analytical tool. Adversaries likely identified US decision-making pattern through market movements."
     }
   ]
 }
