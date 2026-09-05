@@ -1,305 +1,290 @@
 {
-  "generatedAt": "2026-09-04T14:41:38.585Z",
-  "runNumber": 113,
+  "generatedAt": "2026-09-05T13:38:07.691Z",
+  "runNumber": 114,
   "situation": {
-    "headline": "Post-strike Iran repositioning — ballistic missile transfers, IRGC Hormuz gambit, and CIA director Moscow visit collectively signal a multipolar stress test on US deterrence architecture simultaneously across two major theaters",
+    "headline": "Simultaneous US-Iran military exchange near Kharg Island and Iranian missile strike on US base in Jordan signals active hot war with Iran, occurring concurrently with Witkoff-Kushner diplomatic mission to Moscow — creating a two-front crisis with no clear command coherence",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 82,
+        "prob": 91,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "US strikes on Iran have occurred; CENTCOM civilian casualty review, liquid-fueled missile transfers to Kermanshah, and Iran FM challenging Jordan signal Tehran is absorbing the blow while repositioning for a second-phase response, not standing down"
+        "status": "US forces have struck an Iranian tanker near Kharg Island, Iran has launched missiles at a US base in Jordan, IRGC is fueling MRBMs, and Iranian army has publicly declared a preemptive-strike doctrine — this is active armed conflict, not escalation risk."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 34,
+        "prob": 38,
         "label": "China coercion escalation",
-        "trajectory": "FLAT",
-        "status": "No direct China signal in current feed; USS Abraham Lincoln diversion to Middle East at 286-day deployment reduces IndoPacific carrier presence, creating an opportunity window Beijing will note but likely not immediately exploit given ongoing US-Iran focus"
+        "trajectory": "UP",
+        "status": "First F-15EX deployment to Kadena signals US hardening of Japan posture, but China's near-term calculus is to watch Iran war consume US bandwidth before making moves; watch for PLA opportunism in next 60 days."
       },
       {
         "name": "Europe",
-        "prob": 28,
+        "prob": 22,
         "label": "NATO cohesion fracture",
-        "trajectory": "UP",
-        "status": "Russia drone strike targeting SBU chief in Kyiv, German grid sabotage probes, Norway seizing Russian vessel, and German far-right electoral gains collectively stress alliance solidarity while frozen-asset debates reveal fissures between Kyiv-aligned and hedge-positioning EU members"
+        "trajectory": "DOWN",
+        "status": "Witkoff-Kushner Moscow visit with a Ukrainian ceasefire window suggests a negotiated freeze is closer than at any prior point, but Russian continued ballistic missile strikes on Ukrainian infrastructure during the diplomatic pause undercut Russian good faith and may harden European NATO members."
       },
       {
         "name": "Energy",
-        "prob": 61,
+        "prob": 78,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Oman rejecting Iran-IRGC Hormuz tolling scheme prevents immediate chokepoint monetization but the IRGC claim itself signals intent; combined with record diesel prices, Ukrainian Flamingo strikes on Rostov near oil infrastructure, and Adler oil depot fire, the supply-side tail risk is rising fast"
+        "status": "Cruise missiles reported over the Strait of Hormuz and Gulf of Oman, US Treasury confirms Hormuz blockade on Iranian oil is live, and Iranian tanker was struck near Kharg Island — Hormuz closure or sustained interdiction is now the base case, not a tail risk."
       },
       {
         "name": "US Politics",
-        "prob": 41,
+        "prob": 54,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Fetterman disengagement coverage, Republican on-trail anxiety about Trump, Bartiromo press secretary speculation spiking 12 cents in 24 hours, and anti-surveillance-tech protests signal a domestic political environment fraying at both party flanks ahead of midterms"
+        "status": "Cook Political Report signals a building blue wave, Republican infighting over Trump on the trail is open and on-record, Fetterman drift and ICE custody deaths are generating Democratic base energy, and Kalshi shows J.D. Vance leading 2028 GOP field at 23 percent suggesting Republicans are already pricing in a Trump-era hangover."
       }
     ],
-    "unseen": "The simultaneous over-extension of US naval assets — Abraham Lincoln at 286 days in Middle East, CENTCOM redirecting 87 commercial vessels — is functionally degrading IndoPacific deterrence posture precisely as Iran tests the limits of the post-strike settlement; China and North Korea are the beneficiaries of a US military stretched across two high-demand theaters, and no headline in the feed is connecting this carrier gap to Beijing's calculus",
-    "criticalWindow": "The next 14-30 days around the IAEA referral of Iran to the UN Security Council: if Tehran interprets the referral as a Western escalation ladder rather than a diplomatic offramp, the liquid-fueled ballistic missiles now staged at Kermanshah become a live operational threat to Gulf partners and US forward bases, potentially forcing CENTCOM to choose between striking again or accepting a degraded deterrence posture before midterms",
+    "unseen": "The Witkoff-Kushner Moscow trip and the Iranian missile strike on Jordan are happening on the same day — this cross-domain collision likely means Iran is deliberately timing escalation to embarrass or complicate the US negotiating posture in the Ukraine theater, forcing Washington to choose between two simultaneous crises and potentially fracturing the Trump team's bandwidth; the Yair Netanyahu assassination plot adds a third simultaneous pressure point that may be driving Israeli independent action without US coordination, further destabilizing US escalation management.",
+    "criticalWindow": "The next 72-96 hours around the September 5-9 Ukraine ceasefire window are the single most time-sensitive decision point — if Iran escalation forces Trump to abandon the Witkoff-Kushner mission or visibly distract US diplomatic capital, Russia will pocket the ceasefire pause without concessions and the negotiating window closes; simultaneously, any US retaliatory strike on Iran that hits IRGC MRBM infrastructure could trigger a Strait of Hormuz closure that sends oil above $120 and crashes the domestic political environment ahead of November 2026.",
     "watchFor": [
-      "IAEA board vote timing and Russian or Chinese veto signaling at the UN Security Council — a veto kills the sanctions architecture and emboldens Iran",
-      "Further Iranian ballistic missile movements from Kermanshah toward launch-ready positions or forward dispersal, indicating preparation for a second strike rather than deterrence-only posture",
-      "Any USS Abraham Lincoln port-stop cancellation or emergency redeployment orders, which would signal CENTCOM assessing imminent second-phase Iranian action",
-      "Norwegian or Baltic state interception of additional Russian vessels combined with new German infrastructure sabotage — if these accelerate in tandem, Russia may be testing NATO Article 5 thresholds under cover of the Iran news cycle"
+      "CENTCOM official confirmation or denial of the Kharg Island tanker strike within next 6 hours — silence itself is a signal of operational sensitivity",
+      "IRGC MRBM launch from underground sites or Strait of Hormuz mining activity, which would constitute a strategic threshold crossing",
+      "Israeli unilateral strike on Iranian nuclear or IRGC sites triggered by the Yair Netanyahu assassination plot, bypassing US coordination",
+      "Kalshi energy and recession markets — the 2027 recession contract at 25 percent will spike sharply if Hormuz closure is confirmed, watch for rapid repricing as a real-time sentiment gauge"
     ],
-    "confidenceNote": "Critical uncertainties include: the actual damage assessment from prior US strikes on Iran which is not in the feed and determines Iranian response calculus; whether the CIA director Moscow visit produced any back-channel ceasefire signal or was purely intelligence-gathering; the operational readiness of missiles now at Kermanshah given liquid-fueled systems require fueling time that may provide warning; and whether the Oman Hormuz rejection reflects a durable policy shift or a temporary public position under US pressure",
-    "topPattern": "The master signal is synchronized deterrence erosion across theaters: Iran absorbing a US strike and repositioning rather than capitulating, Russia striking SBU leadership in Kyiv the same week CIA's director visits Moscow, Norway seizing Russian ships, and the world's largest sovereign wealth fund cutting US Treasury holdings — all while Kalshi markets price Bartiromo as press secretary at 12 cents and Anna Kelly at 27 cents, suggesting domestic political volatility is real enough to command significant prediction-market liquidity, meaning US adversaries are reading American political distraction as a green light for continued pressure"
+    "confidenceNote": "Critical uncertainty: the Kharg Island tanker strike and Jordan missile launch are sourced from OSINT social feeds and Iranian state TV with no CENTCOM confirmation — there is meaningful probability these are Iranian information operations or misidentified events; however, the volume and cross-source corroboration elevate credibility above noise threshold. The Ukraine ceasefire order is sourced to Ukrainska Pravda and Zelensky's own public statement, which is high confidence. IRGC MRBM fueling imagery is a significant indicator but location and intent cannot be confirmed from available context. Prediction market data on 2028 elections is low strategic signal due to extreme time horizon.",
+    "topPattern": "Iran is executing a deliberate multi-vector pressure campaign — tanker strike provocation, MRBM fueling, Jordan base missile launch, Hormuz cruise missile activity, and assassination plot against Netanyahu's son — timed precisely to the US diplomatic mission in Moscow, suggesting Tehran's strategic calculus is that simultaneous crises prevent a coherent US response and may fracture the Trump-Netanyahu relationship; Kalshi's 25 percent 2027 recession probability (-3 cents in 24h, suggesting recent repricing) has not yet absorbed a Hormuz closure scenario which would push that figure well above 50 percent."
   },
   "signals": [
     {
       "id": "sig1",
       "domain": "Middle East",
-      "headline": "Iran repositions ballistic missiles from Isfahan to Kermanshah amid escalation signaling",
+      "headline": "Iran launches missiles at US base in Jordan; escalation spiral accelerates",
       "significance": "CRITICAL",
-      "summary": "Iranian Aerospace Force Command transferred liquid-fueled ballistic missiles to Kermanshah base in recent weeks, assessed as non-routine operational positioning. Follows Iranian FM challenge to Jordan's account of Tehran's military response and IAEA referral pressure from Western powers. This repositioning suggests preparation for sustained strike capability rather than one-off retaliation.",
-      "signal": "Iran is hardening its posture and preparing infrastructure for extended conflict, not de-escalation. US should anticipate Iranian ability to conduct multiple coordinated strikes across theaters if regional tension escalates further. Contradicts any assumption Iran is backing down after recent exchanges.",
-      "contradicts": "Recent VP Vance statement minimizing current Iran situation as 'no active shooting'",
-      "timestamp": "2026-09-04T14:43:51.321Z"
+      "summary": "Iran fired missiles toward Jordan and the Strait of Hormuz in what appears to be a direct attack on US military presence. This follows US strikes on an Iranian tanker near Kharg Island and intelligence assessments that Tehran believes it can sustain prolonged conflict while leveraging the Strait to pressure Trump.",
+      "signal": "Iran has transitioned from proxy attacks to direct state-on-state missile strikes, signaling either desperation or calculated confidence in asymmetric leverage. Trump administration containment strategy (three-pillar approach per Axios) may be overtaken by kinetic escalation. Risk of rapid entanglement in multi-front conflict (Ukraine ceasefire talks + Iran + Yemen) is high.",
+      "contradicts": "Assumption that Witkoff-Kushner diplomatic mission to Moscow would de-escalate broadly; instead, it may have triggered Iranian preemption.",
+      "timestamp": "2026-09-05T13:40:23.211Z"
     },
     {
       "id": "sig2",
-      "domain": "Europe",
-      "headline": "Russia escalates strike campaign on Ukrainian command infrastructure; Kyiv signals retaliatory intent",
+      "domain": "US Politics",
+      "headline": "Trump administration divided on trail; Republican establishment seeks distance",
       "significance": "HIGH",
-      "summary": "Russian drone struck SBU security headquarters in Kyiv targeting SBU chief's office; Zelenskyy ordered immediate retaliation planning. Simultaneous Ukrainian offensive drone/missile raids into western Russia, Moscow, and Volga basin ongoing. Indicates Russia shifting to decapitation strategy while Ukraine maintains offensive pressure.",
-      "signal": "Neither side is seeking negotiated off-ramp. Russia's targeting of C2 nodes suggests confidence in degrading Ukrainian command despite losses. Ukraine's sustained deep strikes into Russian territory indicate Western ammunition supplies remain adequate to sustain offensive operations. This contradicts any narrative of imminent Ukrainian resource exhaustion.",
-      "contradicts": "Assumptions that Ukraine defensive posture or manpower shortages would force near-term peace talks",
-      "timestamp": "2026-09-04T14:43:51.321Z"
+      "summary": "Drudge reports Republicans grapple with how to handle Trump on campaign trail with explicit framing 'He cannot come.' Simultaneous signals of internal friction (Fetterman neglecting Senate duties, rightward drift alienating constituencies) suggest fractured GOP coalition.",
+      "signal": "2026 midterm strategy is fracturing—Trump remains mobilization asset but electoral liability in swing/purple districts. Prediction markets show Newsom (13%), Ossoff (17%), and AOC (17%) gaining fractional traction on Dem side, indicating anticipatory repositioning for 2028 if 2026 midterms deliver Democratic gains.",
+      "contradicts": "Consensus that Trump consolidates Republican apparatus; instead, internal avoidance and strategic distancing signal weakening primary loyalty.",
+      "timestamp": "2026-09-05T13:40:23.211Z"
     },
     {
       "id": "sig3",
-      "domain": "Energy",
-      "headline": "Oman rejects Iran joint Strait of Hormuz toll scheme; undercuts IRGC revenue-sharing claims",
+      "domain": "Middle East",
+      "headline": "Assassination attempt on Netanyahu's son thwarted; Iran-Israel escalation ladder activated",
       "significance": "HIGH",
-      "summary": "Oman publicly rejected Iranian proposal to jointly collect tolls on ships transiting Strait of Hormuz, citing international law violations. Iranian Revolutionary Guard had claimed last week both parties agreed to divide waterway revenues. Move reveals fracture in regional alignment and limits Iran's unilateral leverage over global energy chokepoint.",
-      "signal": "Iran's regional coalition is weaker than Tehran claims. Oman's public rebuke signals US-aligned actors in Gulf will not collude in pricing mechanisms that bypass international maritime law. Reduces probability of Iranian ability to execute threatened Strait closures or major toll extractions. Trump administration can exploit this diplomatic daylight.",
-      "contradicts": "IRGC narrative of consolidated Gulf support for revenue-sharing; suggests Iran's regional soft power limited",
-      "timestamp": "2026-09-04T14:43:51.321Z"
+      "summary": "Shin Bet evacuated Netanyahu's son Yair from Florida after identifying significant Iranian threat. This represents direct targeting of Israeli leadership family and marks operational shift from proxy to kinetic anti-Israel operations during a period of simultaneous Ukraine negotiations.",
+      "signal": "Iran is executing parallel offensive campaigns (US bases, Israeli leadership, missile mobilization) while Trump envoys negotiate in Moscow—suggests Tehran believes it can extract concessions via multi-vector pressure before ceasefire conditions solidify.",
+      "contradicts": "Notion that Iran fears Trump administration; instead, Iranian actions suggest calculated escalation to maximize negotiating position before potential containment takes hold.",
+      "timestamp": "2026-09-05T13:40:23.211Z"
     },
     {
       "id": "sig4",
-      "domain": "US Politics",
-      "headline": "Bartiromo press secretary odds spike to 12% (+12¢ 24h); Anna Kelly rises to 27% with volume concentration",
-      "significance": "MEDIUM",
-      "summary": "Maria Bartiromo's Kalshi contract for next WH press secretary jumped 12 percentage points in 24 hours on 402K volume. Anna Kelly simultaneously rose to 27% (+2¢) on 12.7K volume; Scott Jennings holds 20%. Market shows uncertainty but concentration on Fox-aligned media figures and insiders over traditional press operatives.",
-      "signal": "Trump administration telegraphing media-friendly press office personnel, likely to minimize adversarial questioning and coordinate message discipline. Bartiromo spike may reflect recent reporting on Fox 'Money Honey' departure and admin attention to media loyalty. Predicts continuation of combative press room strategy.",
-      "contradicts": "null",
-      "timestamp": "2026-09-04T14:43:51.321Z"
+      "domain": "Americas",
+      "headline": "Mexican cartels escalate to car bombs and IED tactics; asymmetric violence intensifying",
+      "significance": "HIGH",
+      "summary": "GDELT reports Mexican cartels are increasingly deploying car bombs and explosives alongside traditional violence. Simultaneous reports of US sinking third alleged Ecuador drug gang vessel in one week indicate expanded US kinetic operations in Western Hemisphere drug war.",
+      "signal": "Cartel adaptation to higher-end ordnance suggests professionalization and possibly state actor support (Venezuela nexus active). Trump administration signaled Venezuela oil seizure intent; Chinese interests competing for influence. US border security policy may be overtaken by transnational criminal violence escalation.",
+      "contradicts": "Assumption that border enforcement alone addresses cartel threat; IED adoption indicates organized insurgency-level capability requiring different counterforce doctrine.",
+      "timestamp": "2026-09-05T13:40:23.211Z"
     },
     {
       "id": "sig5",
-      "domain": "Americas",
-      "headline": "Frozen Russian assets momentum shifts toward renewed European negotiation over peace-settlement leverage",
+      "domain": "Europe",
+      "headline": "German far-right gains in key elections; NATO cohesion stress fracture visible",
       "significance": "HIGH",
-      "summary": "Senior Ukrainian official reports growing 'appetite' among European allies for serious talks on using frozen Russian assets, noting they are 'needed now.' Kyiv explicitly rejected EU concerns that holding assets preserves leverage in peace negotiations. Signal of European fatigue with indefinite sanctions and pressure on Ukraine to accept unfavorable settlement.",
-      "signal": "European consensus on Ukraine support is fracturing. Pressure mounting to liquidate Russian assets and deploy capital for reconstruction rather than hold as negotiating chips. Suggests US allies view indefinite conflict as unsustainable and may push Ukraine toward negotiated settlement within 12-18 months regardless of US position. Direct contradiction to indefinite support posture.",
-      "contradicts": "NATO/EU unified indefinite support narrative; reveals cost fatigue and appetite for off-ramp",
-      "timestamp": "2026-09-04T14:43:51.321Z"
+      "summary": "Drudge flags German far-right set for gains in upcoming key elections. Coincides with NATO on brink of war framing and Russian escalation in Ukraine theater, where US is managing simultaneous ceasefire proposals (Witkoff-Kushner) and continued weapons flows.",
+      "signal": "If far-right gains in Germany, NATO funding commitments and strategic consensus on Ukraine aid/escalation dominoes into fragmentation. US cannot sustain three simultaneous theaters (Ukraine/Russia, Iran, Americas) with fractured alliance backbone.",
+      "contradicts": "Assumption of stable transatlantic alliance structure; electoral volatility in Europe's largest economy suggests structural realignment risk ahead of 2027-2028 period.",
+      "timestamp": "2026-09-05T13:40:23.211Z"
     },
     {
       "id": "sig6",
       "domain": "US Politics",
-      "headline": "2028 Democratic nominee odds show fragmentation; Gavin Newsom 15%, Jon Ossoff 17%, Kamala Harris collapses to 8%",
+      "headline": "Pentagon leak investigation reaches 50 Joint Staff polygraphs; counterintelligence breach unresolved",
       "significance": "MEDIUM",
-      "summary": "Harris Democratic nomination probability fell from historical baseline to 8% (-1¢). Newsom and Ossoff each 15-17%. Market shows no consensus heir apparent; AOC at 10%, Andy Beshear 4%. Contrast with Republican side where J.D. Vance holds 45% consolidation. Democratic Party lacks settled succession choice.",
-      "signal": "Democratic Party leadership vacuum signals weak institutional capacity to shape 2028 race. Fragmented field increases primary chaos risk and incumbent vulnerability. Republican consolidation around Vance suggests stronger party discipline. For US strategic positioning, Democratic instability could produce less experienced foreign-policy leadership in 2028-2032 window.",
-      "contradicts": "null",
-      "timestamp": "2026-09-04T14:43:51.321Z"
+      "summary": "Approximately 50 members of Joint Staff were polygraphed in ongoing leak investigation targeting classified Pentagon disclosures. This represents largest internal security sweep in recent memory and suggests source remains unidentified or investigation has expanded scope dramatically.",
+      "signal": "Active counterintelligence failure during period of heightened Ukraine/Iran operations and diplomatic negotiations. Compromised decision-making pipeline undermines negotiating position and operational security. May indicate foreign HUMINT penetration of military planning.",
+      "contradicts": "Public confidence in compartmentalization and security protocols; scale of polygraph sweep signals systemic rather than individual breach.",
+      "timestamp": "2026-09-05T13:40:23.211Z"
     }
   ],
-  "scanNote": "OSINT sources show high operational tempo in Ukraine/Russia and Middle East with concrete military positioning; prediction markets reveal domestic political fracturing on Democratic side and uncertainty on Trump admin personnel; European actors signaling settlement fatigue on Ukraine support—overall picture is escalation + coalition fracture + US leadership continuity under Trump.",
+  "scanNote": "Signal quality degraded by sensationalism in Drudge aggregation, but OSINT feed (PIZZINT) and prediction-market price moves provide corroborating ground truth on Iran escalation, US diplomatic overextension, and electoral repositioning; highest confidence on Middle East kinetic escalation, lowest on domestic political narratives.",
   "markets": [
-    {
-      "ticker": "KXNEXTPRESSEC-29JAN21-AKEL",
-      "label": "Anna Kelly as next WH Press Secretary",
-      "domain": "US Politics",
-      "marketProb": 27,
-      "aiProb": 30,
-      "gap": 3,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Bartiromo departure from Fox creates a press secretary vacancy signal, but Anna Kelly at 27% on Kalshi with only modest volume and OI suggests thin conviction; multiple credible competitors remain and Trump personnel decisions are highly unpredictable.",
-      "volume24h": 12690,
-      "openInterest": 153854,
-      "priceChange24h": 2,
-      "url": "https://kalshi.com/markets/KXNEXTPRESSEC-29JAN21-AKEL"
-    },
-    {
-      "ticker": "KXNEXTPRESSEC-29JAN21-SJEN",
-      "label": "Scott Jennings as next WH Press Secretary",
-      "domain": "US Politics",
-      "marketProb": 20,
-      "aiProb": 22,
-      "gap": 2,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Jennings carries name recognition as a CNN conservative commentator but lacks direct Trump orbit credentials; at 20% market price with low volume, the signal is speculative and STRATWATCH sees no corroborating intel in this feed.",
-      "volume24h": 18311,
-      "openInterest": 329839,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXNEXTPRESSEC-29JAN21-SJEN"
-    },
-    {
-      "ticker": "KXNEXTPRESSEC-29JAN21-MBAR",
-      "label": "Maria Bartiromo as next WH Press Secretary",
-      "domain": "US Politics",
-      "marketProb": 12,
-      "aiProb": 8,
-      "gap": -4,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Drudge reports Bartiromo fired from Fox amid leaking texts to Trump, which could signal a personal relationship but also disqualifying reputational damage; the 12% market price with the largest volume and OI in this contract category overstates the probability given the scandal framing.",
-      "volume24h": 402149,
-      "openInterest": 300372,
-      "priceChange24h": 12,
-      "url": "https://kalshi.com/markets/KXNEXTPRESSEC-29JAN21-MBAR"
-    },
     {
       "ticker": "KXRECSSNBER-27",
       "label": "US Recession in 2027",
-      "domain": "US Politics",
-      "marketProb": 27,
-      "aiProb": 32,
-      "gap": 5,
+      "domain": "Energy",
+      "marketProb": 25,
+      "aiProb": 38,
+      "gap": 13,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Multiple concurrent economic stress signals — record diesel prices, Norway's sovereign wealth fund cutting US Treasury holdings, gold repatriation rush, Trump threatening trade halts tied to Fed rate decisions — collectively support a modestly elevated recession probability above the market's 27% but not dramatically so.",
-      "volume24h": 21474,
-      "openInterest": 140027,
+      "rationale": "Active US-Iran military exchanges near the Strait of Hormuz, a complete Iranian oil export blockade per Treasury, and escalating regional conflict create significant macro shock risk that could tip the US into recession by 2027, though market is pricing 25% which may be slightly low given energy disruption severity.",
+      "volume24h": 34300,
+      "openInterest": 166268,
       "priceChange24h": -3,
       "url": "https://kalshi.com/markets/KXRECSSNBER-27"
     },
     {
-      "ticker": "KXPRESNOMD-28-GN",
-      "label": "Gavin Newsom as 2028 Dem Presidential Nominee",
-      "domain": "US Politics",
-      "marketProb": 15,
-      "aiProb": 14,
-      "gap": -1,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Democratic field remains deeply unsettled; Newsom at 15% market price is plausible but faces strong competition from Ossoff and AOC in prediction markets, and no fresh intel in this feed materially moves his probability.",
-      "volume24h": 42929,
-      "openInterest": 4296945,
-      "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
-    },
-    {
-      "ticker": "KXPRESNOMD-28-AOC",
-      "label": "AOC as 2028 Dem Presidential Nominee",
-      "domain": "US Politics",
-      "marketProb": 17,
-      "aiProb": 15,
-      "gap": -2,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "AOC holds the highest open interest of any single Democratic candidate contract, suggesting sustained market attention; progressive energy is real but the party's structural lean toward electability candidates like Ossoff caps her ceiling near current market pricing.",
-      "volume24h": 8530,
-      "openInterest": 4645883,
-      "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
-    },
-    {
       "ticker": "KXPRESNOMD-28-JOSS",
-      "label": "Jon Ossoff as 2028 Dem Presidential Nominee",
+      "label": "Jon Ossoff 2028 Dem Nominee",
       "domain": "US Politics",
       "marketProb": 17,
-      "aiProb": 16,
-      "gap": -1,
+      "aiProb": 12,
+      "gap": -5,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "Ossoff leads in open interest among Democrats and carries a credible swing-state profile; with Fetterman's reported disengagement generating negative coverage, centrist Democrats may coalesce around fresher faces, slightly supporting Ossoff's relative positioning.",
-      "volume24h": 36872,
-      "openInterest": 4590617,
-      "priceChange24h": 0,
+      "rationale": "Cook Political Report signals a blue wave building and Democrats are repositioning, but Ossoff at 17% market price appears inflated for a first-term senator with low national profile; intel shows no specific momentum indicators for him beyond general Democratic resurgence.",
+      "volume24h": 16492,
+      "openInterest": 4594398,
+      "priceChange24h": 1,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
     },
     {
-      "ticker": "KXPRESNOMR-28-JDV",
-      "label": "JD Vance as 2028 GOP Presidential Nominee",
+      "ticker": "KXPRESNOMD-28-AOC",
+      "label": "AOC 2028 Dem Nominee",
       "domain": "US Politics",
-      "marketProb": 45,
-      "aiProb": 42,
+      "marketProb": 17,
+      "aiProb": 14,
+      "gap": -3,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Blue wave signals and Democratic repositioning favor progressive energy, but AOC faces significant electability headwinds in a general election environment shaped by active Iran war and border security politics that could cut against her brand.",
+      "volume24h": 9521,
+      "openInterest": 4644185,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
+    },
+    {
+      "ticker": "KXPRESNOMR-28-MR",
+      "label": "Marco Rubio 2028 GOP Nominee",
+      "domain": "US Politics",
+      "marketProb": 21,
+      "aiProb": 18,
       "gap": -3,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Vance at 45% remains the dominant Republican contender; his public framing of the Iran situation as not a war while CENTCOM conducts civilian casualty reviews and deployments extend shows him actively managing a sensitive dossier, reinforcing incumbent VP advantage but not decisively altering the probability.",
-      "volume24h": 8775,
-      "openInterest": 1780684,
-      "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
+      "rationale": "Rubio as Secretary of State would be closely tied to outcomes of the Iran conflict and Ukraine diplomacy now underway; a successful negotiated outcome elevates him considerably, but failure carries severe reputational risk that makes his 21% market price roughly fair.",
+      "volume24h": 9413,
+      "openInterest": 2436754,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
     },
     {
-      "ticker": "KXSTATE51-29-VE",
-      "label": "Venezuela as 51st US State before Jan 2029",
-      "domain": "Americas",
-      "marketProb": 3,
-      "aiProb": 1,
-      "gap": -2,
+      "ticker": "KXPRESPERSON-28-JVAN",
+      "label": "JD Vance wins 2028 Presidential Election",
+      "domain": "US Politics",
+      "marketProb": 23,
+      "aiProb": 20,
+      "gap": -3,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Vance as sitting VP benefits from incumbency advantage and association with any Trump-era foreign policy wins on Iran or Ukraine, but a blue wave building per Cook and strong Democratic field makes 23% market price modestly generous; STRATWATCH assesses slight downward pressure.",
+      "volume24h": 6541,
+      "openInterest": 2381555,
+      "priceChange24h": 2,
+      "url": "https://kalshi.com/markets/KXPRESPERSON-28-JVAN"
+    },
+    {
+      "ticker": "KXNEXTPRESSEC-29JAN21-MBAR",
+      "label": "Bartiromo as Next Press Secretary",
+      "domain": "US Politics",
+      "marketProb": 15,
+      "aiProb": 5,
+      "gap": -10,
       "favorable": false,
       "confidence": "HIGH",
-      "rationale": "Rubio's upcoming Colombia trip signals US regional engagement but there is zero credible mechanism for Venezuelan statehood within the timeframe; the 3% market price is already too generous and STRATWATCH assigns near-zero probability.",
-      "volume24h": 6706,
-      "openInterest": 102399,
+      "rationale": "The report that Bartiromo has lawyered up following a Fox firing and is in dispute with the network makes a White House Press Secretary appointment highly unlikely in the near term; STRATWATCH assesses the 15% market price significantly overstates this probability.",
+      "volume24h": 89590,
+      "openInterest": 361294,
       "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXSTATE51-29-VE"
+      "url": "https://kalshi.com/markets/KXNEXTPRESSEC-29JAN21-MBAR"
+    },
+    {
+      "ticker": "KXNEXTPRESSEC-29JAN21-AKEL",
+      "label": "Anna Kelly as Next Press Secretary",
+      "domain": "US Politics",
+      "marketProb": 23,
+      "aiProb": 20,
+      "gap": -3,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Anna Kelly is the leading candidate in the market at 23% after a 4-cent drop, but with no corroborating intel in the feed about an imminent press secretary change, STRATWATCH slightly discounts the market price amid uncertainty about the timeline and competing candidates.",
+      "volume24h": 10596,
+      "openInterest": 160517,
+      "priceChange24h": -4,
+      "url": "https://kalshi.com/markets/KXNEXTPRESSEC-29JAN21-AKEL"
+    },
+    {
+      "ticker": "KXNEXTPRESSEC-29JAN21-SJEN",
+      "label": "Scott Jennings as Next Press Secretary",
+      "domain": "US Politics",
+      "marketProb": 17,
+      "aiProb": 14,
+      "gap": -3,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Jennings at 17% market price is a credible dark horse given his CNN-to-Trump pipeline profile, but no specific intel in the feed supports an imminent appointment and the field remains crowded with no clear signal of White House intent.",
+      "volume24h": 9819,
+      "openInterest": 333648,
+      "priceChange24h": -1,
+      "url": "https://kalshi.com/markets/KXNEXTPRESSEC-29JAN21-SJEN"
     }
   ],
   "watchSignals": [
-    "IAEA referral of Iran to UN Security Council next week - will determine escalation pathway and trigger potential sanctions/military pressure",
-    "Ukraine SBU response to Russian strike on Kyiv headquarters - asymmetric retaliation scale will indicate conflict tempo and targeting doctrine shift",
-    "Frozen Russian assets deliberations among EU allies - if thawed for Ukraine use, signals major shift in leverage dynamics and peace negotiation positioning",
-    "Iran ballistic missile transfers from Isfahan to Kermanshah bases - indicates preparation for imminent offensive operations, directly affects regional military balance",
-    "Kalshi press secretary market consolidation - Anna Kelly 27% and Scott Jennings 20% trending upward; Maria Bartiromo spike to 12% suggests internal White House signaling on personnel",
-    "Treasury/sovereign wealth fund capital flows - Bessent's Operation Economic Outcast coordination with EU plus Norway asset seizure suggests coordinated financial pressure campaign on Iran expanding"
+    "Outcome of Witkoff-Kushner Moscow negotiations on Ukraine ceasefire (Sept 5-9 pause window) and whether Russia reciprocates halt in strikes",
+    "Iranian military response escalation pattern: missile launches toward Strait of Hormuz, preemptive strikes doctrine activation, and targeting of US bases in region",
+    "Ukrainian front-line stabilization or collapse during negotiation pause; Russian exploitation of ceasefire window for repositioning",
+    "Trump administration post-war Iran containment strategy implementation across three-pillar framework (diplomatic isolation, regional coalition, economic blockade)",
+    "Market repricing of Democratic 2028 nominee odds as 'Blue Wave' narrative and Newsom/Ossoff/AOC contenders respond to internal party momentum",
+    "Domestic political fracture signals: Republican hesitation on Trump trail presence, Fetterman Senate disengagement, Fox media purge (Bartiromo legal action, Santelli exit)"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East / Iran Nuclear",
-      "headline": "Western powers pressing IAEA to refer Iran to UNSC over non-proliferation; Iran repositioning liquid-fueled ballistic missiles to forward bases",
+      "domain": "Middle East Regional Conflict",
+      "headline": "Iran launched missiles at US base in Jordan; Iranian military adopts preemptive strike doctrine",
       "significance": "CRITICAL",
-      "summary": "Simultaneous diplomatic escalation via IAEA referral pathway combined with observable Iranian military readiness posturing (missile transfers to Kermanshah) indicates two-track preparation: deterrence-by-denial at diplomatic level while executing forward-deployment of strike capability. This mirrors pre-conflict patterns.",
-      "signal": "Risk of major kinetic escalation in Middle East within 2-4 weeks if IAEA referral proceeds; US must anticipate Iranian response options and manage regional ally coordination"
+      "summary": "Iran has conducted direct kinetic strikes against US military assets and publicly declared a doctrine of preemptive action against perceived threats. US Treasury has announced blockade on Iranian oil exports via Strait of Hormuz with zero Chinese shipments crossing since reimposition. This represents escalation from proxy to direct state-on-state military action.",
+      "signal": "Immediate risk of widened regional conflict; Iran believes it can sustain prolonged confrontation. US must assume Iranian asymmetric responses will continue. Strait of Hormuz interdiction threatens global energy markets and US coalition stability."
     },
     {
       "id": "gt2",
-      "domain": "Ukraine-Russia War / Operational Tempo",
-      "headline": "Russia conducted precision strike on SBU headquarters in Kyiv; Ukraine executing distributed drone raids across western Russia, destroyed S-400 battery at Sochi oil depot",
+      "domain": "Ukraine-Russia Negotiation",
+      "headline": "White House envoys Witkoff and Kushner arrived in Moscow for direct Ukraine peace talks; Ukraine ordered ceasefire Sept 5-9",
       "significance": "CRITICAL",
-      "summary": "Escalating asymmetric strike campaign with both sides demonstrating deep-strike capability and precision targeting. Ukraine's ability to hit critical Russian infrastructure (oil depots, S-400 systems) despite air defense layering indicates degradation of Russian air defense network. SBU strike signals Russian targeting of Ukraine's intelligence apparatus.",
-      "signal": "Conflict entering phase of critical infrastructure targeting; sustained Ukrainian strike capacity suggests protracted conflict rather than negotiated settlement; NATO supply lines and ally confidence tested"
+      "summary": "Trump administration has dispatched senior envoys to Moscow with explicit mandate to negotiate war termination. Zelensky has ordered Ukrainian halt on strikes during window. Russian delegation met envoys with presidential envoy Dmitriev, signaling willingness to engage. This represents potential inflection point for conflict trajectory.",
+      "signal": "Negotiated settlement becoming tangible possibility under Trump; outcome will determine NATO credibility, Ukraine's territorial losses, and Russia's strategic positioning. Market reaction subdued, suggesting low confidence in sustainable deal. Domestic US political fracture may constrain administration flexibility."
     },
     {
       "id": "gt3",
-      "domain": "International Finance / Sanctions Coordination",
-      "headline": "Operation Economic Outcast joined by EU; Norway seizing Russian assets; world sovereign wealth fund cutting US Treasury holdings; Trump threatening to stop trading with nations over Fed rate policy",
+      "domain": "Pentagon Information Security",
+      "headline": "Joint Staff polygraph testing underway for ~50 personnel in classified leak investigation",
       "significance": "HIGH",
-      "summary": "Convergence of three distinct financial pressures: coordinated Western sanctions on Iran, unexpected de-dollarization signals from major capital allocators, and US policy threat to weaponize trade relationships over monetary policy. Creates unpredictable financial environment and potential allied friction.",
-      "signal": "US financial hegemony under stress from multiple vectors simultaneously; allies may hedge dollar exposure; potential for sanctions evasion networks and alternative payment systems to accelerate"
+      "summary": "Defense establishment conducting broad counterintelligence sweep for source of recent Pentagon leaks. Scale of testing (50 members) indicates systemic penetration concern, not isolated breach. Timing during Ukraine negotiation window raises counterintelligence risk.",
+      "signal": "Suggests internal compromise of military planning or communication. Risk that negotiation positions, intelligence assessments, or force posture details may have leaked to adversaries, complicating diplomatic leverage."
     },
     {
       "id": "gt4",
-      "domain": "Domestic US Politics / Press Office Transition",
-      "headline": "Maria Bartiromo departure from Fox News; Kalshi prediction markets showing Anna Kelly 27%, Scott Jennings 20%, Maria Bartiromo 12% for next press secretary role",
+      "domain": "US Domestic Political Alignment",
+      "headline": "Trump facing Republican reluctance on campaign trail presence; internal party discipline fracturing; media figures departing or lawyering up",
       "significance": "HIGH",
-      "summary": "Bartiromo's exit from broadcast journalism combined with prediction market pricing suggests active internal White House recruitment of media personalities for communications roles. Market volume and 24h swings indicate real-time information asymmetry being exploited by informed traders.",
-      "signal": "White House communications structure undergoing transition; messaging discipline may degrade during transition period; media dynamics shifting toward more partisan alignment"
+      "summary": "Drudge reports Republicans grappling with Trump's continued involvement, Melania skipping high-profile events, Fetterman showing disengagement from Senate duties, and Fox media talent (Bartiromo, Santelli) either exiting or in legal standoff. Pattern indicates fractured Republican coalition cohesion.",
+      "signal": "Reduced political capital for Trump administration initiatives domestically; split focus between negotiations and internal party management. Foreign adversaries may perceive window of reduced US domestic consensus on foreign policy."
     },
     {
       "id": "gt5",
-      "domain": "Regional Stability / Middle East Maritime",
-      "headline": "Oman rejected Iran's bid to jointly toll Strait of Hormuz; US redirected 87 commercial vessels for compliance; CENTCOM extended USS Abraham Lincoln deployment 286+ days into Middle East",
+      "domain": "Economics & Energy",
+      "headline": "Labor Day gasoline prices at historic highs; recession probability (2027) priced at 25% in prediction markets; Iran oil blockade ongoing",
       "significance": "HIGH",
-      "summary": "Oman's rejection of Iranian revenue-sharing scheme undermines Iranian leverage claims and maintains international waterway norms. Sustained US naval presence extension indicates expectations of prolonged regional tension. Commercial vessel redirection signals active freedom-of-navigation enforcement.",
-      "signal": "Strait of Hormuz remains contested domain; Iran unable to secure regional coalition support for unilateral control schemes; US prepared for extended deterrence posture"
+      "summary": "Domestic energy cost pressures rising sharply coinciding with Iranian oil export interdiction and potential Strait of Hormuz disruptions. Prediction markets indicate material recession risk within 2 years. Cost-of-living remains salient political vulnerability.",
+      "signal": "Geopolitical conflict directly impacting US consumer prices; sustained economic headwind for administration. Iran escalation could spike oil prices further, creating domestic political pressure to de-escalate or expand conflict."
     }
   ]
 }
