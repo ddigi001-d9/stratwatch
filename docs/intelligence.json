@@ -1,305 +1,283 @@
 {
-  "generatedAt": "2026-09-14T16:44:06.377Z",
-  "runNumber": 123,
+  "generatedAt": "2026-09-15T15:23:24.000Z",
+  "runNumber": 124,
   "situation": {
-    "headline": "Houthi offensive on Saudi oil infrastructure, combined with ongoing US-Iran hostilities and Saudi pipeline shutdown, threatens a cascading Gulf energy shock that directly implicates US strategic petroleum reserves at 44-year lows and Brent at $108",
+    "headline": "Converging Iranian-Houthi campaign targeting Saudi oil infrastructure and Red Sea shipping lanes is driving crude above $101/bbl and threatening a supply shock that will destabilize the global economy, directly undercutting US strategic equities across every theater simultaneously",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 88,
+        "prob": 87,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Houthis striking King Khalid Air Base and Saudi pipeline infrastructure while Iran shoots down US drones over Hormuz and CENTCOM chief rushes to Riyadh signals active multi-front escalation with no off-ramp locked in despite Trump's Iran deal signals."
+        "status": "Iran-Houthi axis has struck Saudi oil port at Yanbu, downed multiple US drones over Hormuz, attacked a tanker twice, and fired toward Mecca for the first time, while Washington resists Riyadh's requests for direct military intervention, leaving Saudi Arabia increasingly exposed and the coalition fraying"
       },
       {
         "name": "Indo-Pacific",
-        "prob": 34,
+        "prob": 38,
         "label": "China coercion escalation",
         "trajectory": "UP",
-        "status": "Saudi Arabia's covert DF-15 ballistic missile inventory surfacing in Yemen combat context and BRICS economic coordination signal Beijing gaining leverage from US Gulf preoccupation, though no direct kinetic action is indicated in current reporting."
+        "status": "Beijing's sharp public protest over US on-orbit offensive weapons deployment signals intent to match or escalate in the space domain, and Middle East energy disruption provides China strategic leverage as the US is tied down in two other theaters"
       },
       {
         "name": "Europe",
-        "prob": 18,
+        "prob": 22,
         "label": "NATO cohesion fracture",
-        "trajectory": "DOWN",
-        "status": "Germany independently procuring Typhon launchers and Tomahawks after US cancelled shared deployment, Sweden's election market swinging hard toward Social Democrat Andersson at 83 percent, and Russia striking near Poland all push NATO toward managed tension rather than fracture, though allied self-reliance is accelerating."
+        "trajectory": "FLAT",
+        "status": "NATO jets shooting down a drone over the Baltics and continued Russian operations during Ukraine ceasefire negotiations indicate pressure but not yet fracture, though Boris Johnson's public push against strategic ambiguity on Ukraine status suggests growing Western impatience with the negotiation framework"
       },
       {
         "name": "Energy",
         "prob": 82,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Saudi East-West Pipeline damaged, SPR at 44-year low, Brent at $108 and rising 3 percent on a single day, Hormuz disruption ongoing, and COSTCO rationing motor oil collectively constitute a supply shock already in progress with further upside risk if Saudi production infrastructure absorbs additional Houthi strikes."
+        "status": "Diesel at record $6.23/gal, crude up 19% in three weeks to $101, Yanbu loadings suspended, the Strait of Hormuz under active kinetic threat, and Chevron CEO confirming market buffers are exhausted — a classic supply shock is already in motion, not merely at risk"
       },
       {
         "name": "US Politics",
-        "prob": 38,
+        "prob": 44,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Energy price pain, court confusion ahead of midterms, Hegseth internal Pentagon dysfunction, and oligarch-funding scandals touching Trump family create headwinds for Republicans, while Ossoff at 17 percent Democratic presidential nominee odds and AOC at 15 percent reflect a fragmented opposition that limits Democratic upside."
+        "status": "Polls show Democrats gaining edge as Trump drags down GOP, Kansas described as in play, redistricting offers Republicans zero gain, and rising gas prices plus immigration controversy compound Republican vulnerability ahead of midterms"
       }
     ],
-    "unseen": "The convergence of Saudi Arabia deploying Chinese DF-15 ballistic missiles in a US-backed theater, Germany acquiring US long-range strike systems independently, and Serbia operating Chinese HQ-17AE air defense during NATO-adjacent exercises collectively signals that US allies and partners are hedging toward Chinese and independent military supply chains simultaneously, a structural erosion of US arms leverage that is being obscured by the immediate Gulf crisis noise.",
-    "criticalWindow": "The next 30-45 days around the House vote on the Graham Sanctioning Russia and Iran Act and any Trump-Iran deal framework decision are the decisive window: sanctions passage could collapse Iran deal momentum and harden Houthi-Iranian coordination against Saudi infrastructure, while a deal could reverse oil prices and reshape the midterm economic narrative before November.",
+    "unseen": "The simultaneous suspension of Saudi oil exports at Yanbu, Iran's active targeting of US surveillance assets over Hormuz, and the confirmed deployment of US offensive space weapons have created a three-domain escalation ladder — sea, air, and space — that Iran and its proxies can exploit asymmetrically; the pattern suggests Tehran is deliberately stress-testing US crisis management bandwidth across all three domains at once, betting Washington will not open a fourth front, and markets are only pricing the energy leg of this while the space and drone dimensions remain under-analyzed",
+    "criticalWindow": "The next 30 days are decisive for Saudi Arabia: if Houthi-Iranian strikes successfully interdict Yanbu exports or ignite infrastructure at the port, MBS faces an impossible choice between accepting Iranian deterrence of Saudi oil exports or formally requesting US combat intervention — a decision that will define the entire regional order and force the Trump administration to choose between a costly military commitment and a catastrophic oil price spike heading into midterm season",
     "watchFor": [
-      "Saudi Aramco production curtailment announcement or force majeure declaration indicating pipeline damage has breached capacity thresholds",
-      "Trump administration formal acceptance or rejection of Iranian deal framework, which will determine whether US-Iran hostilities de-escalate or intensify before the Graham sanctions vote",
-      "US emergency SPR drawdown authorization or allied coordinated IEA release triggered by Brent crossing $115 to $120 range",
-      "Chinese diplomatic intervention in Riyadh or Tehran leveraging DF-15 supply relationship to position Beijing as Gulf security broker at US expense"
+      "Physical damage to Yanbu port oil loading infrastructure or confirmed sustained suspension of Saudi crude exports beyond 72 hours",
+      "A fourth US drone downed or first direct Iranian strike on a US naval asset in or near the Strait of Hormuz, which would trigger CENTCOM escalation authority",
+      "Saudi Arabia formally invoking mutual defense provisions or requesting US air campaign against Houthi launch sites, forcing a White House decision",
+      "Crude oil breaking and holding above $110/bbl, which historical models associate with US recession onset within two quarters and would collapse Trump's domestic political position ahead of November 2026"
     ],
-    "confidenceNote": "Key uncertainties include the actual extent of Saudi pipeline damage and production impact, the authenticity and seriousness of Iranian deal signals versus delaying tactics, whether Houthi operational capability has genuinely expanded to sustain deep strikes into Saudi heartland, and the internal coherence of Trump administration Iran policy given simultaneous military escalation and deal-seeking rhetoric. Prediction market data reflects domestic US political uncertainty well but provides limited signal on Gulf kinetics.",
-    "topPattern": "The simultaneous collapse of US SPR buffers, Saudi pipeline infrastructure under active Houthi attack, Iran-US drone warfare over Hormuz, and Brent at $108 form an energy vulnerability feedback loop that directly threatens the US midterm political environment, and Kalshi markets have not yet priced a House flip above 38 percent despite the energy shock being already in motion, suggesting the domestic political repricing of this Gulf crisis is lagging the physical market signal."
+    "confidenceNote": "Key uncertainties include the actual throughput damage at Yanbu versus a precautionary suspension, whether Iran is directing Houthi strategic targeting or merely enabling it, the true readiness status of US naval assets in the Fifth Fleet AOR after reported base damage, and whether the Trump administration's resistance to direct intervention reflects a deliberate negotiating posture toward Iran or a genuine capacity constraint; prediction market data here is heavily weighted toward US domestic politics and provides limited signal on Middle East escalation dynamics",
+    "topPattern": "The convergence of Iran striking a tanker twice in the same month, Houthis firing toward Mecca for the first time and triggering Yanbu alerts, crude at $101 with Chevron confirming buffer exhaustion, and Kalshi showing the Trump bull-case-2026 contract collapsing to 3% tells a single story: the Iran-Houthi axis has correctly read that the US will not intervene directly, and is now executing a deliberate campaign to price Saudi Arabia out of the energy export market and Trump out of domestic political viability simultaneously"
   },
   "signals": [
     {
       "id": "sig1",
-      "domain": "Middle East",
-      "headline": "Houthis launch coordinated large-scale strikes on Saudi King Khalid Air Base; Saudi pipeline damaged",
+      "domain": "Energy",
+      "headline": "Saudi Arabia suspends Red Sea oil loadings at Yanbu after pipeline attack; crude hits $101, diesel $6.23 record",
       "significance": "CRITICAL",
-      "summary": "Iranian-backed Houthis conducted dozens of ballistic missile and drone strikes on Saudi air base in Khamis Mushait, hitting fighter hangars, radar, runways, and ammunition depots. Concurrent damage to East-West Pipeline Al-Mesba'ah pumping station. Brent crude up 3% to $108/barrel; US SPR at 44-year low.",
-      "signal": "Iran-proxy escalation directly threatens US energy security and Middle East stability. US has lost multiple MQ-1/MQ-9 drones to Iranian air defense in recent months. CENTCOM chief in Riyadh during crisis suggests coordinated response planning. Saudi Arabia may require explicit US security guarantee, raising cost of regional commitment amid budget constraints.",
-      "contradicts": "Trump narrative that Biden left region in chaos; Trump claims oil is 'flowing through Hormuz' and prices lower than Biden era, but current spike contradicts this and SPR depletion leaves US vulnerable to further disruption.",
-      "timestamp": "2026-09-14T16:46:23.652Z"
+      "summary": "Houthi attacks on East-West pipeline triggered Saudi suspension of Yanbu port operations. US crude up 19% in three weeks. Chevron CEO confirms strategic reserves buffer 'largely played out.' Gasoline and diesel inflation imminent.",
+      "signal": "US inflation trajectory now hostage to Yemen proxy conflict. Trump admin faces immediate political cost (pump prices spike before 2026 midterms) if Red Sea disruption persists. MBS increasingly pressuring Trump for direct US military intervention, which risks broader Iran escalation.",
+      "contradicts": "Market assumption that Middle East conflict remains compartmentalized and manageable without supply shock.",
+      "timestamp": "2026-09-15T15:25:32.338Z"
     },
     {
       "id": "sig2",
       "domain": "Middle East",
-      "headline": "Trump claims Ukraine-Russia energy strike truce agreed; Trump open to Iran nuclear deal",
-      "significance": "HIGH",
-      "summary": "Trump states Ukraine agreed not to hit Russian energy targets and Russia reciprocated. Separately, Trump signals willingness to negotiate with Iran on unspecified timeline. Zelenskyy previously stated Ukraine unconvinced Russia will honor agreements.",
-      "signal": "Trump pursuing rapid de-escalation via bilateral deals without NATO/allied consultation, potentially undercutting Ukrainian leverage and NATO unity. Iran deal overture may signal willingness to relax sanctions or accept weaker inspections regime. Suggests pivot away from confrontational posture that generated recent escalation spiral.",
-      "contradicts": "Earlier Trump statements on preventing Iran nuclear weapons; current offer to deal signals tactical shift toward negotiation over containment.",
-      "timestamp": "2026-09-14T16:46:23.652Z"
+      "headline": "Iran downs third US drone in Strait; missile threat detected over Mecca for first time; El Gaia tanker attacked",
+      "significance": "CRITICAL",
+      "summary": "IRGC claims third MQ-1C downing over Hormuz. Saudi Civil Defense activated across Yanbu, Jazan, Abha signaling imminent barrage. El Gaia struck by Iranian missile last month, now damaged again by drone. First-ever missile alert over Islam's holiest city.",
+      "signal": "Escalation spiral is accelerating faster than US restraint can contain. Iran demonstrating both capability and willingness to strike US assets and Saudi holy sites. Saudi internal security perceptions shifting—MBS cannot absorb another Mecca incident politically. Direct US-Iran kinetic conflict now higher-probability than market prices reflect.",
+      "contradicts": "Assumption that Iranian strikes remain calibrated signaling; recent tempo and targeting suggest doctrine shift toward sustained pressure.",
+      "timestamp": "2026-09-15T15:25:32.338Z"
     },
     {
       "id": "sig3",
       "domain": "US Politics",
-      "headline": "Prediction market surge: Jon Ossoff (17% DEM nominee), J.D. Vance (45% GOP nominee), Gavin Newsom (13% DEM nominee)",
+      "headline": "Harris 2028 nomination odds collapse to 8% (down from 44% run likelihood); Newsom/Ossoff climb",
       "significance": "HIGH",
-      "summary": "Kalshi markets show rising odds for second-tier Democratic candidates (Ossoff +1¢, Newsom +1¢) and consolidation around Vance on GOP side. Marco Rubio VP bid at 29%; Magdalena Andersson (Sweden PM) at 83% (+16¢ 24h move). 2028 nomination race still highly fragmented.",
-      "signal": "Market is pricing in fragmented field with no dominant Democratic frontrunner. Vance consolidation among Republicans suggests establishment confidence in Trump ticket durability. Large volatility in secondary markets indicates genuine uncertainty about 2028 field and potential late entrants.",
-      "contradicts": "Consensus that Harris (8% odds) or Obama (0% odds) represent Democratic establishment alternative; markets treat both as dead or irrelevant.",
-      "timestamp": "2026-09-14T16:46:23.652Z"
+      "summary": "Kamala Harris Democrat nominee probability at 8% (minimal movement in 24h). But her willingness-to-run dropped 36 cents to 45% in parallel market. Gavin Newsom (13% nominee, 50% will run) and Jon Ossoff (17% nominee) show relative strength.",
+      "signal": "Democratic field is fragmenting without clear frontrunner. Party establishment signal weakness heading into midterm cycle. Trump's tariff/trade volatility and Middle East instability create opening for anti-incumbent messaging, but Dem bench looks shallow on foreign-policy credibility.",
+      "contradicts": "Prior narrative of Harris consolidating progressive base; markets now price her as polarizing drag on Dem ticket.",
+      "timestamp": "2026-09-15T15:25:32.338Z"
     },
     {
       "id": "sig4",
-      "domain": "US Politics",
-      "headline": "Impeachment market at 67% (+1¢); Trump resignation at 21% (-2¢); Insurrection Act invocation at 17%",
+      "domain": "Technology",
+      "headline": "US Space Force confirms first-ever deployed offensive weapons in orbit; China and Russia warnings issued",
       "significance": "HIGH",
-      "summary": "Prediction markets price two-in-three probability Trump faces impeachment before Jan 20, 2029. Resurrection Act invocation before 2027 at 17%. Trump resignation odds declining despite turbulence (Hegseth Pentagon 'culture wars,' grift allegations).",
-      "signal": "Markets embed assumption of congressional fracture or scandal forcing impeachment vote, likely over foreign policy or abuse of power. Declining resignation odds despite headline chaos suggests market sees Trump as politically resilient and committed to completing term. Insurrection Act odds non-trivial given current Pentagon tensions.",
-      "contradicts": "Market assumes divided government or GOP defections on impeachment; current GOP consolidation around Vance suggests party discipline may hold against impeachment.",
-      "timestamp": "2026-09-14T16:46:23.652Z"
+      "summary": "Air Force Secretary Troy Meink publicly confirmed US has 'on-orbit space control weapons' deployed for first time. No technical details released. China demands US 'stop preparing for war in space.' Russia responds space must remain 'weapon-free.'",
+      "signal": "Unilateral US disclosure of space weapons capability signals confidence in technological edge but accelerates arms-race dynamic in orbital domain. China/Russia will treat this as justification to operationalize their own systems. Escalation in new warfighting domain now kinetic.",
+      "contradicts": "Prior diplomatic posture of ambiguity; explicit acknowledgment suggests Trump admin prioritizing deterrence signaling over arms-control framework.",
+      "timestamp": "2026-09-15T15:25:32.338Z"
     },
     {
       "id": "sig5",
-      "domain": "Energy",
-      "headline": "US SPR hits 44-year low; COSTCO rationing motor oil; data centers burning more natural gas than most nations",
+      "domain": "Europe",
+      "headline": "Ukraine strikes Russian Taganrog aerospace facility; Putin relocates Valdai conference from Sochi citing drone fears",
       "significance": "HIGH",
-      "summary": "Strategic Petroleum Reserve depleted to lowest level since early 1980s. Retail motor oil rationing signals downstream supply stress. AI data center energy demand now exceeds national consumption of many countries.",
-      "signal": "US energy resilience severely degraded heading into winter heating season and potential Middle East escalation. SPR cannot serve as emergency buffer for major crisis. AI boom creating structural energy demand that competes with grid stability and industrial base. Potential stagflation trigger if energy prices spike further.",
-      "contradicts": "Trump administration messaging on energy independence; actual infrastructure shows vulnerability despite US production gains.",
-      "timestamp": "2026-09-14T16:46:23.652Z"
+      "summary": "Ukrainian cruise missile attack on Beriev aerospace complex; NASA FIRMS detected major fire. Putin moved annual Valdai conference from Sochi to Moscow, citing Ukrainian drone threat. Putin absent from Sochi since October 2025.",
+      "signal": "Symbolism matters: Putin's retreat from Sochi signals Kremlin vulnerability to deep-strike capability and erodes his domestic security brand. Ukrainian confidence in long-range precision rising. Russia-Ukraine war is not in negotiation stasis despite Lavrov rhetoric; offensive tempo by both sides intact.",
+      "contradicts": "Narrative of frozen conflict and diplomatic off-ramps; battlefield momentum and strategic initiative remain contested.",
+      "timestamp": "2026-09-15T15:25:32.338Z"
     },
     {
       "id": "sig6",
-      "domain": "Technology",
-      "headline": "Altman delays OpenAI IPO over 'safety concerns'; AI bubble warnings from Zitron; trillion-dollar tech schemes become 2028 campaign issue",
+      "domain": "US Politics",
+      "headline": "Marco Rubio VP nomination odds rise to 29% (up 3 cents); Trump administration seen locking in security team",
       "significance": "MEDIUM",
-      "summary": "OpenAI CEO postpones IPO citing AI safety red flags. Market commentator warns retail investors don't understand AI fundamentals. Congressional messaging escalates on 'trillion-dollar tech schemes' ahead of midterms.",
-      "signal": "Silicon Valley internal doubt on AI valuation and safety architectures creating political opening for regulation. 2028 campaign will feature AI safety/jobs/oligopoly as central issue. OpenAI IPO delay reduces near-term venture capital velocity and may trigger broader tech correction.",
-      "contradicts": "Trump administration narrative of strong AI oversight and safety; delays suggest even industry insiders doubt current guardrails are adequate.",
-      "timestamp": "2026-09-14T16:46:23.652Z"
+      "summary": "Rubio Republican VP nominee probability at 29% with upward momentum. J.D. Vance GOP presidential nominee at 46%, gaining. White House Press Secretary market shows Scott Jennings (23%, +2 cents) and Maria Bartiromo (15%) in contention.",
+      "signal": "Trump consolidating foreign-policy and national-security messaging through personnel locks. Rubio elevation reflects priority on hemispheric/counter-China posture. Market pricing suggests cabinet stability is being telegraphed as response to Middle East/Ukraine volatility.",
+      "contradicts": null,
+      "timestamp": "2026-09-15T15:25:32.338Z"
     }
   ],
-  "scanNote": "Signal quality degrades across multiple domains: Middle East escalation and energy shock are concrete and measurable; Trump negotiation claims are unverified and contradict prior statements; 2028 politics remain noise-heavy with low predictive power; tech stories are driven by Drudge sensationalism rather than hard intelligence.",
+  "scanNote": "Signal quality degraded by headline-only context; OSINT feeds show real-time escalation in Red Sea/Hormuz but lack damage assessment specificity; prediction markets show clear fragmentation on Dem 2028 field and Trump admin continuity pricing.",
   "markets": [
     {
-      "ticker": "KXTRUMPRESIGN",
-      "label": "Trump resigns before term ends",
-      "domain": "US Politics",
-      "marketProb": 21,
-      "aiProb": 8,
-      "gap": -13,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Despite oligarch-funding scandal headlines, ongoing war footing in Middle East and active Iran conflict historically consolidate executive power rather than precipitate resignation; market at 21% appears significantly overpriced.",
-      "volume24h": 5113,
-      "openInterest": 133839,
-      "priceChange24h": -2,
-      "url": "https://kalshi.com/markets/KXTRUMPRESIGN"
-    },
-    {
-      "ticker": "KXIMPEACH-29-JAN20",
-      "label": "Trump impeached before Jan 20 2029",
-      "domain": "US Politics",
-      "marketProb": 67,
-      "aiProb": 28,
-      "gap": -39,
+      "ticker": "KXRECSSNBER-27",
+      "label": "Recession in 2027",
+      "domain": "Energy",
+      "marketProb": 25,
+      "aiProb": 62,
+      "gap": 37,
       "favorable": true,
       "confidence": "MEDIUM",
-      "rationale": "Midterm court confusion and corruption/grift headlines raise political pressure, but Republican House control and wartime rally-around-the-flag dynamics make successful impeachment unlikely; market's 67% is substantially inflated.",
-      "volume24h": 4725,
-      "openInterest": 175984,
-      "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXIMPEACH-29-JAN20"
+      "rationale": "Oil at $101/bbl with diesel at record $6.23/gallon, Yanbu suspended loadings, Chevron CEO warning buffers are exhausted, and Houthi attacks on Red Sea infrastructure create a serious stagflationary shock that materially elevates 2027 recession risk above the market's 25% price.",
+      "volume24h": 7580,
+      "openInterest": 214415,
+      "priceChange24h": 2,
+      "url": "https://kalshi.com/markets/KXRECSSNBER-27"
     },
     {
-      "ticker": "KXINSURRECTION-29-27",
-      "label": "Trump invokes Insurrection Act before 2027",
+      "ticker": "KXPRESNOMD-28-GN",
+      "label": "Newsom 2028 Dem nominee",
       "domain": "US Politics",
-      "marketProb": 17,
-      "aiProb": 12,
-      "gap": -5,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Midterm legal confusion and immigration enforcement escalation create conditions for executive overreach, but active foreign wars draw political bandwidth away from domestic deployment scenarios; 17% market price is modestly high.",
-      "volume24h": 5722,
-      "openInterest": 119772,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXINSURRECTION-29-27"
-    },
-    {
-      "ticker": "KXSWEDENPM-26SEP13-MAND",
-      "label": "Andersson becomes Sweden PM after 2026 election",
-      "domain": "Europe",
-      "marketProb": 83,
-      "aiProb": 78,
-      "gap": -5,
-      "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "Kalshi has moved sharply to 83% (+16 cents in 24h) while Kristersson dropped 22 cents, signaling strong late-breaking intelligence or polling consistent with a Social Democrat victory amid European security concerns driving voters toward established center-left NATO supporters.",
-      "volume24h": 21762,
-      "openInterest": 20421,
-      "priceChange24h": 16,
-      "url": "https://kalshi.com/markets/KXSWEDENPM-26SEP13-MAND"
-    },
-    {
-      "ticker": "KXSWEDENPM-26SEP13-UKRI",
-      "label": "Kristersson remains Sweden PM after 2026 election",
-      "domain": "Europe",
-      "marketProb": 15,
-      "aiProb": 20,
+      "marketProb": 13,
+      "aiProb": 18,
       "gap": 5,
       "favorable": false,
-      "confidence": "HIGH",
-      "rationale": "The dramatic 22-cent single-day drop in Kristersson's contract mirroring Andersson's surge indicates clear market consensus against incumbent; European security environment could cut either way but the signal is unambiguous.",
-      "volume24h": 22360,
-      "openInterest": 25861,
-      "priceChange24h": -22,
-      "url": "https://kalshi.com/markets/KXSWEDENPM-26SEP13-UKRI"
-    },
-    {
-      "ticker": "KXPRESNOMR-28-JDV",
-      "label": "Vance is 2028 Republican presidential nominee",
-      "domain": "Americas",
-      "marketProb": 45,
-      "aiProb": 38,
-      "gap": -7,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Active US military engagement in Iran and Middle East elevates incumbent-adjacent figures, and Vance as sitting VP benefits from wartime visibility, but Trump resignation market at 21% and impeachment at 67% create enormous uncertainty about the Republican field's shape.",
-      "volume24h": 9086,
-      "openInterest": 1823521,
+      "confidence": "MEDIUM",
+      "rationale": "Newsom leads the Democratic field at 13% on Kalshi and benefits from Trump approval drag on the GOP per polling, but the 'running' market showing him at only 50% suggests significant field uncertainty that keeps his nomination probability modest.",
+      "volume24h": 32451,
+      "openInterest": 4432972,
       "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
     },
     {
       "ticker": "KXPRESNOMD-28-JOSS",
-      "label": "Ossoff is 2028 Democratic presidential nominee",
-      "domain": "Americas",
+      "label": "Ossoff 2028 Dem nominee",
+      "domain": "US Politics",
       "marketProb": 17,
-      "aiProb": 14,
-      "gap": -3,
+      "aiProb": 10,
+      "gap": -7,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "Ossoff at 17% leads the Democratic field in this market, plausible given his swing-state profile and the party's need for a non-coastal face, but two years of war-economy politics and AOC's strong grassroots position make the field genuinely open.",
-      "volume24h": 42690,
-      "openInterest": 4708539,
-      "priceChange24h": 1,
+      "rationale": "Ossoff is priced at 17% nomination odds — surprisingly high for a first-term senator with no national profile — making this market likely overpriced relative to fundamentals; current intel provides no specific catalyst supporting his rise.",
+      "volume24h": 23208,
+      "openInterest": 4720792,
+      "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
     },
     {
+      "ticker": "KXPRESNOMD-28-AOC",
+      "label": "AOC 2028 Dem nominee",
+      "domain": "US Politics",
+      "marketProb": 16,
+      "aiProb": 10,
+      "gap": -6,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Dems gaining edge per polls and progressive energy is real, but AOC faces structural electability concerns and a crowded field; her 16% market price appears modestly inflated absent a major galvanizing event.",
+      "volume24h": 7755,
+      "openInterest": 4730098,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
+    },
+    {
       "ticker": "KXVPRESNOMR-28-MR",
-      "label": "Rubio is 2028 Republican VP nominee",
-      "domain": "Americas",
+      "label": "Rubio 2028 GOP VP nominee",
+      "domain": "US Politics",
       "marketProb": 29,
       "aiProb": 22,
       "gap": -7,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "Rubio's prominent role managing the Graham-Rubio Russia-Iran sanctions act and his Secretary of State position during active Iran conflict give him national security credibility for a VP slot, but the 29% market price slightly overestimates his probability given a wide potential field.",
-      "volume24h": 23525,
-      "openInterest": 199306,
-      "priceChange24h": 2,
+      "rationale": "Rubio's VP odds spiked 3 cents to 29% today, possibly driven by his high-profile role managing Iran/Middle East escalation as Secretary of State, but VP selection is inherently unpredictable and Vance's incumbency as VP complicates this market's logic.",
+      "volume24h": 23473,
+      "openInterest": 199174,
+      "priceChange24h": 3,
       "url": "https://kalshi.com/markets/KXVPRESNOMR-28-MR"
     },
     {
-      "ticker": "KXOAIANTH-40-OAI",
-      "label": "OpenAI IPOs before Anthropic",
+      "ticker": "KXPRESNOMR-28-JDV",
+      "label": "Vance 2028 GOP Presidential nominee",
       "domain": "US Politics",
-      "marketProb": 10,
-      "aiProb": 18,
-      "gap": 8,
+      "marketProb": 46,
+      "aiProb": 50,
+      "gap": 4,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Altman explicitly delaying IPO over safety concerns per Drudge headlines, while AI bubble warnings and the political campaign focus on tech schemes reduce near-term IPO appetite; 10% market price may actually be fair or slightly low given Anthropic's funding constraints, making this a close call.",
-      "volume24h": 4673,
-      "openInterest": 49155,
-      "priceChange24h": 2,
-      "url": "https://kalshi.com/markets/KXOAIANTH-40-OAI"
+      "rationale": "Vance at 46% on Kalshi is the clear Republican frontrunner as sitting VP and heir apparent; the Middle East crisis and economic turbulence could help or hurt depending on resolution, making his true probability roughly in line with the market price.",
+      "volume24h": 3934,
+      "openInterest": 1824956,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
+    },
+    {
+      "ticker": "KXTRUMPBULLCASECOMBO-27DEC-26",
+      "label": "Trump bull case scenario 2026",
+      "domain": "US Politics",
+      "marketProb": 3,
+      "aiProb": 2,
+      "gap": -1,
+      "favorable": false,
+      "confidence": "HIGH",
+      "rationale": "With oil above $100, diesel at record highs, housing mortgage rates near 7%, Houthis threatening Yanbu and the East-West pipeline, Warsh pushing for rate hikes, and Democrats gaining in polls, virtually every macro and geopolitical indicator is running against a Trump bull case scenario resolving by December 2026.",
+      "volume24h": 4046,
+      "openInterest": 176258,
+      "priceChange24h": -1,
+      "url": "https://kalshi.com/markets/KXTRUMPBULLCASECOMBO-27DEC-26"
     }
   ],
   "watchSignals": [
-    "Saudi Arabia Houthi escalation trajectory - King Khalid Air Base strikes, pipeline damage, and CENTCOM chief visit indicate whether this becomes sustained regional conflict or tactical probe; watch for Saudi retaliation scope and US force posture response",
-    "Strait of Hormuz closure risk - Iranian IRGC drone shootdowns (MQ-1C, MQ-9s), DF-15 ballistic missile debris in Yemen, and Oman Energy Minister statements on reopening; monitor shipping flows, insurance premiums, and tanker rerouting as proxy for blockade probability",
-    "US-Iran negotiation signal strength - Trump's public statements on Iran willingness to 'make a deal quickly and badly' versus actual diplomatic channel activity; watch for sanctions votes (Graham Act in House this week) and any direct talks announcement",
-    "Ukraine energy ceasefire durability - Both sides claim agreement on energy infrastructure (Ukraine halting strikes on Russian targets, Russia reciprocating); monitor violations, drone/missile attack patterns on power grids and refineries (St. Petersburg fuel crisis ongoing) to assess if deal holds",
-    "Oil price stability and SPR levels - Brent crude at $108/barrel (+3%), US Strategic Petroleum Reserve at 44-year low, COSTCO rationing motor oil; watch for price spike triggers from pipeline shutdowns, supply disruptions, or demand shocks over 2-4 week window",
-    "Trump cabinet/personnel friction signals - Hegseth 'culture wars' creation amid Pentagon modernization push, press secretary market pricing (Scott Jennings 20%, Maria Bartiromo 14%), resignation/impeachment market at 21% and 67% respectively; monitor stability of defense policy coordination"
+    "Houthi missile/drone campaign tempo against Saudi oil infrastructure (Yanbu loadings suspended, air raid warnings activated) — escalation threshold for US direct intervention decision",
+    "Iran drone/missile attrition rate vs US CENTCOM air defense — cumulative losses will force Tehran doctrine adjustment or signal commitment to sustained proxy campaign",
+    "Oil price trajectory: crude at $101 (+19% in 3 weeks), diesel $6.23/gal record, Chevron CEO signals inventory buffers depleted — next supply shock or geopolitical flare triggers immediate stagflation scenario",
+    "Trump administration response to Saudi requests for direct military intervention — currently resisting, but sustained Houthi attacks on Mecca/holy cities will create domestic political pressure for escalation",
+    "Ukraine-Russia energy infrastructure agreement status and enforceability — Trump claim of bilateral commitment vs Zelenskyy non-commitment signals potential negotiation leverage collapse",
+    "US space weapons deployment confirmation and Chinese/Russian counter-messaging — Space Force acknowledgment of on-orbit offensive capability raises kinetic escalation risk in peer conflict"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East",
-      "headline": "Houthi large-scale assault on Saudi King Khalid Air Base with dozens of ballistic missiles and drones; Saudi East-West Pipeline Al-Mesba'ah pumping station damaged; Iranian IRGC shot down US MQ-1C Gray Eagle over Strait of Hormuz",
+      "domain": "Middle East Energy",
+      "headline": "Houthis have achieved sustained maritime interdiction capability in Red Sea and Gulf of Aden; Saudi Arabia suspending loadings at Yanbu and activating early warning systems for missile threats to Mecca for first time in conflict",
       "significance": "CRITICAL",
-      "summary": "Active state of Iranian-aligned kinetic operations against US partner Saudi Arabia and US reconnaissance assets. Houthi spokesman Yahya Sarie announced continuation of strikes into 'deep' Saudi territory. CENTCOM commander departed Riyadh after emergency visit, indicating high-level crisis management.",
-      "signal": "US faces direct military pressure in Persian Gulf; Iran demonstrating willingness to inflict costs on US presence; Saudi air defense and oil infrastructure vulnerability exposed; regional escalation above threshold of proxy warfare into direct confrontation"
+      "summary": "Houthi operational reach has escalated to direct threat to Islam's holiest city and Saudi Arabia's primary oil export port. This marks a threshold shift from harassment to strategic targeting. Saudi Crown Prince MBS faces internal legitimacy pressure and external escalation dilemma.",
+      "signal": "US will face imminent choice between accepting regional oil market volatility or committing air/naval assets to direct Houthi suppression — politically costly either way for Trump administration"
     },
     {
       "id": "gt2",
-      "domain": "Energy/Economic",
-      "headline": "US Strategic Petroleum Reserve at 44-year low; Brent crude trading at $108/barrel (+3%); St. Petersburg fuel crisis (55 of 175 gas stations operational, 7-hour waits) from Ukrainian drone strike on Kirishi refinery",
+      "domain": "Iran Regional Posture",
+      "headline": "Iran has conducted simultaneous multi-vector attacks: missile/drone strikes on US bases (hundreds of structures damaged per watchdog), downed or claimed downing of multiple US drones (MQ-1C over Strait of Hormuz), missile strike on tanker El Gaia, drone strikes on Kurdish positions in Erbil",
       "significance": "CRITICAL",
-      "summary": "Global and US energy supply chains under stress from dual regional conflicts. SPR depletion limits surge capacity for major supply disruption. Russian fuel crisis indicates Ukrainian strike capability reaches critical civilian-economy infrastructure.",
-      "signal": "US energy security vulnerability high; any escalation in Hormuz or Russia-Ukraine energy attacks could spike oil to $120+ and force SPR drawdown; inflation risk to domestic fuel prices and transportation costs"
+      "summary": "Iran is conducting coordinated offensive operations across air, maritime, and proxy domains without initiating direct escalation to declared war. This signals Tehran believes it has calibrated response level below US red lines for major retaliation.",
+      "signal": "US must decide whether to treat coordinated Iranian strikes as isolated incidents or pattern indicating new baseline for Iranian aggression; affects nuclear talks, sanctions strategy, and CENTCOM force posture"
     },
     {
       "id": "gt3",
-      "domain": "Geopolitical",
-      "headline": "Trump administration stated Iran willing to negotiate deal; Ukraine-Russia energy ceasefire claimed (halting strikes on infrastructure); declassified footage of April 2026 F-15E rescue after Iranian air defense shootdown shows prior active US-Iran air combat",
-      "significance": "HIGH",
-      "summary": "Contradiction between Trump's dealmaking rhetoric and documented April 2026 kinetic US-Iran conflict suggests either previous conflict resolution or ongoing low-intensity war with diplomatic overtures. Ukraine ceasefire announcement lacks verification mechanisms and contradicts continued drone operations.",
-      "signal": "US policy posture ambiguous; Trump may be seeking de-escalation ladder while retaining military credibility, or managing already-occurred conflict. Watch for sanctions vote outcome and any direct negotiation announcements as clarifiers"
+      "domain": "Energy Markets",
+      "headline": "Crude oil has risen 19% in three weeks to $101/barrel; diesel at record $6.23/gallon; Chevron CEO states inventory buffers that protect markets have largely depleted; Costco rationing motor oil; EXXON refinery power outage under investigation; East-West pipeline threatened",
+      "significance": "CRITICAL",
+      "summary": "US energy market shock absorbers are exhausted. Any further Middle East disruption, pipeline damage, or refinery outage will translate directly to consumer prices and inflation. Market lacks redundancy.",
+      "signal": "Stagflation risk is now function of geopolitical events, not Fed policy; Trump administration will face domestic political pressure to either stabilize Middle East or release strategic reserves; affects 2026 midterm messaging and 2028 general election dynamics"
     },
     {
       "id": "gt4",
-      "domain": "Defense Industrial",
-      "headline": "Trump claimed US producing 'most exquisite and elite weapons' at any point in history, delivered daily to Middle East forces; factories operating 24/7; Germany planning €3.4B purchase of Typhon launchers and Tomahawk cruise missiles (owned/operated by Berlin, not US-controlled)",
+      "domain": "US-Ukraine Military Alignment",
+      "headline": "Trump claimed Ukraine and Russia agreed to refrain from targeting each other's energy infrastructure; Zelenskyy immediately contradicted this, stating Kyiv has not formally committed without assurances; Boris Johnson stated strategic ambiguity on Ukraine NATO membership is the core problem",
       "significance": "HIGH",
-      "summary": "US defense production in surge mode for Middle East theater. Germany obtaining long-range strike independence from US control represents NATO capability shift and Trump administration's arms export strategy pivot toward allied self-sufficiency.",
-      "signal": "Sustained high operational tempo in Middle East requires sustained munitions production; Germany's autonomy on Tomahawks indicates Trump policy of burden-shifting to allies; Chinese DF-15 variants in Saudi/Yemeni hands complicate air defense calculus"
+      "summary": "Trump's negotiation authority over Ukraine is contested and public. This signals either diplomatic overreach or Zelenskyy's refusal to constrain Ukrainian strike doctrine without NATO guarantees. Framework for any Trump-brokered settlement is cracking before it solidifies.",
+      "signal": "US credibility with both sides is degraded; if settlement talks proceed, Ukrainian military will likely continue energy targeting regardless of political agreements, creating escalation spiral that contradicts stated Trump goal of rapid conflict resolution"
     },
     {
       "id": "gt5",
-      "domain": "Domestic Politics",
-      "headline": "Prediction markets: Trump impeachment before Jan 20 2029 priced at 67% (up 1¢ in 24h); Trump resignation priced at 21% (down 2¢); J.D. Vance Republican nominee at 45%; Kamala Harris Democratic nominee at 8%",
+      "domain": "US Fiscal-Political Economy",
+      "headline": "Trump has made more stock trades than all of Congress combined; reports cite $50M data center donation for lease arrangement; Don Jr Russian-funded wedding probe; Warsh Fed confirmation now at 'showdown' phase; housing market stagnant with 7% mortgage rates imminent",
       "significance": "HIGH",
-      "summary": "Market aggregate assigns roughly 2-in-3 probability to impeachment attempt during current term; resignation risk elevated to 1-in-5. J.D. Vance consolidated as successor candidate. Democratic field fragmented with no frontrunner.",
-      "signal": "Political instability priced into forward expectations; Trump administration faces sustained legal/institutional pressure; continuity of foreign policy posture (especially Middle East commitments) uncertain if succession occurs mid-term"
+      "summary": "Governance legitimacy signals are degraded across executive, cabinet, and financial markets. Family conflict-of-interest patterns and personnel loyalty tests (Warsh Fed pressure) suggest internal Trump administration cohesion stress. Economic headwinds (rates, housing) unresolved.",
+      "signal": "Market confidence in Trump administration policy consistency and institutional independence is declining; creates opening for congressional/judicial checks on executive authority; affects Trump 2028 succession dynamics (Vance markets at 46% nom, 23% general)"
+    },
+    {
+      "id": "gt6",
+      "domain": "US Military Posture",
+      "headline": "Pentagon revealed for first time that US has deployed offensive weapons in space; China and Russia issued warnings; Putin relocated Valdai conference from Sochi due to Ukrainian drone threat (first Sochi visit avoidance since Oct 2025); Ukraine struck Taganrog Beriev aerospace facility with cruise missiles",
+      "significance": "HIGH",
+      "summary": "US has operationalized space weapons capability and publicly confirmed it; Russia is operating under legitimate drone threat inside its own territory; Ukraine is striking Russian aerospace/defense manufacturing. Escalation ladder rungs are visible and being climbed sequentially.",
+      "signal": "Peer conflict escalation is now multi-domain; US strategic signaling on space weapons creates deterrent credibility but also lowers threshold for Chinese/Russian counter-escalation; increases risk of accidental kinetic conflict in space or via proxy"
     }
   ]
 }
