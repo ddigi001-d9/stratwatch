@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-17T15:24:01.187Z",
-  "runNumber": 126,
+  "generatedAt": "2026-09-18T14:44:18.097Z",
+  "runNumber": 127,
   "situation": {
-    "headline": "Saudi Arabia's air defense depletion amid simultaneous Houthi F-15 shootdown and interceptor shortfall forces emergency allied resupply requests, exposing a critical US-aligned partner vulnerability that Iran and Houthi forces are actively exploiting to reshape Red Sea access and Bab al-Mandeb control",
+    "headline": "Saudi Arabia's complete oil cutoff to European refiners, combined with Houthi strikes on King Fahd Air Base damaging Italian NATO assets and tanker attacks in the Strait of Hormuz, signals a coordinated multi-vector energy warfare campaign threatening both transatlantic supply security and NATO alliance credibility simultaneously.",
     "velocity": "ACCELERATING",
     "domains": [
       {
@@ -10,281 +10,289 @@
         "prob": 87,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Saudi interceptor depletion, confirmed F-15 shootdown, Houthi drone strikes reaching Taif, and IRGC political adviser openly threatening Hormuz closure constitute a multi-vector escalation ladder that US partners cannot sustain without emergency American resupply and potential direct intervention decisions within weeks."
+        "status": "Houthi drone strike on King Fahd Air Base hitting Italian NATO aircraft, total Saudi oil cutoff to Europe, tanker attacks in Hormuz, and Bab al-Mandab ground fighting converge into the most kinetically active Red Sea-Gulf corridor since 2024, with Trump publicly signaling a major Iran decision."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 44,
+        "prob": 38,
         "label": "China coercion escalation",
-        "trajectory": "UP",
-        "status": "China is playing a dual game as Saudi-Iran interlocutor while DIA warns F-35 technology transfer risk if the Saudi sale proceeds, signaling Beijing is actively harvesting strategic leverage from the Middle East crisis while managing its own regional positioning at low direct cost."
+        "trajectory": "FLAT",
+        "status": "China's Treasury holdings falling to 2008 lows is a slow-burn financial signal, but no acute military trigger is present in current context; MQ-9 redeployment from Africa to SOUTHCOM reduces US ISR posture in potential Indo-Pacific contingency support zones."
       },
       {
         "name": "Europe",
-        "prob": 31,
+        "prob": 29,
         "label": "NATO cohesion fracture",
         "trajectory": "UP",
-        "status": "Poland airport shutdowns over drone threats, Tusk warning of intensified Russian infrastructure strikes before winter, North Korean KN-23 missiles impacting Ukrainian cities, and Canada-EU associate-member negotiations drawing a Trump trade-cutoff threat collectively stress NATO's eastern flank and transatlantic coherence simultaneously."
+        "status": "Italian Air Force assets struck on Saudi soil while EU raises ASPIDES alert levels and Russia is reported planning rocket and drone strikes against NATO infrastructure, stressing alliance burden-sharing and response coordination simultaneously."
       },
       {
         "name": "Energy",
-        "prob": 72,
+        "prob": 91,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Iranian officials explicitly threatening Hormuz closure, active Houthi control of Bab al-Mandeb approaches, Iranian cyberattacks probed against Texas-bound energy tankers, and the Ukrainian drone strike on Yaroslavl refinery form a convergent multi-chokepoint pressure pattern on global oil supply with no near-term relief valve visible."
+        "status": "Saudi zero-allocation to all European buyers for October, the East-West pipeline crippling drone strike, and active Hormuz tanker interdiction combine for the highest simultaneous Gulf supply-route disruption risk since 2019 Abqaiq attack, with winter demand onset imminent."
       },
       {
         "name": "US Politics",
-        "prob": 78,
+        "prob": 68,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Drudge aggregating an 83 percent Democratic House takeover probability, Karl Rove publicly endorsing a Texas Democrat, deep-red districts entering play, and Hispanic voter defection signals all point to a wave environment that Kalshi prediction markets on Ossoff at 17 percent Democratic nominee and AOC at 16 percent reflect as a party in significant structural realignment."
+        "status": "Drudge aggregation and Kalshi markets together point to Democrats at roughly 84 percent House odds, driven by inflation fatigue, suburban female flight from MAGA, and Republican internal morale signals; Ossoff at 17 percent Democratic nominee on Kalshi reflects a party repositioning around fresh faces."
       }
     ],
-    "unseen": "Saudi Arabia's simultaneous depletion of missile interceptors and loss of an F-15SA is functionally a stress test of the entire US-supplied Gulf air defense architecture that Iran has been deliberately engineering since the JCPOA collapse; the emergency requests to UK, France, Pakistan, and Egypt rather than the US first suggests Riyadh is either unable to obtain rapid US resupply or is deliberately diversifying dependencies, which would mark a quiet but historic shift in the Saudi-American security relationship precisely as the F-35 sale and its associated Chinese intelligence risk is under review.",
-    "criticalWindow": "The next 30 to 45 days before winter energy demand peaks: Saudi Arabia must either receive allied interceptor reinforcement or absorb further air defense attrition while Iran watches whether the US responds to Hormuz closure threats with deterrent force posture or diplomatic concession, a choice that will set the coercive baseline for the remainder of the Trump second term.",
+    "unseen": "The Houthi strike on King Fahd Air Base that damaged an Italian NATO Eurofighter is being treated as a Yemen-Saudi bilateral incident, but it is actually the first successful kinetic hit on a NATO member's frontline combat aircraft by a non-state actor in the current conflict cycle. This sets a precedent that Ansar Allah can hold European NATO hardware at risk, which will complicate Article 5 thresholds, NATO burden-sharing negotiations, and European willingness to sustain ASPIDES if their own aircraft are being destroyed in theater. Paired with Russia planning drone strikes against NATO, European defense establishments are being pulled into a two-theater simultaneous liability problem that their defense budgets and political will are not sized for.",
+    "criticalWindow": "The next 30-45 days before October European oil deliveries must be sourced from alternative suppliers: if no Saudi-European pipeline workaround or emergency IEA release is coordinated before European refineries exhaust current stocks heading into winter, a hard energy price spike materializes simultaneously with US midterm election season, handing Democrats a ready-made inflation-blame narrative against Trump while also testing whether Trump moves on Iran militarily to reopen the regional equation.",
     "watchFor": [
-      "US Central Command repositioning of additional carrier strike groups or Patriot batteries to Gulf region in response to Saudi depletion requests",
-      "Iran formally activating Hormuz transit restrictions or mining operations beyond rhetorical threat, which would trigger oil price spike well above current trajectory",
-      "Congressional passage of the Graham Russia-Iran Sanctions Act being signed or vetoed by Trump, signaling whether executive branch accepts legislative constraints on Iran policy",
-      "Canada formally achieving EU associate membership status, triggering Trump trade retaliation and fracturing the Five Eyes-NATO-G7 institutional architecture simultaneously"
+      "Trump announces military action against Iran or Iranian proxies, which he publicly telegraphed as imminent with 'anything can happen' language",
+      "Additional Houthi or Iranian strikes in the Strait of Hormuz escalating from single tanker hits to sustained chokepoint closure attempts",
+      "IEA or US SPR emergency release announcement as European governments demand Washington act on oil price shock before winter",
+      "Italian or broader NATO formal invocation of collective defense consultations following the King Fahd Air Base aircraft strike on a member-state asset"
     ],
-    "confidenceNote": "Key uncertainties include actual Saudi interceptor inventory levels which are classified, whether the Kalshi 83 percent House flip figure reflects genuine market consensus or thin liquidity manipulation, the reliability of IRGC drone shootdown claims which may be inflated for domestic propaganda, and whether Trump administration back-channel Iran negotiations are suppressing escalation in ways not visible in open-source intelligence.",
-    "topPattern": "The convergence of Saudi air defense exhaustion, Houthi Bab al-Mandeb control, Iranian Hormuz threats, and energy tanker cyberattacks represents a coordinated Iranian strategic squeeze on Gulf energy chokepoints that is being executed while US domestic political attention is consumed by a historic midterm wave environment, and Kalshi's recession probability jumping four cents to 28 percent in 24 hours suggests markets are beginning to price the energy supply shock risk that analysts are still treating as rhetorical."
+    "confidenceNote": "Key uncertainties include: the actual severity of the Italian Eurofighter damage and whether Italy treats it as a casus belli or absorbs it quietly; whether Saudi Arabia's cutoff is genuine supply-route force majeure or a political signal with room for rapid reversal; Trump's Iran decision timeline which he deliberately left undefined; and whether Drudge headline framing of House odds reflects genuine polling movement or partisan curation, since Kalshi Democratic nominee markets show fragmented fields with no dominant figure above 17 percent, suggesting the party lacks a consolidating candidate which could suppress turnout.",
+    "topPattern": "A single strategic thread connects the most important signals: Ansar Allah, acting as an Iranian proxy, has in one operational cycle struck a NATO member's aircraft on Saudi soil, interdicted Hormuz tanker traffic, seized a Red Sea city, cut European oil supplies via the East-West pipeline attack, and forced EU naval mission ASPIDES to raise alert levels, while Kalshi's Fed funds markets are pricing in rate hikes above 3.25 percent through 2027 at 90 percent probability, meaning the energy shock is already being baked into tightening financial conditions that compound US midterm political risk precisely as Trump faces his self-described biggest Iran decision."
   },
   "signals": [
     {
       "id": "sig1",
-      "domain": "Middle East",
-      "headline": "Houthis pledge to spare US shipping; Saudi air defense critically depleted",
-      "significance": "HIGH",
-      "summary": "Houthi representatives met US officials in Oman and committed to maintaining Red Sea ceasefire while attacking only Saudi vessels. Simultaneously, Saudi Arabia is running critically low on air-defense interceptors and has requested emergency support from UK, France, Pakistan, and Egypt.",
-      "signal": "US-Houthi de-escalation is fragmenting the Saudi-led coalition and creating asymmetric leverage; Saudi desperation for allied air defense reveals deeper capability gaps in the region than publicly acknowledged. This creates opening for Iranian influence and complicates US force posture planning.",
-      "contradicts": "Official narrative of unified anti-Houthi containment; suggests tacit US acceptance of Saudi losses as cost of broader Iran containment strategy",
-      "timestamp": "2026-09-17T15:26:23.153Z"
+      "domain": "Energy",
+      "headline": "Saudi Arabia cuts October crude exports to Europe to zero following East-West pipeline damage",
+      "significance": "CRITICAL",
+      "summary": "Saudi Arabia notified all European oil buyers of zero crude allocations for October following the September 10 Houthi drone attack on the East-West desert pipeline. This represents a complete supply cutoff of a major bypass route that had allowed Saudi exports to circumvent Strait of Hormuz choke points.",
+      "signal": "Global oil price spike likely imminent; European energy security crisis deepens; US will face pressure to increase strategic petroleum reserve releases or accept higher domestic fuel costs heading into November elections; Houthi maritime blockade now has kinetic effect on Western economies.",
+      "contradicts": "Pre-attack assumptions that Saudi redundant pipeline infrastructure could sustain European supply; energy market complacency on Yemen theater escalation risk",
+      "timestamp": "2026-09-18T14:46:32.974Z"
     },
     {
       "id": "sig2",
-      "domain": "US Politics",
-      "headline": "Prediction markets show collapsing confidence in Democratic field; AOC and Ossoff gain relative strength",
+      "domain": "Middle East",
+      "headline": "Italian Air Force F-2000 Eurofighter damaged at Saudi base; EU Red Sea escort mission raises alert levels",
       "significance": "HIGH",
-      "summary": "Harris at 9% (unchanged), Obama at 0%, Newsom down 1 cent; meanwhile Ossoff at 17% (+1) and AOC at 16% (flat). Drudge headline cites 83% Dem chance to take House in midterms, yet presidential field shows extreme fragmentation with no candidate above 17%.",
-      "signal": "Democratic Party faces structural legitimacy crisis—no plausible frontrunner despite House confidence. Ossoff and AOC's relative strength despite fringe profiles suggests younger Democrats signaling rejection of establishment options. This deepens intra-party factionalism heading into 2028 general.",
-      "contradicts": "Media narrative of Harris as presumptive nominee; markets indicate active repudiation rather than settled race",
-      "timestamp": "2026-09-17T15:26:23.153Z"
+      "summary": "Houthi drone/missile attack damaged an Italian Eurofighter at King Fahd Air Base in Taif. Simultaneously, EU naval mission ASPIDES increased alert levels for all vessels transiting the Red Sea following vessel strikes in Strait of Hormuz.",
+      "signal": "NATO air assets now exposed to Houthi precision strikes; Strait of Hormuz incident escalation signals possible Iranian coordination or Houthi capability jump; US must reassess force posture and rules of engagement in Red Sea theater.",
+      "contradicts": "Assumption that Houthi capability was limited to crude commercial shipping; European willingness to sustain forward naval presence without significant defensive reinforcement",
+      "timestamp": "2026-09-18T14:46:32.974Z"
     },
     {
       "id": "sig3",
-      "domain": "Europe",
-      "headline": "Swedish PM resigns after right-wing electoral defeat; Canadian PM pivots to EU integration amid Trump trade threats",
+      "domain": "US Politics",
+      "headline": "Prediction markets show flattened 2028 Democratic field with Newsom (14%), Ossoff (17%), AOC (15%) clustering; Kamala Harris drops to 8%",
       "significance": "HIGH",
-      "summary": "Swedish right-wing bloc lost September 2026 election (173 vs 176 seats); PM Kristersson resigned. Concurrently, Canadian PM Mark Carney is negotiating associate EU membership and financial-services integration; Trump has threatened to cut trade with Canada if this proceeds.",
-      "signal": "Transatlantic realignment accelerating—EU expanding external partnerships (Canada) while Nordic right retreats, directly triggered by Trump's neo-mercantilist stance. This signals potential bifurcation of North Atlantic order and weakening of US-led trade architecture.",
-      "contradicts": "Post-2024 consensus that rightward populism maintains momentum; shows electoral reversals and institutional pushback emerging",
-      "timestamp": "2026-09-17T15:26:23.153Z"
+      "summary": "Kalshi betting shows no dominant Democratic frontrunner for 2028 despite Harris as sitting VP at only 8%. Newsom, Ossoff, and AOC cluster in 14-17% range with healthy volume, suggesting market sees open field. Harris decline contradicts typical incumbent VP momentum.",
+      "signal": "Democratic Party faces fractured succession despite unified 2024 messaging; if Harris underperforms on economic/inflation metrics before 2026 midterms, her 2028 viability will crater further; markets are pricing deep uncertainty about Democratic brand recovery.",
+      "contradicts": "Historical norm of sitting VP enjoying polling/market advantages; elite consensus on Harris as presumptive heir",
+      "timestamp": "2026-09-18T14:46:32.974Z"
     },
     {
       "id": "sig4",
-      "domain": "Middle East",
-      "headline": "Iran claims 53rd MQ-9 drone interception; Houthis down Saudi F-15SA with apparent radar-guided missile",
-      "significance": "CRITICAL",
-      "summary": "IRGC claims successful shoot-down of MQ-9 over Qeshm Island (claimed 53rd kill); Houthis released confirmed footage of F-15SA kill in Yemen using radar-guided missile system. Both suggest degradation of US/Saudi air superiority and proliferation of advanced anti-air capability to non-state actors.",
-      "signal": "US drone attrition rate unsustainable if IRGC claims are accurate (53 losses implies systematic capability, not lucky hits). Houthi possession of radar-guided anti-aircraft systems represents major escalation—likely supplied by Iran—and indicates air defense denial of US/Saudi operations across critical sea lanes. Implication: containment strategy failing; Iran expanding proxy reach into conventional anti-air domain.",
-      "contradicts": "US military dominance assumptions in contested airspace; suggests asymmetric advantages shifting toward Iran and proxies",
-      "timestamp": "2026-09-17T15:26:23.153Z"
+      "domain": "US Politics",
+      "headline": "Drudge aggregate headlines signal Democratic momentum on House gains and mid-term cost-of-living crisis narrative",
+      "significance": "HIGH",
+      "summary": "Drudge front-paging 'BLUE WAVE BUILDS,' '84% DEMS CHANCE TO TAKE HOUSE,' inflation/cost headlines, and GOP 'generational wipeout' messaging in Texas. Framing emphasizes Republican electoral collapse and voter economic pain.",
+      "signal": "Headline editorial tilt is now massively pro-Democratic; if this reflects genuine polling shifts, 2026 midterms could see unexpected House/Senate gains for Democrats, inverting typical midterm penalty; watch for divergence between Drudge narrative and actual polling.",
+      "contradicts": "Historical pattern of incumbent party losses in midterms; recent market moves on recession risk (24%) suggesting economic headwinds should favor Republicans",
+      "timestamp": "2026-09-18T14:46:32.974Z"
     },
     {
       "id": "sig5",
-      "domain": "Energy",
-      "headline": "Venezuela oil deal at $19-20/barrel confirmed; China mediating Iran-Saudi Houthi restraint; US cyberattacks on Iranian tanker infrastructure",
+      "domain": "Middle East",
+      "headline": "Trump signals openness to major Iran decision; US approves $24.3B F-35 fighter sale to Saudi Arabia amid Houthi escalation",
       "significance": "HIGH",
-      "summary": "OSINT source confirms Venezuela-US oil agreement at historic low price; separate reporting shows China delivered message to Iran (at Saudi request) to rein in Houthis; US probing Iranian cyber links to attacks on Texas energy tankers.",
-      "signal": "US energy access improving via Venezuela concessions while simultaneously targeting Iranian energy infrastructure and proxies—dual containment narrowing Iran's economic leverage. But China's role as mediator signals Beijing extracting concessions (broader Iran relations, regional stability influence) in exchange. Venezuelan capitulation under economic pressure demonstrates US economic coercion efficacy but risks driving Caracas further toward China/Russia.",
-      "contradicts": "Claims of US energy independence; shows continued reliance on coerced production agreements and active targeting of adversary energy systems",
-      "timestamp": "2026-09-17T15:26:23.153Z"
+      "summary": "Trump told Axios 'anything can happen' on Iran policy and framed it as 'a big decision.' Simultaneously, US State Department approved sale of 48 F-35As to Saudi Arabia, a major capability upgrade for anti-Houthi/Iran operations.",
+      "signal": "Trump administration may be signaling willingness to use military force against Iran or its proxies; F-35 sale accelerates Saudi ability to conduct independent strike operations; watch for follow-on arms packages and rhetoric shift toward direct Iran confrontation.",
+      "contradicts": "Assumption of status-quo Iran policy continuity; prior diplomatic signaling suggesting de-escalation",
+      "timestamp": "2026-09-18T14:46:32.974Z"
     },
     {
       "id": "sig6",
-      "domain": "US Politics",
-      "headline": "Republicans fracturing on Trump; Karl Rove endorses Texas Democrat; GOP Hispanic alienation deepens",
+      "domain": "Technology",
+      "headline": "Hacktron AI researchers compromised OpenAI employee ChatGPT account and accessed internal GitHub code using modified Claude model",
       "significance": "MEDIUM",
-      "summary": "Drudge carries stories of GOP defection (Rove endorsing Dem in Texas), Republican ads attacking Trump on Hispanic betrayal, and deep-red areas coming into electoral play. Billionaires meanwhile mobilizing to fund MAGA, indicating internal resource struggle.",
-      "signal": "Republican establishment attempting controlled demolition or repositioning; elite fragmentation between Trump loyalists (funded billionaires) and traditional conservatives (Rove). Hispanic voter defection suggests Trump's second term already producing measurable constituency damage. Signals potential 2026 House loss and intra-GOP civil war that could persist into 2028.",
-      "contradicts": "Monolithic GOP unity narrative; shows real structural fractures emerging around Trump's continued dominance",
-      "timestamp": "2026-09-17T15:26:23.153Z"
+      "summary": "Security researchers used a specialized Anthropic Claude Opus 5 instance to break into an OpenAI employee ChatGPT account, gaining access to OpenAI's internal source code repositories. Incident highlights AI model jailbreak vulnerability and cross-vendor supply-chain exposure.",
+      "signal": "US AI security posture is fragile; both OpenAI and Anthropic have exploitable account authentication weaknesses; foreign adversaries likely have similar capability; classified AI research and defense applications may face equivalent risk.",
+      "contradicts": "Optimistic public positioning by OpenAI and Anthropic on security maturity; assumption of air-gapped internal code protection",
+      "timestamp": "2026-09-18T14:46:32.974Z"
     }
   ],
-  "scanNote": "Signal quality degraded by Drudge-layer noise; OSINT feed (PolyMarket, OSINT accounts) more credible but contains uncorroborated claims; prediction markets show thin liquidity on most candidates and require cross-validation. No GDELT data populated—missing critical open-source event confirmation layer.",
+  "scanNote": "Signal quality degraded by heavy opinion/entertainment content in Drudge feed, but OSINT and prediction-market data show convergence on Middle East escalation, Democratic 2028 uncertainty, and AI security exposure as primary intelligence concerns.",
   "markets": [
     {
-      "ticker": "KXTRUMPRESIGN",
-      "label": "Trump resigns before term ends",
-      "domain": "US Politics",
-      "marketProb": 24,
-      "aiProb": 12,
-      "gap": -12,
+      "ticker": "KXFEDHIKE-2-26DEC31",
+      "label": "Fed Rate Hike by Dec 2026",
+      "domain": "Energy",
+      "marketProb": 85,
+      "aiProb": 82,
+      "gap": -3,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Drudge signals deep Republican fracture, Karl Rove defecting, Hispanic voter betrayal, and deep-red seats in play, but resignation remains unlikely given Trump's historical pattern of doubling down and billionaire MAGA financial backing persisting.",
-      "volume24h": 5926,
-      "openInterest": 142050,
-      "priceChange24h": 2,
-      "url": "https://kalshi.com/markets/KXTRUMPRESIGN"
+      "rationale": "Saudi Arabia's total crude cutoff to Europe, Houthi attacks on Saudi infrastructure and Red Sea shipping lanes, and a tanker strike in the Strait of Hormuz combine to create a severe energy supply shock that will drive inflation and increase Fed rate-hike pressure; market is already pricing 85% and moving up 6 cents, which aligns with the inflationary signal but the timeline to December 2026 introduces uncertainty.",
+      "volume24h": 6193,
+      "openInterest": 9702,
+      "priceChange24h": 6,
+      "url": "https://kalshi.com/markets/KXFEDHIKE-2-26DEC31"
+    },
+    {
+      "ticker": "KXFEDFUNDSYEAR-28JAN01-T3.25",
+      "label": "Fed Funds Rate Above 3.25% by End 2027",
+      "domain": "Energy",
+      "marketProb": 90,
+      "aiProb": 88,
+      "gap": -2,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Sustained Middle East energy disruption — Saudi pipeline attack, Red Sea closures, Strait of Hormuz incidents — points to a prolonged inflationary environment that keeps the Fed in a higher-for-longer posture well into 2027, consistent with the market's 90% print moving up 6 cents today.",
+      "volume24h": 4017,
+      "openInterest": 7766,
+      "priceChange24h": 6,
+      "url": "https://kalshi.com/markets/KXFEDFUNDSYEAR-28JAN01-T3.25"
     },
     {
       "ticker": "KXRECSSNBER-27",
       "label": "Recession in 2027",
-      "domain": "Energy",
-      "marketProb": 28,
-      "aiProb": 42,
+      "domain": "Americas",
+      "marketProb": 24,
+      "aiProb": 38,
       "gap": 14,
       "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Energy price spike signals from Drudge, Hormuz closure threat from IRGC adviser, and MQ-9 losses over Qeshm all point to sustained energy supply disruption that would compound existing economic stress heading into 2027.",
-      "volume24h": 10629,
-      "openInterest": 221939,
-      "priceChange24h": 4,
+      "confidence": "LOW",
+      "rationale": "The energy shock from Saudi cutoffs, Red Sea disruption, and Strait of Hormuz incidents raises stagflation risk, but the market dropping 4 cents to 24% suggests traders see rate hikes as the dominant response rather than demand destruction severe enough to trigger a NBER-certified recession by 2027; STRATWATCH rates it somewhat higher than the market at 38% given compounding geopolitical shocks.",
+      "volume24h": 9398,
+      "openInterest": 230062,
+      "priceChange24h": -4,
       "url": "https://kalshi.com/markets/KXRECSSNBER-27"
     },
     {
-      "ticker": "KXFEDHIKE-2-26DEC31",
-      "label": "Fed hikes rates by end 2026",
+      "ticker": "KXPRESNOMR-28-JDV",
+      "label": "J.D. Vance 2028 GOP Nominee",
       "domain": "US Politics",
-      "marketProb": 79,
-      "aiProb": 55,
-      "gap": -24,
+      "marketProb": 46,
+      "aiProb": 42,
+      "gap": -4,
       "favorable": false,
-      "confidence": "LOW",
-      "rationale": "The 24h delta spiked 79 cents to 79 percent suggesting sudden market repricing likely driven by energy-inflation shock signals in the context, though the underlying economic deterioration could actually argue for cuts, creating genuine uncertainty.",
-      "volume24h": 6602,
-      "openInterest": 5516,
-      "priceChange24h": 79,
-      "url": "https://kalshi.com/markets/KXFEDHIKE-2-26DEC31"
+      "confidence": "MEDIUM",
+      "rationale": "Headlines suggesting Republican internal fracture over Trump, Fox host alleging GOP secretly wants Trump to lose, and a MAGA realignment concern with suburban voters weaken the MAGA succession narrative; Vance at 46% on Kalshi appears modestly overpriced given the political headwinds signaled in the intelligence, warranting a slight downward revision to 42%.",
+      "volume24h": 4609,
+      "openInterest": 1830072,
+      "priceChange24h": 1,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
     },
     {
       "ticker": "KXPRESNOMD-28-JOSS",
-      "label": "Jon Ossoff wins Dem 2028 nomination",
+      "label": "Ossoff 2028 Dem Nominee",
       "domain": "US Politics",
       "marketProb": 17,
       "aiProb": 14,
       "gap": -3,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "At 17 percent on Kalshi and leading the Democratic nominee field in volume, Ossoff benefits from the fracturing Republican coalition and Hispanic voter alienation signals, but field remains too fragmented and his national profile too thin for high confidence.",
-      "volume24h": 46036,
-      "openInterest": 4798784,
-      "priceChange24h": 1,
+      "rationale": "Drudge headline 'Ossoff Is Doing Something Different' and a Dem tied in a Florida Senate race signal Democratic momentum that could lift Ossoff's profile, but the 17% Kalshi price with negligible 24h movement and low volume suggests the market is already pricing in his buzz without conviction; STRATWATCH rates him slightly lower at 14% given the crowded field and AOC's rising national barnstorming profile.",
+      "volume24h": 25021,
+      "openInterest": 4804637,
+      "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
     },
     {
       "ticker": "KXPRESNOMD-28-AOC",
-      "label": "AOC wins Dem 2028 nomination",
+      "label": "AOC 2028 Dem Nominee",
       "domain": "US Politics",
-      "marketProb": 16,
-      "aiProb": 11,
-      "gap": -5,
+      "marketProb": 15,
+      "aiProb": 18,
+      "gap": 3,
       "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Drudge headline explicitly notes growing confidence in AOC White House chances and Macklemore's 1M Palestinian aid donation signals progressive activist energy aligning with her brand, but her general-election ceiling remains a structural constraint.",
-      "volume24h": 10910,
-      "openInterest": 4697574,
-      "priceChange24h": 0,
+      "confidence": "MEDIUM",
+      "rationale": "AOC barnstorming New York with 2028 speculation swirling is a direct intelligence signal of active positioning; her 15% Kalshi price slipping 1 cent despite positive news is a mild divergence, but STRATWATCH rates her slightly above market at 18% given the Blue Wave narrative, suburban voter shift away from MAGA, and her ability to consolidate the progressive lane if Newsom falters.",
+      "volume24h": 10959,
+      "openInterest": 4700168,
+      "priceChange24h": -1,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
     },
     {
-      "ticker": "KXPRESPERSON-28-JVAN",
-      "label": "J.D. Vance wins 2028 presidency",
-      "domain": "US Politics",
-      "marketProb": 23,
-      "aiProb": 18,
-      "gap": -5,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "The Drudge report of Vance funneling Trump dirt to Hillary is a significant political liability signal that would suppress his 2028 ceiling, offsetting the Republican fundraising advantage from billionaire MAGA backers identified in the feed.",
-      "volume24h": 41585,
-      "openInterest": 2407245,
-      "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXPRESPERSON-28-JVAN"
-    },
-    {
-      "ticker": "KXPRESNOMR-28-MR",
-      "label": "Marco Rubio wins GOP 2028 nomination",
-      "domain": "US Politics",
-      "marketProb": 21,
-      "aiProb": 19,
-      "gap": -2,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "With Vance politically damaged by the dirt-to-Hillary allegation and Trump ineligible, Rubio as a senior administration figure with foreign policy visibility amid Iran and Hormuz crises has plausible consolidation potential in the Republican field.",
-      "volume24h": 6454,
-      "openInterest": 2472635,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
-    },
-    {
       "ticker": "KXPRESNOMD-28-GN",
-      "label": "Gavin Newsom wins Dem 2028 nomination",
+      "label": "Gavin Newsom 2028 Dem Nominee",
       "domain": "US Politics",
-      "marketProb": 13,
-      "aiProb": 10,
-      "gap": -3,
+      "marketProb": 14,
+      "aiProb": 16,
+      "gap": 2,
       "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Paramount and Hollywood disruption signals from the context, combined with California economic pressures, slightly erode Newsom's national brand even as the Dem field remains wide open, justifying a mild discount from his current 13 percent market price.",
-      "volume24h": 27644,
-      "openInterest": 4513551,
-      "priceChange24h": -1,
+      "confidence": "MEDIUM",
+      "rationale": "Newsom leads the Dem nominee field at 14% on Kalshi with 74% probability of simply running per the companion market, but the Democratic environment described — suburban realignment, economic pain from energy costs, and AOC and Ossoff gaining profile — suggests the field will be genuinely competitive and Newsom's California brand may underperform expectations nationally; STRATWATCH rates him slightly above market at 16%.",
+      "volume24h": 47576,
+      "openInterest": 4551321,
+      "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
+    },
+    {
+      "ticker": "KXTRUMPRESIGN",
+      "label": "Trump Resigns Before Term Ends",
+      "domain": "US Politics",
+      "marketProb": 24,
+      "aiProb": 8,
+      "gap": -16,
+      "favorable": true,
+      "confidence": "HIGH",
+      "rationale": "Despite headlines about Republican fracture, internal dissatisfaction, and a Fox host alleging the GOP secretly wants Trump to lose, historical precedent and Trump's demonstrable personal commitment to staying in power make an actual resignation highly unlikely; Kalshi's 24% price is a significant overestimate and STRATWATCH rates true probability at 8%.",
+      "volume24h": 8421,
+      "openInterest": 143435,
+      "priceChange24h": -1,
+      "url": "https://kalshi.com/markets/KXTRUMPRESIGN"
     }
   ],
   "watchSignals": [
-    "Houthi-Saudi ceasefire hold: Watch for resumption of Red Sea attacks after Houthis promised not to strike US shipping but explicitly reserved right to target Saudi vessels. Any major incident could trigger US escalation.",
-    "US-Iran drone attrition rate: IRGC claims 53 MQ-9 shootdowns. Monitor if losses accelerate or if US changes rules of engagement. High loss rates could force operational pause or escalation.",
-    "Canadian-EU trade integration talks: Trump threatened tariffs if Canada pursues EU associate membership. Watch for Trump follow-through on trade war threat and Canadian response—signals US isolationism vs alliance cohesion.",
-    "Democratic 2028 nominee crystallization: Prediction markets show heavy fragmentation (Ossoff 17%, AOC 16%, Newsom 13%, Kamala 9%). Watch for consolidation signal—donor moves, endorsement cascades, or withdrawal announcements.",
-    "Poland winter energy preparedness: Tusk warned Russian strikes on Ukrainian energy will intensify and hopes spillover stays limited. Monitor actual cross-border damage to Polish infrastructure—may trigger NATO Article 5 threshold.",
-    "Saudi air-defense depletion trajectory: Reports confirm low interceptor stockpiles; Saudi Arabia requesting UK, France, Pakistan, Egypt support. Watch delivery timelines and whether Houthis adapt tactics to exploit gaps."
+    "Saudi Arabia crude oil cutoff to Europe in October 2026 — monitor whether EU energy crisis triggers emergency US energy diplomacy or NATO coordination",
+    "Houthi escalation in Red Sea and attacks on Saudi infrastructure — track whether US military response expands beyond current posture or Iranian coordination deepens",
+    "US election 2028 Democratic nominee consolidation — watch whether Gavin Newsom (14% market), Jon Ossoff (17%), or Alexandria Ocasio-Cortez (15%) gains decisive momentum or field fractures further",
+    "Trump Iran decision timeline — monitor explicit statements on regime change feasibility; 24% market price on Trump resignation by term-end signals uncertainty on his staying power",
+    "Ukraine air defense attrition and Russian drone strikes on radar/EW systems — assess whether Ukrainian air superiority erodes faster than US can resupply; impacts on NATO Poland basing decision",
+    "European maritime security escalation — track whether EU Operation Aspides alert-level increase and vessel strikes force NATO Article 5 invocation or independent European military action outside US coordination"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East",
-      "headline": "Houthis and Saudis in fragile Red Sea ceasefire; US drones sustaining heavy losses to Iranian air defense",
+      "domain": "Energy Security",
+      "headline": "Saudi Arabia halts all crude oil shipments to European refiners in October 2026 following East-West pipeline damage from Houthi/Ansar Allah attack on September 10",
       "significance": "CRITICAL",
-      "summary": "Red Sea ceasefire appears operative with Houthi representatives pledging not to attack US shipping (only Saudi). IRGC claims 53 MQ-9 shootdowns. Saudi Arabia requesting emergency air defense resupply from UK, France, Pakistan, Egypt due to interceptor depletion.",
-      "signal": "US forward presence in Gulf faces attrition costs; direct Iran-US kinetic cycle active. Ceasefire fragility creates risk of rapid escalation if either side perceives betrayal. Saudi dependency on Western air defense complicates any independent action."
+      "summary": "Complete cutoff of Saudi crude to Europe represents unprecedented weaponization of oil supply. Pipeline damage at strategic East-West route forces Saudi exports through Hormuz, making them vulnerable to Houthi interdiction. EU faces winter heating crisis without alternative supply.",
+      "signal": "US must manage transatlantic alliance cohesion; risk of European energy rationing or emergency US strategic petroleum reserve drawdown; potential for unilateral European military action outside NATO framework; geopolitical win for Iran-aligned Houthis"
     },
     {
       "id": "gt2",
-      "domain": "Europe",
-      "headline": "NATO preparing for Russian winter offensive targeting Ukrainian energy with spillover risk into Poland and EU",
-      "significance": "HIGH",
-      "summary": "Polish PM Tusk explicitly warned Russian attacks on Ukrainian energy infrastructure will intensify by winter and hopes strikes remain inside Ukraine borders. Poland shutting airports over drone threats. Sweden's right-wing government collapsed in September 2026 election.",
-      "signal": "NATO Eastern flank in active defensive posture. Risk of accidental cross-border escalation into NATO territory high. Swedish political shift toward center-left may affect NATO coordination or defense spending."
+      "domain": "Middle East Conflict",
+      "headline": "Houthi attacks now include Italian Eurofighter damage at Saudi King Fahd Air Base and multiple vessel strikes in Strait of Hormuz and Red Sea in September 2026",
+      "significance": "CRITICAL",
+      "summary": "Houthis demonstrating capability to strike NATO allied infrastructure and disrupt global maritime chokepoints. Italian Air Force Task Force air defenses overwhelmed overnight. Multiple tanker strikes with crews safe but environmental risk unconfirmed.",
+      "signal": "US faces pressure to escalate military support to Saudi Arabia and UAE; NATO allies now directly targeted; Trump's stated openness to Iranian regime-change decisions becomes operationally urgent; risk of regional escalation if US acts unilaterally without European consensus"
     },
     {
       "id": "gt3",
-      "domain": "Americas",
-      "headline": "Canada-EU trade integration talks advancing; Trump threatening retaliatory tariffs",
+      "domain": "Domestic US Politics",
+      "headline": "Prediction markets show 2028 Democratic field fragmented with Newsom 14%, Ossoff 17%, AOC 15%, Kamala Harris 8%, and Harris approval tracking low despite Biden administration incumbency",
       "significance": "HIGH",
-      "summary": "Canadian PM Mark Carney backing deeper EU cooperation including financial services integration and potential associate membership. Trump has threatened to cut off trade with Canada if it pursues EU integration. Signals fundamental realignment of North American bloc.",
-      "signal": "US is using tariff threat to enforce alliance discipline. If Canada proceeds with EU ties despite threat, demonstrates erosion of US ability to control allied behavior. Direct threat to USMCA framework and North American economic integration."
+      "summary": "Democratic nominee probability spread across multiple candidates signals no clear frontrunner four months before primary season. Ossoff market surge suggests Georgia narrative gaining traction; AOC positioning for generational appeal per Drudge coverage.",
+      "signal": "Democratic Party faces contested primary; Biden administration's energy crisis and geopolitical setbacks (Saudi cutoff, Houthi escalation) undermine Harris viability; Republicans consolidating around JD Vance (46% for Republican nom); anti-incumbency risk for Democrats"
     },
     {
       "id": "gt4",
-      "domain": "Elections",
-      "headline": "2028 Democratic nominee market remains highly fractured; no clear frontrunner emerging",
+      "domain": "US Military Posture",
+      "headline": "Pentagon shifting MQ-9 Reaper drone operations out of Africa into SOUTHCOM (Latin America) per six sources; Poland US Army base announced as pending location decision",
       "significance": "HIGH",
-      "summary": "Kalshi markets show Jon Ossoff 17%, Alexandria Ocasio-Cortez 16%, Gavin Newsom 13%, Kamala Harris 9%. No candidate exceeds 17%. Market volumes and open interest suggest uncertainty rather than consensus. Previous frontrunners underperforming.",
-      "signal": "Democratic Party lacks clear successor narrative post-2024. Fragmentation could indicate weakness heading into 2028 or openness to non-establishment candidate. Monitor for consolidation events (endorsements, dropout cascade, or surprise entry)."
+      "summary": "Strategic pivot away from African counterterrorism toward Latin America signals China/Russia focus shift and possible Africa containment concession. Concurrent Poland basing expansion indicates NATO-Russia tension prioritized over global counterterrorism.",
+      "signal": "Trump administration restructuring global military footprint; signals reduced African commitment; potential opening for Russian/Chinese influence in Sahel; Eastern European NATO allies strengthened but global counterterrorism capacity degraded"
     },
     {
       "id": "gt5",
-      "domain": "Intelligence",
-      "headline": "Iran leveraging Chinese mediation with Saudi Arabia; US credibility questions in Middle East engagement",
+      "domain": "Ukraine-Russia Theater",
+      "headline": "Russian Geran UAV strikes destroying Ukrainian P-19MA radar and electronic warfare systems; HIMARS platform destroyed; Ukrainian Tunguska air defense engaging Russian targets daily",
       "significance": "HIGH",
-      "summary": "China has privately conveyed Saudi requests to Iran to rein in Houthis in two separate communications. This represents China as effective regional mediator between US-aligned and Iranian spheres. Signals shift in diplomatic architecture.",
-      "signal": "US lacks direct diplomatic channels or leverage equivalent to Chinese position. Iran has alternative great-power backing reducing US coercive pressure. Long-term challenge to US Middle East influence as China becomes preferred interlocutor for regional disputes."
+      "summary": "Sustained Russian attrition of Ukrainian air defense command-and-control capability. Individual S-300V1 ABM units operating independently suggests network degradation. HIMARS loss indicates targeting intelligence advantage for Russia.",
+      "signal": "Ukrainian air defense sustainability in question absent accelerated US supply pipeline; degradation could shift air superiority balance within months; impacts NATO basing security in Poland if Ukrainian defense collapses; signals importance of Trump's stated openness to negotiations"
+    },
+    {
+      "id": "gt6",
+      "domain": "Technology & Intelligence",
+      "headline": "Researchers compromised OpenAI employee ChatGPT account using Anthropic's Claude model variant; accessed OpenAI internal GitHub code",
+      "significance": "HIGH",
+      "summary": "Cross-AI-company security breach demonstrates vulnerability of frontier AI systems to sophisticated attack. Anthropic model weaponized against OpenAI infrastructure. Internal code exposure risks acceleration of competitor capabilities.",
+      "signal": "US AI industrial base national security implications; intelligence agencies must assess whether state-sponsored actors replicated this exploit; impacts on classified AI deployments; signals need for urgent AI security standards"
     }
   ]
 }
