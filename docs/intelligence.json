@@ -1,320 +1,290 @@
 {
-  "generatedAt": "2026-09-19T14:06:36.600Z",
-  "runNumber": 128,
+  "generatedAt": "2026-09-20T14:24:59.047Z",
+  "runNumber": 129,
   "situation": {
-    "headline": "Russia conducting stealth mobilization and preparing multi-domain escalation against Ukraine and NATO while US is simultaneously prosecuting an undisclosed-scale war with Iran at $43.6B cost and counting, stretching US strategic resources across two active conflict theaters",
+    "headline": "Simultaneous Iran decision inflection point, Ukraine deepstrike on Moscow, and US-Saudi-Houthi escalation ladder are converging into a multi-theater crisis that could force a US military commitment within 30-60 days",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 88,
+        "prob": 82,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Active US-Iran war consuming $43.6B with Pentagon undercounting casualties, Ansar Allah striking Riyadh airport with ballistic missiles, and CENTCOM managing Hormuz oil flows signals a hot multi-front conflict with no visible off-ramp; Houthi strikes on Saudi capital infrastructure risk pulling Riyadh deeper into the fight and destabilizing Gulf energy supply chains."
+        "status": "Trump publicly weighing Iran strike vs economic strangulation, IRGC issuing green-light warnings, US embassies across 9 countries issuing security alerts, B-1B sortie from Fairford, and Saudi-Houthi front heating up with Turkish defense commitment — all indicators point toward imminent kinetic action or last-minute deal pressure"
       },
       {
         "name": "Indo-Pacific",
-        "prob": 42,
+        "prob": 34,
         "label": "China coercion escalation",
         "trajectory": "UP",
-        "status": "The Graham-Russia sanctions bill signed by Trump, imposing 30-day deadline for 100% tariffs on Russian oil buyers including China and India, will generate serious Beijing friction; separately, the mysterious diversion of F-35 parts to Hong Kong signals potential Chinese intelligence interest in US fifth-gen vulnerabilities, and AI-generated false intelligence reportedly nearly triggered a US-China war."
+        "status": "North Korea dual ballistic missile launches signal coordinated pressure campaign likely coordinated with broader axis stress-testing; Pakistan J-10C kill markings on Indian aircraft confirm operational use of Chinese-supplied platforms and validate PLA export-weapons doctrine, but Xi DC visit suggests China is simultaneously pursuing diplomatic stabilization with Washington"
       },
       {
         "name": "Europe",
-        "prob": 55,
+        "prob": 18,
         "label": "NATO cohesion fracture",
-        "trajectory": "UP",
-        "status": "Western intel assesses Putin preparing stealth mobilization and escalated hybrid attacks on European allies; Germany prepping 1,000 casualties-per-day hospital capacity, Luxembourg airport shut by drones, French opposition leaders expressing unprecedented alarm after classified briefings, and Germany's military rebuild making neighbors nervous all indicate NATO is entering a stress test it is not fully prepared to manage."
+        "trajectory": "DOWN",
+        "status": "Ukraine's largest-ever drone strike on Moscow demonstrates deepened Western operational tolerance, German general taking top NATO role signals European defense consolidation, and Estonia border-closure planning reflects serious but controlled allied resolve — short-term cohesion is holding despite French fiscal stress at 120% GDP-to-debt"
       },
       {
         "name": "Energy",
         "prob": 61,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Ansar Allah ballistic missile and drone strikes on King Khalid International Airport fuel storage in Riyadh represent a direct hit on Saudi energy infrastructure; simultaneous Houthi activity in Bab al-Mandab corridor and CENTCOM managing over 1 billion barrels of Hormuz transits under active military escort signals energy supply routes are now militarized and fragile across two chokepoints."
+        "status": "Kapotnya refinery — Moscow's largest — is confirmed ablaze, Houthi attacks targeting Saudi infrastructure are escalating, a US strike on Iranian underground nuclear facilities would immediately threaten Strait of Hormuz closure, and the confluence of these three vectors makes a 60-day supply disruption event significantly more probable than baseline"
       },
       {
         "name": "US Politics",
-        "prob": 34,
+        "prob": 44,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Drudge headline 'BRACED FOR DEFEAT' combined with Republicans tip-toeing from MAGA in tough races and Kalshi prediction market showing active 2028 Democratic primary betting on Ossoff at 17% and AOC at 16% suggests market participants see Democratic momentum building; however no single dominant frontrunner signals continued Democratic disorganization that caps flip probability."
+        "status": "Multiple signals point toward a deteriorating Republican environment: MAGA enthusiasm fading even in Kansas, GOP incumbents distancing from Trump, Talarico leading by 6 in what appears to be a competitive race, affordability stress (used cars, dining out) eroding working-class loyalty, and Kalshi markets show flat movement suggesting bettors are pricing a genuine competitive cycle"
       }
     ],
-    "unseen": "The convergence of a concealed US-Iran war casualty count, a $43.6B wartime expenditure depleting munitions stocks by years, and a simultaneous Russia escalation cycle creates a strategic window in which both Moscow and Beijing can exploit US overextension and readiness gaps simultaneously; the F-35 parts diversion to Hong Kong may be the first visible data point of Chinese intelligence already probing these vulnerabilities, and AI-generated false intelligence that nearly started a war with China suggests US decision-making infrastructure itself is now a target surface.",
-    "criticalWindow": "The 30-day congressional review clock on the Trump-signed Graham Russia sanctions bill targeting Chinese and Indian buyers of Russian oil will force Beijing and New Delhi into a binary compliance-or-confrontation decision by mid-to-late October 2026, precisely when Russia may be executing its stealth mobilization and NATO is assessing whether to trigger enhanced forward defense postures; the US cannot absorb a simultaneous Iranian, Russian, and Chinese pressure campaign with depleted munitions stocks and a classified casualty count that undermines domestic political support.",
+    "unseen": "The simultaneous convergence of a US Iran decision, the Kapotnya refinery strike, and the Pakistan J-10C kill-mark revelation is creating a linked deterrence failure signal: adversaries across all three axes — Iran, Russia, China-Pakistan — are testing US tolerance at the same moment Trump is signaling maximum rhetorical flexibility, which historically precedes either a major strike or a major capitulation, and markets are not yet pricing the energy contagion risk of a Hormuz closure coinciding with reduced Russian refinery output",
+    "criticalWindow": "Trump Iran decision — the president has self-described as being in deciding mode with options ranging from full military strike to deal, the IRGC has preemptively issued a green-light warning suggesting they believe a strike is coming, and the B-1B movement from Fairford combined with region-wide embassy alerts suggests a 2-6 week window before the decision forecloses itself through either action or Iranian counter-move",
     "watchFor": [
-      "Russian Duma session outcomes that formalize stealth mobilization authorization or signal expanded hybrid attack mandates against NATO infrastructure",
-      "Saudi Aramco infrastructure strike assessments following the Riyadh airport fuel depot hit, specifically whether damage affects crude export throughput and triggers a Brent price spike above threshold levels",
-      "Beijing's formal or informal response to the 30-day Russia sanctions tariff deadline, particularly any PLA Naval activity in the South China Sea used as leverage signaling",
-      "Leaked or confirmed US military casualty figures from the Iran war exceeding the official 18-fatality count, which would collapse domestic political support and constrain CENTCOM operational latitude"
+      "Second B-1B or B-2 sortie from Diego Garcia or Fairford paired with carrier strike group positioning in the Gulf — indicates strike package assembly",
+      "Iran announcing suspension or acceleration of uranium enrichment above 60% — the deal-vs-strike pivot indicator",
+      "Houthi ballistic missile strike on Saudi critical infrastructure triggering formal Saudi Article 5 invocation under Mecca Joint Defence Agreement with Turkey and Pakistan — would dramatically expand conflict geometry",
+      "Russian retaliatory strike on Ukrainian energy infrastructure at scale following Kapotnya attack — tests whether US and NATO will accelerate weapons transfers and whether Trump uses it as leverage in any Iran negotiation"
     ],
-    "confidenceNote": "Key uncertainties include the actual scope and status of US-Iran hostilities given confirmed Pentagon casualty undercounting and a $43.6B expenditure without public congressional authorization clarity; the reliability of Russian escalation timelines depends on Duma session outcomes not yet public; Ansar Allah strike damage to Riyadh airport fuel infrastructure requires BDA confirmation as one OSINT video was already retracted as old footage; Kalshi volumes on 2026 House races are not visible in the feed, so the House flip probability relies on headline sentiment and historical base rates rather than market pricing.",
-    "topPattern": "The US is simultaneously fighting a concealed war with Iran at $43.6B cost while Russia executes a stealth mobilization against NATO, and the Trump administration has signed sanctions that will force China into a confrontational posture within 30 days, creating a three-theater overextension scenario with depleted munitions stocks and a domestic political environment where the 2028 Democratic primary market at Kalshi is already more liquid than any near-term foreign policy resolution contract, signaling that American political attention has decoupled from the compounding strategic crises."
+    "confidenceNote": "Key uncertainties center on: (1) whether Trump's Fox News statements reflect genuine decision proximity or negotiating theater aimed at Tehran; (2) whether the IRGC green-light warning is a deliberate leak designed to deter US action or reflects genuine intelligence about a scheduled strike; (3) the actual operational status of the Kapotnya refinery post-strike and its impact on Russian fuel logistics; (4) whether Xi's DC visit represents a genuine stabilizing factor on North Korean and Iranian proxy behavior or is coincidental; prediction market data on 2028 elections is too early-cycle to be strategically informative beyond confirming JD Vance as current Republican frontrunner at 46%",
+    "topPattern": "A coordinated multi-axis stress test is underway against US deterrence credibility — Ukraine striking Moscow with ballistic missiles, Iran issuing preemptive strike warnings, North Korea launching dual ballistics, and Houthis attacking Saudi Arabia simultaneously — while Trump's public Iran deliberation and Kalshi's flat volatility on political markets suggest US decision-makers have not yet signaled a consolidated response, creating a dangerous credibility gap that adversaries are actively probing"
   },
   "signals": [
     {
       "id": "sig1",
       "domain": "Middle East",
-      "headline": "Houthi escalation into Saudi airspace; King Khalid International Airport targeted",
-      "significance": "HIGH",
-      "summary": "Ansar Allah (Houthis) conducted multiple ballistic missile and drone strikes on Saudi Arabia including King Khalid International Airport in Riyadh, triggering air raid sirens across multiple governorates. Fuel storage depot fires confirmed at the airport.",
-      "signal": "Iranian proxy deepening attacks on critical Saudi energy/aviation infrastructure despite US military presence in region; suggests either Iranian confidence in escalation or loss of deterrence credibility. Directly threatens US regional basing and oil transit corridors.",
-      "contradicts": "Assumption that US military posture in Middle East constrains proxy warfare; costs $43.6B through September alone with unclear strategic effect",
-      "timestamp": "2026-09-19T14:09:00.560Z"
+      "headline": "Trump signals imminent Iran decision; three explicit options on table",
+      "significance": "CRITICAL",
+      "summary": "Trump told Fox News he is in 'deciding mode' with 'very big things' coming soon. His stated options: eliminate Iran entirely, let its economy collapse, or negotiate a deal. Trump stated 'if and when I blow the entire nation up, they better behave.' Simultaneous US embassy security alerts issued across nine Middle East posts warning of potential Saudi-Houthi escalation.",
+      "signal": "Trump's public deliberation of military action against Iran—coupled with coordinated State Dept warnings and B-1B Lancer deployment from UK—suggests decision timeline is compressed to days/weeks, not months. Iran's counter-claim of US 'green light' from regional allies indicates Tehran believes action is probable. This risks rapid escalation in Red Sea/Gulf if Houthis or IRGC respond to perceived US preparations.",
+      "contradicts": "Market consensus (prediction markets show minimal tail risk pricing for Iran conflict). Trump's rhetoric typically precedes action; current framing bypasses diplomacy language entirely.",
+      "timestamp": "2026-09-20T14:27:24.345Z"
     },
     {
       "id": "sig2",
       "domain": "Europe",
-      "headline": "Russia preparing stealth mobilization and NATO hospitals bracing for 1,000 daily casualties",
-      "significance": "CRITICAL",
-      "summary": "Western intelligence reports Russia planning escalation in Ukraine; Germany increasing reserved hospital beds by 20,000 in northwestern regions for possible Russian NATO conflict. Russian forces increased reserved casualty beds in own northwestern regions by 20,000.",
-      "signal": "Both sides simultaneously preparing for major kinetic escalation suggests either deconfliction failure or deliberate signaling of willingness to escalate. NATO hospitals preparing for peer conflict casualty loads indicates serious contingency planning.",
-      "contradicts": "Consensus that Ukraine war remains contained regional conflict; preparatory moves suggest planning horizon extends to NATO direct engagement",
-      "timestamp": "2026-09-19T14:09:00.560Z"
+      "headline": "Ukraine executes major Moscow infrastructure strike; Russia in election day vulnerability",
+      "significance": "HIGH",
+      "summary": "Ukraine conducted one of its largest drone onslaught waves overnight targeting Moscow's Kapotnya refinery (Russia's largest), with confirmed hits, fires, and missile debris. Timing coincides with Russian federal elections. Two killed, 400 evacuated in Moscow region. Multiple drone streams coordinated with cruise missile support suggest new operational capacity.",
+      "signal": "Ukraine's ability to strike critical energy infrastructure in Russian capital during election day signals: (1) degraded Russian air defense despite winter spending; (2) Ukraine shifting to economic-attrition targeting; (3) symbolic blow to Kremlin stability narrative on election day. Success may embolden further deep strikes or provoke Russian escalatory response (nuclear rhetoric, civilian targets).",
+      "contradicts": "Assumption of Russian air superiority in home territory. Previous drone waves were smaller and less coordinated.",
+      "timestamp": "2026-09-20T14:27:24.345Z"
     },
     {
       "id": "sig3",
-      "domain": "US Politics",
-      "headline": "Trump bars CNN, MSNOW, Politico from White House; press freedom escalation",
+      "domain": "Indo-Pacific",
+      "headline": "North Korea launches two ballistic missiles; pressure campaign on US accelerates",
       "significance": "HIGH",
-      "summary": "President Trump announced immediate ban on three major news organizations from White House citing critical coverage as fake news. MSNOW White House correspondent physically denied access by Secret Service.",
-      "signal": "Institutionalizing media access restrictions as policy normalizes executive control over press infrastructure. Tests separation of powers and First Amendment enforcement; signals broader institutional constraint willing to apply.",
-      "contradicts": "Prior Republican rhetoric on press freedom; establishes precedent that executive can unilaterally exclude major outlets regardless of legal challenge timeline",
-      "timestamp": "2026-09-19T14:09:00.560Z"
+      "summary": "North Korea conducted ballistic missile test(s) toward open sea. Multiple US regional news outlets reporting simultaneously indicates wide detection/confirmation. Coincides with Trump administration transition period and uncertainty on NK policy.",
+      "signal": "NK testing during transition window suggests Pyongyang is probing US response priorities and testing whether Trump team is focused elsewhere (Iran). Ballistic missiles (vs. cruise/drones) signal intent to demonstrate ICBM capability. Pattern consistent with extracting concessions during policy flux.",
+      "contradicts": "Trump's stated interest in NK denuclearization deals; no apparent high-level engagement signaling.",
+      "timestamp": "2026-09-20T14:27:24.345Z"
     },
     {
       "id": "sig4",
-      "domain": "Technology",
-      "headline": "Luxembourg Airport closed by Russian drone activity; F-35 parts shipment vanished en route to US",
-      "significance": "CRITICAL",
-      "summary": "Numerous flights diverted/delayed at Luxembourg Airport after shutdown due to unknown drone activity. Earlier, sensitive F-35 parts shipped from Australia mysteriously diverted to Hong Kong before being rerouted to US, triggering Washington inquiry.",
-      "signal": "Russian grey-zone operations probing European air infrastructure; simultaneous loss of critical F-35 component supply chain indicates either coordinated espionage or supply chain vulnerability. Directly threatens US combat readiness and NATO interoperability.",
-      "contradicts": "Assumption that critical defense supply chains are secured; Hong Kong diversion suggests state-level interdiction capability",
-      "timestamp": "2026-09-19T14:09:00.560Z"
+      "domain": "US Politics",
+      "headline": "Domestic enthusiasm fading in key races; Republicans distancing from MAGA; Talarico polling surge",
+      "significance": "HIGH",
+      "summary": "Drudge reports fading enthusiasm even in reliably red Kansas; Republicans in tough races 'tip-toeing away from MAGA'; Talarico (Democratic nominee prospect) lead grows to +6 points in polling. Affordability crisis changing consumer behavior (used cars, dining out). CNN/MS/Politico reporters barred from White House.",
+      "signal": "Mid-term realignment signal: Republican base enthusiasm collapsing in non-Trump-stronghold districts while populist Dem figures (Talarico, Ossoff at 17% in prediction markets) gaining traction. Economic pain (housing, cars, inflation residue) is driving voter behavior more than ideology. White House press exclusions suggest bunker mentality inconsistent with polling confidence.",
+      "contradicts": "Trump approval tracker and market pricing of Republican dominance in 2028 presidential race.",
+      "timestamp": "2026-09-20T14:27:24.345Z"
     },
     {
       "id": "sig5",
-      "domain": "US Politics",
-      "headline": "Prediction markets show JD Vance 45% for 2028 GOP nomination; Trump only 2%",
+      "domain": "Technology",
+      "headline": "Polymarket exploitation concerns spike; AI antitrust lawsuit filed; crypto momentum lost",
       "significance": "MEDIUM",
-      "summary": "Kalshi futures price JD Vance as strong front-runner for 2028 Republican presidential nomination at 45%, while Trump sits at only 2%. Marco Rubio trades at 20%.",
-      "signal": "Markets assessing Trump either unable or unwilling to run again in 2028; Vance treated as designated successor by prediction market consensus. Suggests intelligence community or political insiders pricing in Trump term-limit/health/legal constraint.",
-      "contradicts": "Trump's public statements about 2028 involvement; markets may be discounting his actual intentions or pricing constitutional/statutory barriers",
-      "timestamp": "2026-09-19T14:09:00.560Z"
+      "summary": "Prediction market fraud warnings emerge as Polymarket grows. Lawsuit alleges illegal coordination among Anthropic, OpenAI, SpaceX, AI/Google on 'slowdown' deals. Trump administration and family investing heavily in AI while resisting regulation. Obama criticizes Trump for lack of 'serious regulatory framework.'",
+      "signal": "Regulatory arbitrage: Trump family profit motive from AI deregulation conflicts with systemic risk (prediction market manipulation, cartel behavior in AI labs). SEC/FTC likely to face pressure on AI antitrust enforcement. Markets are ahead of law on AI governance; gaps being exploited by fraudsters and oligopolists.",
+      "contradicts": "Trump's stated position as free-market deregulator; contradicted by monopoly-formation concerns in AI sector.",
+      "timestamp": "2026-09-20T14:27:24.345Z"
     },
     {
       "id": "sig6",
       "domain": "Americas",
-      "headline": "Trump secures agreement with Denmark for permanent US control over Greenland security",
-      "significance": "HIGH",
-      "summary": "Trump announced agreement with Denmark giving US permanent control over Greenland security and other needs at no cost. Kalshi markets price Greenland acquisition at 5-14% before 2027-2029.",
-      "signal": "If credible, represents unprecedented NATO ally coercion to cede sovereignty over strategic Arctic territory. If not credible, signals Trump administration willing to make territorial claims that destabilize transatlantic alliance. Either scenario reshapes US-Europe security architecture.",
-      "contradicts": "Denmark's public position as sovereign NATO member; suggests either secret agreement or Trump making unsupported claim for domestic political effect",
-      "timestamp": "2026-09-19T14:09:00.560Z"
+      "headline": "Machado plan to restore Venezuelan democracy under US pressure; oil disclosure demanded",
+      "significance": "MEDIUM",
+      "summary": "Reports detail plans for Machado's return to Venezuela and democratic revival effort. Simultaneous US pressure on America to disclose oil takings (likely Guyana context given regional tensions). Suggests coordinated US strategy on Venezuela-Guyana sphere.",
+      "signal": "US appears to be positioning for Venezuela governance intervention under Machado while securing oil access from regional players. High risk of miscalculation if Maduro regime interprets as invasion preparation. China-backed Maduro likely to escalate regional proxy conflict (Guyana, Colombia).",
+      "contradicts": "Stated US non-intervention doctrine; suggests active regime-change preparation.",
+      "timestamp": "2026-09-20T14:27:24.345Z"
     }
   ],
-  "scanNote": "Signal quality mixed: OSINT feeds contain unconfirmed strikes and one retracted video; prediction markets reflect speculative positioning not institutional intelligence; headline quality ranges from credible (military casualty counts) to tabloid (celebrity content); geopolitical escalation signals across three theaters (Middle East, Europe, Arctic) cluster in 48-hour window suggesting either coordinated messaging or simultaneous tactical developments.",
+  "scanNote": "Signal quality degraded by Drudge tabloid mix with OSINT; Iran decision timeline and Ukraine strike success are high-confidence; prediction market repricing is slow relative to geopolitical velocity.",
   "markets": [
     {
       "ticker": "KXGREENTERRITORY-29",
-      "label": "US acquires any part of Greenland before 2029",
+      "label": "US acquires part of Greenland before 2029",
       "domain": "Americas",
-      "marketProb": 14,
-      "aiProb": 18,
-      "gap": 4,
+      "marketProb": 20,
+      "aiProb": 14,
+      "gap": -6,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Trump's Truth Social announcement of a 'permanent control over security' agreement with Denmark/Greenland is a significant diplomatic step but falls short of formal territorial acquisition; Kalshi's sharp 7-cent drop today signals market skepticism that rhetorical wins translate to legal annexation, and the 91% no-acquisition contract reinforces this, though the deal's ambiguous language keeps upside risk alive.",
-      "volume24h": 29390,
-      "openInterest": 373848,
-      "priceChange24h": -7,
+      "rationale": "Danish mockery of a 'status quo' deal and continued Trump administration interest keep the option alive but no concrete acquisition mechanism is evident in the current intel cycle, making market's 20% slightly generous.",
+      "volume24h": 11911,
+      "openInterest": 362512,
+      "priceChange24h": 6,
       "url": "https://kalshi.com/markets/KXGREENTERRITORY-29"
     },
     {
-      "ticker": "KXGREENLANDPRICE-29JAN21-NOACQ",
-      "label": "No US acquisition of Greenland during Trump term",
-      "domain": "Americas",
-      "marketProb": 91,
-      "aiProb": 82,
-      "gap": -9,
+      "ticker": "KXAIKILLSWITCH-26SEP-27JAN01",
+      "label": "US enacts AI kill switch law before Jan 1 2027",
+      "domain": "US Politics",
+      "marketProb": 7,
+      "aiProb": 4,
+      "gap": -3,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Despite Trump's announced security arrangement, the absence of a formal sovereignty transfer mechanism and Denmark's likely resistance to full cession makes no-acquisition the strong base case, consistent with the market's 91% pricing though STRATWATCH shades it slightly lower given the unprecedented diplomatic momentum.",
-      "volume24h": 7083,
-      "openInterest": 187452,
-      "priceChange24h": 5,
-      "url": "https://kalshi.com/markets/KXGREENLANDPRICE-29JAN21-NOACQ"
+      "rationale": "Trump and sons are actively investing in AI and resisting slowdown calls, and the alleged illegal AI-slowdown agreement lawsuit signals industry resistance rather than regulatory momentum, making the 7% market price too high.",
+      "volume24h": 9245,
+      "openInterest": 10695,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXAIKILLSWITCH-26SEP-27JAN01"
     },
     {
-      "ticker": "KXGREENTERRITORY-29-27",
-      "label": "US acquires any part of Greenland before Jan 2027",
-      "domain": "Americas",
-      "marketProb": 6,
-      "aiProb": 7,
-      "gap": 1,
+      "ticker": "KXPRESNOMR-28-JDV",
+      "label": "JD Vance Republican 2028 nominee",
+      "domain": "US Politics",
+      "marketProb": 46,
+      "aiProb": 42,
+      "gap": -4,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "The compressed 15-month timeline makes formal territorial acquisition nearly impossible even if the security agreement framework is genuine; the 2-cent uptick likely reflects speculative noise around Trump's announcement rather than credible near-term probability.",
-      "volume24h": 19545,
-      "openInterest": 156146,
-      "priceChange24h": 2,
-      "url": "https://kalshi.com/markets/KXGREENTERRITORY-29-27"
+      "rationale": "Headlines of Republican enthusiasm fading from MAGA and 'Twilight of the Don' framing suggest the Trump brand is under pressure, which could either boost or complicate Vance's positioning as heir apparent, keeping him the frontrunner but below the 46% market price.",
+      "volume24h": 5736,
+      "openInterest": 1831163,
+      "priceChange24h": 1,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
+    },
+    {
+      "ticker": "KXPRESNOMR-28-MR",
+      "label": "Marco Rubio Republican 2028 nominee",
+      "domain": "US Politics",
+      "marketProb": 21,
+      "aiProb": 18,
+      "gap": -3,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Rubio is active as a senior diplomat with Netanyahu visit and Middle East engagement, maintaining visibility, but structural headwinds from MAGA fatigue could help or hurt him depending on how the party repositions after Trump.",
+      "volume24h": 7784,
+      "openInterest": 2489304,
+      "priceChange24h": 1,
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
     },
     {
       "ticker": "KXPRESNOMD-28-JOSS",
-      "label": "Jon Ossoff 2028 Dem nominee",
+      "label": "Jon Ossoff Democratic 2028 nominee",
       "domain": "US Politics",
       "marketProb": 17,
       "aiProb": 12,
       "gap": -5,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "Ossoff leads Democratic nominee markets at 17% with the highest open interest in the field, reflecting his positioning as a centrist from a competitive state, but with no major campaign signals in the current intel cycle this remains speculative and STRATWATCH sees no fresh catalyst to diverge significantly from market pricing.",
-      "volume24h": 27439,
-      "openInterest": 4813384,
+      "rationale": "Ossoff leads Kalshi Democratic nominee markets at 17% with high open interest, but no current intel specifically elevates his profile, making the market price marginally inflated relative to a crowded field featuring AOC, Newsom, and the emerging Talarico signal.",
+      "volume24h": 28075,
+      "openInterest": 4839247,
       "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
     },
     {
+      "ticker": "KXNEXTPRESSEC-29JAN21-AKEL",
+      "label": "Anna Kelly next White House Press Secretary",
+      "domain": "US Politics",
+      "marketProb": 17,
+      "aiProb": 14,
+      "gap": -3,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Press secretary market is volatile with multiple candidates clustered near 8-17% and a +3 cent 24h move for Kelly, but the CNN and POLITICO reporter bans signal ongoing White House communications turbulence that could accelerate a change in the role.",
+      "volume24h": 12947,
+      "openInterest": 190118,
+      "priceChange24h": 3,
+      "url": "https://kalshi.com/markets/KXNEXTPRESSEC-29JAN21-AKEL"
+    },
+    {
+      "ticker": "KXSTATE51-29-CA",
+      "label": "Any part of Canada becomes 51st US state before 2029",
+      "domain": "Americas",
+      "marketProb": 2,
+      "aiProb": 2,
+      "gap": 0,
+      "favorable": false,
+      "confidence": "HIGH",
+      "rationale": "No current intel indicates any concrete mechanism for Canadian annexation; the market's 2% price is already near the floor and STRATWATCH concurs this is essentially noise-level probability within the 2029 window.",
+      "volume24h": 14866,
+      "openInterest": 94350,
+      "priceChange24h": 1,
+      "url": "https://kalshi.com/markets/KXSTATE51-29-CA"
+    },
+    {
       "ticker": "KXPRESNOMD-28-AOC",
-      "label": "AOC 2028 Dem nominee",
+      "label": "AOC Democratic 2028 nominee",
       "domain": "US Politics",
-      "marketProb": 16,
-      "aiProb": 11,
-      "gap": -5,
+      "marketProb": 15,
+      "aiProb": 13,
+      "gap": -2,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "AOC's 16% market price reflects progressive grassroots energy but the intel environment — Republicans in tough races distancing from MAGA, Democratic vows of post-election accountability — suggests the party's center of gravity in 2028 is still contested, and AOC's general-election vulnerability in a polarized environment caps her realistic probability.",
-      "volume24h": 12212,
-      "openInterest": 4698815,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
-    },
-    {
-      "ticker": "KXPRESNOMR-28-JDV",
-      "label": "JD Vance 2028 GOP nominee",
-      "domain": "US Politics",
-      "marketProb": 45,
-      "aiProb": 40,
-      "gap": -5,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Vance leads the Republican field at 45% on Kalshi; STRATWATCH shades slightly below market given Rubio's active foreign policy profile — managing the Russia sanctions bill, Ukraine arms sales, and multiple active theaters — which is building independent political capital that could challenge Vance's heir-apparent status.",
-      "volume24h": 6966,
-      "openInterest": 1831772,
+      "rationale": "AOC's 15% nomination price and 9% general-election win price reflect genuine progressive energy but the Talarico poll surge and Mamdani populism framing in the headlines suggest the left lane is crowded and she is not the consensus choice.",
+      "volume24h": 10569,
+      "openInterest": 4696327,
       "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
-    },
-    {
-      "ticker": "KXPRESNOMR-28-MR",
-      "label": "Marco Rubio 2028 GOP nominee",
-      "domain": "US Politics",
-      "marketProb": 20,
-      "aiProb": 24,
-      "gap": 4,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Rubio's fingerprints are on the Russia-China sanctions bill Trump just signed, the $2.68B Ukraine arms sale notification, and active Middle East diplomacy, giving him a hawkish foreign policy record that could appeal to GOP primary voters if Vance stumbles, warranting a slight premium above his 20% market price.",
-      "volume24h": 14689,
-      "openInterest": 2483706,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
-    },
-    {
-      "ticker": "KXNEXTPRESSEC-29JAN21-SJEN",
-      "label": "Scott Jennings next WH Press Secretary",
-      "domain": "US Politics",
-      "marketProb": 19,
-      "aiProb": 22,
-      "gap": 3,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "The MSNOW press ban and barring of Akayla Gardner signal an escalating White House media confrontation that makes a combative press secretary profile like Jennings more plausible; his 19% market price with a 2-cent decline today is roughly consistent with STRATWATCH's assessment pending confirmation of who the current frontrunner actually is.",
-      "volume24h": 7112,
-      "openInterest": 372582,
-      "priceChange24h": -2,
-      "url": "https://kalshi.com/markets/KXNEXTPRESSEC-29JAN21-SJEN"
-    },
-    {
-      "ticker": "KXNEXTPRESSEC-29JAN21-RDAR",
-      "label": "Roma Daravi next WH Press Secretary",
-      "domain": "US Politics",
-      "marketProb": 10,
-      "aiProb": 12,
-      "gap": 2,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "The 7-cent surge to 10% is the largest single-day move in the press secretary market and warrants attention as a potential signal of insider positioning, though at low open interest this could be thin-market noise rather than genuine information flow.",
-      "volume24h": 25710,
-      "openInterest": 120452,
-      "priceChange24h": 7,
-      "url": "https://kalshi.com/markets/KXNEXTPRESSEC-29JAN21-RDAR"
-    },
-    {
-      "ticker": "KXPRESNOMD-28-GN",
-      "label": "Gavin Newsom 2028 Dem nominee",
-      "domain": "US Politics",
-      "marketProb": 14,
-      "aiProb": 9,
-      "gap": -5,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Newsom's AI executive order keeps him visible nationally but his California-centric brand, ongoing cost-of-living backlash signals in the intel, and the Democratic field's openness to fresh faces all weigh against him; STRATWATCH places his probability below the 14% market price.",
-      "volume24h": 44790,
-      "openInterest": 4557026,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
     }
   ],
   "watchSignals": [
-    "Trump Greenland acquisition timeline and diplomatic push - prediction markets at 9-14% suggest low probability but sustained executive effort; watch for Denmark response, congressional pressure, and any coercive measures",
-    "Russian escalation in Ukraine and hybrid attacks on NATO - Western intelligence assesses stealth mobilization underway; watch for new offensive operations, energy infrastructure attacks on allies, and casualty reporting shifts",
-    "Pentagon munitions depletion and weapons delivery delays - 5-year delays to allies amid Iran war demand signal; watch for Congressional appropriations votes, NATO burden-sharing friction, and Ukraine aid friction",
-    "Houthi/Ansar Allah attacks on Saudi infrastructure and shipping - Riyadh airport strikes and Hormuz transit coordination signals; watch for escalation tempo, US CENTCOM response, and energy market volatility",
-    "Democratic 2028 nominee race crystallization - Newsom at 14%, Ossoff at 17%, AOC at 16% in prediction markets; watch for primary calendar, endorsements, and potential Harris re-entry",
-    "White House press restrictions and media access policy - Trump bans CNN/MSNOW/Politico; watch for legal challenges, reporter reassignments, information asymmetry effects, and allied media response"
+    "Trump's Iran decision timeline—stated options range from military strike to economic strangulation to negotiation; B-1B deployments and regional security alerts suggest imminent action window within 2-4 weeks",
+    "Saudi-Houthi escalation trajectory—US embassy alerts across 9 Middle East posts, Turkish military readiness pledge, and State Dept escalation warning indicate rapid deterioration risk with direct US strike implications",
+    "Ukraine's Moscow strike campaign intensity—largest drone waves hitting critical infrastructure (Kapotnya refinery); pattern suggests sustained offensive aimed at forcing Russian negotiation or attrition collapse",
+    "North Korea ballistic missile cadence—two launches toward sea in recent cycle; timing coincides with US pivot toward Iran and Middle East suggests testing US attention allocation and command readiness gaps",
+    "Republican 2028 nomination market shifts—J.D. Vance at 46% and Marco Rubio at 21% dominating Kalshi despite Trump at 3%; watch for Trump consolidation collapse or Vance momentum if Trump faces legal/political shock",
+    "Democratic 2028 nominee fragmentation—Jon Ossoff (17%), Alexandria Ocasio-Cortez (15%), Gavin Newsom (14%) split progressive lane with no clear frontrunner; watch for consolidation trigger events or third-party spoiler signals"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Military-Strategic",
-      "headline": "Iran war has cost $43.6B through September 2026; Pentagon undercounting US deaths",
+      "domain": "Middle East Military",
+      "headline": "Ukraine conducted largest drone offensive of war against Moscow; Kapotnya oil refinery (Russia's largest) struck and burning; residential areas hit; 400 evacuated",
       "significance": "CRITICAL",
-      "summary": "The US has expended $43.6 billion in the Iran conflict with $28.1B in munitions alone. Official casualty reporting (18 deaths) is contradicted by six US officials who indicate significant undercount. This strains future capability and domestic political sustainability.",
-      "signal": "Degraded US force readiness for concurrent threats (Russia, China); Congressional budget pressure mounting; risk of classified casualty numbers emerging"
+      "summary": "Ukraine demonstrated ability to strike deep Russian infrastructure with coordinated multi-wave drone attacks. Refinery fires represent tangible economic damage and escalation signal. This is third major Ukraine-to-Moscow strike in recent cycle.",
+      "signal": "US must assess whether Ukraine is preparing negotiation posture (demonstrating cost of continued war) or pursuing attrition strategy that could trigger Russian nuclear threshold response. Impacts US ammunition supply commitments and mediation credibility."
     },
     {
       "id": "gt2",
-      "domain": "European-Security",
-      "headline": "Russia preparing stealth mobilization and escalation; Germany increasing military hospital beds by 20,000",
+      "domain": "Middle East Security",
+      "headline": "US State Department issued region-wide security alert for Middle East citing Saudi-Houthi conflict escalation risk; alerts deployed to 9 embassies including Saudi Arabia, Iraq, UAE, Israel, Kuwait, Qatar, Jordan, Lebanon, Oman",
       "significance": "CRITICAL",
-      "summary": "Western intelligence reports Russia mobilizing reserves following State Duma session. Germany estimates 1,000 casualties per day could occur in NATO-Russia conflict scenario and is hardening medical infrastructure. European leaders report unprecedented concern about Russian expansion.",
-      "signal": "NATO assess imminent Russia escalation risk; US must coordinate alliance response and munitions prioritization; European political unity being tested"
+      "summary": "Coordinated diplomatic alert indicates US intelligence assessment of imminent escalation. Regional allies are actively arming (Turkey offering military support to Saudi Arabia under Mecca Defense Agreement). This reflects highest alert posture since Abraham Accords period.",
+      "signal": "US is preparing for direct military intervention in Houthi-Saudi conflict. Alert suggests 2-4 week window before major operation. Houthis are proxy for Iran; escalation could trigger Trump's stated Iran decision and force broader regional conflagration affecting oil markets and US presence."
     },
     {
       "id": "gt3",
-      "domain": "Territorial-Sovereignty",
-      "headline": "Trump announces permanent security control agreement with Denmark over Greenland at no cost",
-      "significance": "HIGH",
-      "summary": "Trump claimed via Truth Social agreement giving US permanent control over Greenland security. Prediction markets price Greenland acquisition at 9-14% before 2029. No corroborating Danish statement in context yet suggests unilateral declaration or diplomatic misrepresentation.",
-      "signal": "Challenges NATO alliance cohesion; signals US willingness to pursue territorial expansion; tests allied leverage and response; precedent concern for other border disputes"
+      "domain": "US Executive Policy",
+      "headline": "Trump stated he is in deciding mode on Iran with three explicit options: eliminate Iran militarily, let economy rot via sanctions, or negotiate deal. Quote: if/when he blows up entire nation, Iran must behave. B-1B strategic bomber deployed from UK.",
+      "significance": "CRITICAL",
+      "summary": "Trump has publicly framed Iran action as imminent and binary (military strike vs economic coercion). B-1B deployment to RAF Fairford is staging asset for Middle East operations. Iran claims US received regional green light from unnamed allies at unspecified European meeting.",
+      "signal": "Trump administration is executing decision-making process on Iran military action. Probability of strikes or major escalation within 2-4 weeks is high given rhetorical framing and force posture. This could trigger regional war, oil shock, and potential Chinese/Russian response to US dominance assertion."
     },
     {
       "id": "gt4",
-      "domain": "Military-Supply",
-      "headline": "US announcing $2.68B air defense sale to Ukraine but signaling 5-year delays to other allies in weapons delivery",
+      "domain": "US Elections 2028",
+      "headline": "Kalshi prediction markets show J.D. Vance leading Republican nominees at 46%, Marco Rubio second at 21%, Donald Trump at 3%. Trump at 3% for Republican nomination despite recent White House return.",
       "significance": "HIGH",
-      "summary": "State Department approved large Ukraine air defense package, but Pentagon notified Congress that critical weapons deliveries face 5-year delays due to Iran war munitions depletion. Germany, Japan, Ukraine affected. US is robbing future allied capability for current commitments.",
-      "signal": "Allied burden-sharing pressure increases; concern over US commitment credibility in Indo-Pacific; incentivizes allied independent defense production"
+      "summary": "Markets are pricing Trump's 2028 nomination probability as exceptionally low despite his current presidency. Vance has consolidated Republican donor/institutional support. This reflects market assessment of Trump legal/political liability or Vance succession planning already underway.",
+      "signal": "US political system is hedging against Trump continuation. If Trump faces indictment, conviction, or major scandal in next 2-4 weeks, Vance succession becomes locked in. Watch for any legal development against Trump as trigger for institutional Republican realignment."
     },
     {
       "id": "gt5",
-      "domain": "Middle-East-Stability",
-      "headline": "Houthi/Ansar Allah escalating strikes on Saudi Arabia infrastructure; 1B barrels transited Hormuz in recent months",
+      "domain": "US Domestic Politics",
+      "headline": "Multiple Drudge headlines indicate Republican candidate weakness in key races: Republicans tip-toeing from MAGA, Kansas enthusiasm fading, Texas ranchers testing loyalty over beef policy, Talarico leading by 6 points in unspecified race.",
       "significance": "HIGH",
-      "summary": "Ansar Allah conducted ballistic missile and drone attacks on Riyadh airport, fuel storage, and multiple Saudi cities. CENTCOM reports 1 billion barrels crude transited Hormuz in recent months. Yemeni conflict dynamics destabilizing regional energy security.",
-      "signal": "Energy price volatility risk; US Navy presence requirements sustain; Iran-backed militia escalation continuing; Saudi security dependency on US increases"
+      "summary": "Republican base is fracturing on specific policy issues (agricultural/ranching, immigration framing). MAGA movement showing mid-term fatigue or policy misalignment with traditional Republican constituencies. This suggests 2026 midterm cycle will see unexpected Democratic gains.",
+      "signal": "Trump administration faces internal GOP opposition on agricultural and trade policy. If this expands to foreign policy (Iran strikes causing gas price shock, military escalation), Republican voting coalition could collapse before 2028. Watch for agricultural/energy price shocks as political destabilizer."
     }
   ]
 }
