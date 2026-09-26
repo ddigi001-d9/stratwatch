@@ -1,166 +1,121 @@
 {
-  "generatedAt": "2026-09-25T15:42:00.119Z",
-  "runNumber": 134,
+  "generatedAt": "2026-09-26T14:49:51.594Z",
+  "runNumber": 135,
   "situation": {
-    "headline": "Converging domestic political vulnerability and foreign policy stress: Democrat surge in midterm polling, Fed rate pressure approaching 8% mortgages, and escalating Houthi attacks on Saudi allies signal a compressing window for US strategic credibility across multiple theaters simultaneously",
+    "headline": "Converging domestic political collapse and sovereign credit stress create a compounding vulnerability window ahead of November 2026 midterms, with lender confidence erosion and rapidly rising Treasury rates threatening to transform electoral liability into a systemic fiscal crisis",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 72,
+        "prob": 62,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Houthi attacks intensifying with allied coalition forming around Saudi Arabia, raising risk of direct US re-entanglement in Red Sea operations ahead of midterms"
+        "status": "Netanyahu domestic resistance intensifying per the Israeli blocking his agenda headline while Gaza and Iran vectors remain unresolved, raising near-term miscalculation risk"
       },
       {
         "name": "Indo-Pacific",
-        "prob": 38,
+        "prob": 45,
         "label": "China coercion escalation",
         "trajectory": "FLAT",
-        "status": "Context is thin but Trump publicly mocking Biden in front of Xi suggests an ongoing summit or diplomatic engagement that introduces unpredictable signaling risk; no immediate kinetic escalation indicators present"
+        "status": "Xi Summit described as long on pomp, short on progress signals no breakthrough but also no acute crisis trigger, leaving Taiwan Strait tension in holding pattern"
       },
       {
         "name": "Europe",
-        "prob": 18,
+        "prob": 28,
         "label": "NATO cohesion fracture",
-        "trajectory": "FLAT",
-        "status": "Graham Sanctions Act expanding Russia sanctions and tariff authorities signals Congress and executive are broadly aligned on Russia pressure, reducing near-term fracture risk; GDELT shows no European instability signals"
+        "trajectory": "DOWN",
+        "status": "Secret robot offensive killing 3,000 Russians and Moscow directing businesses to defend against drones suggests Ukraine battlefield pressure on Russia is real, reducing near-term pressure on NATO unity"
       },
       {
         "name": "Energy",
-        "prob": 34,
+        "prob": 38,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Oil at roughly $89.89, Houthi escalation threatening Saudi infrastructure, weakening China demand providing partial buffer, but Aramco reorganization and LNG storage moves by India suggest regional actors are hedging for disruption"
+        "status": "Cat 5 Polo threatening Mexico's Pacific coast landfall Monday creates immediate Gulf and offshore infrastructure disruption risk coinciding with Nor'easter hammering US Northeast energy demand"
       },
       {
         "name": "US Politics",
-        "prob": 61,
+        "prob": 78,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "Democrats at their biggest polling lead in the cycle, GOP firewall cracking in Florida, Trump forced to campaign in deep red Oklahoma and Alabama indicating defensive posture, and Kalshi showing Talarico defeating Paxton at 60% in Texas Senate race suggesting structural Democratic momentum"
+        "status": "Drudge aggregating 85 percent Democrat House takeover odds, sinking presidential approval, economic misery signaling, and antiwar veteran group spending millions all point to a high-probability Democratic House gain"
       }
     ],
-    "unseen": "The Graham Sanctions Act expanding both Russia sanctions and tariff authorities simultaneously is a sleeper development: it hands the executive branch a dual-use economic weapon that could be deployed against third-country energy buyers of Russian oil, particularly Indian and Chinese refiners, creating a pressure point that intersects the energy, Indo-Pacific, and Europe domains in ways that could rapidly shift oil price dynamics and alliance calculations without a single military move",
-    "criticalWindow": "The 60-90 day window before November 2026 midterms is the decisive pressure point: a Fed rate hike pushing mortgages toward 8%, continued Houthi escalation requiring visible US response, and any Cuban contingency action could each independently shift the electoral environment, but their convergence creates compounding political and strategic risk that adversaries may be timing operations around",
+    "unseen": "The simultaneous erosion of lender trust in US Treasuries and the hobbling of CDC institutional capacity represent a dual soft-power and hard-power degradation that foreign adversaries, particularly China, will exploit diplomatically in multilateral forums precisely during the governance vacuum a midterm House flip would create in early 2027",
+    "criticalWindow": "Cat 5 Polo landfall on Mexico's coast Monday creates a 72-hour window where a US humanitarian response decision either reinforces or further damages the strained bilateral relationship with Latin America at the exact moment MAGA influence in the region is under criminal investigation scrutiny",
     "watchFor": [
-      "Fed rate decision and any signal of another hike before November 2026 midterms, which would crystallize the 8% mortgage narrative as an electoral weapon",
-      "Houthi strike on Saudi Aramco infrastructure or allied naval asset, which would force a US military response decision days before or during the midterm campaign sprint",
-      "US military movement around Cuba materializing from the Drudge preview headline, which could dramatically reframe the foreign policy debate or be perceived as a manufactured distraction",
-      "Gavin Newsom price sliding on Kalshi while Jon Ossoff and AOC hold steady, suggesting Democratic market sentiment is migrating toward younger left-of-center candidates in a way that could reshape 2028 positioning and affect 2026 base mobilization strategy"
+      "Treasury 10-year yield breach of a new psychological threshold triggering a coordinated foreign sovereign bond selloff that forces emergency Fed action before November",
+      "Polo storm damage severity and US federal disaster response speed, which will directly test FEMA institutional capacity after reported CDC-style budget cuts to emergency agencies",
+      "Any Israeli military action against Iranian assets in the 30-day window while Netanyahu faces internal blocking, as domestic pressure historically accelerates external action",
+      "Kalshi movement on Jon Ossoff at 17 percent Democratic nomination price continuing to rise, which would signal smart money coalescing around a specific 2028 candidate and changing Democratic Party fundraising dynamics before the midterms even conclude"
     ],
-    "confidenceNote": "Key uncertainties are severe: the Indo-Pacific domain has essentially no signal in this context window beyond a single Trump-Xi interaction, making China escalation probability a baseline estimate; the Cuba military groundwork headline is unconfirmed and could be a trial balloon, disinformation, or genuine operational preparation; Democratic polling leads may not translate to seat flips given gerrymandering and turnout modeling gaps; and energy price estimates assume no black swan Houthi strike on Saudi oil infrastructure, which the current escalation trajectory makes non-trivial",
-    "topPattern": "A rare convergence of domestic electoral vulnerability, Fed-driven economic anxiety, and multi-theater military pressure is creating a strategic environment where adversaries including Houthis, Iran, and potentially China have strong incentive to probe US resolve before November 2026, while Kalshi markets pricing Ossoff and AOC each above 12-16% for 2028 Democratic nomination reflect a party in ideological transition that may struggle to present a coherent foreign policy deterrence posture during this critical window"
+    "confidenceNote": "GDELT global wire arrived empty across all theaters, forcing heavy reliance on Drudge headline aggregation which carries tabloid selection bias; prediction market open interest is high but 24-hour volume on most contracts is thin suggesting low-conviction positioning; the Xi Summit characterization comes from a single headline without underlying reporting; Treasury stress signals are directionally clear but magnitude is unquantifiable from available data",
+    "topPattern": "A mutually reinforcing doom loop is forming in which rising Treasury rates erode administration credibility, accelerating the midterm House flip probability now priced at 85 percent per cited forecasts, which then further unsettles bond markets anticipating fiscal gridlock, while Kalshi's J.D. Vance leading Republican 2028 nomination at 44 percent signals the party is already in post-Trump transition mode rather than governing mode, compounding the policy vacuum risk through at least January 2027"
   },
   "signals": [
     {
       "id": "sig1",
       "domain": "US Politics",
-      "headline": "Democratic polling surge contradicts midterm history; structural headwinds persist",
+      "headline": "Democratic 2028 nomination market shows Beshear surge; Newsom fade despite media prominence",
       "significance": "HIGH",
-      "summary": "Drudge reports Dems enjoy biggest lead yet in congressional race, yet simultaneously headlines warn of GOP momentum in Florida and Trump campaign activity in safe districts. Prediction markets show Newsom (13%) and Ossoff (17%) leading 2028 Democratic nom odds, with Harris collapsed to 7%. This suggests Democratic structural advantage masks fragmentation and lack of consensus heir apparent.",
-      "signal": "If Dems win decisively in midterms despite inflation/rate shock, incumbent administration gains legitimacy to pursue bold foreign policy (Ukraine aid, Taiwan posture, Cuba pressure). Conversely, if GOP holds or gains Senate, divided government constrains war powers and alliance coordination into 2028. Watch Senate control as proxy for post-midterm executive authority.",
-      "contradicts": "Media narrative of unified Democratic defense; markets price deep uncertainty about post-Biden Democratic direction",
-      "timestamp": "2026-09-25T15:44:17.619Z"
+      "summary": "Andy Beshear's nomination odds jumped 3 cents to 8% in 24h, highest among second-tier candidates. Gavin Newsom dropped 1 cent to 13% despite heavy media attention. Jon Ossoff and Alexandria Ocasio-Cortez hold 17% and 16% respectively—unconventional picks drawing steady volume.",
+      "signal": "Market is pricing in Biden administration weakness before midterms; governors (Beshear, Newsom) competitive but AOC/Ossoff youth appeal gaining traction. Suggests Democratic base fragmentation and lack of clear frontrunner despite Harris at only 7%.",
+      "contradicts": "Mainstream media narrative of Harris as presumptive heir; market sees open field",
+      "timestamp": "2026-09-26T14:52:24.055Z"
     },
     {
       "id": "sig2",
-      "domain": "Energy",
-      "headline": "Graham Sanctions Act signed; Russia energy revenue under fresh pressure ahead of winter",
-      "significance": "HIGH",
-      "summary": "Trump administration expands Russia sanctions authorities via Graham Act, targeting energy buyers. Oil prices slip to $89.89 (modest), and Saudi Aramco restructuring creates new gas unit. European heating season begins with tighter Russian supply access.",
-      "signal": "Sanctions escalation on Russia energy will drive EU energy costs higher through winter 2026-27, pressuring European political stability and NATO cohesion. May accelerate European energy independence (LNG, renewables) but creates 12-18 month vulnerability window. China demand outlook weakening per analysts; this reduces global oil support and may force production cuts by OPEC+.",
-      "contradicts": "Prior administration restraint; signals renewed Cold War energy weaponization by US",
-      "timestamp": "2026-09-25T15:44:17.619Z"
+      "domain": "US Politics",
+      "headline": "Recession 2027 odds collapse 4 cents to 22% amid storm, debt-ceiling, and Fed signal confusion",
+      "significance": "CRITICAL",
+      "summary": "Kalshi recession-2027 contract dropped from 26% to 22% in 24 hours despite Drudge headlines on 'lenders don't trust the US,' rapidly rising Treasury rates, and Nor'easter/hurricane damage. Economic headwinds contradicted by market compression.",
+      "signal": "Either markets front-loaded recession fears earlier or expect policy response (stimulus, rate cuts) to offset near-term shocks. If latter, signals anticipation of emergency Fed pivot despite inflation persistence. If former, suggests overconfidence in resilience.",
+      "contradicts": "Drudge's macro-pessimism framing; markets not pricing acute crisis probability despite supply shocks",
+      "timestamp": "2026-09-26T14:52:24.055Z"
     },
     {
       "id": "sig3",
-      "domain": "Middle East",
-      "headline": "Houthi attacks intensify; allied coalition tightens behind Saudi Arabia; UN walkout signals fracture",
-      "significance": "HIGH",
-      "summary": "Multiple wires report Houthis stepping up attacks on Saudi interests; allies publicly uniting in support. UN General Assembly 2026 saw walkout during Netanyahu speech with Middle East wars in spotlight. No major new escalation detail provided, but rhetorical/diplomatic coordination evident.",
-      "signal": "US faces choice between deeper Saudi security commitment (air defense, naval presence) or pivot toward Iran negotiation. Houthi persistence despite US backing suggests Yemen conflict stalemated, draining US regional resources and credibility. UN walkout indicates Global South defection on Israel consensus; complicates US coalition-building for wider Middle East strategy.",
-      "contradicts": "Assumption that Houthi threat has been contained; shows sustained pressure on US-Gulf axis",
-      "timestamp": "2026-09-25T15:44:17.619Z"
+      "domain": "Americas",
+      "headline": "J.D. Vance 44% general-election probability vs. 8% Beshear; 2028 Republican field narrowed to Vance",
+      "significance": "CRITICAL",
+      "summary": "J.D. Vance holds 44% Republican nomination odds (highest of any candidate, either party). General-election markets show Vance at 19% to win presidency, dwarfing all Democratic candidates individually (Harris 4%, Ossoff 12%, Newsom 9%).",
+      "signal": "Prediction markets are pricing a Vance coronation on GOP side, implying either Trump withdrawal/ineligibility risk or clear Trump endorsement of Vance as successor. Suggests base consolidation around Trump-aligned candidate and confidence in general-election viability.",
+      "contradicts": "Drudge framing of Republican malaise ('craptastic outlook,' 85% Dem House odds); markets see GOP 2028 pathway intact",
+      "timestamp": "2026-09-26T14:52:24.055Z"
     },
     {
       "id": "sig4",
-      "domain": "US Politics",
-      "headline": "Fed rate outlook drives mortgage to 8%; Trump-Biden friction on monetary policy visible; mid-cycle recession probability 23%",
+      "domain": "Technology",
+      "headline": "OpenAI 'hacks' Census, SEC data; Musk film censorship escalates platform content wars",
       "significance": "HIGH",
-      "summary": "Drudge warns 8% mortgages now inevitable; historical calamities tied to rapid rate rises; Prediction market prices 2027 recession at 23% and federal funds upper bound above 3.75% at 76% confidence by end 2027. Trump publicly critical of Fed/Biden policies.",
-      "signal": "If recession materializes in 2027 (pre-election cycle), incumbent advantage erodes sharply and anti-incumbent messaging dominates 2028 race. Markets pricing 4%+ terminal rates; this crushes real estate, consumer credit, and small business. Expect administration pressure on Fed Chair and possible populist or radical economic proposals from all 2028 candidates. Cuba sanctions and military preparations compete for budget with domestic economic relief.",
-      "contradicts": "Soft-landing narrative; implies hard economic shock entering 2028 election",
-      "timestamp": "2026-09-25T15:44:17.619Z"
+      "summary": "Drudge reports OpenAI accessing Census Bureau and SEC datasets without clear authorization, plus coordinated ad-rejection campaign against Musk-related film. Suggests major AI firm testing data-access boundaries and collusion on content moderation.",
+      "signal": "Indicates erosion of data-access norms and emerging informal cartelization of content moderation among platforms. If confirmed, creates regulatory vulnerability for Big Tech and opens antitrust flanking attack. Also signals Musk-OpenAI hostility now playing out in media/ad arena.",
+      "contradicts": "Industry claims of robust data governance and editorial independence",
+      "timestamp": "2026-09-26T14:52:24.055Z"
     },
     {
       "id": "sig5",
       "domain": "US Politics",
-      "headline": "Cuba military groundwork underway; Trump sanctions tightening; shipping routes remain vulnerable",
+      "headline": "White House blocks CNN from Air Force One trip; media access weaponization deepens",
       "significance": "MEDIUM",
-      "summary": "Drudge signals US military laying groundwork for potential action around Cuba. Trump administration tightening sanctions; shipping to Havana persists despite restrictions. Regime appears resilient but US preparing contingencies.",
-      "signal": "Military prep signals either deterrence posturing or contingency planning for regime crisis/migration surge. If Cuba destabilizes, forced migrant flows to Florida swing state become potent political liability. Watch for proxy naval incidents or Coast Guard enforcement escalation. Venezuela connection unclear from context but likely driver.",
-      "contradicts": "De-escalation trend; suggests renewed hard-line Cuba policy",
-      "timestamp": "2026-09-25T15:44:17.619Z"
+      "summary": "Direct exclusion of CNN from presidential travel pool reported by Drudge. Follows pattern of selective media access and signals escalation in White House media strategy ahead of election.",
+      "signal": "Indicates confidence in base loyalty despite polls and willingness to accept optics cost of media exclusion. May signal expectation of unfriendly coverage and defensive posture, or alternatively calculated escalation to energize supporters. Tests if media access denial sticks without legal challenge.",
+      "contradicts": null,
+      "timestamp": "2026-09-26T14:52:24.055Z"
     },
     {
       "id": "sig6",
-      "domain": "Technology",
-      "headline": "SpaceX Starship debris; Pope warns on 'paradise of machines' and human dignity",
+      "domain": "Americas",
+      "headline": "Brazil bans online gambling before election; Latin American regulatory tightening pattern emerges",
       "significance": "MEDIUM",
-      "summary": "Drudge flags SpaceX Starship orbital debris problem; Pope warns that machine-dependency threatens humanity. Symbolic and practical tensions emerging around commercial space expansion and tech acceleration.",
-      "signal": "Debris concerns create regulatory friction for US space industry leadership vs. international orbital-safety treaties (China, Russia leverage). Pope's messaging signals Vatican-aligned populations (Latin America, Africa, parts of Europe) growing skeptical of Silicon Valley techno-optimism; may embolden anti-American tech regulation. Geopolitically secondary but watch for Global South alignment against US tech hegemony.",
-      "contradicts": "Silicon Valley consensus; implies soft-power erosion on technology",
-      "timestamp": "2026-09-25T15:44:17.619Z"
+      "summary": "Brazil implements gambling ban ahead of elections, joins wave of emerging-market regulatory controls on digital finance. Colombia leader openly carries gun in criminal-contested city.",
+      "signal": "Suggests Latin American governments tightening control over informal/offshore financial flows before elections (gambling, remittances, crypto) and asserting security authority. May indicate fear of narco influence on elections or capital flight. Relevant to US visa/sanctions policy and regional stability calculus.",
+      "contradicts": null,
+      "timestamp": "2026-09-26T14:52:24.055Z"
     }
   ],
-  "scanNote": "Signal quality moderate: Drudge headlines lack quantified data; prediction markets show flat 24h deltas (low new information); GDELT regional wires repetitive; no breaking intelligence on Ukraine, Taiwan, or major ally crisis—suggests either stable baseline or pre-event quiet.",
+  "scanNote": "Signal quality moderate: Kalshi contracts show illiquidity on fringe candidates but clear consensus on Vance and recession skepticism. Drudge headlines sensationalist but headline aggregation reflects wire-service consensus. No real-time GDELT feed data limits regional/sectoral granularity.",
   "markets": [
-    {
-      "ticker": "KXFEDFUNDSYEAR-28JAN01-T3.75",
-      "label": "Fed Funds above 3.75% end-2027",
-      "domain": "US Politics",
-      "marketProb": 76,
-      "aiProb": 72,
-      "gap": -4,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Headlines flagging 8% mortgage inevitability and Fed confronting another rate increase signal sustained restrictive policy, but the market's 76% already prices this well; modest downward pressure from recession risk (23% Kalshi) keeps my estimate slightly below market.",
-      "volume24h": 5644,
-      "openInterest": 9975,
-      "priceChange24h": -2,
-      "url": "https://kalshi.com/markets/KXFEDFUNDSYEAR-28JAN01-T3.75"
-    },
-    {
-      "ticker": "KXRECSSNBER-27",
-      "label": "Recession in 2027",
-      "domain": "US Politics",
-      "marketProb": 23,
-      "aiProb": 28,
-      "gap": 5,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Rapid rate rises historically precede calamities per Drudge headlines, and oil at $89.89 adds cost pressure, but no acute financial stress signal in GDELT or PIZZINT warrants moving materially above the market's 23%.",
-      "volume24h": 4243,
-      "openInterest": 254932,
-      "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXRECSSNBER-27"
-    },
-    {
-      "ticker": "KXPRESNOMD-28-GN",
-      "label": "Gavin Newsom Dem nominee 2028",
-      "domain": "US Politics",
-      "marketProb": 13,
-      "aiProb": 10,
-      "gap": -3,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Newsom leads at 13% on Kalshi but with a 1-cent decline; Democratic structural weakness signaled by GOP Florida firewall cracks and Dem congressional lead suggests a fluid field, and Newsom carries California-brand liability in a national race.",
-      "volume24h": 29601,
-      "openInterest": 4579131,
-      "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
-    },
     {
       "ticker": "KXPRESNOMD-28-JOSS",
       "label": "Jon Ossoff Dem nominee 2028",
@@ -169,10 +124,10 @@
       "aiProb": 14,
       "gap": -3,
       "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Ossoff prices at 17% and is the single highest-volume individual nominee contract with massive open interest, suggesting genuine market conviction; his Georgia Senate positioning is strong but nominee odds still seem slightly overpriced given field breadth.",
-      "volume24h": 12034,
-      "openInterest": 4872888,
+      "confidence": "MEDIUM",
+      "rationale": "Ossoff leads the Dem nominee field at 17% on Kalshi with high OI, consistent with a post-midterm environment where the party is scanning for fresh Southern moderate faces, but his Senate seat vulnerability and low national profile cap realistic probability well below market price.",
+      "volume24h": 34429,
+      "openInterest": 4854781,
       "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
     },
@@ -181,125 +136,185 @@
       "label": "AOC Dem nominee 2028",
       "domain": "US Politics",
       "marketProb": 16,
-      "aiProb": 11,
-      "gap": -5,
+      "aiProb": 10,
+      "gap": -6,
       "favorable": false,
-      "confidence": "LOW",
-      "rationale": "At 16% with very high open interest, AOC represents the progressive wing's ceiling; the Dems' biggest congressional lead headline suggests an energized base, but her general-election ceiling caps realistic nominee probability below current market pricing.",
-      "volume24h": 11318,
-      "openInterest": 4689220,
+      "confidence": "MEDIUM",
+      "rationale": "At 16% market price with strong OI, AOC benefits from progressive energy and high name recognition, but Drudge signaling of an antiwar/progressive spending surge in midterms cuts both ways — energizes the base but risks general-election backlash in a cycle the context suggests is already punishment-oriented toward incumbents.",
+      "volume24h": 10539,
+      "openInterest": 4688654,
       "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
     },
     {
-      "ticker": "KXPRESNOMR-28-MR",
-      "label": "Marco Rubio GOP nominee 2028",
+      "ticker": "KXPRESNOMD-28-GN",
+      "label": "Gavin Newsom Dem nominee 2028",
       "domain": "US Politics",
-      "marketProb": 19,
-      "aiProb": 15,
-      "gap": -4,
+      "marketProb": 13,
+      "aiProb": 11,
+      "gap": -2,
       "favorable": false,
-      "confidence": "LOW",
-      "rationale": "Rubio at 19% is the top-priced non-Trump Republican; his role in Trump's current administration as a visible foreign policy face (Graham Sanctions Act context) boosts his profile, but JD Vance at 21% general-election win probability suggests Vance is the establishment successor-in-waiting.",
-      "volume24h": 4352,
-      "openInterest": 2487016,
+      "confidence": "MEDIUM",
+      "rationale": "Newsom at 13% is slipping (-1 cent 24h) despite high OI; his California brand is a liability in a midterm environment framed by economic misery and falling presidential approval, and his summit diplomacy adjacency to the unproductive Xi meeting adds no tailwind.",
+      "volume24h": 21144,
+      "openInterest": 4593870,
       "priceChange24h": -1,
-      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
     },
     {
       "ticker": "KXPRESPERSON-28-JVAN",
-      "label": "JD Vance wins presidency 2028",
+      "label": "J.D. Vance wins 2028 presidency",
       "domain": "US Politics",
-      "marketProb": 21,
-      "aiProb": 18,
-      "gap": -3,
+      "marketProb": 19,
+      "aiProb": 22,
+      "gap": 3,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Vance at 21% general-election win is the single highest individual price in the field and aligns with incumbent-party-successor dynamics; Trump campaigning in deep-red states signals MAGA machine consolidation around Vance as heir apparent, though Democratic congressional momentum is a headwind.",
-      "volume24h": 4268,
-      "openInterest": 2410793,
+      "rationale": "Vance at 19% to win the general and 44% to win the GOP nomination represents the clearest Republican succession path given Trump at only 2% to win again; in a midterm environment described as going 'craptastic' for Republicans, Vance's prospects are real but constrained by structural headwinds heading into 2028.",
+      "volume24h": 6424,
+      "openInterest": 2415023,
       "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXPRESPERSON-28-JVAN"
     },
     {
-      "ticker": "KXTXSENOUTCOME-27JAN-TALPAX",
-      "label": "Talarico defeats Paxton for TX Senate",
+      "ticker": "KXPRESNOMR-28-JDV",
+      "label": "J.D. Vance GOP nominee 2028",
       "domain": "US Politics",
-      "marketProb": 60,
-      "aiProb": 55,
-      "gap": -5,
+      "marketProb": 44,
+      "aiProb": 40,
+      "gap": -4,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "At 60% Kalshi price with moderate volume, the Paxton-loses scenario is plausible given Drudge signals of GOP Florida firewall cracks and broader Republican electoral vulnerability; Talarico's elevated profile across multiple Kalshi markets suggests coordinated bettor attention on him as a rising force.",
-      "volume24h": 4306,
-      "openInterest": 78146,
+      "rationale": "Vance is the dominant Republican contender at 44% market price with the deepest liquidity among GOP nominee contracts; his incumbency-adjacent positioning as the likely sitting VP gives him structural advantages, though Republican House losses in the midterms described in context could produce a fractured party field.",
+      "volume24h": 4094,
+      "openInterest": 1951838,
       "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXTXSENOUTCOME-27JAN-TALPAX"
+      "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
     },
     {
-      "ticker": "KXGREENLAND-29-27",
-      "label": "Trump buys Greenland before 2027",
+      "ticker": "KXPRESPERSON-28-MRUB",
+      "label": "Marco Rubio wins 2028 presidency",
+      "domain": "US Politics",
+      "marketProb": 10,
+      "aiProb": 7,
+      "gap": -3,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Rubio at 10% to win the presidency likely reflects his Secretary of State profile and Xi summit diplomatic activity, but the context gives no signal of a breakout moment and his path requires either defeating Vance in the primary or a Democratic nominee implosion.",
+      "volume24h": 5616,
+      "openInterest": 2403734,
+      "priceChange24h": 0,
+      "url": "https://kalshi.com/markets/KXPRESPERSON-28-MRUB"
+    },
+    {
+      "ticker": "KXRECSSNBER-27",
+      "label": "US recession in 2027",
+      "domain": "US Politics",
+      "marketProb": 22,
+      "aiProb": 28,
+      "gap": 6,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Market at 22% dropping 4 cents in 24 hours amid context headlines about lenders losing trust in US debt, rapidly rising treasury rates, and economic misery stinging ahead of midterms — STRATWATCH assesses the macro deterioration signals warrant a slightly higher probability than the market currently prices, though 2027 is a wide window.",
+      "volume24h": 8945,
+      "openInterest": 259748,
+      "priceChange24h": -4,
+      "url": "https://kalshi.com/markets/KXRECSSNBER-27"
+    },
+    {
+      "ticker": "KXPRESNOMD-28-AB",
+      "label": "Andy Beshear Dem nominee 2028",
+      "domain": "US Politics",
+      "marketProb": 8,
+      "aiProb": 6,
+      "gap": -2,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Beshear is the day's biggest mover (+3 cents to 8%) with high volume of 164K, a signal worth flagging as possible early positioning by insiders or a news catalyst not yet fully captured in the OSINT feeds; his moderate Kentucky governor profile fits a post-midterm Democratic recalibration narrative but his national infrastructure remains thin.",
+      "volume24h": 164560,
+      "openInterest": 4337402,
+      "priceChange24h": 3,
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AB"
+    },
+    {
+      "ticker": "KXCANSNAP-28JUL01-27JAN01",
+      "label": "Canada snap election before Jan 1 2027",
       "domain": "Americas",
-      "marketProb": 4,
-      "aiProb": 3,
-      "gap": -1,
+      "marketProb": 6,
+      "aiProb": 8,
+      "gap": 2,
+      "favorable": false,
+      "confidence": "LOW",
+      "rationale": "Dropping 3 cents to 6% with thin OI suggests the market is fading this scenario; no corroborating signals in the GDELT Americas wire or Drudge headlines, and Brazil's electoral activity dominates Americas political context, making a Canadian snap election before year-end 2026 unlikely.",
+      "volume24h": 5802,
+      "openInterest": 4802,
+      "priceChange24h": -3,
+      "url": "https://kalshi.com/markets/KXCANSNAP-28JUL01-27JAN01"
+    },
+    {
+      "ticker": "KXSTATE51-29-CU",
+      "label": "Cuba becomes 51st US state by Jan 2029",
+      "domain": "Americas",
+      "marketProb": 5,
+      "aiProb": 2,
+      "gap": -3,
       "favorable": false,
       "confidence": "HIGH",
-      "rationale": "No GDELT or PIZZINT signals indicate active Greenland negotiation progress; with the deadline before 2027 and no supporting intelligence, the market's 4% is already generous and STRATWATCH assesses this as effectively resolved negative.",
-      "volume24h": 4205,
-      "openInterest": 415179,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXGREENLAND-29-27"
+      "rationale": "Rising 2 cents to 5% likely reflects speculative noise or trolling activity; no credible policy pathway exists for Cuban statehood within the current term, and the context contains zero indicators of movement toward annexation diplomacy with Havana.",
+      "volume24h": 3559,
+      "openInterest": 102433,
+      "priceChange24h": 2,
+      "url": "https://kalshi.com/markets/KXSTATE51-29-CU"
     }
   ],
   "watchSignals": [
-    "Federal Reserve rate decision before midterms—market pricing 76% odds rates stay above 3.75% through 2027; rapid increases historically precede electoral backlash and recession risk (23% probability priced for 2027)",
-    "2028 Democratic primary crystallization—Newsom 13%, Ossoff 17%, AOC 16%, Beshear 5% in prediction markets suggest fragmented field; watch for consolidation around labor/progressive vs moderate lanes",
-    "GOP Florida 'firewall' collapse narrative—headlines cite 'hemorrhaging' and Dem congressional lead at historic high; monitor state-level polling and House seat vulnerability in FL-15, FL-27, FL-28",
-    "Trump campaign intensity in deep-red states (Oklahoma, Alabama)—signals either base consolidation anxiety or preparation for contested primary if legal jeopardy escalates; track rally attendance and RNC spending patterns",
-    "Middle East Houthi escalation backdrop—multi-source reports of Saudi allies uniting; US naval posture around Yemen and Red Sea shipping disruptions could necessitate policy signaling before election",
-    "Cuba sanctions enforcement gap—headline notes Trump sanctions 'fail to curb shipping to Havana'; watch for enforcement announcement or policy reversal that signals shift in Latin America positioning"
+    "Midterm election results (House control 85% Dem probability per Drudge) - test whether polling erosion translates to actual seat losses",
+    "Northeast nor'easter and Hawaii/Mexico hurricane landfall progression - humanitarian crisis scale and FEMA response adequacy; economic damage assessment",
+    "Treasury rate spike and lender confidence signal - monitor bond yields, credit spreads, and early recession probability (2027 recession at 22% on Kalshi)",
+    "Xi summit outcomes and follow-up diplomatic moves - assess whether US-China relations stabilize or deteriorate further after described 'short on progress' summit",
+    "White House media control escalation (CNN Air Force One blocking) - track expansion of press access restrictions and institutional norm erosion",
+    "2028 Democratic primary market consolidation - watch for Beshear/Newsom/Ossoff/AOC probability shifts as candidates declare or withdraw"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Economics",
-      "headline": "Mortgage rates approaching 8%; Fed confronts rate-hike prospect ahead of midterms",
-      "significance": "CRITICAL",
-      "summary": "Rapid mortgage rate climb (implied from headlines) creates headwind for incumbents. Historical pattern shows calamities when rates spike. Fed timing of next move before elections will directly influence voter sentiment on economy.",
-      "signal": "Democratic vulnerability on economic stewardship; potential GOP argument for pre-election policy restraint by central bank; recession probability at 23% for 2027 pricing suggests structural fragility"
+      "domain": "Domestic Politics",
+      "headline": "President's approval sinking, administration election plan reportedly in place despite adverse polling",
+      "significance": "HIGH",
+      "summary": "Multiple Drudge items signal cascading approval erosion and 'craptastic' outlook heading into midterms. Drudge reports WSJ piece on administration election plan proceeding, suggesting contingency positioning despite unfavorable macro conditions. This indicates acknowledgment of structural headwinds.",
+      "signal": "Administration faces potential House loss; governance capacity constrained; succession planning likely underway within Democratic apparatus"
     },
     {
       "id": "gt2",
-      "domain": "Domestic Politics",
-      "headline": "Prediction markets show fragmented 2028 Democratic field; Gavin Newsom 13% favorite among announced candidates",
-      "significance": "HIGH",
-      "summary": "No single Democrat commands 17% in primary odds. Ossoff, AOC, Newsom, and Beshear split progressive/moderate vote. Harris at only 7% indicates base skepticism of incumbent VP after current administration tenure.",
-      "signal": "Democratic Party faces protracted primary likely to damage eventual nominee; Republican consolidation around Trump (3% in markets) suggests nominee certainty but general-election weakness"
+      "domain": "Economics",
+      "headline": "Treasury yields spiking rapidly; lenders withdrawing trust; recession probability rising",
+      "significance": "CRITICAL",
+      "summary": "Drudge reports 'lenders don't trust the United States anymore' and cites historical precedent for calamities when treasury rates rise this rapidly. Kalshi 2027 recession contract at 22% probability (down 4¢ in 24h but elevated). This signals credit market stress transmission into real economy.",
+      "signal": "Potential fiscal crisis, constrained federal borrowing capacity, stagflationary pressure ahead of elections; US economic credibility under strain"
     },
     {
       "id": "gt3",
-      "domain": "Middle East / Energy",
-      "headline": "Allies unite behind Saudi Arabia as Houthis step up attacks; Graham Sanctions Act expands Russia energy sanctions",
+      "domain": "Natural Disasters / Infrastructure",
+      "headline": "Multi-theater severe weather: nor'easter on US Northeast coast, Category 5 hurricane threatening Mexico, historic deluge in Hawaii",
       "significance": "HIGH",
-      "summary": "Multi-source GDELT coverage indicates sustained Houthi maritime threat to regional shipping and US ally posture. Concurrent Graham Act targeting Russia energy buyers signals administration doubling down on dual containment (Russia + Iran-aligned actors).",
-      "signal": "US commitment to Saudi Arabia deepens; potential for Red Sea crisis to spike oil prices and damage US inflation narrative pre-midterms; energy sanctions complexity increases risk of unintended market disruption"
+      "summary": "New York and New Jersey declare states of emergency; thousands without power. Hurricane Polo Cat 5 landfall Monday (Mexico). Hawaii experiencing potentially historic multiday rainfall. Cascading regional emergency declarations and critical infrastructure stress.",
+      "signal": "FEMA stretched across multiple theaters; potential supply chain disruption; humanitarian assistance demands; political accountability for disaster response; insurance/reinsurance market stress"
     },
     {
       "id": "gt4",
-      "domain": "Domestic Politics",
-      "headline": "Democrats report biggest congressional lead yet in race for House; GOP firewall in Florida cracking",
+      "domain": "US-China Relations",
+      "headline": "Xi summit concludes with described 'long on pomp, short on progress'",
       "significance": "HIGH",
-      "summary": "Headline narrative suggests momentum shift toward Democrats in generic ballot and state-level races. Florida, traditionally GOP stronghold, now showing vulnerability. Timing coincides with rate-hike anxiety and potential recession priors.",
-      "signal": "Midterm environment may favor Democrats; GOP structural advantage in Senate/gerrymandering may not offset national popular sentiment; Trump rallies in safe states suggest defensive posture"
+      "summary": "High-level US-China summit produced ceremonial outcomes without substantive breakthrough. Suggests both sides maintaining posture without de-escalation or deal framework advancement. Indicates sustained structural competition.",
+      "signal": "No near-term relief on Taiwan, South China Sea, or technology competition vectors; continue expecting escalatory cycle; market skepticism on US-China thaw justified"
     },
     {
       "id": "gt5",
-      "domain": "Strategic Technology / Space",
-      "headline": "SpaceX Starship operations generating orbital debris; Pope warns against machine paradise undermining humanity",
-      "significance": "CRITICAL",
-      "summary": "Rapid commercial space launch cadence (Starship) creating recognized collision/debris risk; religious/philosophical pushback on technology acceleration gaining institutional voice. Signals emerging sovereignty/ethics friction over space commercialization.",
-      "signal": "Space debris will force US-China coordination or unilateral debris mitigation; regulatory pressure building on commercial launch providers; geopolitical leverage point if debris crisis triggers treaty renegotiation"
+      "domain": "Institutional Integrity / Free Speech",
+      "headline": "White House blocks CNN from Air Force One; social media platforms rejecting paid ads for film critical of administration figure; content suppression expanding",
+      "significance": "HIGH",
+      "summary": "Media access restriction coupled with apparent platform-level advertising rejection for anti-administration content signals coordinated or pressure-driven censorship patterns. Drudge reports 'shocking censorship' of Musk film and platform ad rejections.",
+      "signal": "Erosion of press freedom norms; institutional drift toward authoritarian information control; credibility damage to democratic institutions; future political retaliation risk"
     }
   ]
 }
