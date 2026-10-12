@@ -1,290 +1,290 @@
 {
-  "generatedAt": "2026-10-11T16:28:49.033Z",
-  "runNumber": 149,
+  "generatedAt": "2026-10-12T20:04:39.005Z",
+  "runNumber": 150,
   "situation": {
-    "headline": "Hormuz corridor under sustained kinetic pressure with US retaliation consideration live, threatening simultaneous energy shock and wider regional war on Day 225 of an unspecified Gulf conflict",
+    "headline": "Houthi missile strikes reaching Riyadh signal Gulf War Day 226 escalation threatening global energy infrastructure and Saudi regime stability, with cascading implications for US force posture and alliance commitments across CENTCOM",
     "velocity": "ACCELERATING",
     "domains": [
       {
         "name": "Middle East",
-        "prob": 78,
+        "prob": 87,
         "label": "regional escalation 90d",
         "trajectory": "UP",
-        "status": "Repeated tanker strikes, a mass-casualty attack at a Saudi airport, and active US retaliation deliberations signal the conflict is expanding beyond its current theater toward a broader Gulf war scenario."
+        "status": "Houthi strikes on Riyadh and Saudi Crown Prince sheltering in bunkers represent a qualitative escalation beyond Red Sea harassment into direct regime-threatening power projection, forcing Washington to choose between deeper involvement and alliance credibility loss."
       },
       {
         "name": "Indo-Pacific",
-        "prob": 42,
+        "prob": 41,
         "label": "China coercion escalation",
-        "trajectory": "UP",
-        "status": "Taiwan National Day speech by Lai explicitly invoking Indo-Pacific democracies for support, combined with US labeling Chinese actions deeply destabilizing, indicates cross-strait tension is rising toward a potential coercive demonstration window, especially if US assets are drawn toward the Gulf."
+        "trajectory": "FLAT",
+        "status": "Context provides no direct Indo-Pacific signals; US resource diversion toward Middle East and domestic political turbulence likely emboldens opportunistic Chinese pressure on Taiwan Strait and South China Sea, but no imminent crisis indicator present."
       },
       {
         "name": "Europe",
-        "prob": 31,
+        "prob": 38,
         "label": "NATO cohesion fracture",
         "trajectory": "UP",
-        "status": "Trump publicly calling for Zelensky removal is a direct fracture line with European NATO members; Greece friction over Guilfoyle adds transatlantic irritants at an already stressed moment."
+        "status": "French bond turmoil raising contagion specters threatens eurozone fiscal stability at the same moment NATO demands sustained Ukraine support, creating a dangerous scissors effect between financial capacity and security commitments."
       },
       {
         "name": "Energy",
-        "prob": 67,
+        "prob": 72,
         "label": "supply shock 60d",
         "trajectory": "UP",
-        "status": "Increasing Hormuz assaults and a confirmed additional tanker hit create compounding chokepoint risk; even partial Hormuz disruption would constitute a structural supply shock within 30-45 days."
+        "status": "Houthi missiles reaching Riyadh directly threaten Saudi oil infrastructure and MBS regime continuity; any strike on Aramco facilities or royal compound would trigger an immediate global supply shock dwarfing 2019 Abqaiq attack."
       },
       {
         "name": "US Politics",
-        "prob": 38,
+        "prob": 68,
         "label": "House flip Nov 2026",
         "trajectory": "UP",
-        "status": "A GOP-aligned poll showing Talarico winning in Texas, former Republican governors backing a Democrat in Kansas, and a Kalshi market showing Paxton-beats-Talarico dropping 4 cents in 24 hours all point toward an erosion of Republican structural advantages heading into midterms."
+        "status": "Kalshi markets at 60-85 percent Democratic House takeover probability, Trump approval at 30 percent, and mounting GOP concerns about their own conduct create a midterm environment structurally worse for Republicans than 2018, with trade war manufacturing pain as the economic accelerant."
       }
     ],
-    "unseen": "The simultaneous pressure on Hormuz and China's coercive posture around Taiwan represents a two-theater stress test the US military is not postured to handle concurrently at full intensity; Beijing may be timing assertive moves precisely because US naval and diplomatic bandwidth is being consumed by the Gulf, and prediction markets have not yet priced a Taiwan contingency premium into any US political or security contracts.",
-    "criticalWindow": "The next 30-45 days are decisive on Hormuz: if the US executes retaliatory strikes, Iran or its proxies face a binary choice of de-escalation or full chokepoint closure, which would trigger an energy price shock large enough to reshape the November 2026 electoral environment and force emergency NATO consultations simultaneously.",
+    "unseen": "The convergence of Saudi regime instability, French fiscal contagion, a 30-percent Trump approval rating, and prediction markets pricing 63 percent impeachment odds before January 2029 creates a synchronized legitimacy crisis across Western anchor states; adversaries including Iran, Russia, and China are almost certainly war-gaming coordinated pressure while US executive attention is fractured between domestic legal warfare against political opponents, a Middle East escalation, and pre-midterm political survival mode — the window for opportunistic aggression is wider than any single-domain analyst is tracking.",
+    "criticalWindow": "The next 30-60 days surrounding Saudi Arabia: if Houthi strikes damage Aramco infrastructure or force MBS into open negotiation with Iran-backed forces, the regional security architecture underpinning US Gulf strategy since 1991 begins to unravel simultaneously with US domestic political paralysis ahead of midterms, leaving no credible US deterrent response.",
     "watchFor": [
-      "US military strike authorization against Hormuz attackers or proxy infrastructure, which would cross from deterrence to direct Gulf war participation",
-      "Chinese naval or air incursion into Taiwan ADIZ or surrounding waters timed to the Gulf distraction window, potentially testing whether US carrier strike groups are available to respond",
-      "Brent crude breaking above a critical threshold triggering mandatory Strategic Petroleum Reserve drawdown deliberations or allied coordination calls",
-      "Talarico Texas Senate poll numbers hardening or the Paxton-Talarico Kalshi contract dropping further, signaling a genuine bellwether flip that would reframe House 2026 modeling"
+      "Saudi Aramco facility strike or confirmed bunker protocol activation by MBS indicating regime believes attack on oil infrastructure is imminent",
+      "French sovereign bond spread crossing 150 basis points over German bunds, triggering ECB emergency intervention and fracturing EU fiscal solidarity at a moment of peak Ukraine funding demand",
+      "Federal charges or indictment stemming from the Ilhan Omar pre-dawn raid expanding into broader Congressional targeting pattern, accelerating Democratic turnout mobilization and further hardening 2026 House odds against Republicans",
+      "RFK Jr. 2028 run announcement reaching 38 percent on Kalshi combined with AOC nomination contract ticking up to 14 percent, signaling Democratic field fragmentation that could paradoxically boost Republican 2028 prospects despite current midterm weakness"
     ],
-    "confidenceNote": "Context is heavily weighted toward Drudge headline curation which may over-represent dramatic developments; the specific nature and identity of the Gulf conflict belligerents on Day 225 is not fully specified in the context, limiting precision on escalation pathways; prediction market open interest is very large relative to 24-hour volume suggesting most positions are stale rather than reactive to today's news, reducing their signal value on fast-moving events.",
-    "topPattern": "A deliberate or opportunistic two-front stress test is emerging where Hormuz kinetic escalation consumes US strategic attention and naval posture just as Taiwan's Lai makes maximally assertive National Day statements and China is labeled deeply destabilizing by Washington; Kalshi shows no corresponding spike in any US political volatility contract, suggesting markets have not yet connected Gulf war participation risk to domestic political disruption, which is itself a mispricing opportunity and an analytic warning sign."
+    "confidenceNote": "Critical uncertainties include: the actual evidentiary basis and political motivation behind the Omar raid which could be prosecutorial overreach or legitimate criminality and each has drastically different downstream effects; whether Houthi Riyadh strike reports reflect genuine deep-strike capability or propaganda inflation; the reliability of a 30 percent Trump approval figure which varies widely by pollster methodology; and the degree to which French bond stress reflects a transient sentiment move versus structural solvency concern — all four uncertainties could shift the strategic picture materially within the assessment window.",
+    "topPattern": "A 30 percent presidential approval rating, 63 percent impeachment probability on Kalshi, an 85 percent Democratic House takeover signal, simultaneous federal raids on a sitting congresswoman, and Houthi missiles reaching the Saudi capital on War Day 226 collectively describe a US government entering a period of maximum internal distraction precisely when the Middle East energy architecture faces its most serious kinetic threat since 2019 — adversaries holding patient positions in the Indo-Pacific and Eastern Europe are watching the clock."
   },
   "signals": [
     {
       "id": "sig1",
-      "domain": "Middle East",
-      "headline": "Saudi airport attack with 12 killed, hundreds injured; USA considering retaliation",
-      "significance": "CRITICAL",
-      "summary": "Attack on Saudi infrastructure during escalating Hormuz maritime assaults and tanker strikes. Pentagon raising official US troop death toll suggests ongoing regional instability. US retaliation consideration signals potential direct military escalation.",
-      "signal": "Regional proxy conflict (likely Houthi-Iran nexus) now threatens core Saudi economic assets and draws explicit US retaliatory planning. Indicates threshold crossing from attrition to direct US intervention may be imminent.",
-      "contradicts": "Assumption of contained regional conflict; signals US tolerance for regional instability may have limits",
-      "timestamp": "2026-10-11T16:30:53.434Z"
+      "domain": "US Politics",
+      "headline": "Ilhan Omar federal raid amid ongoing criminal probe",
+      "significance": "HIGH",
+      "summary": "FBI conducted pre-dawn search of Rep. Omar's residence as part of active criminal investigation. Described as longtime Trump nemesis, suggesting potential political dimensions. Federal warrant execution indicates investigation has crossed threshold requiring judicial authorization.",
+      "signal": "Signals potential high-profile corruption case or foreign-agent investigation targeting sitting House member. If charges materialize, could destabilize Democratic caucus and alter 2026 House dynamics already showing 85% Dem takeover probability in markets.",
+      "contradicts": "Omar's political standing as progressive icon; markets currently price Dems at 85% to take House majority, suggesting voter appetite for change despite Omar vulnerability",
+      "timestamp": "2026-10-12T20:06:55.197Z"
     },
     {
       "id": "sig2",
-      "domain": "Indo-Pacific",
-      "headline": "Taiwan Lai frames defense buildup as non-provocative; calls Indo-Pacific democracies to maintain peace",
-      "significance": "HIGH",
-      "summary": "Taiwan president explicitly reframing military modernization as defensive, not aggressive. Coordinated messaging with US characterization of Chinese actions as 'deeply destabilising.' Super Micro contractor plea on chip diversion to China signals active IC concern over critical semiconductor supply chain compromise.",
-      "signal": "Taiwan is managing escalation narrative carefully while IC flags active Chinese tech theft—suggests window for miscalculation remains open despite diplomatic framing. US alliance cohesion in Indo-Pacific being tested by dual threat of military and economic pressure.",
-      "contradicts": "Assumption that Taiwan and US messaging on Chinese threat is unified; reveals underlying anxiety about allied perception management",
-      "timestamp": "2026-10-11T16:30:53.434Z"
+      "domain": "US Politics",
+      "headline": "Impeachment probability at 63% before Jan 20, 2029; 22nd Amendment repeal odds spike to 12%",
+      "significance": "CRITICAL",
+      "summary": "Kalshi impeachment contract shows 63% probability of presidential impeachment by end of term. Separate contract on 22nd Amendment repeal jumped 3 cents in 24h to 12%, suggesting elevated discussion of constitutional limits. Both reflect high-tension governance environment.",
+      "signal": "Markets pricing in material risk of constitutional crisis or severe executive-legislative conflict within current administration. Amendment repeal discussion gaining traction despite extreme historical implausibility indicates rhetorical shift among aligned actors. Impeachment price reflects GOP Senate control vulnerability.",
+      "contradicts": "Stability assumptions; markets are explicitly pricing institutional breakdown scenarios as non-negligible",
+      "timestamp": "2026-10-12T20:06:55.197Z"
     },
     {
       "id": "sig3",
-      "domain": "US Politics",
-      "headline": "Prediction market: impeachment before Jan 20, 2029 priced at 64%; Insurrection Act invocation priced at 16% (up 3 cents)",
+      "domain": "Middle East",
+      "headline": "Saudi Crown Prince moving between bunkers; Houthis demonstrate strike capability on Riyadh",
       "significance": "HIGH",
-      "summary": "Kalshi markets assign 64% probability to presidential impeachment within 13 months; Insurrection Act invocation climbed to 16% (3-cent uptick signals recent event sensitivity). Jon Ossoff (17%), J.D. Vance (42% for GOP nom, 20% to win), Marco Rubio (18% GOP nom, 9% to win) top 2028 fields.",
-      "signal": "Market participants assigning substantial near-term institutional crisis risk. Insurrection Act uptick reflects concern over emergency executive powers. Presidential impeachment probability suggests market-priced anticipation of congressional conflict or constitutional crisis.",
-      "contradicts": "Assumption of political stability through 2029; markets are pricing severe institutional friction",
-      "timestamp": "2026-10-11T16:30:53.434Z"
+      "summary": "Crown Prince Al-Saud reportedly relocating to guarded palaces with bunker facilities following Houthi missile strikes on capital. Phrase 'shaken Saudis' reflects psychological impact of demonstrated Iranian-proxy ability to strike core regime assets. Day 226 of conflict underscores sustained threat.",
+      "signal": "Indicates escalating Houthi-Saudi direct conflict with potential for Saudi strategic recalibration. If regime feels threatened, could trigger broader regional escalation, GCC fracturing, or shift in US-Saudi alignment on Iran policy. Air defense gaps exposed.",
+      "contradicts": "Post-Abraham Accords narrative of stable Saudi-led regional order; bunker movement signals loss of confidence in air defense architecture",
+      "timestamp": "2026-10-12T20:06:55.197Z"
     },
     {
       "id": "sig4",
       "domain": "US Politics",
-      "headline": "Drudge reports Kamala Harris's husband opposes her 2028 presidential run; Harris 2028 nom priced at only 8%",
+      "headline": "Trump approval drops to 30% (Pew); Musk spends $366M to keep Republicans in control",
       "significance": "HIGH",
-      "summary": "Domestic intelligence (via Drudge) of internal Harris family opposition to 2028 candidacy aligns with prediction market pricing at 8% (down 1 cent in 24h). Contrast: Gavin Newsom at 14% nom (9% to win), Ossoff at 17% nom (12% to win).",
-      "signal": "Senior Democratic figure effectively taken off 2028 board by domestic circumstances; succession narrative now centers on California (Newsom), Georgia (Ossoff), or fresh faces. Signals Democratic Party instability and potential for 'open' 2028 primary.",
-      "contradicts": "Assumption of Harris remaining viable 2028 nominee; markets and domestic reporting now aligned on her withdrawal",
-      "timestamp": "2026-10-11T16:30:53.434Z"
+      "summary": "Trump approval at multi-year low of 30% per Pew survey while Musk mega-donation aims to shore up GOP House control. Disconnect between elite capital deployment and mass approval suggests oligarchic intervention compensating for base erosion or swing-voter defection.",
+      "signal": "Signals potential structural realignment where Republican electoral prospects increasingly depend on billionaire-class funding rather than organic voter enthusiasm. Approval floor at 30% creates ceiling for GOP expansion; Musk spending may indicate private intelligence showing House/Senate vulnerability despite market confidence.",
+      "contradicts": "Republican confidence in 2026 midterms; markets show Dems at 85% to take Senate but 60%+ approval for GOP House retention",
+      "timestamp": "2026-10-12T20:06:55.197Z"
     },
     {
       "id": "sig5",
-      "domain": "US Politics",
-      "headline": "DOJ targets TV networks; deleted tweets of new White House Press Secretary surface; GOP-aligned poll shows Talarico winning Texas Senate race",
-      "significance": "HIGH",
-      "summary": "DOJ pressure on media outlets signals shift in press-executive relations. Press Secretary vetting reveals prior social-media exposure. Texas Senate market (Paxton vs. Talarico) shows Talarico 38% GOP win prob—contradicts prior expectations of Republican dominance in red state.",
-      "signal": "Executive-press friction and personnel vetting transparency suggest internal instability. Texas race market signal (Talarico competitive) indicates potential erosion of GOP margin in 2026 midterms or 2028 Senate map. Former Republican governors backing Democrats in Kansas adds to trend.",
-      "contradicts": "Assumption of stable Republican advantage in red-state Senate races; market prices suggest Democratic competitive gains",
-      "timestamp": "2026-10-11T16:30:53.434Z"
+      "domain": "Americas",
+      "headline": "US military presence in Ecuador questioned; Air Force Major in solitary confinement for impeachment calls",
+      "significance": "MEDIUM",
+      "summary": "Headline queries undisclosed US military deployment to Ecuador concurrent with media coverage of Air Force Major held 24/7 in solitary for impeachment advocacy. Suggests civil-military tensions over policy and chain-of-command loyalty. Ecuador presence unresolved in public narrative.",
+      "signal": "Indicates potential fracturing of military officer corps on constitutional-deference grounds. Ecuador deployment context unclear but geo-relevant to drug/security competition with China-aligned actors. Disciplinary action against dissenting officer signals loyalty enforcement.",
+      "contradicts": "Assumption of apolitical military; solitary confinement for speech suggests politicization of UCMJ enforcement",
+      "timestamp": "2026-10-12T20:06:55.197Z"
     },
     {
       "id": "sig6",
-      "domain": "Technology",
-      "headline": "Super Micro contractor pleads guilty to scheme diverting AI servers with Nvidia chips to China",
+      "domain": "US Politics",
+      "headline": "2028 Democratic nominee markets show fragmentation; Gavin Newsom at 13%, Jon Ossoff at 16%, Alexandria Ocasio-Cortez at 14%",
       "significance": "MEDIUM",
-      "summary": "Active supply-chain infiltration of advanced AI compute directed at China. Contractor-level compromise suggests insider threat depth beyond corporate espionage. Aligns with Taiwan-related IC concerns over semiconductor dominance.",
-      "signal": "US AI/compute leadership is being actively compromised at supply chain level. Chinese acquisition of Nvidia-grade silicon outside legal channels undermines US technological superiority assumption and accelerates PRC AI capabilities.",
-      "contradicts": "Assumption that export controls and supply-chain restrictions are intact; active diversion networks are operational",
-      "timestamp": "2026-10-11T16:30:53.434Z"
+      "summary": "No Democratic frontrunner commands 20% in 2028 nominee markets. Newsom, Ossoff, and AOC clustered in low teens while Michelle Obama sits at 1% and Kamala Harris at 7%. Fragmentation suggests weakness in institutional party alignment or unresolved succession dispute.",
+      "signal": "Indicates Democratic Party lacks clear heir-apparent despite Biden coalition victory. AOC's 14% price suggests progressive base mobilization risk; Ossoff's 16% reflects Georgia Democratic energy. Fragmentation could advantage centrist or unknown candidate in brokered scenario. Contrast with JD Vance at 21% for GOP shows Republican consolidation advantage.",
+      "contradicts": "Assumption of Democratic establishment coalescing behind moderate choice; markets show genuine three-way split",
+      "timestamp": "2026-10-12T20:06:55.197Z"
     }
   ],
-  "scanNote": "Signal quality hampered by Drudge aggregate format and headline-only GDELT; prediction markets provide highest confidence (Kalshi). Middle East and Indo-Pacific domains show acute escalation risk; US domestic political signals (impeachment 64%, Harris withdrawal) indicate structural institutional stress.",
+  "scanNote": "Signal quality degraded by Drudge headline sensationalism and heavy tabloid content; Kalshi market data reliable as price discovery mechanism; geopolitical reporting thin in GDELT feed, limiting regional depth assessment.",
   "markets": [
     {
       "ticker": "KXIMPEACH-29-JAN20",
       "label": "Trump impeached before Jan 20 2029",
       "domain": "US Politics",
-      "marketProb": 64,
-      "aiProb": 22,
-      "gap": -42,
+      "marketProb": 63,
+      "aiProb": 35,
+      "gap": -28,
       "favorable": true,
       "confidence": "MEDIUM",
-      "rationale": "Market at 64% appears significantly overpriced; despite DOJ targeting media, Trump backstabbing Ukraine, and domestic political turbulence, Republicans control the House and impeachment requires a majority there, making resolution unlikely absent a dramatic shift in congressional composition after 2026 midterms.",
-      "volume24h": 8626,
-      "openInterest": 219248,
+      "rationale": "Market prices this at 63%, which appears inflated; despite 30% approval, an Omar raid, and Air Force officer in solitary, Republicans still control the House per the intel and Johnson vows to stay leader even if they lose, making conviction essentially impossible before 2029 and impeachment passage uncertain without a Democratic House takeover.",
+      "volume24h": 11288,
+      "openInterest": 223665,
       "priceChange24h": 0,
       "url": "https://kalshi.com/markets/KXIMPEACH-29-JAN20"
     },
     {
       "ticker": "KXINSURRECTION-29-27",
-      "label": "Trump invokes Insurrection Act before Jan 1 2027",
+      "label": "Trump invokes Insurrection Act before 2027",
+      "domain": "US Politics",
+      "marketProb": 19,
+      "aiProb": 22,
+      "gap": 3,
+      "favorable": false,
+      "confidence": "MEDIUM",
+      "rationale": "Rising two cents to 19% amid signals of aggressive federal law enforcement use (fake cell towers, pre-dawn raids, military officer in solitary), suggesting market is appropriately pricing escalating executive action but a formal Insurrection Act declaration before 2027 remains unlikely without a clear domestic crisis trigger.",
+      "volume24h": 5249,
+      "openInterest": 138090,
+      "priceChange24h": 2,
+      "url": "https://kalshi.com/markets/KXINSURRECTION-29-27"
+    },
+    {
+      "ticker": "KXAMEND22-29-JAN01",
+      "label": "22nd Amendment repealed or reinterpreted by Jan 2029",
+      "domain": "US Politics",
+      "marketProb": 12,
+      "aiProb": 4,
+      "gap": -8,
+      "favorable": false,
+      "confidence": "HIGH",
+      "rationale": "The three-cent jump to 12% appears driven by Trump approval collapse to 30% fueling speculative noise rather than any credible legislative or judicial pathway; constitutional amendment requires two-thirds of Congress and three-fourths of states, making resolution by Jan 2029 functionally impossible.",
+      "volume24h": 7332,
+      "openInterest": 101759,
+      "priceChange24h": 3,
+      "url": "https://kalshi.com/markets/KXAMEND22-29-JAN01"
+    },
+    {
+      "ticker": "KXPRESNOMD-28-JOSS",
+      "label": "Jon Ossoff Dem nominee 2028",
       "domain": "US Politics",
       "marketProb": 16,
       "aiProb": 12,
       "gap": -4,
       "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "Drudge signals of elected officials living in fear, DOJ targeting TV networks, and domestic unrest elevate the tail risk slightly, but the 16% market price already embeds a modest premium and the administration has not moved in this direction despite multiple provocations.",
-      "volume24h": 2699,
-      "openInterest": 132928,
-      "priceChange24h": 3,
-      "url": "https://kalshi.com/markets/KXINSURRECTION-29-27"
-    },
-    {
-      "ticker": "KXTXSENOUTCOME-27JAN-PAXTAL",
-      "label": "Paxton wins GOP nom AND general in TX Senate Jan 2027",
-      "domain": "US Politics",
-      "marketProb": 38,
-      "aiProb": 32,
-      "gap": -6,
-      "favorable": false,
-      "confidence": "MEDIUM",
-      "rationale": "A GOP-aligned poll showing Talarico winning and the market dropping 4 cents on this contract in 24 hours signals genuine Democratic competitiveness in Texas, undercutting the combined probability of Paxton winning the primary and the general; 38% market price looks slightly rich.",
-      "volume24h": 3636,
-      "openInterest": 161904,
-      "priceChange24h": -4,
-      "url": "https://kalshi.com/markets/KXTXSENOUTCOME-27JAN-PAXTAL"
-    },
-    {
-      "ticker": "KXPRESNOMD-28-JOSS",
-      "label": "Jon Ossoff wins 2028 Dem presidential nomination",
-      "domain": "Americas",
-      "marketProb": 17,
-      "aiProb": 10,
-      "gap": -7,
-      "favorable": false,
       "confidence": "LOW",
-      "rationale": "Ossoff leads the Dem nomination field at 17% on Kalshi, but the field is extremely fragmented and three years out; his Georgia Senate seat is competitive and his national profile remains thin, making double-digit nomination odds generous at this stage.",
-      "volume24h": 22737,
-      "openInterest": 4964088,
-      "priceChange24h": 0,
+      "rationale": "At 16% and the highest-volume individual Dem nominee contract, Ossoff benefits from Trump's 30% approval and a 60-85% chance of Democrats taking the Senate, which would elevate his profile, but the field remains extremely fragmented and three years of political volatility creates enormous uncertainty.",
+      "volume24h": 27138,
+      "openInterest": 4985768,
+      "priceChange24h": -1,
       "url": "https://kalshi.com/markets/KXPRESNOMD-28-JOSS"
     },
     {
-      "ticker": "KXPRESNOMD-28-GN",
-      "label": "Gavin Newsom wins 2028 Dem presidential nomination",
-      "domain": "Americas",
+      "ticker": "KXPRESNOMD-28-AOC",
+      "label": "AOC Dem nominee 2028",
+      "domain": "US Politics",
       "marketProb": 14,
-      "aiProb": 11,
-      "gap": -3,
+      "aiProb": 10,
+      "gap": -4,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "SoCal weather disasters, mosquito infestations, and ongoing California governance challenges visible in the headlines create headwinds for Newsom's national brand; the 1-cent uptick in 24 hours is noise, and his nomination odds at 14% appear slightly elevated given his California baggage in a national general.",
-      "volume24h": 10816,
-      "openInterest": 4724224,
+      "rationale": "One-cent uptick to 14% may reflect progressive energy amid Dem opposition narratives, but AOC faces significant electability concerns in a general election environment and the party is more likely to nominate a centrist given the political dynamics signaled by Ossoff and Newsom contract volumes.",
+      "volume24h": 9057,
+      "openInterest": 4764814,
       "priceChange24h": 1,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-GN"
+      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
     },
     {
       "ticker": "KXPRESNOMR-28-JDV",
-      "label": "JD Vance wins 2028 GOP presidential nomination",
-      "domain": "Americas",
+      "label": "JD Vance GOP nominee 2028",
+      "domain": "US Politics",
       "marketProb": 42,
-      "aiProb": 38,
-      "gap": -4,
+      "aiProb": 35,
+      "gap": -7,
       "favorable": false,
       "confidence": "MEDIUM",
-      "rationale": "Vance as sitting VP is the structural frontrunner for the GOP nomination if Trump does not seek an unconstitutional third term; the 42% market price is close to fair value, with the main downside risk being a Republican primary challenger emerging from a post-Trump realignment.",
-      "volume24h": 2752,
-      "openInterest": 2030922,
+      "rationale": "At 42% and slipping one cent, Vance remains the frontrunner for the Republican nomination but Trump's 30% approval and trade war damage to manufacturers heading into midterms creates vulnerability for the incumbent-aligned candidate, with Rubio gaining two cents to 18% as an alternative.",
+      "volume24h": 5525,
+      "openInterest": 2031680,
       "priceChange24h": -1,
       "url": "https://kalshi.com/markets/KXPRESNOMR-28-JDV"
     },
     {
-      "ticker": "KXPRESNOMR-28-MR",
-      "label": "Marco Rubio wins 2028 GOP presidential nomination",
-      "domain": "Americas",
-      "marketProb": 18,
-      "aiProb": 14,
-      "gap": -4,
+      "ticker": "KXPRESRUN-28-28NOV07-RFKJ",
+      "label": "RFK Jr announces 2028 presidential run",
+      "domain": "US Politics",
+      "marketProb": 38,
+      "aiProb": 30,
+      "gap": -8,
       "favorable": false,
       "confidence": "LOW",
-      "rationale": "Rubio at 18% on Kalshi is a plausible VP alternative if Vance stumbles, and his role managing Hormuz-area Middle East diplomacy keeps him visible, but he faces the same structural disadvantage as any non-incumbent VP candidate against Vance.",
-      "volume24h": 12630,
-      "openInterest": 2570842,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMR-28-MR"
+      "rationale": "The dramatic 38-cent single-day surge to 38% signals a breaking news catalyst not yet visible in the headlines, possibly linked to his current administration positioning creating a political split; the magnitude of the move warrants attention but the contract's very low open interest of 1,678 suggests thin liquidity and possible manipulation or a single large bet.",
+      "volume24h": 3053,
+      "openInterest": 1678,
+      "priceChange24h": 38,
+      "url": "https://kalshi.com/markets/KXPRESRUN-28-28NOV07-RFKJ"
     },
     {
-      "ticker": "KXPRESNOMD-28-AOC",
-      "label": "AOC wins 2028 Dem presidential nomination",
-      "domain": "Americas",
-      "marketProb": 13,
-      "aiProb": 9,
-      "gap": -4,
-      "favorable": false,
-      "confidence": "LOW",
-      "rationale": "AOC at 13% reflects progressive energy and high name recognition but the Democratic establishment's demonstrated preference for electable centrists in competitive cycles, combined with her ideological positioning, makes double-digit nomination odds appear moderately overpriced.",
-      "volume24h": 4848,
-      "openInterest": 4757819,
-      "priceChange24h": 0,
-      "url": "https://kalshi.com/markets/KXPRESNOMD-28-AOC"
+      "ticker": "KXOHSENGOVCOMBO-26NOV-DEMDEM",
+      "label": "Dems win Ohio Gov and Senate 2026",
+      "domain": "US Politics",
+      "marketProb": 61,
+      "aiProb": 45,
+      "gap": -16,
+      "favorable": true,
+      "confidence": "MEDIUM",
+      "rationale": "An eight-cent surge to 61% is consistent with broader Drudge context showing 60-85% Democratic Senate takeover odds and Trump trade war damage to Midwestern manufacturers, though Ohio remains a challenging state for Democrats and the combined probability of winning both races introduces meaningful compounding risk.",
+      "volume24h": 3059,
+      "openInterest": 14193,
+      "priceChange24h": 8,
+      "url": "https://kalshi.com/markets/KXOHSENGOVCOMBO-26NOV-DEMDEM"
     }
   ],
   "watchSignals": [
-    "Hormuz/tanker attack escalation and US retaliation decision — direct Iran-US conflict risk within 14 days",
-    "Impeachment market at 64% before Jan 20 2029 — watch House/Senate procedural moves and Trump statements for triggers",
-    "Taiwan strait military posturing — Lai's National Day calls for Indo-Pacific support and Chinese response intensity",
-    "2028 Democratic nominee clarity — Newsom (14%), Ossoff (17%), and AOC (13%) positioning; Harris collapsed to 8%",
-    "Texas Senate race (Paxton vs Talarico) GOP nominee outcome — Kalshi shows Paxton-then-Republican-win at 38%, down 4 cents, suggests tightening",
-    "DOJ targeting TV networks narrative — institutional conflict signals and potential press freedom implications escalating"
+    "Omar federal raid developments and criminal probe scope - signals potential high-profile domestic legal/political upheaval affecting House Dem stability",
+    "Impeachment market at 63% probability before Jan 20 2029 - suggests sustained institutional stress or scandal trajectory expected by markets",
+    "Middle East escalation: Saudi Crown Prince moving to guarded bunkers, Houthi missile strikes on Riyadh - indicators of regional conflict expansion affecting US Gulf strategy and oil markets",
+    "Democratic 2028 nominee market fragmentation (Newsom 13%, Ossoff 16%, AOC 14%, Warnock 2%) with Michelle Obama at 1% - signals deep uncertainty in party direction and no clear succession emerging",
+    "JD Vance Republican nomination at 42% probability with J.D. Vance general election odds at 21% - markets pricing elevated Trump-adjacent succession scenario",
+    "RFK Jr. 2028 presidential announcement probability jumped to 38% in 24h (+38 cents) - signals emerging third-party/independent candidacy risk not previously priced"
   ],
   "groundTruth": [
     {
       "id": "gt1",
-      "domain": "Middle East / Energy",
-      "headline": "Saudi airport attack (12 killed, hundreds injured) and ongoing Hormuz tanker strikes indicate sustained Iranian-aligned pressure campaign in Gulf",
+      "domain": "Domestic Politics",
+      "headline": "Trump approval has collapsed to 30% per Pew; Musk spent $366M to preserve Republican House control",
       "significance": "CRITICAL",
-      "summary": "Multiple headlines indicate intensifying maritime and infrastructure attacks in Persian Gulf theater. Pentagon casualty toll rising. US decision on retaliation imminent.",
-      "signal": "Direct threat to global energy markets, US military posture, and potential for escalatory cycle into wider regional conflict"
+      "summary": "Historically low approval rating during Trump presidency indicates eroding core support. Massive Musk spending to hold House suggests Republican vulnerability despite controlling executive branch. Combined with Omar raid and military discipline cases, signals institutional stress.",
+      "signal": "Fragile GOP House majority dependent on outside money; internal party discipline fracturing (military officer solitary confinement case); opposition consolidating for 2026 midterms"
     },
     {
       "id": "gt2",
-      "domain": "Indo-Pacific / Taiwan",
-      "headline": "Taiwan President Lai's National Day speech explicitly calls for Indo-Pacific democracies to help maintain peace and defend freedom against Chinese actions described as deeply destabilizing",
-      "significance": "HIGH",
-      "summary": "Taiwan executive framing military defense as non-provocative while seeking coalition support. Simultaneous US warning on Chinese actions. Super Micro contractor guilty plea on AI chip diversion to China adds supply-chain security dimension.",
-      "signal": "US faces pressure to operationalize Taiwan defense commitment; Chinese military posturing likely to continue; AI/semiconductor competition embedded in security threat"
+      "domain": "Middle East",
+      "headline": "Houthis conducting sustained missile strikes on Saudi Arabia; Crown Prince relocating to bunker palaces; Saudi security shaken",
+      "significance": "CRITICAL",
+      "summary": "Yemen-based Houthi proxy demonstrating air strike capability against hardened Saudi targets. Saudi leadership forced into defensive posture. Indicates Iranian-backed threat capability expansion in strategic Gulf region.",
+      "signal": "US regional deterrence credibility under test; potential for oil market disruption; Saudi Arabia seeking reassurance of US commitment; risk of tit-for-tat escalation cycle"
     },
     {
       "id": "gt3",
-      "domain": "Domestic Politics / Elections",
-      "headline": "2028 Democratic nominee market shows Harris (8% nominee, 4% general) collapsed; Newsom (14% nominee), Ossoff (17%), AOC (13%) now leading; Republican side shows J.D. Vance (42% nominee) and Marco Rubio (18% nominee) as clear favorites",
+      "domain": "Elections 2028",
+      "headline": "Democratic field highly fractured with no frontrunner; Newsom, Ossoff, AOC all 13-16%; Harris nomination odds collapsed to 7%",
       "significance": "HIGH",
-      "summary": "Harris's withdrawal from 2028 race reportedly driven by spouse resistance (per headline). Prediction markets have repriced Democratic field heavily toward second-tier governors and progressives. Republican field consolidating around Trump-era successors.",
-      "signal": "Democratic Party lacks clear frontrunner; 2028 race increasingly open and ideologically fragmented; Vance positioned as Trump heir apparent on GOP side"
+      "summary": "Democratic Party lacks clear succession candidate after Biden administration. Multiple regional/generational factions represented. Harris declining suggests primary will be contested and potentially divisive.",
+      "signal": "Democratic Party faces 2028 vulnerable without unity candidate; opens door for Republican consolidation; potential for primary damage before general election"
     },
     {
       "id": "gt4",
-      "domain": "Domestic Politics / Institutional",
-      "headline": "Impeachment contract trades at 64% probability before Jan 20 2029; Trump statements about crowd approval and deleted White House press secretary tweets signal ongoing institutional friction",
+      "domain": "Institutional Integrity",
+      "headline": "Air Force major calling for Trump impeachment placed in 24/7 solitary confinement; Catholic Archbishop opposes military firing squads; federal raids on political figures ongoing",
       "significance": "HIGH",
-      "summary": "Market signals high expectation of presidential impeachment within 26 months. Drudge headlines suggest political polarization, DOJ targeting media, and internal White House personnel turbulence.",
-      "signal": "US governance stability under stress; partisan conflict likely to intensify; media landscape under federal pressure"
+      "summary": "Multiple indicators of internal military/institutional discipline tensions. Dissent being suppressed or isolated. Military-religious leadership expressing constitutional concerns. Pattern suggests pressure on traditional civil-military norms.",
+      "signal": "Risk of military institutional degradation and morale issues; constitutional guardrails under pressure; potential for broader officer corps resistance if escalates"
     },
     {
       "id": "gt5",
-      "domain": "Domestic Politics / State-level",
-      "headline": "Texas Senate race (Paxton vs Talarico) GOP nominee+general outcome priced at 38%, down 4 cents; separate Drudge headline notes GOP poll shows Talarico winning and former Republican governors backing Democrat in Kansas Senate",
+      "domain": "Markets & Economy",
+      "headline": "Musk now richer than any American in history; tech sector volatility (Tesla cybertruck 13% of goal, Getty bankruptcy filing); trade war impacts on manufacturers before midterms",
       "significance": "HIGH",
-      "summary": "Senate-level Republicans facing internal defection and challenger momentum in traditionally safe seats. Market movement suggests erosion of GOP confidence in Texas outcome.",
-      "signal": "2026 Senate map may be tighter than historical patterns suggest; GOP base/establishment fracture visible in key states"
+      "summary": "Extreme wealth concentration at apex. Tech sector underperformance despite market narrative. Trump trade policies creating manufacturing headwinds ahead of critical 2026 elections.",
+      "signal": "Economic inequality structural factor in voter sentiment; tech sector narrative diverging from reality; tariff policy creating vulnerable campaign issue for Republicans in manufacturing states"
     }
   ]
 }
